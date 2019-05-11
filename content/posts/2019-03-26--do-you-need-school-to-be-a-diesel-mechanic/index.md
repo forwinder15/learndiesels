@@ -4,9 +4,8 @@ category: "How Tos"
 cover: 2017-271_CareersTechBanners_v01_0.jpg
 author: Johnathan Coker
 ---
-![test](./yoda-1024x681.webp)
+![test](./school.jpeg)
 
-## "Do, or do not. There is no try”. – Yoda
 
 Diesel mechanics are in huge demand. With this demand the wages have been steadily rising. Now is a great time to get into the industry. This article will show you a few paths to becoming a diesel mechanic. 
 
