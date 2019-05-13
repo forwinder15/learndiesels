@@ -78,4 +78,4 @@ White smoke can be difficult to diagnose but, if you follow the signs and look a
 Yes. If the fuel is contaminated with water or some other foreign material it is possible that it will produce white smoke. The best way to test the fuel is to pull the filter and put it in a clear glass. Wait a few minutes and see if there is any separation. 
 
 ####Can air in fuel cause white smoke?
-Yes. This is another common cause of white smoke. Check all the lines and injector supply lines to see if there is anything loose. 
+Yes. This is another common cause of white smoke. Check all the lines and injector supply lines to see if there is anything loose. Air can pass through any lose connections. Especially in todays high pressure systems, you need to make sure that its all tight and sealed.
