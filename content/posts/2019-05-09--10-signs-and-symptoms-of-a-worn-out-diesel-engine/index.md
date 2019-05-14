@@ -1,5 +1,5 @@
 ---
-title: 10 signs and symptoms of a worn-out diesel engine
+title: 10 Signs And Symptoms Of A Worn-Out Diesel Engine
 category: "Diagnosing Problems"
 cover: re.jpg
 author: Johnathan Coker

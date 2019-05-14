@@ -1,5 +1,5 @@
 ---
-title: Dyed diesel vs regular (Fines, Warranty, stains and more) 
+title: Dyed Diesel vs Regular (Fines, Warranty, Stains and More) 
 category: "Diagnosing Problems"
 cover: tank.jpg
 author: Johnathan Coker
