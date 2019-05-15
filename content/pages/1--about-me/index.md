@@ -2,10 +2,13 @@
 title: About Us
 ---
 
-Howdy fellow grease monkey, I’m Johnathan. Thanks for visiting learn diesels!
+##Howdy fellow grease monkey, I’m Johnathan. Thanks for visiting learn diesels!
 
-So I first started working on diesels when I was 18. I got super lucky and landed a mechanic trainee job at southeastern freight lines. 
+![me](memechanic.png)
 
+
+
+So, I first started working on diesels when I was 18. I got super lucky and landed a mechanic trainee job at southeastern freight lines. I worked there for 6 years and then ended up at the city of  Clearwater working on Fire apparatus and heavy equipment since 2012. I want to share the lessons I have learned being a diesel mechanic and managing. 
 
 So, with that dream in mind, I’ve set up this website to support my toy habit while writing about something I am passionate about. My aim is to pass on some tips and advice that I have picked up over the years of wrenching and offer it to you in the form of a helpful, informative and entertaining diesel website. I also like to be able to provide mechanics of all levels from around the world a place to interact.
 
