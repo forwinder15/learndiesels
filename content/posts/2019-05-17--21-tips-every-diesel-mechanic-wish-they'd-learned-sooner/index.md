@@ -131,7 +131,7 @@ Often overlooked is the confusing and sometimes hilarious driver story. So, they
 
 The drivers at one place I worked always liked to tell the mechanics that they had it made. To this I would always reply, **The only way my job would be easier is if I had a steering wheel to hold**.  But, with that said, there in some truth in those stories if you know what to listen for.
 
-Don’t just dismiss everything they say just because their annoying. Listen for ques to help you fix it. I they say it won’t pull. That could be lots of things but if you’ve heard it before you know to check the turbo clamps intercooler for leaks and so forth. 
+Don’t just dismiss everything they say just because their annoying. Listen for info to help you fix it. If they say it won’t pull. That could be lots of things but if you’ve heard it before you know to check the turbo clamps intercooler for leaks and so forth. 
 
 This really just takes time and experience but don’t just dismiss everything they tell you. You can find out a lot for the guy who spends hours in the cab.
 
