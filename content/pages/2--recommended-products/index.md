@@ -3,7 +3,7 @@ title: Stuff We Like
 menuTitle: Stuff We Like
 ---
 
-Recommendations to come...
+[![tools](tools1.jpeg)](/tools)
 
 If you want to be informed about new content on the blog follow me on Twitter - [@johncokerdev](https://twitter.com/johncokerdev).
 
