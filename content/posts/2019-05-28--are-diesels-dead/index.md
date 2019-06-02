@@ -1,6 +1,6 @@
 ---
 title: Are Diesels Dead? (Phasing out? Good career? Smart purchase?)
-category: "Diagnosing Problems"
+category: "Common Questions"
 cover: tesla.jpg
 author: Johnathan Coker
 ---
@@ -89,7 +89,7 @@ Yes! It is a great idea. The diesel industry needs good people to join in the ma
 
 ###-	**Job availability**
  
-At the time of writing this Indeed is showing [13,536]( https://www.indeed.com/q-Diesel-Mechanic-jobs.html) open positions at the time of writing this and of course not all employers post their job opening on Indeed. This is a huge amount of jobs all over the country! It seems like if there is a shop there is an opening. 
+At the time of writing this Indeed is showing [13,536]( https://www.indeed.com/q-Diesel-Mechanic-jobs.html) open positions and of course not all employers post their job opening on Indeed. This is a huge amount of jobs all over the country! It seems like if there is a shop there is an opening. 
 
 [The Bureau of Labor Statistics]( https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm)
  (BLS) has estimated that no fewer than 35,000 diesel mechanic jobs will have been added to the field by 2020, leading to a total of at least 277,400 being available in the United States by 2020.

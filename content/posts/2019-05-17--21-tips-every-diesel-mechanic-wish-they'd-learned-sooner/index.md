@@ -1,6 +1,6 @@
 ---
 title: 21 Tips Every Diesel Mechanic Wish They’d Learned Sooner
-category: "Diagnosing Problems"
+category: "How Tos"
 cover: mech2.jpg
 author: Johnathan Coker
 ---

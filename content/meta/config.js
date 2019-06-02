@@ -5,7 +5,7 @@ module.exports = {
     "A website for Learning how to become a diesel mechanic and common questions when learning",
   siteUrl: "https://learndiesels.com",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "hero-background.png",
   siteLanguage: "en",
 
   /* author */

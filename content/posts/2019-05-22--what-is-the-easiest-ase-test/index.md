@@ -1,6 +1,6 @@
 ---
 title: What Is the Easiest ASE Test?
-category: "Diagnosing Problems"
+category: "Common Questions"
 cover: hand.jpg
 author: Johnathan Coker
 ---
