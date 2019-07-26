@@ -19,6 +19,10 @@ Spotting blue smoke can be difficult if you don't know what to look for. The "bl
 
 I have seen some dismiss it as normal. **No amount of blue smoke is normal.** A new engine may burn oil without any evidence of blue smoke because of the good compression it can burn oil cleanly. However, it is not acceptable for any engine to burn large amounts of lubricating oil.
 
+A great thing to do as a preventive for your diesel engine is a oil and fuel additive. Check out [This stuff (link to amazon)](https://amzn.to/30RdaDo) it is the best in my opinion. 
+
+Let's take a closer look at what blue smoke could really mean and where to start the hunt fot the issue. 
+
 
 ![engine](./engine.gif)
 
