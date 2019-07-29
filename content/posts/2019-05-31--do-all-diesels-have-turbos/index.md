@@ -16,6 +16,7 @@ Do all diesels have turbos? **No. There are diesels that are Naturally aspirated
 While not all diesels have a turbo. All modern diesels do. It is given that a diesel will have a turbo in today’s market. They provide the modern diesel with a high level of efficiently. 
 A naturally aspirated diesel engine simply does not have the power needed for many of the demand that is needed in today’s vehicles. Let’s talk about why a diesel needs a turbo in the first place and get into how it works.
 
+
 ##A brief history 
 
 The first running diesel engine was created in 1895. That was before the first turbo was invented. They were meant to replace the steam engine. They were no very efficient.  
@@ -27,7 +28,7 @@ Like many other things war helped the advancement of this technology. World war 
 The joining of these two technologies changed the future for the diesel engine and made it possible to be used in many new applications and achieve many great things for the world. 
 
 
-##Naturally what?
+##Naturally what? 🧐
 
 Naturally aspirated just means that the engine takes in air at whatever the atmospheric pressure is. That is the dormant air around the engine. There is no kind of induction system. The engine simply pulls in the air from around it. 
 
