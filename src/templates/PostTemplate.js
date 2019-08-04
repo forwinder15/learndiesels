@@ -25,6 +25,7 @@ const PostTemplate = props => {
       <ThemeContext.Consumer>
         {theme => (
           <Article theme={theme}>
+
             <Post
               post={post}
               next={next}
