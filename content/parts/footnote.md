@@ -4,5 +4,5 @@ title: footnote
 
 * Thank you for visiting!
 * built by [Johnathan Coker](https://johnatahncoker.com)
-* connect [twiiter](https://twitter.com/johncokerdev)
+* connect [twitter](https://twitter.com/johncokerdev)
 * [Legal](/legal)

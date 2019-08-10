@@ -1,10 +1,11 @@
 ---
-title: Stuff We Like 
+title:
 menuTitle: Stuff We Like
 ---
 
-[![tools](tools1.jpeg)](/tools)
+[![tools](tools.PNG)](/tools)
 
-If you want to be informed about new content on the blog follow me on Twitter - [@johncokerdev](https://twitter.com/johncokerdev).
+[![gear](gear.PNG)](/gear)
 
-Are you thinking about a particular subject, relating to the starters, I could write about? Tweet me.
+
+
