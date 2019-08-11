@@ -39,14 +39,6 @@ const Seo = props => {
         name="twitter:creator"
         content={config.authorTwitterAccount ? config.authorTwitterAccount : ""}
       />
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
-      <script>
-        {`
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-5803401366409112",
-          enable_page_level_ads: true
-     }); `}
-      </script>
     </Helmet>
   );
 };

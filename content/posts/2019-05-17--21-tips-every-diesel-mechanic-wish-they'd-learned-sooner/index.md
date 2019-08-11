@@ -5,7 +5,8 @@ cover: mech2.jpg
 author: Johnathan Coker
 ---
 
-![unsplash.com](./mech2.jpg)
+
+<iframe src="https://www.youtube.com/embed/SSrXZD9qYGs" width="600" height="400"></iframe>
 
 
 I wanted to put together a list of help for that struggling mechanic out there. Sometimes even after years of turning wrenches there are tips and tricks that the old man in your shop just never shared. 

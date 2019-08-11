@@ -10,8 +10,8 @@ author: Johnathan Coker
 
 In the diesel world there are many scenarios where the engine will just need to idle a while. Whether you are doing a monthly inspection on a generator or a trucker waiting for your load, there are a lot of situations where you will be at idle. 
 
-
 So, I wanted to write a little about what the consequences of that are, how much it costs and if there are reasons why you should avoid it. 
+
 
 
 ##1. How much fuel am I wasting?
