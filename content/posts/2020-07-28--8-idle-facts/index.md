@@ -1,6 +1,6 @@
 ---
 title: 8 Crazy Facts About Diesel Idle
-category: "diagnosing problems"
+category: "Diagnosing problems"
 cover: crazy1.PNG
 author: Johnathan Coker
 ---

@@ -1,6 +1,6 @@
 ---
 title: Are Snap On Tools Worth It? 
-category: "recommended products"
+category: "Recommended products"
 cover: money.jpg
 author: Johnathan Coker
 ---
