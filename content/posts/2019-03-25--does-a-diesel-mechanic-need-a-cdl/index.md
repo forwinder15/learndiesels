@@ -45,8 +45,6 @@ Why haven't you got it yet? 😉 This should be an easy decision. It benefits bo
 
 Basically, ***Should I get it myself?*** This one is tough. I was lucky enough to work for a place that had a trainer and I was able to get mine and get paid for it. Not everyone is so lucky. I would say if you really want it go for it! I would always let the shop manager know. You never know what they might do. You might be the only one who ever asked. 
 
-![test](./cdl-license.jpg)
-
 ###You are not yet hired and just getting started
 
 I would probably not. Unless you had easy access to get it and it really wasn't a big deal for you. I say that because you need to be focused on finding a good apprenticeship or going through school. A CDL is not important enough to distract yourself with. You need to stay the course and get hired. 

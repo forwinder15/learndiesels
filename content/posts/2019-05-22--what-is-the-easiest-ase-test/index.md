@@ -39,6 +39,9 @@ A rear wheel drive car is pulling to left when the brakes are applied. Technicia
 
 -	Answer D is wrong. Technician A is correct.
 
+Here is a link to the study guide for brakes on Amazon -[T4 Brakes guide](https://www.amazon.com/gp/product/1111129002/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129002&linkCode=as2&tag=learndiesels-20&linkId=b4b25624f4e489bc5a147b40f7f9923b)- Everyone is different though so you may have more success on another test. This is all the guides, [ASE study guide Bundle](https://www.amazon.com/gp/product/1934855448/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934855448&linkCode=as2&tag=learndiesels-20&linkId=e574a887d540ec05fc635a914986cc5d) for some help getting started.
+
+
  
 
 ##P1 – Medium-Heavy Truck Parts Specialist 
@@ -74,6 +77,8 @@ ____
 
 ##T7 or A7 – Heating, Ventilation & Air Conditioning (HVAC)
 Air conditioning is another test I believe to be a little on the easier side. This test will include 50 questions and will include an array of questions ranging from pressures to temperature. If you have a solid understanding about the fundamentals of HVAC, you should not struggle with this one. 
+
+[T8 AC guide on Amazon](https://www.amazon.com/gp/product/1111129037/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129037&linkCode=as2&tag=learndiesels-20&linkId=76f415bb31d70fe9860c823a37c7a01a).
 
 It is a good idea to go over the principles and correct readings before diving into this one. You should know how expansion valves and orifice tubes work as well as what an evaporator and condenser do. Have the fundamentals nailed down and you will ace this test. 
 
