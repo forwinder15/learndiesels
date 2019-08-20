@@ -6,3 +6,4 @@ title: footnote
 * built by [Johnathan Coker](https://johnatahncoker.com)
 * connect [twitter](https://twitter.com/johncokerdev)
 * [Legal](/legal)
+* [Privacy Policy](/privacy)
