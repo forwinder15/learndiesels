@@ -1,6 +1,6 @@
 ---
 title: Best 10 Ratchets For The Professional Mechanic
-category: "Product Recommendations"
+category: "Recommended Products"
 cover: bestra.PNG
 author: Johnathan Coker
 ---
