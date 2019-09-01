@@ -10,7 +10,7 @@ author: Johnathan Coker
 
 This is a great question. Some people would accuse you of being lazy, but the truth is you need to start somewhere and having a couple of wins early on will give you the encouragement you need to keep going and trying until you get that master! Even if you work for a place that pays for a couple they are great to have and make you more likely to land a better wrenching gig.  
 
-What is the easiest ASE test? **T4/A4: brakes, P1: Heavy Truck Parts Specialist or T7/A7: Heating, Ventilation & Air Conditioning are the easiest tests to pass. They have the highest amount of common since questions compared to the others.**
+What is the easiest ASE test? **T4/A4: brakes, P1: Heavy Truck Parts Specialist or T7/A7: Heating, Ventilation & Air Conditioning are the easiest tests to pass. They have the highest amount of common sinse questions compared to the others.**
 
 ASE tests are no walk in the park overall and you need a good understanding of the ones I have mentioned, but in **my opinion** and of others I have talked with, these tests were the easiest to pass. Let’s have a look at these tests and let me show you why I choose these particular tests.
 
