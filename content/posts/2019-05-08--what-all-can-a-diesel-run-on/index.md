@@ -2,7 +2,7 @@
 title: What can a diesel engine run on? (Kerosene, Used Oil, Vegetable Oil, Gasoline)
 category: "Common Questions"
 cover: de.jpeg
-author: Todd Phillips
+author: Johnathan Coker
 ---
 
 ![unsplash.com](./de.jpeg)
