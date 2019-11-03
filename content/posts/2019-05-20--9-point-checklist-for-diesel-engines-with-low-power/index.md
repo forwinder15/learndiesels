@@ -125,4 +125,4 @@ The last place I want the problem to happen would be in the internal engine.  Pr
 
 ##Note: You may have more than one problem
 If you found an issue and fixed it and when you got back out on the road and it still didn’t have the power, it needed you may need to get back in there and go back to diagnostics. It is very common in my experience to have more than one issue causing low power. Do not be surprised if you find a loose clamp **and** a missing injector. 
-A lot of times a smaller issue won’t be noticed until a diamino effect happens and **two or even three** things happen effecting your power from the engine. Keep this in mind when you are diagnosing the problem with your engine. 
+A lot of times a smaller issue won’t be noticed until a domino effect happens and **two or even three** things happen effecting your power from the engine. Keep this in mind when you are diagnosing the problem with your engine. 

@@ -54,7 +54,7 @@ Check it out [Here](https://www.google.com/search?ei=mtC3XIuaFovcswXHn764Dw&q=di
 
 ###2. Cat or Ring Power in Florida - Service Apprentice Technician
 
-**Not all Cat dealers are created equell. If you are in the main part of Florida then Ring power is it. CAT is another apprenticeship opportunity. These can be quite competitive. That should not discourage you from going for it. Just think of some things that make you stand out for others. If you can't think of anything be the nicest guy they interview.** 
+**Not all Cat dealers are created equal. If you are in the main part of Florida then Ring power is it. CAT is another apprenticeship opportunity. These can be quite competitive. That should not discourage you from going for it. Just think of some things that make you stand out for others. If you can't think of anything be the nicest guy they interview.** 
 
 POSITION SUMMARY
 
@@ -71,7 +71,7 @@ QUALIFICATIONS
 
 `PAY: 14 - 17 an Hour`   
 
-CHeck it out [Here](https://www.google.com/search?q=cat+diesel+mechanic+apprenticeship&ibp=htl;jobs#fpstate=tldetail&htidocid=zzsNxHau1n625E0HAAAAAA%3D%3D&htivrt=jobs)
+Check it out [Here](https://www.google.com/search?q=cat+diesel+mechanic+apprenticeship&ibp=htl;jobs#fpstate=tldetail&htidocid=zzsNxHau1n625E0HAAAAAA%3D%3D&htivrt=jobs)
 
 ###3. Cummins TAP program - Technician Apprentice Program
 

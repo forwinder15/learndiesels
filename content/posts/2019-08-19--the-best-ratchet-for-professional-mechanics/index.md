@@ -8,7 +8,7 @@ author: Johnathan Coker
 ![best ratchet](./bestra.PNG)
 
 
-Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone else’s will not do. You need your favorite. The one that has got you through thick and thin. 
+Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone elses will not do. You need your favorite. The one that has got you through thick and thin. 
 
 I have 10 3/8 ratchets and I use one. My favorite. This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic. 
 
@@ -56,7 +56,7 @@ Let’s take a look at the top 10 ratchets for a professional mechanic
 
 Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bees ‘knees. 
 
-I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/31IuSJA)
+I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B)
 
 ###The Specs
 
@@ -74,7 +74,7 @@ I would recommend these things all day, but the proof is in the pudding as they 
 
 Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. The one knock I have is they don’t seem to last as long for me. I have to get them replaced once a year. Not to shabby considering its full time use but others are better. 
 
-[Check out the latest price on Amazon](https://amzn.to/2z8kv5s)
+[Check out the latest price on Amazon](https://amzn.to/34tI7PA)
 
 ###The Specs
 
@@ -93,7 +93,7 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 While Snap-on quality is really good this list is compiled by value for money. Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
 
 
-[Check out the latest price on Amazon](https://amzn.to/33KKlL6)
+[Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
 
 ###The Specs
 
@@ -149,7 +149,7 @@ I have always been hard on Craftsman. Calling it ***Crapsman*** and such 😆. I
 
 I plan on buying one in the next few days to give it a full review. I will update as I have more information. From just holding one and messing around with it, I would say I will give it a shot and see how it goes. 
 
-[Check out the latest price on Amazon](https://amzn.to/2KKyjKo)
+[Check out the latest price on Amazon](https://amzn.to/34B7wHx)
 
 ###The Specs
 
@@ -186,9 +186,9 @@ You can find these on eBay for around 150 bucks normally.
 
 ![mac](./mac.jpg)
 
-The Mac man! I know a lot of people who swear by thier tools. I have no problem with Mac Tools I have a wrench set and some picks from them. They make solid stuff. Once again this list is based on value for the money. You can do some price checking and find out that Mac is no where near the cheapest so do you get that kind of value from their tools? Thats for you to decide. 
+The Mac man! I know a lot of people who swear by their tools. I have no problem with Mac Tools I have a wrench set and some picks from them. They make solid stuff. Once again this list is based on value for the money. You can do some price checking and find out that Mac is no where near the cheapest so do you get that kind of value from their tools? Thats for you to decide. 
 
-Then there is the other vairble. Is there a Mac man in your area? They are not near as common as Snap-on and in my experiance not as realible in service.  
+Then there is the other variable. Is there a Mac man in your area? They are not near as common as Snap-on and in my experience not as reliable in service.  
 
 ###The Specs
 
@@ -204,9 +204,9 @@ Then there is the other vairble. Is there a Mac man in your area? They are not n
 
 ![gear](gear.png)
 
-I know it made the list but this one is tough to recommend. I would probably not use this one personally but there are people who love cornwell. You can check you th specs and have a look but there is a reason this one is on the bottom. 
+I know it made the list but this one is tough to recommend. I would probably not use this one personally but there are people who love Cornwell. You can check you th specs and have a look but there is a reason this one is on the bottom. 
 
-[Check out the latest price on Amazon](https://amzn.to/33FhsQm)
+[Check out the latest price on Amazon](https://amzn.to/36uEZVw)
 
 ###The Specs
 
@@ -223,7 +223,7 @@ I know it made the list but this one is tough to recommend. I would probably not
 
 I know it made the list but this one is tough to recommend. I would probably not use this one personally but there are people who love cornwell. You can check you th specs and have a look but there is a reason this one is on the bottom. 
 
-[Check out the latest price on Amazon](https://amzn.to/2z8kv5s)
+[Check out the latest price on Amazon](https://amzn.to/2oMeaLG)
 
 ###The Specs
 

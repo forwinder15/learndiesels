@@ -98,7 +98,7 @@ This can happen when you have had damage in the top of the engine or a recent re
 **5. Cylinder problems**
 
 Worn or sticking rings can cause low cylinder compression, excessive carbon built up in combustion chamber can all be the cause. This can be indicated by excessive blow-by. 
-Diesel engines are prone to this over time because they typically run for longer periods of time and diesel fuel doesn’t include any detergent from the refinery. This can be avoided by adding a [detergent additive (Links to Amazon)](https://www.amazon.com/gp/product/B077VVDPZ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077VVDPZ4&linkCode=as2&tag=learndiesels-20&linkId=a9537320aad552ead114ef3acf4f015e) to your diesel fuel on a regular basis. 
+Diesel engines are prone to this over time because they typically run for longer periods of time and diesel fuel doesn’t include any detergent from the refinery. This can be avoided by adding a [detergent additive (Links to Amazon)](https://amzn.to/2pBLzcl) to your diesel fuel on a regular basis. 
 
 **6. Incorrect pistons**
 
@@ -129,4 +129,4 @@ If this is a modern engine you likely have an injector problem. On older engines
 
 ####My diesel has random puffs of black smoke
 
-I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”.  While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst (Links to Amazon)](https://www.amazon.com/gp/product/B000LNEGEM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000LNEGEM&linkCode=as2&tag=learndiesels-20&linkId=a717dca02d6ffc2d462916bb511ea323) to the fuel to improve the amount of that diesel burned at low RPM.
+I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”.  While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst (Links to Amazon)](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.

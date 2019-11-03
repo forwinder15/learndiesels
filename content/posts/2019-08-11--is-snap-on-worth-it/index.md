@@ -65,10 +65,10 @@ In case you are wondering. I don’t suggest any truck tools other than those li
 
 1.	Snap On sockets are shallower than most other brands making them handier for accessing the tighter spots that we all get into constantly as diesel mechanics. 
 
-2.	The Flank Drive Plus wrenches do not slip very easily. They will slip with enough force but, they hold up a little longer. Other bands have imitated this with success, so you don’t have to buy these for that benefit. I will mention that this set is very expensive. [Check the price on amazon here](https://amzn.to/2KsEx1c).
+2.	The Flank Drive Plus wrenches do not slip very easily. They will slip with enough force but, they hold up a little longer. Other bands have imitated this with success, so you don’t have to buy these for that benefit. I will mention that this set is very expensive. [Check the price on amazon here](https://amzn.to/2WEcBvH).
  Remember those are not off the truck but I find the price to be similar.
 
-3.	Great line wrenches. If you don’t know what a line wrench is, you are missing out. They are so nice when removing lines and fittings. Definitely a good investment for the professional mechanic. While I have used these a while, I have also found [GearWrench ]( https://amzn.to/2Z018q3) to be fantastic as well. They make a great set and they actually have flex heads. Check them out! 
+3.	Great line wrenches. If you don’t know what a line wrench is, you are missing out. They are so nice when removing lines and fittings. Definitely a good investment for the professional mechanic. While I have used these a while, I have also found [GearWrench ](https://amzn.to/34s3K34) to be fantastic as well. They make a great set and they actually have flex heads. Check them out! 
 
 4.	Something I usually recommend buying from Snap On in their drill bits and punches. While they are still very expensive compared to others, they will usually replace them when they get worn down. 
 

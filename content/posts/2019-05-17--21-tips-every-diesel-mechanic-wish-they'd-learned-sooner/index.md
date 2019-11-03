@@ -55,7 +55,7 @@ Get a torque wrench. They are your friend. You need to get a feel for what is ap
 
 Any mechanic worth their salt is going to have a favorite ratchet. You use this tool every day. Buy a good one. It is like buying cheap shoes. You use them every day all the time. Buy nice ones!
 
-You don’t need to go on the truck for one either. There are some great ratchets out there that you can get on amazon and save a ton compared to Snap-On. I love this [GearWrench set.](https://www.amazon.com/gp/product/B00BTEXUY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BTEXUY4&linkCode=as2&tag=learndiesels-20&linkId=9e9c1d480d0eafece38f15ec0480355f) Whatever you buy, by a good one and never look back. Your knuckles wills thank you.  
+You don’t need to go on the truck for one either. There are some great ratchets out there that you can get on amazon and save a ton compared to Snap-On. I love this [GearWrench set.](https://amzn.to/2WHX7ae) Whatever you buy, by a good one and never look back. Your knuckles wills thank you.  
 
 
 ##6. Ask for advice and Listen to advice
@@ -110,7 +110,7 @@ I am not saying do a crappy job or sloppy work. I am saying that taking a tiny i
 
 ##12. Disconnect the battery
 
-I have a chicken fried finger to show for this one. **Always disconnect the battery**. Every repair. I was helping a friend remove a turbo and on this particular unit the starter was underneath it. My ring turned 🍒 cherry red. I now wear a silicone ring. They are cool and comfortable. Check them out on amazon [Here](https://www.amazon.com/gp/product/B072B8X5TS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072B8X5TS&linkCode=as2&tag=learndiesels-20&linkId=2da0e27e15c9a9c08909acc4e6fd59ca). 
+I have a chicken fried finger to show for this one. **Always disconnect the battery**. Every repair. I was helping a friend remove a turbo and on this particular unit the starter was underneath it. My ring turned 🍒 cherry red. I now wear a silicone ring. They are cool and comfortable. Check them out on amazon [Here](https://amzn.to/2JMO8z3). 
 
  If you notice removing the battery cables are usually the first step in most repairs by the book. For good reason. You don’t need to get a burn or short something out. Just do it.
 

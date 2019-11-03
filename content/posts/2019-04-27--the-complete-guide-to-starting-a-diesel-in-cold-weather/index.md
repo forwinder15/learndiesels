@@ -59,7 +59,7 @@ Diesel fuel can become gelled when the diesel starts to turn into a solid when t
 
 You should watch the fuel at any temperature below 32 degrees as it will begin the process of gelling. **You Need A Fuel Additive** if you are in these kinds of weather conditions. Make sure you are preventative or you are going to have a mess until it warms up. 
 
-Here is the fuel additive I recommend [Lucas Extreme Cold Weather Diesel Fuel Treatment (Link to Amazon)](https://www.amazon.com/gp/product/B000IG20TA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000IG20TA&linkCode=as2&tag=learndiesels-20&linkId=32791c32200084d3fec173b03f625793) Lucas Extreme Cold Temperature Fuel Treatment with Anti-Gel was developed to eliminate fuel gelling problems in all types of diesel fuels, even bio-diesel. It contains all the important additives in the regular fuel treatment to increase fuel mileage and performance. Complies with the federal low sulfur content requirements for use in diesel fuel. Try it out if you are in a really cold area. Don't wait and end up with with this 🔽
+Here is the fuel additive I recommend [Lucas Extreme Cold Weather Diesel Fuel Treatment (Link to Amazon)](https://amzn.to/2Nz4P24) Lucas Extreme Cold Temperature Fuel Treatment with Anti-Gel was developed to eliminate fuel gelling problems in all types of diesel fuels, even bio-diesel. It contains all the important additives in the regular fuel treatment to increase fuel mileage and performance. Complies with the federal low sulfur content requirements for use in diesel fuel. Try it out if you are in a really cold area. Don't wait and end up with with this 🔽
 
 ![gelled diesel](./gell.jpg)
 

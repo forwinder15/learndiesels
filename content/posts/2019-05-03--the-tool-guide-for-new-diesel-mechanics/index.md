@@ -19,7 +19,7 @@ I have only listed a few of the tools I recommend in the list. Scroll past the l
 
 **1. Toolbox or Cart**
 
-* Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart (Link To Amazon)](https://www.amazon.com/gp/product/B006ZBBK1Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZBBK1Q&linkCode=as2&tag=learndiesels-20&linkId=927832bd2658d6b65fbb7f5c7f8e6f98)**
+* Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart (Link To Amazon)](https://amzn.to/2WCCyMh)**
 
 **2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
 
@@ -91,14 +91,14 @@ I have only listed a few of the tools I recommend in the list. Scroll past the l
 
 **16. Electrical Tools**
 
-* Hand held torch, Wire cutters, Wire stripping tool ***(I prefer these [auto wire strippers](https://www.amazon.com/gp/product/B001O3FUJI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001O3FUJI&linkCode=as2&tag=learndiesels-20&linkId=9813063c322ba57b32a8787e4f78fa6d)*** best tool ever), Soldering gun, Crimping tool, 12v test light ***(I recommend the [Power Probe III](https://www.amazon.com/gp/product/B00G4YUWMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4YUWMC&linkCode=as2&tag=learndiesels-20&linkId=61ea624e59ddd84ba54c6825f4edb477) but it's not required.)***  
+* Hand held torch, Wire cutters, Wire stripping tool ***(I prefer these [auto wire strippers](https://amzn.to/33d7KnM)*** best tool ever), Soldering gun, Crimping tool, 12v test light ***(I recommend the [Power Probe III](https://amzn.to/32bL71J) but it's not required.)***  
 
 **17. Wrenches Standard and Metric**
 
 * 5/16” - 2” ***(Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches)***
 8mm - 22mm
 * 8” & 12" Adjustable wrench
-* Ratchet Wrenches (I perfer [GearWrench](https://www.amazon.com/gp/product/B0002NYD12/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002NYD12&linkCode=as2&tag=learndiesels-20&linkId=96c8947e7451d1f597d3bba077176bbb))
+* Ratchet Wrenches (I perfer [GearWrench](https://amzn.to/2WNLApX))
 
 **18. Mechanic Accessories**
 
@@ -126,7 +126,7 @@ If you can't afford to buy all the tools at once, buy as much as you can and try
 
 An experienced mechanic will roll his eyes at the guy with just has to have the Brand name tools. They know what I know. I have broken just as many Snap-on sockets as S&K or Craftsman. Now I will say that I prefer certain tools over others. I would never recommend a professional mechanic use Harbor Freight or even Craftsman Ratchets.
 
-A Ratchets is something that you literally use every day and have a close relationship with. You should get a nice one. That doesn't mean you need one from the tool truck. My favorite Ratchets is a [GearWrench](https://www.amazon.com/gp/product/B00BTEXUY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BTEXUY4&linkCode=as2&tag=learndiesels-20&linkId=9e9c1d480d0eafece38f15ec0480355f). You don't have to pay 200 bucks to get a nice ratchet contrary to what the tool man says.
+A Ratchets is something that you literally use every day and have a close relationship with. You should get a nice one. That doesn't mean you need one from the tool truck. My favorite Ratchets is a [GearWrench](https://amzn.to/2NcYESo). You don't have to pay 200 bucks to get a nice ratchet contrary to what the tool man says.
 
 ###3. Growing with time
 
@@ -197,7 +197,7 @@ Most companies for the benefit of safety provide PPE to their mechanics. It is i
 
 There are a lot of cheap options when it comes to safety glasses. Most companies are going to opt for the cheaper options. That makes things rough on us. So, finding the right pair for you can make all the difference.
 
-My favorites can be found [Here](https://www.amazon.com/gp/product/B00E0O7XO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0O7XO8&linkCode=as2&tag=learndiesels-20&linkId=216ef70f9aee95e0dc0864278e7a2912)
+My favorites can be found [Here](https://amzn.to/2oDTxB8)
 
 Buying a nicer pair has some great benefits. The better brands have better anti fogging which is a big deal when you’re working hard. It is tough to keep a pair of glasses on when your sweating and they get fogged up. Invest in a good pair you won't regret it.
 
@@ -213,7 +213,7 @@ You may think, "Man..I'm too cool for one of those". To that I say, yep you are.
 
 ###Silicone Wedding Band
 
-Learn from my first hand ✋experience. Learn from my mistakes. They have some great silicone wedding bands on Amazon and they will save you a scar and trip to the ER. Find some [Here](https://www.amazon.com/gp/product/B072B8X5TS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072B8X5TS&linkCode=as2&tag=learndiesels-20&linkId=2da0e27e15c9a9c08909acc4e6fd59ca)
+Learn from my first hand ✋experience. Learn from my mistakes. They have some great silicone wedding bands on Amazon and they will save you a scar and trip to the ER. Find some [Here](https://amzn.to/2oH7Yo6)
 
 ![hand](./hand.jpeg)
 
