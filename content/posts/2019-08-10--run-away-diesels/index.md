@@ -1,6 +1,6 @@
 ---
 title: The Complete Guide To Diesel Engine Run Away 
-category: "Diagnosing problems"
+category: "Diagnosing Problems"
 cover: runaway.png
 author: Johnathan Coker
 ---

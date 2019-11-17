@@ -14,6 +14,7 @@ I was thinking the other day about when I started as a diesel tech and all the q
 
  ***Note: You do need a CDL to drive commercial trucks on the roadway, this includes test driving after a repair.*** 
 
+**Check out this guide that will make getting your CDL super easy. Get all the answers to the CDL exam [here].(https://07e17hi5-8eqbw0xhk44tr2qe1.hop.clickbank.net/)**
 
 ## Is a CDL required? No. Would it benefit you? Yes.
 

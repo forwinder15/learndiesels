@@ -1,5 +1,5 @@
 ---
-title:
+title: Stuff We Like
 menuTitle: Stuff We Like
 ---
 
