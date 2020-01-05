@@ -16,8 +16,7 @@ We are going to cover the **Three** main types of diesel smoke and the causes of
 
 
 
-## Black Smoke <a name="black"></a>
-
+## Black Smoke 
 ![unsplash.com](./dontmean.jpg)
 
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.    
@@ -138,7 +137,7 @@ I would say this is caused by turbocharger Lag. If you have a large turbocharger
 
 -----------------
 
-## Blue Smoke  <a name="blue"></a>
+## Blue Smoke  
 
 ![unsplash.com](./blue1.PNG)
 
@@ -215,7 +214,7 @@ Blue smoke can be difficult to diagnose but, if you follow the signs and look at
 
 -----------
 
-## White/Grey Smoke <a name="white"></a>
+## White/Grey Smoke 
 
 
 ![unsplash.com](./bus2.PNG)
@@ -293,7 +292,7 @@ Yes. This is another common cause of white smoke. Check all the lines and inject
 
 ***See something I missed? Help me make it better, comment below. Thanks!***
 
-<a href="#top">Back to top</a>
+
 
 
 
