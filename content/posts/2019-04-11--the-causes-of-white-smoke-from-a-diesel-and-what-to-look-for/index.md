@@ -1,11 +1,11 @@
 ---
 title: The Causes Of White Smoke From A Diesel And What to look For
 category: "Diagnosing Problems"
-cover: bus.PNG
+cover: bus.png
 author: Johnathan Coker
 ---
 
-![unsplash.com](./bus.PNG)
+![unsplash.com](./bus.png)
 
 So, you have some white smoke billowing out of your exhaust. What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.   
 
