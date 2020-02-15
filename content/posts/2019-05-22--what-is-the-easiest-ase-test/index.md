@@ -20,6 +20,32 @@ With 45 questions the A5 brakes and 50 questions on T4 these tests come in at my
 
 Truck brakes is fairly simple as well if you have done a lot of brake work which is typical for a new guy to most of the brake jobs. They ask simple and mostly straightforward questions. Expect questions usual for air brake and larger hydraulic systems. Read up on brake booster issues, Quick release valves, anti-compounding valve, abs modulators, tractor protection valve and other typical parts in an air brake system. 
 
+Here is a table of tests listed by difficulty per the survey. 
+
+***Listed hardest to easiest - (50 scored questions) means there may be more but they will only count 50.***
+
+Test # | Test Title | Number of Questions
+------------ | ------------- | ------------
+1. T1 | Gasoline Engines | (50 scored questions)
+2. A9 | Light Vehicle Diesel Engines | (50)
+3. A2 | Automatic Transmission/Transaxle | (50)
+4. T3 | Drive Train | (40)
+5. A4 | Suspension & Steering | (40)
+6. T5 | Suspension & Steering | (50)
+7. T6 | Electrical/ Electronic Systems | (50)
+8. A6 | Electrical/ Electronic Systems | (50)  
+9. A8 | Engine Performance | (50)
+10. T2 | Diesel Engines | (55)
+11. A3 | Manual Drive Train & Axles | (40)
+12. A8 | Engine Performance | (50)
+13. A1 | Engine Repair | (50 scored questions)
+14. T4 | Brakes | (50)
+15. A5 | Brakes | (45)
+16. A7 | Heating & Air Conditioning | (50)
+17. T7 | Heating, Ventilation & Air Conditioning (HVAC)  | (40)
+18. T8 | Preventive Maintenance Inspection | (50)
+
+
 ###Sample question
 
 A rear wheel drive car is pulling to left when the brakes are applied. Technician A says that the left front brake lines could be restricted. Technician B says you can replace a broken brake line with copper tubing. Who is correct?
