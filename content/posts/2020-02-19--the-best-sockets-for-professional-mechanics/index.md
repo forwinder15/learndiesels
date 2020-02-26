@@ -46,7 +46,16 @@ This list is based on value for the money. You may see some that surprise you bu
 
 ![sk](./sock.png)
 
-Best tools for the money? The survey says SK! 
+Best tools for the money? The survey says SK! SK has been around a long time and they have hung around for a reason. Their stuff lasts! 
+
+Don't believe ask around your shop or buddies and just see how many guys have them. They are very popular and are made with a pro in mind. I would not recommend their ratchet but their sockets are great.
+
+![sk1](sk-.jpg)
+
+They take pride in the technology that goes into the sockets and the durability they get from them. For the longest time I only had SK impact sockets but since I have had their chrome set I have not looked back. I give these things a hard way to go and they are hanging in there.
+
+
+Plus the warranty is a breeze. Had a couple broken impact sockets took no time to get them replaced. 
 
 [Check out the latest price on Amazon](https://amzn.to/2PquXxP)
 
@@ -64,9 +73,14 @@ Best tools for the money? The survey says SK!
 
 * **Where is it made?** - USA with American Steel
 
+
 ##2. Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
 
 ![gear](./gwsoc.png)
+
+Gear wrench has to be one of the more underrated tool manufacturers. How often are your replacing those ratchet wrenches? Never. I use their ratchets exclusively. check out my [best ratchet for pros blog](/the-best-ratchet-for-professional-mechanics). You will see that video that shows just how strong they are!
+
+This set of sockets is durable, accurate and even a bit thinner profile then others. Its a great choice on a budget and not a bad choice overall. As long as you don't abuse them they will last you a very long time. 
 
 
 [Check out the latest price on Amazon](https://amzn.to/38FAk3K)
@@ -88,7 +102,34 @@ Best tools for the money? The survey says SK!
 * **Where is it made?** - USA with American Steel
 
 
-##3. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
+##3. Blue Point 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
+
+![blue](./blue.png)
+
+Ahh the old Snap-on knock off. Blue point really is a decent tool. I have several in my set and they have held up to loads of torture. If you need a great set of sockets and have a few bucks extra but not the whole mint then blue point is your best bet.
+
+They come with the same Snap-on warranty and convenience if the truck is stopping by your shop already with about 25% off the price tag. You can't go wrong here it really is just a matter of finding it at a workable amount.
+
+You will find the price varies. Blue point is on Amazon every once in a while and Ebay. This will save you a ton if you plan on buying them on the truck. Have a look around the old inter-webs first. 
+
+[Check out the latest price on Amazon](https://amzn.to/2VozJjf)
+
+###The Specs
+
+ **Durability** - Last a lifetime. Very well made
+
+* **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
+
+* **Design** - Tough made for pros
+
+* **Thickness** - Typical profile
+
+* **Warranty** - Truck trade out. Super easy process if you have a good owner. 
+
+* **Where is it made?** - USA with American Steel
+
+
+##4. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
 ![snap](./snapp.png)
 
