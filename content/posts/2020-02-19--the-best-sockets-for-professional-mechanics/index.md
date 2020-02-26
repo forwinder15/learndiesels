@@ -88,7 +88,7 @@ This set of sockets is durable, accurate and even a bit thinner profile then oth
 
 ###The Specs
 
-**Durability** - The most used sockets will for years if you keep them out of your impact. 
+* **Durability** - The most used sockets will for years if you keep them out of your impact. 
 
 * **Finish** -Bright, full polish chrome finish easily wipes clean and resists corrosion
 
