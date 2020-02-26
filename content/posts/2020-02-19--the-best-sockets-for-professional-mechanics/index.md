@@ -158,7 +158,7 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 
 
-##4. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+##5. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![crap](./crapman.png)
 
