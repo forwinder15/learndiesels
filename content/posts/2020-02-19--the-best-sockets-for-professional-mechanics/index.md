@@ -1,11 +1,11 @@
 ---
 title: Best 10 Sockets Sets For Professional Mechanics
 category: "Recommended Products"
-cover: sock.png
+cover: cover.png
 author: Johnathan Coker
 ---
 
-![best socket](./sock.png)
+![best socket](./cover.png)
 
 
 
@@ -44,6 +44,7 @@ This list is based on value for the money. You may see some that surprise you bu
 
 ##1. SK Professional Tools 4613 13-Piece 3/8 in. Drive 6-Point Standard Socket Set
 
+![sk](./sock.png)
 
 Best tools for the money? The survey says SK! 
 
@@ -63,9 +64,9 @@ Best tools for the money? The survey says SK!
 
 * **Where is it made?** - USA with American Steel
 
-##3 Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
+##2 Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
 
-
+![gear](./gwsoc.png)
 
 
 [Check out the latest price on Amazon](https://amzn.to/38FAk3K)
@@ -85,9 +86,9 @@ Best tools for the money? The survey says SK!
 * **Warranty** - Mail in. Decent process. 
 
 
-##5. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
+##3. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
-
+![snap](./snapp.png)
 
 The only reason this snap-on set is not at the top of the list is price. They make very good tools. No one questions this. Is it worth the 300% higher price than other tools? Doubtful. 
 
@@ -112,8 +113,9 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 
 
-##10 Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+##4 Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
+![crap](./crapman.png)
 
 So last and least. This Craftsman set has been used in shops. I have seen a couple guys give them a shot. Some lasted quite a while. 
 
