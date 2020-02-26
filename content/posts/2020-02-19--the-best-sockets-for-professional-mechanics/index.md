@@ -1,11 +1,11 @@
 ---
 title: Best 10 Sockets Sets For Professional Mechanics
 category: "Recommended Products"
-cover: cover.png
+cover: cover.PNG
 author: Johnathan Coker
 ---
 
-![best socket](./cover.png)
+![best socket](./cover.PNG)
 
 
 
