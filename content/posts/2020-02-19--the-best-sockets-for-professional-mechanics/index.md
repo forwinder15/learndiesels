@@ -60,11 +60,11 @@ Best tools for the money? The survey says SK!
  
 * **Thickness** - Typical Profile
 
-**Warranty** - Mail in. It is a decent process.
+* **Warranty** - Mail in. It is a decent process.
 
 * **Where is it made?** - USA with American Steel
 
-##2 Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
+##2. Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
 
 ![gear](./gwsoc.png)
 
@@ -81,9 +81,11 @@ Best tools for the money? The survey says SK!
 
 * **Design** -Off-corner loading design reduces fastener rounding. Chamfered opening quickly guides fasteners into socket
 
-**Thickness** - Thinner profile
+* **Thickness** - Thinner profile
 
 * **Warranty** - Mail in. Decent process. 
+
+* **Where is it made?** - USA with American Steel
 
 
 ##3. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
@@ -106,14 +108,16 @@ One thing to note is if you havenâ€™t bought anything from your Snap-on guy they
 
 * **Design** -Snap-on patented design. Tough made for pros
 
-***Thickness** - Typical profile
+* **Thickness** - Typical profile
 
 * **Warranty** - Truck trade out. Super easy process if you have a good owner. 
 
+* **Where is it made?** - USA with American Steel
 
 
 
-##4 Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+##4. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![crap](./crapman.png)
 
@@ -136,6 +140,7 @@ You can save some bucks here and the warranty is great. So if money is tight ðŸ’
 
 * **Warranty** - Walk in to any Loews. Easy Process.  
 
+* **Where is it made?** - USA with American Steel
 
 
 
