@@ -116,7 +116,7 @@ You will find the price varies. Blue point is on Amazon every once in a while an
 
 ###The Specs
 
- **Durability** - Last a lifetime. Very well made
+* **Durability** - Last a lifetime. Very well made
 
 * **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
 
@@ -143,7 +143,7 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 ###The Specs
 
- **Durability** - Last a lifetime. One of the best in the business
+* **Durability** - Last a lifetime. One of the best in the business
 
 * **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
 
@@ -191,6 +191,6 @@ You can save some bucks here and the warranty is great. So if money is tight �
 
 Your sockets are important tools in your box. You use them so often and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
 
-I have taken the time to check out 10 different ratchets that I believe are made for pros. Remember just because I recommend a set doesn’t mean it would be perfect for you and your job. It really is a personal experience. 
+I have taken the time to check out 10 different socket sets that I believe are made for pros. Remember just because I recommend a set doesn’t mean it would be perfect for you and your job. It really is a personal experience. 
 
 You need to try and see with tools like this. They really are like boots. Lots of boots are great but I like certain ones. So, take my list as a great starter and find your awesome sockets that work for you. 
