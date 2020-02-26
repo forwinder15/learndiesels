@@ -21,7 +21,7 @@ title: author
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=aeb37d143f29bd50ed3c8977e&amp;id=47c8598fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2 style="text-align: center">Get Newsletter For New content and Special Offers!</h2>
+	<h2 style="text-align: center">Get My Newsletter For New content and Special Offers!</h2>
 
 <div class="mc-field-group">
 	<input Style="height: 3.75em;
