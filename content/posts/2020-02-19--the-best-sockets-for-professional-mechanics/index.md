@@ -20,6 +20,8 @@ We are going to use **Standard 6 point 3/8 socket sets** as our baseline in this
 
 This is possibly the most important feature in a good socket. As a pro you need a socket that is going to last. The last thing you want is cracking or wear making the socket not fit right.
 
+The main thing that kills chrome sockets is using them in an impact. Chrome sockets are made for hand tools and will last a long way if used properly. 
+
 ###Accurate sizing
 
 That Chinese set you bought may have been cheap but sometimes you get what you pay for. Take the time to find sockets that are sized correctly 
@@ -156,9 +158,64 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 * **Where is it made?** - USA with American Steel
 
 
+##5. Matco SBM126TA 12-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+![mat](./mat.png)
+
+Matco makes some decent stuff. They are not cheap either. I have always enjoyed the few matco tools I have. They make a great low profile ratchet. 
+
+This socket set will last you forever and will hold up to professional abuse. It really just depends on whether or not you have the cash 💰and you have access to a Matco truck for warranty. 
+
+You can't always count on a Matco truck coming around to your shop. So it is something to consider with their tools.
+
+[Check out the latest price on matcotools.com](matcotools.com/catalog/product/SBM126TA/3-8-drive-12-piece-metric-6-point-chrome-socket-set/)
 
 
-##5. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+###The Specs
+
+* **Durability** - Opti-Torque™ applies torque to fastener sides, not corners which allows more torque to fastener and longer life
+
+* **Finish** - Full polish chrome finish for corrosion resistance
+
+* **Design** -  Counter-Torque™ distributes the torquing stress uniformly throughout the socket extending socket life
+
+* **Thickness** - Thinner profile
+
+* **Warranty** - Swap on the truck. Easy Process if you have one.   
+
+* **Where is it made?** - USA with American Steel
+
+
+
+##6. Mac Tools SXM146BRPT 14-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+![mac](./mac.png)
+
+ANother great option is the Mac tools set here. Mac is a great somewhat cheaper than Snap-on truck choice. This will also be based largely on whether ot not a Mac truck comes by your shop. It would be extremely difficult to get warranty if you don't have a regular truck guy. 
+
+This set is going to be a great set if it works out for you. If would try to get them on a ebay or craigslist before I bought directly from Mac. 
+
+[Check out the latest price on Mac Tools](https://www.mactools.com/en-us/Sockets/3-8-Drive-Chrome-Sockets/SXM146BRPT/14-PC-3-8-Drive-Metric-Socket-Set-6-PT-)
+
+
+
+###The Specs
+
+* **Durability** - Great set. Last you a long time.
+
+* **Finish** - Full polish chrome finish for corrosion resistance
+
+* **Design** - Patented Mac Tools design 
+
+* **Thickness** - Typical profile
+
+* **Warranty** - Swap on the truck. Easy Process if you have one.  
+
+* **Where is it made?** - USA with American Steel
+
+
+##7. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![crap](./crapman.png)
 
