@@ -1,5 +1,5 @@
 ---
-title: Best 8 Sockets Sets For Professional Mechanics
+title: Best 10 Sockets Sets For Professional Mechanics
 category: "Recommended Products"
 cover: cover.PNG
 author: Johnathan Coker
@@ -243,7 +243,55 @@ They are definitely not top of the list but a great choice for the tight fisted 
 * **Where is it made?** - USA with American Steel
 
 
-##8. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+##8. Crescent 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+![Crescent](./)
+
+
+[Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
+
+
+
+###The Specs
+
+* **Durability** - Medium at best
+
+* **Finish** - Full polish chrome finish for corrosion resistance
+
+* **Design** - No special design. 
+
+* **Thickness** - Thicker profile
+
+* **Warranty** - Walk in to any Loews. Easy Process.  
+
+* **Where is it made?** - USA with American Steel
+
+##9. Husky 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+
+![Husky](./)
+
+
+[Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
+
+
+
+###The Specs
+
+* **Durability** - Medium at best
+
+* **Finish** - Full polish chrome finish for corrosion resistance
+
+* **Design** - No special design. 
+
+* **Thickness** - Thicker profile
+
+* **Warranty** - Walk in to any Loews. Easy Process.  
+
+* **Where is it made?** - USA with American Steel
+
+
+##10. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![crap](./crapman.png)
 
