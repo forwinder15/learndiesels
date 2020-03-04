@@ -30,6 +30,11 @@ export default class HTML extends React.Component {
           {this.props.preBodyComponents}
           <div key={`body`} id="___gatsby" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           {this.props.postBodyComponents}
+          <div id="amzn-assoc-ad-cbcdb53d-7f55-4025-ad42-d07c08c70326"></div>
+          <script
+            async
+            src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cbcdb53d-7f55-4025-ad42-d07c08c70326"
+          ></script>
         </body>
       </html>
     );
