@@ -17,7 +17,7 @@ module.exports = {
   headerSubTitle: "Grease Monkeys Unite!",
 
   /* manifest.json */
-  manifestName: "Welcome! Get started learning",
+  manifestName: "learn diesels",
   manifestShortName: "DieselBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",

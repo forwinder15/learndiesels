@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
+  "name": "learn diesels",
   "version": "2.0.0",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "author": "John Coker <jrogercoker@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.7.0",
@@ -58,7 +58,12 @@
     "yaml-loader": "^0.5.0"
   },
   "keywords": [
-    "gatsby"
+    "diesels",
+    "Diesel",
+    "smoke",
+    "engine",
+    "mechanic",
+    "tools"
   ],
   "scripts": {
     "build": "gatsby build",
