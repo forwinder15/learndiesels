@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
@@ -13,8 +12,8 @@ const Seo = props => {
 
   const title = postTitle ? `${postTitle} - ${config.shortSiteTitle}` : config.siteTitle;
   const description = postDescription ? postDescription : config.siteDescription;
-  const image = postCover ? config.siteUrl + config.pathPrefix + postCover.childImageSharp.resize.src : config.siteUrl + config.pathPrefix + "/" + config.siteImage;
-  const url = postSlug ? config.siteUrl + postSlug : typeof window !== "undefined" ? config.siteUrl + window.location.pathname : config.siteUrl;
+  const image = postCover ? postCover : config.siteImage;
+  const url = config.siteUrl + config.pathPrefix + postSlug;
 
   return (
     <Helmet
