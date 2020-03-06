@@ -1,7 +1,7 @@
 {
-  "name": "learn diesels",
+  "name": "gatsby-starter-hero-blog",
   "version": "2.0.0",
-  "author": "John Coker <jrogercoker@gmail.com>",
+  "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.7.0",
