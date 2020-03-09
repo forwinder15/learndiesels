@@ -88,7 +88,7 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 
 ##3. Snap-on F80
 
-![snap-on](./snap.png)
+![snap-on](./snap2.png)
 
 While Snap-on quality is really good this list is compiled by value for money. Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
 
@@ -123,7 +123,7 @@ I have a special place in my heart for Husky tools. I started being a diesel tec
 
 ##6. Snap-on f80 long handle
 
-![snap2](./snap2.png)
+![snap2](./snap.png)
 
 Another Snap-on tops the list. If you just need the conveniance and name brand and you are willing to drop some bread 🍞 this is a great pick. It's low profile and longer handle will be a benefit in tight areas. I am not a all snap-on guy but this one is a great one. 
 
