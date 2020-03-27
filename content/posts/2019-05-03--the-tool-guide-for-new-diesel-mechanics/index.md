@@ -15,7 +15,7 @@ I have seen a lot of articles out there on the best tools to have as a diesel te
 
 I have only listed a few of the tools I recommend in the list. Scroll past the list to see more about tips for buying and what is the best bang for the buck.
 
-You can also <a href="../src/Downloads/Toolguide.pdf" download="Toolguide.pdf">Download</a> The list and print it off.  
+You can also <a href="../static/Downloads/Toolguide.pdf" download="Toolguide.pdf">Download</a> The list and print it off.  
 
 
 ## Here is a complete list of tools for the new diesel mechanic
