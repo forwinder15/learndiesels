@@ -68,7 +68,25 @@ I would recommend these things all day, but the proof is in the pudding as they 
 * **Weight and Length** - 15.8 ounces, 15.9 inches
 
 
-##2. Kobalt 85860
+##2. Snap-on F80
+
+![snap-on](./snap.jpg)
+
+While Snap-on quality is really good this list is compiled by value for money. Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
+
+
+[Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
+
+###The Specs
+
+* **Tooth count** - 80 count and a 4.5-degree arc
+* **Pawl design** - Double sided pawls
+* **Handle design** - Chrome vanadium steel. Round thicker handle 
+* **Profile** - 0.6 inches
+* **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
+* **Weight and Length** - 11-13 ounces, 11.3 inches
+
+##3. Kobalt 85860
 
 ![Kobalt](./kob.png)
 
@@ -86,44 +104,9 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 * **Weight and Length** - 11-13 ounces, 11.3 inches
 
 
-##3. Snap-on F80
+##4. Snap-on f80 long handle
 
-![snap-on](./snap2.png)
-
-While Snap-on quality is really good this list is compiled by value for money. Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
-
-
-[Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
-
-###The Specs
-
-* **Tooth count** - 80 count and a 4.5-degree arc
-* **Pawl design** - Double sided pawls
-* **Handle design** - Chrome vanadium steel. Round thicker handle 
-* **Profile** - 0.6 inches
-* **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
-* **Weight and Length** - 11-13 ounces, 11.3 inches
-
-
-##4. Husky 
-
-![Husky](./husky.png)
-
-I have a special place in my heart for Husky tools. I started being a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. Solid choice for a professional. 
-
-###The Specs
-
-* **Tooth count** - 80 count and a 4.5-degree arc
-* **Pawl design** - Double sided pawls
-* **Handle design** - Chrome vanadium steel. Round thicker handle 
-* **Profile** - 1 inch
-* **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail in to Stanley the principle owner of Husky
-* **Weight and Length** - 11-13 ounces, 11.3 inches
-
-
-##6. Snap-on f80 long handle
-
-![snap2](./snap.png)
+![snap2](./snap2.png)
 
 Another Snap-on tops the list. If you just need the conveniance and name brand and you are willing to drop some bread 🍞 this is a great pick. It's low profile and longer handle will be a benefit in tight areas. I am not a all snap-on guy but this one is a great one. 
 
@@ -140,28 +123,41 @@ You can find these on eBay for around 150 bucks normally.
 * **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 * **Weight and Length** - 15-18 ounces, 11-1/2 inches
 
+##5. Husky 
 
-##5. Craftsman CMMT81748
+![Husky](./husky.png)
 
-![Craftsman](./craft.png)
-
-I have always been hard on Craftsman. Calling it ***Crapsman*** and such 😆. Im a funny guy. And I would still say that their lower end ratchets are garbage. They have like 36 teeth. they break constantly and are not meant for professional use. That said, They have moved over to Loews and now have a higher end ratchet that I would love to give a shot. 
-
-I plan on buying one in the next few days to give it a full review. I will update as I have more information. From just holding one and messing around with it, I would say I will give it a shot and see how it goes. 
-
-[Check out the latest price on Amazon](https://amzn.to/34B7wHx)
+I have a special place in my heart for Husky tools. I started being a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. Solid choice for a professional. 
 
 ###The Specs
 
-* **Tooth count** - 72 count and a 4.5-degree arc
+* **Tooth count** - 80 count and a 4.5-degree arc
 * **Pawl design** - Double sided pawls
-* **Handle design** - Chrome vanadium steel. Round handle 
-* **Profile** - 0.7 inches
-* **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet. 
-* **Weight and Length** - 11.2 ounces, 9.4 inches
+* **Handle design** - Chrome vanadium steel. Round thicker handle 
+* **Profile** - 1 inch
+* **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail in to Stanley the principle owner of Husky
+* **Weight and Length** - 11-13 ounces, 11.3 inches
 
 
-##6. Matco BFR188LFM
+##6. Cornwell JR40
+
+![Cornwell](corn.png)
+
+Cornwell rounds off this top ten with a decent ratchet. They make tools that are tough as nails and if you have a decent cornwell man This may be a great pick for you. They have never been my favorite but still cant go wrong.  
+
+[Check out the latest price on Amazon](https://amzn.to/2oMeaLG)
+
+###The Specs
+
+* **Tooth count** -  30 and a 12-degree arc
+* **Pawl design** - double pawls
+* **Handle design** - Round. Chrome vanadium steel. 
+* **Profile** - 0.9 inches
+* **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
+* **Weight and Length** - 8 ounces, 10-1/4 inches
+
+
+##7. Matco BFR188LFM
 
 ![matco](./matco.jpg)
 
@@ -182,7 +178,7 @@ You can find these on eBay for around 150 bucks normally.
 
 
 
-##7. Mac Tools 
+##8. Mac Tools 
 
 ![mac](./mac.jpg)
 
@@ -200,11 +196,11 @@ Then there is the other variable. Is there a Mac man in your area? They are not 
 * **Weight and Length** - 15-18 ounces, 18-1/2 inches
 
 
-##8. GearWrench 81211F
+##9. GearWrench 81211F
 
 ![gear](gear.png)
 
-I know it made the list but this one is tough to recommend. I would probably not use this one personally but there are people who love Cornwell. You can check you th specs and have a look but there is a reason this one is on the bottom. 
+Another solid choice from Gearwrench. This is a nice solid ratchet with no frills. It has a decent arc ratio and is really tough. If you are on a budget this is a good one. 
 
 [Check out the latest price on Amazon](https://amzn.to/36uEZVw)
 
@@ -217,23 +213,25 @@ I know it made the list but this one is tough to recommend. I would probably not
 * **Warranty** - Mail in
 * **Weight and Length** - 15-18 ounces, 10-1/4 inches
 
-##10. Cornwell JR40
 
-![Cornwell](corn.png)
+##10. Craftsman CMMT81748
 
-I know it made the list but this one is tough to recommend. I would probably not use this one personally but there are people who love cornwell. You can check you th specs and have a look but there is a reason this one is on the bottom. 
+![Craftsman](./craft.png)
 
-[Check out the latest price on Amazon](https://amzn.to/2oMeaLG)
+I have always been hard on Craftsman. Calling it ***Crapsman*** and such 😆. Im a funny guy. And I would still say that their lower end ratchets are garbage. They have like 36 teeth. they break constantly and are not meant for professional use. That said, They have moved over to Loews and now have a higher end ratchet that I would love to give a shot. 
+
+I plan on buying one in the next few days to give it a full review. I will update as I have more information. From just holding one and messing around with it, I would say I will give it a shot and see how it goes. 
+
+[Check out the latest price on Amazon](https://amzn.to/34B7wHx)
 
 ###The Specs
 
-* **Tooth count** -  30 and a 12-degree arc
-* **Pawl design** - double pawls
-* **Handle design** - Round. Chrome vanadium steel. 
-* **Profile** - 0.9 inches
-* **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
-* **Weight and Length** - 8 ounces, 10-1/4 inches
-
+* **Tooth count** - 72 count and a 4.5-degree arc
+* **Pawl design** - Double sided pawls
+* **Handle design** - Chrome vanadium steel. Round handle 
+* **Profile** - 0.7 inches
+* **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet. 
+* **Weight and Length** - 11.2 ounces, 9.4 inches
 
 
 
