@@ -23,7 +23,7 @@ I have only listed a few of the tools I recommend in the list. Scroll past the l
 
 If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really cool Husky box on Amazon](https://amzn.to/2wQWwKp). It has a stainless steel top and is 72" long for under 1200 bucks. See if Snap-on can beat that price. 
 
-![toolbox](huskyl.png)(https://amzn.to/2wQWwKp)
+![toolbox](huskyl.png)
 
 **2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
 
