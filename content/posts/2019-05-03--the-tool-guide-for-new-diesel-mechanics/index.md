@@ -15,6 +15,9 @@ I have seen a lot of articles out there on the best tools to have as a diesel te
 
 I have only listed a few of the tools I recommend in the list. Scroll past the list to see more about tips for buying and what is the best bang for the buck.
 
+You can also [Download](../src/Downloads/Toolguide.pdf) The list and print it off.  
+
+
 ## Here is a complete list of tools for the new diesel mechanic
 
 **1. Toolbox or Cart**
@@ -106,7 +109,7 @@ don't buy a cheap one if you can avoid it. The really cheap ones are never accur
 * 5/16” - 2” ***(Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches)***
 8mm - 22mm
 * 8” & 12" Adjustable wrench
-* Ratchet Wrenches (I perfer [GearWrench](https://amzn.to/2WNLApX))
+* Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX))
 
 **18. Mechanic Accessories**
 
