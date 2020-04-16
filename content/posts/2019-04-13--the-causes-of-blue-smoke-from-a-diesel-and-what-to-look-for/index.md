@@ -1,5 +1,5 @@
 ---
-title: Blue Smoke From A Diesel - What To Look For And What To Do
+title: Blue Smoke From A Diesel? Causes And What To Do Next
 category: "Diagnosing Problems"
 cover: blue1.PNG
 author: Johnathan Coker

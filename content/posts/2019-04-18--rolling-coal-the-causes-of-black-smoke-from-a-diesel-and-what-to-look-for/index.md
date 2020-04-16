@@ -1,5 +1,5 @@
 ---
-title: Rolling Coal - The Complete Guide To Black Smoke from a diesel
+title: When Rolling Coal Goes Wrong - Black Smoke from a diesel
 category: "Diagnosing Problems"
 cover: bsdmb.jpg
 author: Johnathan Coker
