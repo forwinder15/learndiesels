@@ -11,7 +11,9 @@ Your diesel engine is a work horse. It will go for a long time given the right m
 
 There are several signs and symptoms that your diesel engine is not going to last much longer. I have complied a list of 10 for you. Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
 
-<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Try Audible and Get Two Free Audiobooks</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=learndiesel04-20&l=pf4&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Learndiesel visitors Get Two Free Audiobooks from Audible</a>
+
+[![unsplash.com](./audible.webp)](https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2)
 
 ##1. Starting problems
 
