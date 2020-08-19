@@ -11,10 +11,6 @@ Your diesel engine is a work horse. It will go for a long time given the right m
 
 There are several signs and symptoms that your diesel engine is not going to last much longer. I have complied a list of 10 for you. Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
 
-<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Learndiesel visitors Get Two Free Audiobooks from Audible</a>
-
-[![unsplash.com](./audible.webp)](https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2)
-
 ##1. Starting problems
 
 When your truck is continually cranking and not starting up, this could be lots of things but, it can also be a sign of low-compression. Diesel engines rely on compression to start and run. It must have the proper combustion in order to run properly. **Diesel is all about the squeeze and achieving the right pressure to cause the explosion.** As your engine ages the component will wear and cause issues in the seal of the chamber. This means that a component in your combustion chamber is worn. It could be a piston, rings, cylinder wall / liners, or valves. When this is the culprit, the problem will be worse after sitting or in colder or even hotter weather. If your diesel is not cranking up don’t jump to this conclusion! Do a proper diagnosis. After you have found that it is not any of the normal issues it is time to run compression test. Having issues starting? Check out this article I wrote on [Diesel starting issues](/the-complete-guide-to-starting-a-diesel-in-cold-weather/)
@@ -24,6 +20,10 @@ When your truck is continually cranking and not starting up, this could be lots 
 Blue smoke is no good. I wrote a full article will all the possible problems [Here](/the-causes-of-blue-smoke-from-a-diesel-and-what-to-look-for/). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines. If you have found the problem to not be in the fuel a component is messed up. As the engine wears you will see constant blue smoke as the clearances just can’t be maintained on the cylinder walls and oil stays on the walls of the cylinder and gets burned along with the fuel. Once again, the compression check is going to let you know where this problem is. If it is very old a complete in-frame may be needed.
 
 ![unsplash.com](./ring.jpg)
+
+<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Learndiesel visitors Get Two Free Audiobooks from Audible</a>
+
+[![unsplash.com](./audible.webp)](https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2){:target="\_blank"}
 
 ##3. Poor Fuel Economy
 
