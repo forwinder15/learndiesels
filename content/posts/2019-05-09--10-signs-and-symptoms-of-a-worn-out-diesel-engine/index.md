@@ -15,23 +15,27 @@ There are several signs and symptoms that your diesel engine is not going to las
 
 When your truck is continually cranking and not starting up, this could be lots of things but, it can also be a sign of low-compression. Diesel engines rely on compression to start and run. It must have the proper combustion in order to run properly. **Diesel is all about the squeeze and achieving the right pressure to cause the explosion.** As your engine ages the component will wear and cause issues in the seal of the chamber. This means that a component in your combustion chamber is worn. It could be a piston, rings, cylinder wall / liners, or valves. When this is the culprit, the problem will be worse after sitting or in colder or even hotter weather. If your diesel is not cranking up don’t jump to this conclusion! Do a proper diagnosis. After you have found that it is not any of the normal issues it is time to run compression test. Having issues starting? Check out this article I wrote on [Diesel starting issues](/the-complete-guide-to-starting-a-diesel-in-cold-weather/)
 
+<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Learndiesel visitors Get Two Free Audiobooks from Audible</a>
+
+[![unsplash.com](./audible.webp)](https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2)
+
 ##2. Blue Smoke
 
 Blue smoke is no good. I wrote a full article will all the possible problems [Here](/the-causes-of-blue-smoke-from-a-diesel-and-what-to-look-for/). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines. If you have found the problem to not be in the fuel a component is messed up. As the engine wears you will see constant blue smoke as the clearances just can’t be maintained on the cylinder walls and oil stays on the walls of the cylinder and gets burned along with the fuel. Once again, the compression check is going to let you know where this problem is. If it is very old a complete in-frame may be needed.
 
 ![unsplash.com](./ring.jpg)
 
-<a target="_blank" href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2">Learndiesel visitors Get Two Free Audiobooks from Audible</a>
-
-[![unsplash.com](./audible.webp)](https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=learndiesel04-20&linkId=775c4eb4dec922fcaeaa13aa96ffc0a2){:target="\_blank"}
-
 ##3. Poor Fuel Economy
 
 Diesel isn’t cheap! Spending a little extra at the pump these days? This may not just be a wallet problem. This could be sign of wear in the injectors or ring wear. If the injectors are worn out or malfunctioning, they need to repair as soon as possible. Leaking extra fuel into the chamber can cause all sorts of bad things to happen. When more fuel is added the balance is not achieved and the burn is not complete. That is when you see that extra fuel come out in the form of black smoke. When the rings are worn, they allow that extra fuel to slide down into the oil. You can see a misfire and/or a rough idle from this. These things can damage other components and possibly even cause a complete failure of the engine.
 
+[![smoker](./smoker.png)](https://836eego8vbiz3za30xmrqoer8d.hop.clickbank.net/)
+
 ##4. Loss of Engine Power
 
 This is one people usually pick up on quickly. Most will notice a chance in the amount of power the vehicle has from take-off and how long it takes to get up to speed. Although, if you have been driving the vehicle for years this can sneak up on you. Does your vehicle have the power it had when you first purchased it? Over the years as the components wear you will lose some of that get-up-and-go. If you are looking at whether or not your engine is worn-out this one is important. As you lose compression and your turbo and related components wear down, you will see a significant drop in power.
+
+[![guns](./gun.png)](https://6e407jp-sdom8ke9m9joq8ey36.hop.clickbank.net/)
 
 ##5. Increased Oil Consumption
 
