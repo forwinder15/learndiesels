@@ -13,7 +13,7 @@ I have seen a lot of articles out there on the best tools to have as a diesel te
 
 ***This list is not meant to be exhaustive. It is meant to give you a good idea of what you need to get started. You don't have to start with a complete set but, you need the essentials.*** Borrowing tools is not a good route to take.
 
-I have only listed a few of the tools I recommend in the list. Scroll past the list to see more about tips for buying and what is the best bang for the buck.
+I have listed a few of the tools I recommend in the list they are links to amazon. Scroll past the list to see more about tips for buying and what is the best bang for the buck.
 
 You can also <a href="./Toolguide.pdf" download="Toolguide.pdf">Download this PDF</a> and print it off.  
 
@@ -22,7 +22,7 @@ You can also <a href="./Toolguide.pdf" download="Toolguide.pdf">Download this PD
 
 **1. Toolbox or Cart**
 
-* Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart (Link To Amazon)](https://amzn.to/2WCCyMh)**
+* Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)**
 
 If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really cool Husky box on Amazon](https://amzn.to/2wQWwKp). It has a stainless steel top and is 72" long for under 1200 bucks. See if Snap-on can beat that price. 
 
@@ -30,21 +30,24 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 **2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
 
-* 3/16” - 5/8” 6 point and 12 point
+* 3/16” - 5/8” 6 point and 12 point 
 * 5mm - 15mm 6 point and 12 point
 * 3" & 6" Extensions 
+* Here is a Gearwrench set. [Check out the latest price on Amazon](https://amzn.to/3j3lY1W)
 
 **3. 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact**
 
 * 5/16” - 1” 6 point and 12 point
 * 7mm - 20mm 6 point and 12 point
 * 3", 6", 12", 24" Extensions
+* Here is a Gearwrench set. [Check out the latest price on Amazon](https://amzn.to/34kPL2b)
 
 **4. 1/2 Drive Sockets Standard (SAE) & Metric Deep, shallow and Impact**
 
 * 3/8” - 1 1/4” 6 point
 * 10mm - 27mm 6 point
 * 3", 6" & 12" Extensions
+* Here is a full Gearwrench set. [Check out the latest price on Amazon](https://amzn.to/2Eooykg)
 
 **5. Bit Adapters**
 
