@@ -35,8 +35,6 @@ Diesel isn’t cheap! Spending a little extra at the pump these days? This may n
 
 This is one people usually pick up on quickly. Most will notice a chance in the amount of power the vehicle has from take-off and how long it takes to get up to speed. Although, if you have been driving the vehicle for years this can sneak up on you. Does your vehicle have the power it had when you first purchased it? Over the years as the components wear you will lose some of that get-up-and-go. If you are looking at whether or not your engine is worn-out this one is important. As you lose compression and your turbo and related components wear down, you will see a significant drop in power.
 
-[![guns](./gun.png)](https://6e407jp-sdom8ke9m9joq8ey36.hop.clickbank.net/)
-
 ##5. Increased Oil Consumption
 
 Making another pitstop for oil top off? Lookout! Your engine might be on its way out. If you look around where you normally park and don’t see any signs of a leak and you looked around the engine and it is all dry it may be a compression issue. **_There are some ways that oil can escape through different components with no sign of leakage_** If your oil cooler goes out it will up the cooling system. That being said, when an engine ages and all the parts wear down oil will begin to pass slowly being burned and escaping out of the exhaust. I have seen some so wore down that the exhaust drips with oil! Don’t be that guy. Keep an eye out when you have to add between oil changes.

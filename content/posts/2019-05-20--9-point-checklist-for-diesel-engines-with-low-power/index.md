@@ -77,6 +77,10 @@ There are many ways the TPS (Throttle Position Sensor) can fail. Do not think th
 
 It is best to hook up to the manufactures diagnostic software and take a look at the operation of the TPS. I know Cummins Insite has a test you can run, and you can look at it manually. You can move the pedal and see if the software displays the correct percentage. If you have the pedal 50% depressed the software should indicate that within reason.
 
+<a href="https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/"> <img 
+src="http://www.furniturecraftplans.com/images/banner-728x90.gif" 
+width="728" height="90"> </a>
+
 ##6. Failing injectors
 
 If you have an injector that is not operating correctly you will have a loss of power. Injector issues do no always throw engine codes. I have seen several times in my career an engine how 1 or even more bad injectors and never turn on the check engine light.
