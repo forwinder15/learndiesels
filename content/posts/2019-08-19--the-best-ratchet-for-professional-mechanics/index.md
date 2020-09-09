@@ -42,9 +42,9 @@ It is nice to have a lighter ratchet, but I would never sacrifice that for quali
 
 All the tools I list will be lifetime warranty, but it is important to note that not all are hassle free. I will note in each tool how good the process is. Some will do an instant swap out and some will require you to mail them in.
 
-Let’s take a look at the top 10 ratchets for a professional mechanic
+**Let’s take a look at the top 10 ratchets for a professional mechanic** <a name="top"></a>
 
-##1. GearWrench 81210P <a name="top"></a>
+##1. GearWrench 81210P
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
