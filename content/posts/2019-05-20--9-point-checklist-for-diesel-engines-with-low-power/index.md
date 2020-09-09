@@ -11,7 +11,9 @@ So, your diesel engine has low power. She just doesn’t climb the hills like sh
 
 This is a common problem with really many different causes **depending on the symptoms**. You might also say it is not pulling under a load. However, you describe it, loss of power in an over the road truck or a piece of equipment can be dangerous or even fatal depending on the circumstances.
 
-what causes a diesel engine to lose power? **A lot of different things can cause a loss of power in a diesel engine. I have compiled a list of 12 things to check if this is happening to you. Let’s take a look**
+What causes a diesel engine to lose power? **These are the 9 most common causes of low power: Check engine light, Dirty fuel filter, Intake air leak or restriction, Plugged exhaust, Malfunctioning throttle pedal, Failing injectors, Low fuel pressure, Malfunctioning Turbo, and Internal engine problems**
+
+[![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
 
 ##1. Check engine light
 
@@ -77,9 +79,7 @@ There are many ways the TPS (Throttle Position Sensor) can fail. Do not think th
 
 It is best to hook up to the manufactures diagnostic software and take a look at the operation of the TPS. I know Cummins Insite has a test you can run, and you can look at it manually. You can move the pedal and see if the software displays the correct percentage. If you have the pedal 50% depressed the software should indicate that within reason.
 
-<a href="https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/"> <img 
-src="http://www.furniturecraftplans.com/images/banner-728x90.gif" 
-width="728" height="90"> </a>
+[![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
 
 ##6. Failing injectors
 
