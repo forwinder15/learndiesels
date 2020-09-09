@@ -13,6 +13,8 @@ Why would a diesel have blue smoke? **Blue smoke only occurs for one reason, exc
 
 Your burning oil. That part is simple. Understanding all the different reasons you can have oil in the cylinders is not. Here are the things it could be and what to look for...
 
+[![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
+
 ## 1. Is it really blue?
 
 Spotting blue smoke can be difficult if you don't know what to look for. The "blue" color is often faint. You should be able to see a blue haze to an overall "grey" kind of smoke. You can often smell 👃 the difference. Oil smoke has a distinct smell, like an asphalt parking lot or roofing tar on a hot day. If it is blue, I should say that **_blue smoke should not be happening at anytime._** It is evidence of a problem and should be investigated.
@@ -75,7 +77,7 @@ Look at the blow-by tube and breather filter element (if equipped). Sometimes th
 
 Now you are in the more advanced inspection. This will require more time and you will be able to pin point which cylinder is allowing oil to pass by. If you have got to this point things can get hairy and expensive. Remember to always have the maintenance manual to find disassembly instructions for your specific engine. these can be extremely useful if you don't have it down to a science. Nothing wrong with looking at the instructions guys.
 
----
+## [![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
 
 ##Summing up
 
