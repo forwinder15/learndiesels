@@ -23,9 +23,9 @@ You can also <a href="./Toolguide.pdf" download="Toolguide.pdf">Download this PD
 
 - Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)**
 
-If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really cool Husky box on Amazon](https://amzn.to/2wQWwKp). It has a stainless steel top and is 72" long for under 1200 bucks. See if Snap-on can beat that price.
+If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1). It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.
 
-![toolbox](huskyl.png)
+![toolbox](husky1.png)
 
 **2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
 
