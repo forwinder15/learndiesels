@@ -13,7 +13,7 @@ This is a common problem with really many different causes **depending on the sy
 
 What causes a diesel engine to lose power? **These are the 9 most common causes of low power: Check engine light, Dirty fuel filter, Intake air leak or restriction, Plugged exhaust, Malfunctioning throttle pedal, Failing injectors, Low fuel pressure, Malfunctioning Turbo, and Internal engine problems**
 
-[![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
+[![woodwork](./wood.png)](https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/)
 
 ##1. Check engine light
 

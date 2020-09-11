@@ -19,7 +19,7 @@ This is very common. It will happen often at startup in cold weather with lower 
 
 **_If the smoke is really just a puff there is not much to worry about. Especially if it has been sitting. It could just be built up condensation._**
 
-[![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
+[![woodwork](./wood.png)](https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/)
 
 If it lasts a few minutes after the engine is started and there is a **rich diesel smell 👃** they may be some cause for concern. Some of the likely causes include,
 
