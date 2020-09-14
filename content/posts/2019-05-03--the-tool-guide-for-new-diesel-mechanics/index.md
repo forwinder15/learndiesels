@@ -32,14 +32,12 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 - 3/16” - 5/8” 6 point and 12 point
 - 5mm - 15mm 6 point and 12 point
 - 3" & 6" Extensions
-- [Here is a Gearwrench set.](https://amzn.to/3j3lY1W)
 
 **3. 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact**
 
 - 5/16” - 1” 6 point and 12 point
 - 7mm - 20mm 6 point and 12 point
 - 3", 6", 12", 24" Extensions
-- [Here is a Gearwrench set.](https://amzn.to/34kPL2b)
 
 **4. 1/2 Drive Sockets Standard (SAE) & Metric Deep, shallow and Impact**
 
