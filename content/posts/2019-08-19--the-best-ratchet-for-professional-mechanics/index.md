@@ -9,13 +9,13 @@ author: Johnathan Coker
 
 Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone elses will not do. You need your favorite. The one that has got you through thick and thin.
 
-I have 10 3/8 ratchets and I use one. My favorite. This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
+I have **10** 3/8 ratchets and **I use one.** My favorite. This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
 
-You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, check out the top 10 ratchets for professionals. **_We are only going to look at 3/8” ratchets as they are the most common and most used I would say._**
+You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **_We are only going to look at 3/8” ratchets as they are the most common and most used I would say._**
 
 [Skip to the list](#top)
 
-##Aspects to consider when looking at a ratchet.
+##Aspects to consider when shopping for a ratchet.
 
 ###Tooth or position count
 
@@ -27,9 +27,9 @@ The pawl design is not your dad’s shirt. The “pawl” is the mechanism that 
 
 ###Handle design
 
-This important factor will make you decide whether or not you enjoy using your ratchet or not. There are several types. Some ratchets have round handles others are more rectangular and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip that the rubber, but the rubber gets nasty over time and if you clean with brake cleaner it breaks it down.
+This important factor will make you decide whether or not you enjoy using your ratchet. There are several types. Some ratchets have round handles others are more rectangular and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip that the rubber, but the rubber gets nasty over time and if you clean with brake cleaner it breaks it down.
 
-In addition, there are several “head:” designs now. There are “flex” heads, “round” heads and "tear drop" heads as well as other variations. I prefer a “flex” head and it allows you to adjust to the plane of a bolt head but as you review the list, I have made you can see the different types of heads.
+In addition, there are several “head” designs now. There are “flex” heads, “round” heads and "tear drop" heads as well as other variations. I prefer a “flex” head and it allows you to adjust to the plane of a bolt head. As you review the list you can see I have included several different types of heads.
 
 ###Profile
 
@@ -40,7 +40,11 @@ It is nice to have a lighter ratchet, but I would never sacrifice that for quali
 
 ###Warranty
 
-All the tools I list will be lifetime warranty, but it is important to note that not all are hassle free. I will note in each tool how good the process is. Some will do an instant swap out and some will require you to mail them in.
+All the tools I list will have a lifetime warranty, but it is important to note that **_not all are hassle free._** I will note in each tool review how good the process is. Some will do an instant swap out and some will require you to mail them in. This can be a very easy or frustrating process. So, it is an important aspect to consider.
+
+###Cost
+
+This is really up to you and your pocket book. Willing to pay a bit more? You can have one that will last and become one of your favorite things. That's what you need to do. Don't cheap out. I understand if things are tight and there are some less expensive options for you.
 
 **Let’s take a look at the top 10 ratchets for a professional mechanic** <a name="top"></a>
 
@@ -48,7 +52,7 @@ All the tools I list will be lifetime warranty, but it is important to note that
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
-Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bees ‘knees.
+Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this Youtube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bee's knees.
 
 I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B)
 
@@ -60,12 +64,13 @@ I would recommend these things all day, but the proof is in the pudding as they 
 - **Profile** - 0.9 inches flex-head
 - **Warranty** - Mail in
 - **Weight and Length** - 15.8 ounces, 15.9 inches
+- **Cost** - **\$\$**
 
 ##2. Snap-on F80
 
 ![snap-on](./snap.jpg)
 
-While Snap-on quality is really good this list is compiled by value for money. Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
+While Snap-on quality is really good this list is compiled by **value for money.** Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
 
 [Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
 
@@ -77,12 +82,33 @@ While Snap-on quality is really good this list is compiled by value for money. S
 - **Profile** - 0.6 inches
 - **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 - **Weight and Length** - 11-13 ounces, 11.3 inches
+- **Cost** - **\$\$\$\$**
 
-##3. Kobalt 85860
+##3. Snap-on f80 long handle
+
+![snap2](./snap2.png)
+
+Another Snap-on tops the list. If you just need the convenience and name brand and you are willing to drop some bread 🍞 this is a great pick. It's low profile and longer handle will be a benefit in tight areas. I am not an "all snap-on guy" but this one is a great.
+
+This is an awesome ratchet and you can’t go wrong with it. The only questions I have is how much are you willing to pay?
+
+You can find these on eBay for around 150 bucks normally. Stay off the truck when possible.
+
+###The Specs
+
+- **Tooth count** - 80 count and a 4.5-degree arc
+- **Pawl design** - Patented pawls
+- **Handle design** - Chrome. Round. Long Handle Flex Head.
+- **Profile** - .6 inches
+- **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
+- **Weight and Length** - 15-18 ounces, 11-1/2 inches
+- **Cost** - **\$\$\$\$**
+
+##4. Kobalt 85860
 
 ![Kobalt](./kob.png)
 
-Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. The one knock I have is they don’t seem to last as long for me. I have to get them replaced once a year. Not to shabby considering its full time use but others are better.
+Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. The one knock I have is they don’t seem to last as long for me. I have to get them replaced once a year. Not too shabby considering its full time use, but others are better.
 
 [Check out the latest price on Amazon](https://amzn.to/34tI7PA)
 
@@ -94,31 +120,13 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 - **Profile** - 0.6 inches
 - **Warranty** - Hassle free trade out. As long as they have one in stock. I have never had an issue
 - **Weight and Length** - 11-13 ounces, 11.3 inches
+- **Cost** - **\$\$**
 
-##4. Snap-on f80 long handle
-
-![snap2](./snap2.png)
-
-Another Snap-on tops the list. If you just need the conveniance and name brand and you are willing to drop some bread 🍞 this is a great pick. It's low profile and longer handle will be a benefit in tight areas. I am not a all snap-on guy but this one is a great one.
-
-This is an awesome ratchet and you can’t go wrong with it. The only questions I have is how much are you willing to pay?
-
-You can find these on eBay for around 150 bucks normally.
-
-###The Specs
-
-- **Tooth count** - 80 count and a 4.5-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Chrome. Round. Long Handle Flex Head.
-- **Profile** - .6 inches
-- **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
-- **Weight and Length** - 15-18 ounces, 11-1/2 inches
-
-##5. Husky
+  ##5. Husky
 
 ![Husky](./husky.png)
 
-I have a special place in my heart for Husky tools. I started being a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. Solid choice for a professional.
+I have a special place in my heart for Husky tools. I started as a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. Solid choice for a professional.
 
 ###The Specs
 
@@ -128,6 +136,7 @@ I have a special place in my heart for Husky tools. I started being a diesel tec
 - **Profile** - 1 inch
 - **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail in to Stanley the principle owner of Husky
 - **Weight and Length** - 11-13 ounces, 11.3 inches
+- **Cost** - **\$**
 
 ##6. Cornwell JR40
 
@@ -145,6 +154,7 @@ Cornwell rounds off this top ten with a decent ratchet. They make tools that are
 - **Profile** - 0.9 inches
 - **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 - **Weight and Length** - 8 ounces, 10-1/4 inches
+- **Cost** - **\$\$\$**
 
 ##7. Matco BFR188LFM
 
@@ -164,6 +174,7 @@ You can find these on eBay for around 150 bucks normally.
 - **Profile** - 1-1.5 inches
 - **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 - **Weight and Length** - 15-18 ounces, 18-1/2 inches
+- **Cost** - **\$\$\$\$**
 
 ##8. Mac Tools
 
@@ -181,6 +192,7 @@ Then there is the other variable. Is there a Mac man in your area? They are not 
 - **Profile** - 1-1.5 inches
 - **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 - **Weight and Length** - 15-18 ounces, 18-1/2 inches
+- **Cost** - **\$\$\$\$**
 
 ##9. GearWrench 81211F
 
@@ -198,6 +210,7 @@ Another solid choice from Gearwrench. This is a nice solid ratchet with no frill
 - **Profile** - 0.9 inches
 - **Warranty** - Mail in
 - **Weight and Length** - 15-18 ounces, 10-1/4 inches
+- **Cost** - **\$\$**
 
 ##10. Craftsman CMMT81748
 
@@ -217,6 +230,7 @@ I plan on buying one in the next few days to give it a full review. I will updat
 - **Profile** - 0.7 inches
 - **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet.
 - **Weight and Length** - 11.2 ounces, 9.4 inches
+- **Cost** - **\$**
 
 ##Summing up
 
