@@ -1,5 +1,5 @@
 ---
-title: Complete Diesel Diagnosis Guide
+title: Complete Diesel Black Smoke Diagnosis Guide
 category: "Diagnosing Problems"
 cover: bsdmb.jpg
 author: Johnathan Coker
