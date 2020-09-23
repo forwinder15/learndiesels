@@ -15,7 +15,7 @@ What tools do I need to be a diesel mechanic? **I have complied a list with 18 c
 
 I have listed a few of the tools I recommend in the list they are links to amazon. Scroll past the list to see more about tips for buying and what is the best bang for the buck.
 
-You can also <a href="./Toolguide.pdf" download="Toolguide.pdf">Download this PDF</a> and print it off.
+#### Want to print the list? [Click Here to download the PDF](/toolguide)
 
 ## Here is a complete list of tools for the new diesel mechanic
 
