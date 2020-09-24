@@ -203,7 +203,9 @@ I plan on buying one in the next few days to give it a full review. I will updat
 - **Weight and Length** - 11.2 ounces, 9.4 inches
 - **Cost** - **\$**
 
-##**Aspects to consider when shopping for a ratchet.** <a name="guide"></a>
+<a name="guide"></a>
+
+##**Aspects to consider when shopping for a ratchet.**
 
 All of the factors are important in Ratchets. Look through and learn all the different aspects. I learned a lot writing it and I hope its helpful.
 
