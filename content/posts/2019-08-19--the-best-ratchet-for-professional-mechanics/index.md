@@ -1,5 +1,5 @@
 ---
-title: Best 10 Ratchets For The Professional Mechanic
+title: Best 10 Ratchets For The Professional Mechanic And Buyers Guide
 category: "Recommended Products"
 cover: bestra.PNG
 author: Johnathan Coker
@@ -9,44 +9,15 @@ author: Johnathan Coker
 
 Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone elses will not do. You need your favorite. The one that has got you through thick and thin.
 
-I have **10** 3/8 ratchets and **I use one.** My favorite. This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
+> I have **10** 3/8 ratchets and **I use one.** My favorite.
 
-You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **_We are only going to look at 3/8” ratchets as they are the most common and most used I would say._**
+This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
 
-[Skip to the list](#top)
+You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **We are only going to look at 3/8” ratchets. All the the specs that I compare are explained in the buyers guide at the bottom**
 
-##Aspects to consider when shopping for a ratchet.
+##[Skip To The Buyers Guide](#guide)
 
-###Tooth or position count
-
-The number of teeth on the gear of a ratchet will affect the arc at which you can operate. If you are working in a tighter spot, then the higher tooth count is going to be beneficial. You will be able to grab more teeth and have the power to turn that bolt loose where others would be stuck, and you would be hunting a wrench that will fit. 🔧
-
-###Pawl design
-
-The pawl design is not your dad’s shirt. The “pawl” is the mechanism that sets against the gear head and interlocks to let you turn in the opposite direction. You want a double pawl or at least a high contacting one. This is usually what snaps if the bit itself does not go.
-
-###Handle design
-
-This important factor will make you decide whether or not you enjoy using your ratchet. There are several types. Some ratchets have round handles others are more rectangular and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip that the rubber, but the rubber gets nasty over time and if you clean with brake cleaner it breaks it down.
-
-In addition, there are several “head” designs now. There are “flex” heads, “round” heads and "tear drop" heads as well as other variations. I prefer a “flex” head and it allows you to adjust to the plane of a bolt head. As you review the list you can see I have included several different types of heads.
-
-###Profile
-
-The thickness of a ratchet is very important. There is always a space to be gotten into. Most of the time you need a thinner ratchet, right? Thickness of ratchets greatly varies and is an important aspect to consider when looking for your ratchet.
-
-###Weight and length
-It is nice to have a lighter ratchet, but I would never sacrifice that for quality as for length, This will vary by your needs. I recommend a medium length but, you really need several lengths if you do this for a living.
-
-###Warranty
-
-All the tools I list will have a lifetime warranty, but it is important to note that **_not all are hassle free._** I will note in each tool review how good the process is. Some will do an instant swap out and some will require you to mail them in. This can be a very easy or frustrating process. So, it is an important aspect to consider.
-
-###Cost
-
-This is really up to you and your pocket book. Willing to pay a bit more? You can have one that will last and become one of your favorite things. That's what you need to do. Don't cheap out. I understand if things are tight and there are some less expensive options for you.
-
-**Let’s take a look at the top 10 ratchets for a professional mechanic** <a name="top"></a>
+**Let’s take a look at the Best 10 ratchets for a professional mechanic**
 
 ##1. GearWrench 81210P
 
@@ -231,6 +202,50 @@ I plan on buying one in the next few days to give it a full review. I will updat
 - **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet.
 - **Weight and Length** - 11.2 ounces, 9.4 inches
 - **Cost** - **\$**
+
+##**Aspects to consider when shopping for a ratchet.** <a name="guide"></a>
+
+All of the factors are important in Ratchets. Look through and learn all the different aspects. I learned a lot writing it and I hope its helpful.
+
+**Tooth or position count**
+
+The number of teeth on the gear of a ratchet will affect the arc at which you can operate. If you are working in a tighter spot, then the higher tooth count is going to be beneficial. You will be able to grab more teeth and have the power to turn that bolt loose where others would be stuck, and you would be hunting a wrench that will fit. 🔧
+
+We have seen the race to the highest tooth count over the last few years. In fact one of my favorite ratchets is the 120 tooth count Gear-wrench. One issue is some of these higher count ratchets can have more chance of slippage. More teeth can equal less strength.
+
+**Pawl design**
+
+The pawl design is not your dad's shirt. The "pawl" is the mechanism that sets against the gear head and interlocks to let you turn in the opposite direction. You want a double pawl or at least a high contacting one. This is usually what snaps if the bit itself does not go.
+
+![pawls](./com.jpg)
+
+This is an important factor if you are looking for strength in ratchet. There are many designs. you can see from the images that everyone has their own take.
+
+![morepawls](./com4.jpg)
+
+**Handle design**
+
+This important factor will make you decide whether or not you enjoy using your ratchet. There are several types. Some ratchets have round handles others are more rectangular and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip that the rubber, but the rubber gets nasty over time and if you clean with brake cleaner it breaks it down.
+
+![handle](./handle.jpeg)
+
+In addition, there are several "head" designs now. There are "flex" heads, "round" heads and "tear drop" heads as well as other variations. I prefer a "flex" head and it allows you to adjust to the plane of a bolt head. As you review the list you can see I have included several different types of heads.
+
+**Profile**
+
+The thickness of a ratchet is very important. There is always a space to be gotten into. Most of the time you need a thinner ratchet, right? Thickness of ratchets greatly varies and is an important aspect to consider when looking for your ratchet.
+
+**Weight and length**
+
+It is nice to have a lighter ratchet, but I would never sacrifice that for quality as for length, This will vary by your needs. I recommend a medium length but, you really need several lengths if you do this for a living.
+
+**Warranty**
+
+All the tools nowadays seem to have a lifetime warranty, but it is important to note that **_not all are hassle free._** Depending on the company is a measure of how good the process is. Some will do an instant swap out and some will require you to mail them in. This can be a very easy or frustrating process. So, it is an important aspect to consider.
+
+**Cost**
+
+This is really up to you and your pocket book. Willing to pay a bit more? You can have one that will last and become one of your favorite things. That's what you need to do. Don't cheap out. I understand if things are tight and there are some less expensive options for you.
 
 ##Summing up
 
