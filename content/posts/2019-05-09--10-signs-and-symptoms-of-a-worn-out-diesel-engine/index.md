@@ -15,8 +15,6 @@ There are several signs and symptoms that your diesel engine is not going to las
 
 When your truck is continually cranking and not starting up, this could be lots of things but, it can also be a sign of low-compression. Diesel engines rely on compression to start and run. It must have the proper combustion in order to run properly. **Diesel is all about the squeeze and achieving the right pressure to cause the explosion.** As your engine ages the component will wear and cause issues in the seal of the chamber. This means that a component in your combustion chamber is worn. It could be a piston, rings, cylinder wall / liners, or valves. When this is the culprit, the problem will be worse after sitting or in colder or even hotter weather. If your diesel is not cranking up don’t jump to this conclusion! Do a proper diagnosis. After you have found that it is not any of the normal issues it is time to run compression test. Having issues starting? Check out this article I wrote on [Diesel starting issues](/the-complete-guide-to-starting-a-diesel-in-cold-weather/)
 
-<div id="amzn-assoc-ad-85c68cd2-ae43-4e39-8043-0d431c995993"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=85c68cd2-ae43-4e39-8043-0d431c995993"></script>
-
 ##2. Blue Smoke
 
 Blue smoke is no good. I wrote a full article will all the possible problems [Here](/the-causes-of-blue-smoke-from-a-diesel-and-what-to-look-for/). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines. If you have found the problem to not be in the fuel a component is messed up. As the engine wears you will see constant blue smoke as the clearances just can’t be maintained on the cylinder walls and oil stays on the walls of the cylinder and gets burned along with the fuel. Once again, the compression check is going to let you know where this problem is. If it is very old a complete in-frame may be needed.
@@ -26,8 +24,6 @@ Blue smoke is no good. I wrote a full article will all the possible problems [He
 ##3. Poor Fuel Economy
 
 Diesel isn’t cheap! Spending a little extra at the pump these days? This may not just be a wallet problem. This could be sign of wear in the injectors or ring wear. If the injectors are worn out or malfunctioning, they need to repair as soon as possible. Leaking extra fuel into the chamber can cause all sorts of bad things to happen. When more fuel is added the balance is not achieved and the burn is not complete. That is when you see that extra fuel come out in the form of black smoke. When the rings are worn, they allow that extra fuel to slide down into the oil. You can see a misfire and/or a rough idle from this. These things can damage other components and possibly even cause a complete failure of the engine.
-
-[![smoker](./smoker.png)](https://836eego8vbiz3za30xmrqoer8d.hop.clickbank.net/)
 
 ##4. Loss of Engine Power
 

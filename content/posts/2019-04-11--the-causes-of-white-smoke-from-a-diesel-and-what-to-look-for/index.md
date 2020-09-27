@@ -19,8 +19,6 @@ This is very common. It will happen often at startup in cold weather with lower 
 
 **_If the smoke is really just a puff there is not much to worry about. Especially if it has been sitting. It could just be built up condensation._**
 
-[![woodwork](./wood.png)](https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/)
-
 If it lasts a few minutes after the engine is started and there is a **rich diesel smell 👃** they may be some cause for concern. Some of the likely causes include,
 
 - Faulty injectors - stuck open
@@ -43,8 +41,6 @@ This will be a steady stream a smoke after starting up. Usually you will see the
 - leaking Oil cooler (Through most of the time the oil passes into the coolant)
 
 Remember, significant damage will occur if you run the engine with water in the combustion chamber.
-
-[![smoker](./smoker2.png)](https://836eego8vbiz3za30xmrqoer8d.hop.clickbank.net/)
 
 ##3. Continuous "light" white smoke
 
