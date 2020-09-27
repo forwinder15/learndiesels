@@ -7,10 +7,7 @@ const Bodytext = props => {
   return (
     <React.Fragment>
       <div className="bodytext" dangerouslySetInnerHTML={{ __html: html }} />
-      
-      <div id="amzn-assoc-ad-85c68cd2-ae43-4e39-8043-0d431c995993"></div>
-      <script async src='//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=85c68cd2-ae43-4e39-8043-0d431c995993'></script>
-      
+
       <style jsx>{`
         .bodytext {
           animation-name: bodytextEntry;
