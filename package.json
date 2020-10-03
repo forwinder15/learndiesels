@@ -4,6 +4,7 @@
   "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@wardpeet/gatsby-image-nextgen": "0.0.1",
     "antd": "^3.7.0",
     "fontfaceobserver": "^2.0.13",
     "gatsby": "^2.20.8",
