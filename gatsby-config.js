@@ -147,6 +147,7 @@ module.exports = {
     },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `@wardpeet/gatsby-image-nextgen`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
     {
