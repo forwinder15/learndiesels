@@ -99,6 +99,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
+          `@wardpeet/gatsby-image-nextgen`,
           {
             resolve: `gatsby-remark-images`,
             options: {
