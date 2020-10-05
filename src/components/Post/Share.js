@@ -2,16 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 import {
   FacebookShareButton,
-  GooglePlusShareButton,
-  LinkedinShareButton,
   TwitterShareButton,
   FacebookShareCount,
-  GooglePlusShareCount,
-  LinkedinShareCount,
   FacebookIcon,
-  TwitterIcon,
-  GooglePlusIcon,
-  LinkedinIcon
+  TwitterIcon
 } from "react-share";
 
 import config from "../../../content/meta/config";
