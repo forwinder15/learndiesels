@@ -12,10 +12,7 @@ const PostTemplate = props => {
   const {
     data: {
       post,
-      authornote: { html: authorNote },
-      site: {
-        siteMetadata: { facebook }
-      }
+      authornote: { html: authorNote }
     },
     pageContext: { next, prev }
   } = props;
@@ -30,7 +27,7 @@ const PostTemplate = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo data={post} facebook={facebook} />
+      <Seo data={post} />
     </React.Fragment>
   );
 };
