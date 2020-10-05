@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import config from "../../../content/meta/config";
 
 const Seo = props => {
-  const { data, facebook } = props;
+  const { data } = props;
   const postTitle = ((data || {}).frontmatter || {}).title;
   const postDescription = ((data || {}).frontmatter || {}).description;
   const postCover = ((data || {}).frontmatter || {}).cover;
@@ -43,8 +43,7 @@ const Seo = props => {
 };
 
 Seo.propTypes = {
-  data: PropTypes.object,
-  facebook: PropTypes.object.isRequired
+  data: PropTypes.object
 };
 
 export default Seo;
