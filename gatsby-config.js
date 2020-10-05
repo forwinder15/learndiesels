@@ -49,7 +49,8 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
-    `gatsby-plugin-styled-jsx-postcss`, // as above
+    `gatsby-plugin-styled-jsx-postcss`,
+    `gatsby-plugin-preact`, // as above
     {
       resolve: `gatsby-plugin-layout`,
       options: {
@@ -99,7 +100,6 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
-          `@wardpeet/gatsby-image-nextgen`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -148,7 +148,6 @@ module.exports = {
     },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `@wardpeet/gatsby-image-nextgen`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
     {

@@ -13,9 +13,7 @@ This is a common problem with really many different causes **depending on the sy
 
 What causes a diesel engine to lose power? **These are the 9 most common causes of low power: Check engine light, Dirty fuel filter, Intake air leak or restriction, Plugged exhaust, Malfunctioning throttle pedal, Failing injectors, Low fuel pressure, Malfunctioning Turbo, and Internal engine problems**
 
-[![woodwork](./wood.png)](https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/)
-
-##1. Check engine light
+## 1. Check engine light
 
 You might be thinking, well duh! 🙄 Well read on before you judge. A check engine light indicates that there is an issue with the systems or sensors on your system. If it is on, start here and see why.
 
@@ -27,7 +25,7 @@ A **derate** is when the ECM has decided for you that you need to head in to the
 
 This is one of the more important checks because, even if you are not in derate a check engine light could indicate that you have another issue causing your power woes. Think about it, you could have a missing injector or stuck turbo actuator. The scenarios are endless. If that lamp is on this is the best place to start.
 
-##2. Dirty Fuel Filter
+## 2. Dirty Fuel Filter
 
 A very common reason for low power complaints is the **fuel filter.** After the filter gets dirty beyond its limit it will not operate effectively. Once it is clogged, it is going to cause you problems.
 
@@ -36,9 +34,7 @@ It is a good idea with any power complaint to go ahead and change the fuel filte
 Most diesels will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to just do both. Especially when there has been a complain about power.
 If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
 
-[![smoker](./smoker.png)](https://836eego8vbiz3za30xmrqoer8d.hop.clickbank.net/)
-
-##3. Intake air leak or restriction
+## 3. Intake air leak or restriction
 
 The next great place to look if your check engine light is not on is the intake air system. In most diesels there is a turbo and it is sending compressed air to the engine creating boost and giving it that much needed power.
 
@@ -62,7 +58,7 @@ Carefully look at all the hoses. Look for any signs of rubbing or chaffing. A lo
 
 You can also have a restriction causing that lack of power. If your air filter is clogged or dirty or you have some sort of obstruction in the air intake system, your engine will not be able to breath and cause a dramatic amount of power to be lost. Make sure there is nothing on the filter and is not soiled to the point of clogging.
 
-##4. Plugged exhaust
+## 4. Plugged exhaust
 
 This is an often-overlooked issue. A plugged exhaust system can create too much back pressure and cause a serious decline in the power of the engine. There is an amount of time based on the manufacture of the muffler to which it should be replaced. If it is very old, you should think about replacing it. Some signs your muffler or DPF (Diesel Particulate Filter) are clogged are:
 
@@ -71,7 +67,7 @@ This is an often-overlooked issue. A plugged exhaust system can create too much 
 - Condensation from exhaust
 - Strange noise from exhaust
 
-##5. Malfunctioning throttle pedal
+## 5. Malfunctioning throttle pedal
 
 Another problem you could have if you are experiencing low power is a malfunctioning throttle pedal. You may think I should have included this in the **_check engine light_** section but I have seen many times an electronic throttle pedal has problems and not throw a code.
 
@@ -81,7 +77,7 @@ It is best to hook up to the manufactures diagnostic software and take a look at
 
 [![woodwork](./wood.png)]("https://59a2f8s41cnx7tcefic9wdn508.hop.clickbank.net/")
 
-##6. Failing injectors
+## 6. Failing injectors
 
 If you have an injector that is not operating correctly you will have a loss of power. Injector issues do no always throw engine codes. I have seen several times in my career an engine how 1 or even more bad injectors and never turn on the check engine light.
 
@@ -89,7 +85,7 @@ I you hear a **_miss_** in the engine it is best to have a closer look to see if
 
 It is not unusual to have more than one bad injector. Depending on the vehicle or equipment’s age and maintenance history I would most of the time recommend replaced all 6 if you are having issues. You can also have those sent out for testing and even to be rebuilt.
 
-##7. Low fuel pressure
+## 7. Low fuel pressure
 
 Another place to look in at the fuel pressure the engine has. Low fuel pressure will definitely cause a lack of power and with today’s high-pressure systems you can definably have some trouble here.
 
@@ -105,7 +101,7 @@ If your engine is starved for fuel a couple other things to check for are
 - **Porous fuel lines** – the braided fuel line soften over time will start to allow air into to fuel and cause all sorts of issues.
 - **Weak lift pump** – This can cause low power and intermittent hesitations. Even if it sounds fine! It is hard to measure in some applications, but I have seen this on many engines.
 
-##8. Malfunctioning Turbo
+## 8. Malfunctioning Turbo
 
 The turbo can have issues and cause substantial power loss. Regular inspection of the turbine inside is needed. If any trash enters the turbo the damage can be catastrophic. If the turbine is **chipped or scored** it will not be as efficient and a loss of power will occur.
 
@@ -113,7 +109,8 @@ Also, with today’s emissions systems we have turbo actuators and VGT (variable
 
 There are several diagnostic tests than can be run on the turbo and actuator. If you at all suspect the issue is here, run the tests and regroup.
 
-##9. Internal engine problems
+## 9. Internal engine problems
+
 The last place I want the problem to happen would be in the internal engine. Problems here can be difficult and expensive to fix but there are several things that can happen to cause low power that are inside the valve cover.
 
 - Broken rocker
@@ -128,6 +125,7 @@ The last place I want the problem to happen would be in the internal engine. Pro
 - Damaged cam shaft
 - Engine timing misaligned
 
-##Note: You may have more than one problem
+## Note: You may have more than one problem
+
 If you found an issue and fixed it and when you got back out on the road and it still didn’t have the power, it needed you may need to get back in there and go back to diagnostics. It is very common in my experience to have more than one issue causing low power. Do not be surprised if you find a loose clamp **and** a missing injector.
 A lot of times a smaller issue won’t be noticed until a domino effect happens and **two or even three** things happen effecting your power from the engine. Keep this in mind when you are diagnosing the problem with your engine.
