@@ -16890,7 +16890,7 @@ shallowequal@^1.0.1, shallowequal@^1.0.2, shallowequal@^1.1.0:
   resolved "https://registry.yarnpkg.com/shallowequal/-/shallowequal-1.1.0.tgz#188d521de95b9087404fd4dcb68b13df0ae4e7f8"
   integrity sha512-y0m1JoUZSlPAjXVtPPW70aZWfIL/dSP7AFkRnniLCrK/8MDKog3TySTBmckD+RObVxH0v4Tox67+F14PdED2oQ==
 
-sharp-cli@^1.7.0:
+sharp-cli@^1.14.1:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/sharp-cli/-/sharp-cli-1.14.1.tgz#13a19dfc021315a56807d69bbbf28c07d9ca247f"
   integrity sha512-51Vu+BGHhLH0bKWP60IHDVgx/NInfg9tlI9VrNOEZGx8b/Rxz5ugvlG0e/2CDtsRpVQfbbitN5bRcyoDMK2e6w==
