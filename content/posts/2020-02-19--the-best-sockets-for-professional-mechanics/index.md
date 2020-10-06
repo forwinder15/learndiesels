@@ -11,35 +11,35 @@ As a profession mechanic your sockets are important. You should invest in some g
 
 We are going to use **Standard 6 point 3/8 socket sets** as our baseline in this list. You can bet if this set is good the 12 point and 1/4 and 1/2 will be the same.
 
-##What makes a good socket?
+## What makes a good socket?
 
-###Durability
+### Durability
 
 This is possibly the most important feature in a good socket. As a pro you need a socket that is going to last. The last thing you want is cracking or wear making the socket not fit right.
 
 The main thing that kills chrome sockets is using them in an impact. Chrome sockets are made for hand tools and will last a long way if used properly.
 
-###Accurate sizing
+### Accurate sizing
 
 That Chinese set you bought may have been cheap but sometimes you get what you pay for. Take the time to find sockets that are sized correctly
 
-###Finish
+### Finish
 
 Different finishes will translate to different wear and usability.
 
-###Thickness
+### Thickness
 
 This will not only make a huge difference in wear it will also make it more or less difficult to get in to tight areas depending on the thickness
 
-###Warranty
+### Warranty
 
 Almost all tools now-a-days will proclaim their lifetime warranty but it is important to note that not all are **hassle free.** I will note in each tool how good the process is. Some will do an instant swap out and some will require you to mail them in.
 
-##List disclaimer
+## List disclaimer
 
 This list is based on value for the money. You may see some that surprise you but remember this list is compiled to give you the best socket for the money. So don’t get upset when snap-on isn’t number 1. 😆
 
-##1. SK Professional Tools 4613 13-Piece 3/8 in. Drive 6-Point Standard Socket Set
+## 1. SK Professional Tools 4613 13-Piece 3/8 in. Drive 6-Point Standard Socket Set
 
 ![sk](./sock.png)
 
@@ -55,7 +55,7 @@ Plus the warranty is a breeze. Had a couple broken impact sockets took no time t
 
 [Check out the latest price on Amazon](https://amzn.to/2PquXxP)
 
-###The Specs
+### The Specs
 
 - **Durability** -This set is manufactured to give superior service year after year and to last a lifetime with proper care. Quality tools manufactured for the American technician
 
@@ -69,7 +69,7 @@ Plus the warranty is a breeze. Had a couple broken impact sockets took no time t
 
 - **Where is it made?** - USA with American Steel
 
-##2. Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
+## 2. Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
 
 ![gear](./gwsoc.png)
 
@@ -79,7 +79,7 @@ This set of sockets is durable, accurate and even a bit thinner profile then oth
 
 [Check out the latest price on Amazon](https://amzn.to/38FAk3K)
 
-###The Specs
+### The Specs
 
 - **Durability** - The most used sockets will for years if you keep them out of your impact.
 
@@ -93,7 +93,7 @@ This set of sockets is durable, accurate and even a bit thinner profile then oth
 
 * **Where is it made?** - USA with American Steel
 
-##3. Blue Point 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
+## 3. Blue Point 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
 ![blue](./blue.png)
 
@@ -105,7 +105,7 @@ You will find the price varies. Blue point is on Amazon every once in a while an
 
 [Check out the latest price on Amazon](https://amzn.to/2VozJjf)
 
-###The Specs
+### The Specs
 
 - **Durability** - Last a lifetime. Very well made
 
@@ -119,7 +119,7 @@ You will find the price varies. Blue point is on Amazon every once in a while an
 
 - **Where is it made?** - USA with American Steel
 
-##4. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
+## 4. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
 ![snap](./snapp.png)
 
@@ -131,7 +131,7 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 [Check out the latest price on Ebay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575572689&toolid=10001&campid=5338659351&customid=&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSNAP-ON-211FSY-11pc-3-8-Dr-SAE-Shallow-Socket-Set-6pt-1-4-7-8-SEE-AD-INFO%2F254517791989%3Fepid%3D1411826649%26hash%3Ditem3b42714cf5%3Ag%3AD8gAAOSwbjpeTbMM)
 
-###The Specs
+### The Specs
 
 - **Durability** - Last a lifetime. One of the best in the business
 
@@ -145,7 +145,7 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 - **Where is it made?** - USA with American Steel
 
-##5. Matco SBM126TA 12-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 5. Matco SBM126TA 12-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![mat](./mat.png)
 
@@ -157,7 +157,7 @@ You can't always count on a Matco truck coming around to your shop. So it is som
 
 [Check out the latest price on matcotools.com](matcotools.com/catalog/product/SBM126TA/3-8-drive-12-piece-metric-6-point-chrome-socket-set/)
 
-###The Specs
+### The Specs
 
 - **Durability** - Opti-Torque™ applies torque to fastener sides, not corners which allows more torque to fastener and longer life
 
@@ -171,7 +171,7 @@ You can't always count on a Matco truck coming around to your shop. So it is som
 
 - **Where is it made?** - USA with American Steel
 
-##6. Mac Tools SXM146BRPT 14-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 6. Mac Tools SXM146BRPT 14-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![mac](./mac.png)
 
@@ -181,7 +181,7 @@ This set is going to be a great set if it works out for you. If would try to get
 
 [Check out the latest price on Mac Tools](https://www.mactools.com/en-us/Sockets/3-8-Drive-Chrome-Sockets/SXM146BRPT/14-PC-3-8-Drive-Metric-Socket-Set-6-PT-)
 
-###The Specs
+### The Specs
 
 - **Durability** - Great set. Last you a long time.
 
@@ -195,7 +195,7 @@ This set is going to be a great set if it works out for you. If would try to get
 
 - **Where is it made?** - USA with American Steel
 
-##7. Kobalt 0338615 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 7. Kobalt 0338615 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![kobalt](./kobalt.png)
 
@@ -205,7 +205,7 @@ They are definitely not top of the list but a great choice for the tight fisted 
 
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
-###The Specs
+### The Specs
 
 - **Durability** - Medium at best. Sockets are made from drop forged, heat-treated chrome vanadium steel for long lasting durability
 
@@ -219,13 +219,13 @@ They are definitely not top of the list but a great choice for the tight fisted 
 
 - **Where is it made?** - USA with American Steel
 
-##8. Crescent 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 8. Crescent 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
-![Crescent](./)
+![Crescent](./cresent.png)
 
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
-###The Specs
+### The Specs
 
 - **Durability** - Medium at best
 
@@ -239,13 +239,13 @@ They are definitely not top of the list but a great choice for the tight fisted 
 
 - **Where is it made?** - USA with American Steel
 
-##9. Husky 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 9. Husky 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
-![Husky](./)
+![Husky](./husky.png)
 
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
-###The Specs
+### The Specs
 
 - **Durability** - Medium at best
 
@@ -259,7 +259,7 @@ They are definitely not top of the list but a great choice for the tight fisted 
 
 - **Where is it made?** - USA with American Steel
 
-##10. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
+## 10. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![crap](./crapman.png)
 
@@ -269,7 +269,7 @@ You can save some bucks here and the warranty is great. So if money is tight �
 
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
-###The Specs
+### The Specs
 
 - **Durability** - Medium at best
 - **Finish** - Full polish chrome finish for corrosion resistance
@@ -282,7 +282,7 @@ You can save some bucks here and the warranty is great. So if money is tight �
 
 - **Where is it made?** - USA with American Steel
 
-##Summing up
+## Summing up
 
 Your sockets are important tools in your box. You use them so often and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
 
