@@ -11,7 +11,7 @@ As a profession mechanic your sockets are important. You should invest in some g
 
 We are going to use **Standard 6 point 3/8 socket sets** as our baseline in this list. You can bet if this set is good the 12 point and 1/4 and 1/2 will be the same.
 
-## What makes a good socket?
+## What makes a good socket
 
 ### Durability
 
@@ -223,6 +223,8 @@ They are definitely not top of the list but a great choice for the tight fisted 
 
 ![Crescent](./cresent.png)
 
+Crescent Looks like they are gonna be a good choice moving forward. They are made by Apex tools which also makes Gearwrench. They are pretty tough and really make a great socket for a budget price.
+
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
 ### The Specs
@@ -242,6 +244,8 @@ They are definitely not top of the list but a great choice for the tight fisted 
 ## 9. Husky 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
 ![Husky](./husky.png)
+
+I owned Husky sockets for over 10 years. Over my first years as a mechanic. They really make a decent product for mechanics. I did have a few of them replaced over the years but not as many as you think.
 
 [Check out the latest price on Amazon](https://amzn.to/2OZYrCI)
 
