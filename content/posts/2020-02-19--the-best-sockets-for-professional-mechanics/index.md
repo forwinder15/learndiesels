@@ -290,6 +290,6 @@ You can save some bucks here and the warranty is great. So if money is tight �
 
 Your sockets are important tools in your box. You use them so often and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
 
-I have taken the time to check out 10 different socket sets that I believe are made for pros. Remember just because I recommend a set doesn’t mean it would be perfect for you and your job. It really is a personal experience.
+Remember just because I recommend a set doesn’t mean it would be perfect for you and your job. It really is a personal experience.
 
 You need to try and see with tools like this. They really are like boots. Lots of boots are great but I like certain ones. So, take my list as a great starter and find your awesome sockets that work for you.
