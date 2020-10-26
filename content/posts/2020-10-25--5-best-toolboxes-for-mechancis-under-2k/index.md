@@ -5,7 +5,7 @@ cover: toolb.JPG
 author: Johnathan Coker
 ---
 
-![test](./ASE_large.png)
+![toolbox and truck](./toolb.JPG)
 
 As a professional mechanic, your box plays an important role in your life. You touch it every day. Is it _really_ just bent metal and slides? It holds your tools, keeps them in order, and keeps them safe. So, in this article, I want to answer "what makes a good toolbox". Then I will give me my list that my friends and I have compiled as the best toolboxes for your hard-earned money.
 
