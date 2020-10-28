@@ -9,13 +9,14 @@ author: Johnathan Coker
 
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.
 
-What does Black smoke from a diesel engine mean? **Black smoke occurs when partially burned fuel passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem**
+_What does Black smoke from a diesel engine mean?_
+**Black smoke occurs when partially burned fuel passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem**
 
 Whether or not is bad for your engine depends on what the cause of the black smoke is. **A little black smoke is normal on a properly functioning diesel engine**, but if the amount of smoke changes at different RPM and loads you have an issue. Here are the things it could be and then we will go into what to look for and steps to diagnose the problem...
 
 ![unsplash.com](./dontmean.jpg)
 
-##Causes of black smoke (In no particular order)
+## Causes of black smoke (In no particular order)
 
 - Incorrect timing
 - Dirty, worn or malfunctioning injectors
@@ -32,7 +33,7 @@ Whether or not is bad for your engine depends on what the cause of the black smo
 - Excessive carbon builds up in combustion chamber
 - Cool operating temperatures
 
-##Let's start as always with the most likely problems first 🕵️‍
+## Let's start as always with the most likely problems first 🕵️‍
 
 ## Air Restriction
 
@@ -107,22 +108,22 @@ It's on here because I have seen it first-hand. Continuous black smoke and just 
 
 ---
 
-##Summing up
+## Summing up
 
 Black smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by blue smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs. Have questions about [white smoke](../the-causes-of-white-smoke-from-a-diesel-and-what-to-look-for) or [blue smoke](../the-causes-of-blue-smoke-from-a-diesel-and-what-to-look-for)? Click the links to read those articles.
 
 **_See something I missed? Help me make it better, comment below. Thanks!_**
 
-##Related Questions
+## Related Questions
 
-####Does Black Smoke Cause poor fuel economy?
+#### Does Black Smoke Cause poor fuel economy?
 
 Yes. If you are having black smoke as mentioned in this article, it is caused by a poor air/fuel mixture. Too much fuel or too much air will cause poor fuel economy. Your engine needs the right mixture in order to achieve a clean burn and produce the intended amount of power. If your blowing black smoke, it does not mean more power, it means more wasted fuel.
 
-####Black smoke from diesel engine when starting
+#### Black smoke from diesel engine when starting
 
 If this is a modern engine you likely have an injector problem. On older engines this can happen. On older or worn engines blow smoke when the turbo is still spooling up because the amount of air has to catch up to the amount of diesel being injected.
 
-####My diesel has random puffs of black smoke
+#### My diesel has random puffs of black smoke
 
 I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”. While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst (Links to Amazon)](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.
