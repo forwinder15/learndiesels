@@ -13,9 +13,9 @@ _Do Diesel Mechanics Need A CDL?_
 
 **In short, No. I would say that most diesel mechanics don't have a CDL. While a CDL will make you more of an asset to a shop it is usually not required. Now let's look into this a little further. Should you get it anyway?**
 
-**_Note: You do need a CDL to drive commercial trucks on the roadway, this includes test driving after a repair._**
+**_Note: All Mechanics DO need a CDL to drive commercial trucks on the roadway, this includes test driving after a repair._**
 
-**Check out this guide that will make getting your CDL super easy. Get all the answers to the CDL exam [here].(<https://07e17hi5-8eqbw0xhk44tr2qe1.hop.clickbank.net/>)**
+**Check out this guide that will make getting your CDL super easy. Get all the answers to the CDL exam [here](https://07e17hi5-8eqbw0xhk44tr2qe1.hop.clickbank.net/)**
 
 ## Is a CDL required? No. Would it benefit you? Yes
 
@@ -44,7 +44,7 @@ but chances are you will have the opportunity or even have to drive a large serv
 
 Why haven't you got it yet? 😉 This should be an easy decision. It benefits both you and them. Even if they want you to stay after work hours and complete the training. Bite the bullet and do it. It shows them you care and when you move on one day, you'll have it in your pocket.
 
-### Your Company does not offer to pay but, would like you to have it.
+### Your Company does not offer to pay but, would like you to have it
 
 Basically, **_Should I get it myself?_** This one is tough. I was lucky enough to work for a place that had a trainer and I was able to get mine and get paid for it. Not everyone is so lucky. I would say if you really want it go for it! I would always let the shop manager know. You never know what they might do. You might be the only one who ever asked.
 
@@ -60,7 +60,7 @@ With a class 'A' the driver can operate any vehicle having a trailer with two or
 
 With a Class 'B' the driver can operate any heavy "straight" (attached - not a trailer) vehicle with a gross vehicle weight rating greater than 26,000 pounds, as well as any vehicle towing another vehicle not in excess of 10,000 pounds.
 
-### Ok, you are gonna get your CDL. Here is how to it in 4 steps.
+### Ok, you are gonna get your CDL. Here is how to it in 4 steps
 
 The requirements to get a CDL are moderately different from each state, but these 4 steps are a guideline on what to expect. For more on the specific steps, go to your states specific dmv webpage. There is also a great study guide on Amazon it's called [CDL Exam Secrets - CDL Practice Tests & All CDL Endorsements Study Guide (Link To Amazon)](https://amzn.to/2PIwiks). The guide includes help for all the areas of the CDL test and endorsements. The area for pre-trip inspection is really good. That will likely be the most difficult part. It has great reviews. Check it out.
 
@@ -88,6 +88,8 @@ If you are thinking of going it on your own and getting it, I think it will help
 
 Yes! Please don't drive on the road unless properly licensed. In most states you need a CDL to drive anything with air-brakes. Check out the specific rules for your state before you drive anything.
 
-#### Can you drive a semi-tractor with a class B license?
+#### Can you drive a semi-tractor with a class B license
 
 No. In most states you are limited to a 'strait' truck. Meaning a truck with the trailer attached. You can haul some bigger trailers but, not semi trailers. For more information for Florida residents click [here](https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/commercial-driver-license/)
+
+updated: 10/29/2020
