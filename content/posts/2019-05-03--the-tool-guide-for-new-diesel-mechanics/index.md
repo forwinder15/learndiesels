@@ -25,8 +25,6 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 
 If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1). It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.
 
-![toolbox](husky1.png)
-
 **2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
 
 - 3/16” - 5/8” 6 point and 12 point
@@ -133,13 +131,13 @@ They also take advantage of the mechanic with poor credit or can't buy this comp
 
 If you can't afford to buy all the tools at once, buy as much as you can and try to get by until you get paid again. If your shop requires you to have a certain number of tools and you just can't do it. Look into family or a retail credit card at a Loews or home depot. You would come out way cheaper even if you had to pay some interest.
 
-###2. Brand Isn't Everything
+### 2. Brand Isn't Everything
 
 An experienced mechanic will roll his eyes at the guy with just has to have the Brand name tools. They know what I know. I have broken just as many Snap-on sockets as S&K or Craftsman. Now I will say that I prefer certain tools over others. I would never recommend a professional mechanic use Harbor Freight or even Craftsman Ratchets.
 
 A Ratchets is something that you literally use every day and have a close relationship with. You should get a nice one. That doesn't mean you need one from the tool truck. My favorite Ratchets is a [GearWrench](https://amzn.to/2NcYESo). You don't have to pay 200 bucks to get a nice ratchet contrary to what the tool man says.
 
-###3. Growing with time
+### 3. Growing with time
 
 No decent employers expect you to shell out thousands on your first day. That said, you need a good base and then set aside some amount per month to reinvest in your tools.
 
@@ -151,7 +149,7 @@ Set aside an amount that you deicide and then spend it as soon as you have enoug
 
 Over time you will build up a great set of tools. If you are budgeting for it, you will be surprised just how fast you will amass all the tools you can possibly need.
 
-###4. Don't forget About The Shop Tools!
+### 4. Don't forget About The Shop Tools
 
 Before you go and buy a dial indicator make sure that is not in the shop tools. Shop tools are the tools that the shop itself provides. Not all shops provide that same things but, most provide the larger or more expensive items and have them for all the techs to share.
 
@@ -161,7 +159,7 @@ My shop always provided the dial indicator, toque wenches, very large sockets (o
 
 During your interview this is a great question to ask. Check out what is there before you buy things that they already provide and, in some cases, require you to use. i.e. At one job we were required to use their toque wrenches because, they had them calibrated regularly.
 
-###5. Look Online and elsewhere
+### 5. Look Online and elsewhere
 
 With the resources for online shopping today there is not really a good reason to pay the mark-up that the retail stores have. Do you research. Read reviews. Ask more experienced mechanics what they think. You will find that you can get pretty much everything you need from Amazon or others.
 
@@ -173,11 +171,11 @@ Look on swap sites like Criagslist and garage sells. You might find a retired me
 
 I once bought a box from someone for 50 bucks and it was loaded with great stuff. It had several brass punches ans some high end wrenches. You never know what you can find out there! Take a look.
 
-##Toolbox Set-up and Maintenance
+## Toolbox Set-up and Maintenance
 
 Once you have invested all that money into your tools, you need a plan to take care of them and organize them. You need to keep your tools in great condition, so they work great. Ever tried to open a pair of rusted pliers? No fun. Likewise, when your favorite ratchet is missing you are not a happy camper 🏕️
 
-###Cleaning Your Tools
+### Cleaning Your Tools
 
 Every day you need a few minutes after you are finished with work or finished with a job and before you wash your hands to clean your tools up and put them bac into their specified spot in your box.
 
@@ -187,7 +185,7 @@ Cleaning your tools helps them to last longer and a more pleasant experience the
 
 Oiling your tools can also give them more life. Especially in air tools. Make sure you use a good air tool oil each time you use your impacts, die grinders etc. in order to have them work for a good amount of time. You want to get your use for what you spend and enjoy the full power that they have from new to old.
 
-###Tool & Socket Dividers
+### Tool & Socket Dividers
 
 There is a lot you can do to prevent your tools for unnecessary wear or damage. **One of the best things you can get is tool racks or dividers.** Having your toolbox set up in logical and ergonomic manner will be extremely helpful in your day to day work.
 
@@ -199,11 +197,11 @@ It is very easy to misplace a socket or something small. Having a divider or soc
 
 There are many different options when it comes to tool organization. I prefer socket stands because of the ease of use. Just a glance and I know right where to grab. There are other types but, I find they take up more space and are not as easy to use.
 
-##PPE (Personal Protective Equipment)
+## PPE (Personal Protective Equipment)
 
 Most companies for the benefit of safety provide PPE to their mechanics. It is important to use what works for you. I know some the of the equipment my company provided was not right for me. So, finding the right safety glasses, gloves and shoes can be huge if it makes you more likely to use them more.
 
-###Safety Glasses
+### Safety Glasses
 
 There are a lot of cheap options when it comes to safety glasses. Most companies are going to opt for the cheaper options. That makes things rough on us. So, finding the right pair for you can make all the difference.
 
@@ -211,23 +209,23 @@ My favorites can be found [Here](https://amzn.to/2oDTxB8)
 
 Buying a nicer pair has some great benefits. The better brands have better anti fogging which is a big deal when you’re working hard. It is tough to keep a pair of glasses on when your sweating and they get fogged up. Invest in a good pair you won't regret it.
 
-###Gloves
+### Gloves
 
 Most shops I have worked give the old leather gloves. Not the best. I have always opted for the better mechanics gloves. With the cheaper ones it takes talent to screw a nut onto a bolt and I just don’t have it. I suggest getting a decent pair. your hands and your sanity will thank you.
 
-###Face Shield
+### Face Shield
 
 Some shops supply a face shield for you. If yours does not I recommend getting one. You wear this over you safety glasses when you are grinding and spraying brake clean under a vehicle.
 
 You may think, "Man..I'm too cool for one of those". To that I say, yep you are. I cannot tell you the number of times I have got an eye full of brake clean laying on a creeper. Not a fun experience. Wear the shield. 🛡️
 
-###Silicone Wedding Band
+### Silicone Wedding Band
 
 Learn from my first hand ✋experience. Learn from my mistakes. They have some great silicone wedding bands on Amazon and they will save you a scar and trip to the ER. Find some [Here](https://amzn.to/2oH7Yo6)
 
 ![hand](./hand.jpeg)
 
-###Safety Shoes
+### Safety Shoes
 
 So important! After a long day you will know that you had Wal-Mart shoes on. Hopefully you company gives an allowance if not, don't skimp here. Get a good pair of shoes.
 
@@ -237,6 +235,8 @@ You are on concrete all day and you need a comfortable pair that will last. Non-
 
 ---
 
-##Summing up
+## Summing up
 
 You don't need good tools to be a good mechanic but, man they make your life a lot easier. Be smart when you are first buying tool and you will save a pile of money and be better for it. You don’t make much starting out don't spend it all on overpriced tools. Remember to budget some money to continue to grow your collection and soon you will realize you have all you need.
+
+last updated: 11/02/2020
