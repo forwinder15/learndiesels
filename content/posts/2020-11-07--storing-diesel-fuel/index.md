@@ -7,7 +7,7 @@ author: Johnathan Coker
 
 ![toolbox and truck](./store.PNG)
 
-So you've got some fuel you want to hold onto. Or maybe you've found an old barrel tucked away that you think preppers hid that were concerned about Y2K. Diesel fuel DOES have a shelf life. So, let's answer that question. After that look for the guide on how to store it properly.
+So you've got some fuel you want to hold onto. Or... maybe you've found an old barrel tucked away that Y2K preppers hid. **Diesel fuel DOES have a shelf life.** So, let's answer that question. After that, look for the guide on how to store it properly.
 
 _How long can you store diesel?_
 
@@ -36,7 +36,7 @@ Not only is it bad for the fuel pump and injection system but it's generally bad
 
 ## Keeping up with diesel fuel is like maintaining the worst swimming pool ever. Let me offer you some pointers to make it as painless as possible
 
-If your storing fuel the best stuff I ever used was [BioBor}(<https://amzn.to/2U5AEn2>). I used it at the city I worked at for many years for our generators and fire department fuel tanks. It works very well. It's not super expensive and goes a long way. The stuff kills and prevents bacteria and fungi and prevents corrosion. It will also keep the fuel filters from plugging. It reduces tank cleaning and protects injectors and pumps. Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. Great stuff!
+If your storing fuel the best stuff I ever used was [BioBor](https://amzn.to/2U5AEn2). I used it at the city I worked at for many years for our generators and fire department fuel tanks. It works very well. It's not super expensive and goes a long way. The stuff kills and prevents bacteria and fungi and prevents corrosion. It will also keep the fuel filters from plugging. It reduces tank cleaning and protects injectors and pumps. Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. Great stuff!
 
 ### A guide to getting the most time out of your stored diesel
 
@@ -48,7 +48,7 @@ If your storing fuel the best stuff I ever used was [BioBor}(<https://amzn.to/2U
 
 - **Keep your tank full**. This staves off condensation and less area for water to be present.
 
-- **Keep a check on the Temperature.** Diesel typically freezes around temperatures of -8.1 °C (17.5 °F), You will want the temp above that. Diesel can flash between 52 and 96 °C (130 - 204 °F) [source](<http://knowhow.napaonline.com/at-what-temperature-does-diesel-fuel-gel/#:~:text=It's%20right%20at%20the%20freezing,how%20colder%20weather%20affects%20fuel>.). Diesel shouldn't be subjected to sunlight or low temperatures.
+- **Keep a check on the Temperature.** Diesel typically freezes around temperatures of -8.1 °C (17.5 °F), You will want the temp above that. Diesel can flash between 52 and 96 °C (130 - 204 °F) [source](http://knowhow.napaonline.com/at-what-temperature-does-diesel-fuel-gel/#:~:text=It's%20right%20at%20the%20freezing,how%20colder%20weather%20affects%20fuel). Diesel shouldn't be subjected to sunlight or low temperatures.
 
 - **Keep the fuel covered**. The main enemy of diesel fuel storage is the elements. You need to keep the tank indoors if you don't have one meant for outdoors.
 
