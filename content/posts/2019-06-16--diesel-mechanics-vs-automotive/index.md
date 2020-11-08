@@ -9,13 +9,13 @@ author: Johnathan Coker
 
 When I first figured out I wanted to be a mechanic I was fortunate to have a job at a transportation company. We had our own shop and I was able to move down as a mechanic trainee. I am so grateful for that opportunity. I had considered several times looking at other options. An important question to ask when you’re a still weighing your options between car mechanics and diesel mechanics is, which job is better?
 
-_Diesel mechanic versus Auto mechanic._ **1. Salary. Diesel mechanics average \$3.19 per hour more. 2. Job diversity. Auto mechanics are limited to automotive repair. 3. Job security. Diesel technology has a better future than gas engines. 4. Better benefits. Car dealerships are small companies with small benefits. 5. Lots of room. Diesels are made to work on. 6. Tools, Tools, Tools. Diesel shops have more access to tools. 7. Job growth. Diesel mechanics are expected to experience 9% growth until 2026. 8. Less Stress. Diesel techs don’t deal with book time or the public much. 9. Upward mobility. Diesel mechanics have more opportunity to advance in their careers. 10. Same work, better pay. Diesels have the same nuts and bolts as a car, they’re just bigger.**
+_Diesel mechanic versus Auto mechanic._ **Reasons being a Diesel mechanic is better; average \$3.19 more per hour more. Job diversity. Auto mechanics are limited to automotive repair. Job security. Diesel technology has a better future than gas engines. Better benefits. Car dealerships are small companies with small benefits. Diesels are made to work on. Diesel shops have more access to tools. Job growth. Diesel mechanics are expected to experience 9% growth until 2026. 8. Less Stress. Diesel techs don’t deal with book time or the public much. Upward mobility. Diesel mechanics have more opportunity to advance in their careers. Same work, better pay. Diesels have the same nuts and bolts as a car, they’re just bigger.**
 
 I have been a diesel technician since I was 18. So, this article may be a little bias to the career path I would recommend. But I want to clear the air between **car guys** and **diesel guys.** Some of my best friends are auto mechanics.
 
 Let me clue those in who are still leaning car mechanic. I want to give you 15 reasons diesel mechanics is a better career than car mechanics. Also, check out my youtube video at the bottom of this page.
 
-##1. Salary
+## 1. Salary
 
 Number 1 and perhaps the most compelling of the list is the money 💰. That’s right the Benjamin’s. Who is it going to be?
 
@@ -29,7 +29,7 @@ Ok. So, work on your car. I guarantee you will not share that enthusiasm for ano
 
 Bottom line you can use the extra dough to support your habits. Like working on the racecar, buggy, motorcycle or whatever you’re into.
 
-##2. Job diversity
+## 2. Job diversity
 
 In in auto mechanic you are limited to just that. While you can work on vehicles in many different capacities by in large you will be working on cars. In diesel mechanics you have many other applications to choose from.
 
@@ -39,7 +39,7 @@ Once you become familiar with the diesel engine you have many options for where 
 
 Your diesel experience opens you up to many opportunities and will give you a long and interesting career.
 
-##3. Job security
+## 3. Job security
 
 Jobs security is important. We all want to have faith that our job is not constantly in jeopardy and it is expected to be there years from now. If you are banking of a career in diesel mechanics, I think you are making a good decision. Even in 2019. There are a couple of reasons I believe this,
 
@@ -49,7 +49,7 @@ Jobs security is important. We all want to have faith that our job is not consta
 
 In the car world your job is heavily dependent on the **salesman** at the dealer you are working at. They don’t sell enough cars and the dealership can fail. If you are in a regular shop, you are dependent on the management of that small business for your income. Really unless you are working in a fleet or municipality environment like a city or county your job is in a bad spot.
 
-##4. Just say no to the dealer
+## 4. Just say no to the dealer
 
 A lot of car mechanics are relegated to the dealer. A shame really. I have a great friend who worked for a Volkswagen dealer for years. Never really got much out of it but a paycheck. That’s the thing about **dealers** When you work for the dealer you don’t work for the car manufacture.
 
@@ -59,7 +59,7 @@ That means your benefits will be limited your pay will be less and you will like
 
 Diesel techs on the other hand are a lot less likely to work for a dealer or work for flat rate pay. Diesel mechanics are usually in a fleet environment or for a company that works on equipment. There are more expensive vehicles and equipment, so the customers are normally bigger companies and more stable income for whatever business you’re in.
 
-##5. They are made to work on
+## 5. They are made to work on
 
 Ever started working on a car and thought, “why did they put that there?” Have you ever had to remove half the engine to get the part you need? Cars are made to look pretty. 🚗 Not so much for your semi-truck or fire apparatus.
 
@@ -69,7 +69,7 @@ While small diesel cars and trucks are smashed into a small space, when you get 
 
 This is not the case for VWs or European diesel trucks and cars. A lot of the time they can be even more crammed than a gas car. Sometimes you can really see tight spots around turbos or batteries, but for the majority of diesel engines, they will be placed in large workable areas.
 
-##6. Tools, Tools, Tools
+## 6. Tools, Tools, Tools
 
 This next one may not be true for every diesel guy, but I have worked for several big companies in the diesel world and I can say that they have always provided the bigger tools for you. More and more shops are purchasing the larger and more expensive tools needed for the more specialty jobs
 This makes since for the shop not only to help the guys out an save them some serious money, but also gives them control to make sure jobs are don right.
@@ -80,15 +80,15 @@ This is just one example of this. There are many other things shops have provide
 
 From my experience this is not something smaller shop or dealerships do. This can cost you a lot of money if you are required to have these more expensive items and Definity something to consider when deciding between diesel or auto mechanics.
 
-##7. Job growth
+## 7. Job growth
 
 Another huge factor in the weighing weather diesel mechanics is a better career then auto mechanics is job growth. When this is factored by United States Bureau of Labor Statistics it is drawn out to 2026.
 
-Diesel mechanics is expected to have **9% **Growth until 2026. Auto mechanics are only expected to have **6%** until 2026. [source](https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm)
+Diesel mechanics is expected to have **9%**Growth until 2026. Auto mechanics are only expected to have **6%** until 2026. [source](https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm)
 
 This may not seem like much until you realize that that’s literally 33% more than auto mechanics. This should be a large factor in your decision-making process. There needs to be room to grow and it is good to know that your industry is expanding in the future.
 
-##8. Less Stress
+## 8. Less Stress
 
 This may have a few exceptions. There were times when I was working on fire apparatus that the stress was a little high, but for the most part you will find most diesel tech positions having a lower stress level there are a couple reasons for this.
 
@@ -104,20 +104,18 @@ Most diesel jobs being fleet there are some benefits stress wise. A lot of times
 
 While there are deadlines in all types of mechanics and times when you will need to hustle. You will find that those times are not as often in a well-run shop.
 
-##9. Upward mobility
+## 9. Upward mobility
 
 Something else that may be an important factor to you is your ability to advance in your career. Do you have goals to be the shop foremen? Maybe even a high position? In the case of car mechanics most of the time being in a dealership setting the highest position to aspire is the shop manager. This may not be where you want to end up as this can be a stressful job in that area.
 
 In diesel mechanics there is often a supervisor and then fleet manager and then depending on your company regional manager often called field engineer. There are also in the trucking world a VP of maintenance or if you are in a diesel dealer like **CAT or Cummins** the sky is the limit.
 
-##10. Same work better pay
+## 10. Same work better pay
 
 What I mean by this one is that diesels are no more difficult than gas/petrol engines. Which means you reap all the benefits mentioned in this list for essentially the same work.
 
 People sometimes look at big pieces of equipment and trucks and think they must be much more complicated than cars. Simply not true. You should not let the size of the equipment intimidate you. They really are just nuts and bolts. You can fix them just as easily.
 
-<iframe width="806" height="453" src="https://www.youtube.com/embed/U2tD5xuNqGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##Summing up
+## Summing up
 
 I have enjoyed my career as a diesel technician and have reaped all the benefits I listed. I hope that this article answers the question, why diesel mechanic is a good career? There are so many awesome places you can take your career in diesel and awesome people to meet. Good luck on your path!
