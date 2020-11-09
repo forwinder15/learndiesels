@@ -36,7 +36,6 @@ title: author
   font-size: 1.8rem;
   line-height: 1em;
   font-weight: normal;
-  user-select: text;
   border-radius: 5px;
   transition: border-color 0.15s linear;" type="email" value="" placeholder="Enter Email Address..." name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
