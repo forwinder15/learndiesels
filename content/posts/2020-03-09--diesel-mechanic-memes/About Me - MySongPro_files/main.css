@@ -341,7 +341,7 @@ li > ol {
   margin-bottom: 0; }
 
 hr {
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px solid #ddd;
   margin: 1.66667em 0; }
 
 table {
@@ -359,7 +359,7 @@ caption {
 
 th,
 td {
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px solid #ddd;
   padding: 0.5em 5px; }
 
 th {
@@ -367,7 +367,7 @@ th {
   font-weight: bold; }
 
   tr:nth-child(odd) td {
-    background:#EBEBEB;
+    background:#f2f2f2;
   }
 
 /* Form fields */
