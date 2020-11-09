@@ -88,7 +88,7 @@ const Bodytext = props => {
             text-align: left;
         }
         :global(th, td) {
-            padding: 12px 15px;
+            padding: 0 15px;
         }
         
         :global(tbody tr) {
