@@ -24,7 +24,17 @@ title: author
 	<h2 style="text-align: center">You Know you want diesel emails. I promise I won't spam you.</h2>
 
 <div class="mc-field-group">
-	<input Style="height: 3.75em;" type="email" value="" placeholder="Enter Email Address..." name="EMAIL" class="required email" id="mce-EMAIL">
+	<input Style="display: block;
+  padding: 10px;
+  width: 100%;
+  border: #ddd 1px solid;
+  color: #ddd;
+  font-size: 1.8rem;
+  line-height: 1em;
+  font-weight: normal;
+  user-select: text;
+  border-radius: 5px;
+  transition: border-color 0.15s linear;" type="email" value="" placeholder="Enter Email Address..." name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
