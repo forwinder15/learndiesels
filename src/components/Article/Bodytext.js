@@ -72,6 +72,46 @@ const Bodytext = props => {
             opacity: 1;
           }
         }
+        :global(hr) {
+          border: 0;
+          border-bottom: 1px solid #1e1e1e;
+          margin: 1.66667em 0; }
+        
+          :global(table) {
+            border-collapse: collapse;
+            
+            margin: 25px 25px;
+            font-size: 0.9em;
+            font-family: sans-serif;
+            min-width: 400px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+            border-radius: 5px 5px 0 0;
+            overflow: hidden;
+        }
+        :global(thead, tr) {
+            background-color: #009879;
+           
+            color: #ffffff;
+            text-align: left;
+        }
+        :global(th, td) {
+            padding: 12px 15px;
+        }
+        
+        :global(tbody tr) {
+            border-bottom: 1px solid #dddddd;
+        }
+        
+        :global(tbody tr:nth-of-type)(even) {
+            background-color: #f3f3f3;
+        }
+        
+        :global(tbody tr:last-of-type) {
+            border-bottom: 2px solid #009879;
+        }
+        :global(tbody tr:hover) {
+            color: #009879;
+        }
       `}</style>
     </React.Fragment>
   );
