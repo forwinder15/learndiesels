@@ -19,7 +19,7 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 
 ## Here is a complete list of tools for the new diesel mechanic
 
-|    I've Got it! ✅    | Tool 🧰 | Sizes and Description 📏  |
+|   <span> I've Got it! ✅ </span>   | Tool 🧰 | Sizes and Description 📏  |
 |    :---        |    :----:   |      :--- |
 | <input type="radio"> </input> | Toolbox or Cart  | Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)** <br> If you are wanting to spend the money for <br> a tool chest consider finding one online or looking around swap meets and what-not.<br>  I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1).<br> It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.|
 | <input type="radio"> </input> |  Ratchets |- 1/4", 3/8”, 1/2”, and a breaker bar<br> One of the most important tools <br> [See my article about ratchets](/the-best-ratchet-for-professional-mechanics)  |
