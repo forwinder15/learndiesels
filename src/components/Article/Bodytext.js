@@ -72,23 +72,16 @@ const Bodytext = props => {
             opacity: 1;
           }
         }
-        :global(hr) {
-          border: 0;
-          border-bottom: 1px solid #1e1e1e;
-          margin: 1.66667em 0; }
         
           :global(table) {
             border-collapse: collapse;
-            
             margin: 25px 25px;
             font-size: 0.9em;
-            font-family: sans-serif;
-            min-width: 400px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
             border-radius: 5px 5px 0 0;
             overflow: hidden;
         }
-        :global(thead, tr) {
+        :global(thead) {
             background-color: #009879;
            
             color: #ffffff;
