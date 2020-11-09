@@ -12,8 +12,7 @@ title: author
 <style type="text/css">
 	#mc_embed_signup{
         position: relative;
-  margin: 0 0 5vw 0;
-  padding: 4vw;
+  padding: 1em;
   color: #fff;
   text-align: center;
         }
