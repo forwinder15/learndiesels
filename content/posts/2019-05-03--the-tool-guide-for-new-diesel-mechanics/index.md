@@ -19,99 +19,26 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 
 ## Here is a complete list of tools for the new diesel mechanic
 
-**1. Toolbox or Cart**
-
-- Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)**
-
-If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1). It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.
-
-**2. 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow**
-
-- 3/16” - 5/8” 6 point and 12 point
-- 5mm - 15mm 6 point and 12 point
-- 3" & 6" Extensions
-
-**3. 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact**
-
-- 5/16” - 1” 6 point and 12 point
-- 7mm - 20mm 6 point and 12 point
-- 3", 6", 12", 24" Extensions
-
-**4. 1/2 Drive Sockets Standard (SAE) & Metric Deep, shallow and Impact**
-
-- 3/8” - 1 1/4” 6 point
-- 10mm - 27mm 6 point
-- 3", 6" & 12" Extensions
-- [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)
-
-**5. Socket Adapters**
-
-- 1/4” to 3/8” & 3/8” to 1/4”
-- 3/8” to 1/2” & 1/2” to 3/8”
-- 1/2” to 3/4” & 3/4” to 1/2”
-  [The set I have](https://amzn.to/2RgetJo)
-
-**6. Allen Wrenches Standard and Metric**
-
-- 3/32” - 3/8”
-- 3mm - 17mm
-
-**7. Feeler Gauges**
-
-- Standard 0.0015 - 0.0035 thousandths
-- Metric 0.04 - 0.88 thousandths
-
-**8. Hammers**
-
-- Dead blow, Ball Peen, 5-pound sledge hammer
-
-**9. Air or Battery Tools**
-
-- Impact Guns - 3/8”, 1/2
-- 90 Degree die grinder
-
-**10. DVOM - Digital Multimeter**
-
-- Digital readout and Auto ranging
-
-don't buy a cheap one if you can avoid it. The really cheap ones are never accurate.
-
-[Check out this klein](https://amzn.to/2W5xZeW)
-
-**11. Pliers**
-
-- Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)
-
-**12. Pry-Bars**
-
-- 12”, 2’, 3’ [This Craftsman set has a strike head with is nice](https://amzn.to/3bN9uJx)
-
-**13. Ratchets**
-
-- 1/4", 3/8”, 1/2”, breaker bar [See my article about ratchets](/the-best-ratchet-for-professional-mechanics)
-
-**14. Screw Drivers**
-
-- Flat head & Philips #2 stubby, #2 regular, #1 regular. I also recommend torques drivers.
-
-**15. Torque Bit Drivers**
-
-- T10, T15, T20, T25 **_(T25 is the most used. Get 2)_**, T27, T30, T40, T45
-
-**16. Electrical Tools**
-
-- Hand held torch, Wire cutters, Wire stripping tool **_(I prefer these [auto wire strippers](https://amzn.to/33d7KnM)_** best tool ever), Soldering gun, Crimping tool, 12v test light **_(I recommend the [Power Probe III](https://amzn.to/32bL71J) but it's not required.)_**
-
-**17. Wrenches Standard and Metric**
-
-- 5/16” - 2” **_(Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches)_**
-  8mm - 22mm
-- 8” & 12" Adjustable wrench
-- Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX))
-
-**18. Mechanic Accessories**
-
-- Inspection Mirror, Gasket Scraper, Pick Set, Truck tire pressure gauge (0-150 PSI), Small and Large oil filter wrench, Magnet with extendable rod, 12' Tape measure, Bottle of white out, Pocket calculator, A good flash light\*\*, 6" brass or aluminum punch, Creeper, Tire tread depth gauge (1/32"), Safety toed shoes
+| I've Got it! ✅    | Tool 🧰 | Sizes and Description 📏  |
+| :---        |    :----:   |          :--- |
+| [ ] | Toolbox or Cart  | Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. <br> **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)** If you are wanting to spend the money for <br> a tool chest consider finding one online or looking around swap meets and what-not. I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1).<br> It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.|
+| [ ] |  Ratchets |- 1/4", 3/8”, 1/2”, and a breaker bar<br> One of the most important tools <br> [See my article about ratchets](/the-best-ratchet-for-professional-mechanics)  |
+| [ ] | 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow  |- 3/16” - 5/8” 6 point and 12 point <br> - 5mm - 15mm 6 point and 12 point <br> - 3" & 6" Extensions   |
+| [ ] | 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact |- 5/16” - 1” 6 point and 12 point<br> - 7mm - 20mm 6 point and 12 point<br>- 3", 6", 12", 24" Extensions |
+| [ ] | 1/2 Drive Sockets Standard (SAE) & Metric Deep, shallow and Impact |- 3/8” - 1 1/4” 6 point<br>- 10mm - 27mm 6 point<br>- 3", 6" & 12" Extensions<br>- [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)  |
+| [ ] | Socket Adapters |- 1/4” to 3/8” & 3/8” to 1/4”<br>- 3/8” to 1/2” & 1/2” to 3/8”<br>- 1/2” to 3/4” & 3/4” to 1/2”<br>[The set I have](https://amzn.to/2RgetJo)   |
+| [ ] | Allen Wrenches Standard and Metric |- 3/32” - 3/8”<br>- 3mm - 17mm   |
+| [ ] | Feeler Gauges |- Standard 0.0015 - 0.0035 thousandths<br>- Metric 0.04 - 0.88 thousandths  |
+| [ ] | Hammers 🔨|- Dead blow, Ball Peen, 5-pound sledge hammer |
+| [ ] | Air or Battery Tools |- Impact Guns - 3/8”, 1/2<br>- 90 Degree die grinder  |
+| [ ] | DVOM - Digital Multimeter |- Digital readout and Auto ranging<br>Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate.<br>[Check out this klein](https://amzn.to/2W5xZeW)  |
+| [ ] | Pliers |- Needle nose, adjustable, vise grips, Snap-ring,<br> Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)  |
+| [ ] | Pry-Bars |- 12”, 2’, 3’ <br>[This Craftsman set has a strike head with is nice](https://amzn.to/3bN9uJx) |
+| [ ] | Screw Drivers |- Flat head & Philips<br> #2 stubby, #2 regular,<br> #1 regular. I also recommend torques drivers. |
+| [ ] | Torque Bit Drivers |- T10, T15, T20, T25<br> **_(T25 is the most used. Get 2)_**, T27, T30, T40, T45 |
+| [ ] | Electrical Tools | Hand held torch, Wire cutters, Wire stripping tool **_(I prefer these [auto wire strippers](https://amzn.to/33d7KnM)_** best tool ever), <br> Soldering gun, Crimping tool, 12v test light<br> **_(I recommend the [Power Probe III](https://amzn.to/32bL71J) but it's not required.)_** |
+| [ ] | Wrenches Standard and Metric 🔧 |- 5/16” - 2” **_(Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches)_** 8mm - 22mm <br>- 8” & 12" Adjustable wrench <br>- Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX))  |
+| [ ] | Mechanic Accessories |Inspection Mirror, Gasket Scraper, Pick Set, Truck tire pressure gauge (0-150 PSI),<br> Small and Large oil filter wrench, Magnet with extendable rod, 12' Tape measure, Bottle of white out,<br> Pocket calculator, A good flash light\*\*, 6" brass or aluminum punch, Creeper,<br> Tire tread depth gauge (1/32"), Safety toed shoes  |
 
 ## 5 Tips For Buying Tools
 
