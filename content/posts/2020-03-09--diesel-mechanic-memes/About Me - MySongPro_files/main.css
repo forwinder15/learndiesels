@@ -341,7 +341,6 @@ li > ol {
   margin-bottom: 0; }
 
 hr {
-  border: 0;
   border-bottom: 1px solid #dedede;
   margin: 1.66667em 0; }
 
@@ -366,6 +365,10 @@ td {
 th {
   color: #1e1e1e;
   font-weight: bold; }
+
+  tr:nth-child(odd) td {
+    background:#EBEBEB;
+  }
 
 /* Form fields */
 label {
