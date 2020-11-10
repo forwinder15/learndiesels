@@ -16,8 +16,7 @@ const Author = props => {
             alt={config.siteTitle}
           />
         </div>
-        <div className="note" dangerouslySetInnerHTML={{ __html: note }} />
-        
+        <div className="note" dangerouslySetInnerHTML={{ __html: note }} />        
       </div> 
 
       {/* --- STYLES --- */}

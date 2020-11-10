@@ -11,7 +11,7 @@ title: author
     background: rgba(9, 10, 11, 0.97);
     border-radius: 5px;
         }
- 
+
 </style>
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=aeb37d143f29bd50ed3c8977e&amp;id=47c8598fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -25,6 +25,7 @@ title: author
     <h3 style="margin: 0 0 10px 0;
     color: #000;
   font-size: 1.2rem;
+  margin: 1rem;
   text-align: center;
   color: rgba(255, 255, 255, 0.9);
   line-height: 1.15em;">You know you want Diesel emails and I promise I won't spam you.</h3>
@@ -33,10 +34,10 @@ title: author
  <input Style="
   padding: 10px 0 10px;
   border: #ddd 1px solid;
-  color: #ddd;
+  color: #000d;
   font-size: 1.6rem;
   font-weight: normal;
-  border-radius: 5px;" type="email" value="" placeholder="Go ahead... give up that email..." name="EMAIL" class="required email" id="mce-EMAIL">
+  border-radius: 5px;" type="email" value="" placeholder="Go ahead..." name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
  <div id="mce-responses" class="clear">
   <div class="response" id="mce-error-response" style="display:none"></div>
