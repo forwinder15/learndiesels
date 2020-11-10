@@ -4,40 +4,40 @@ title: author
 
 **Johnathan Coker** is a ASE and EVT Certified Mechanic. He is married with two kids and lives in sunny Florida. He loves taking stuff apart and teaching others how he messed it up.
 
-<br>
-<br>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{
-        position: relative;
-  padding: 1em;
-  color: #fff;
-  text-align: center;
+    background: rgba(9, 10, 11, 0.97);
+    border-radius: 5px;
         }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	
 </style>
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=aeb37d143f29bd50ed3c8977e&amp;id=47c8598fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2 style="display: inline-block;
-  margin: 0 0 10px 0;
-  font-size: 5.2rem;
-  line-height: 1.15em;">You Know you want diesel emails. I promise I won't spam you.</h2>
+	<h1 style="margin: 0 0 10px 0;
+    color: #000;
+  font-size: 2.2rem;
+   text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.15em;">Emails Suck. Ours Don't</h1>
+    <h3 style="margin: 0 0 10px 0;
+    color: #000;
+  font-size: 1.2rem;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.15em;">You know you want Diesel emails and I promise I won't spam you.</h3>
 
 <div class="mc-field-group">
-	<input Style="display: block;
-  padding: 10px;
-  width: 100%;
+	<input Style="
+  padding: 10px 0 10px;
   border: #ddd 1px solid;
   color: #ddd;
-  font-size: 1.8rem;
-  line-height: 1em;
+  font-size: 1.6rem;
   font-weight: normal;
-  border-radius: 5px;
-  transition: border-color 0.15s linear;" type="email" value="" placeholder="Enter Email Address..." name="EMAIL" class="required email" id="mce-EMAIL">
+  border-radius: 5px;" type="email" value="" placeholder="Go ahead... give me that email..." name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -53,10 +53,10 @@ title: author
   color: #fff;
   font-size: 1.5rem;
   line-height: 39px;
-  font-weight: 400;
-  text-align: center;" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  background: linear-gradient(#4fb7f0, #29a0e0 60%, #29a0e0 90%, #36a6e2);
+    border-radius: 8px;
+" type="submit" value="Don't make it weird" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
