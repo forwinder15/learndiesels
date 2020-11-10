@@ -55,7 +55,7 @@ title: author
   line-height: 39px;
   background: linear-gradient(#4fb7f0, #29a0e0 60%, #29a0e0 90%, #36a6e2);
     border-radius: 8px;
-" type="submit" value="Don't make it weird" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+" type="submit" value="Let's do this" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
