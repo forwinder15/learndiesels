@@ -1,4 +1,7 @@
 {
+    "extends": [
+      "wesbos"
+    ],
   "parser": "babel-eslint",
   "extends": [
     "google",
