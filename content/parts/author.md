@@ -11,6 +11,7 @@ title: author
 	#mc_embed_signup{
     background: rgba(9, 10, 11, 0.97);
     border-radius: 5px;
+    margin-top: 5em;
         }
 	
 </style>
