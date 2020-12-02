@@ -26,6 +26,7 @@ class Menu extends React.Component {
       { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
       { to: "/search/", label: "Search", icon: FaSearch },
+      { to: "https://www.youtube.com/channel/UCfnSKG7f4Vne8XmiAE6tKXQ?", label: "Youtube", icon: FaYoutube },
       ...pages,
       { to: "/contact/", label: "Contact", icon: FaEnvelope }
     ];
