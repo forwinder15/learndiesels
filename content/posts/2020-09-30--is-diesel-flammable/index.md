@@ -1,5 +1,5 @@
 ---
-title: Diesel is flammable. How to Get It Burning
+title: Burning Question - Is Diesel Flammable?
 category: "Common Questions"
 cover: flames.PNG
 author: Johnathan Coker

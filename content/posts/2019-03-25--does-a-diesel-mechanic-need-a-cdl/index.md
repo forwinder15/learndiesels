@@ -11,7 +11,7 @@ I was thinking the other day about when I started as a diesel tech and all the q
 
 _Do Diesel Mechanics Need A CDL?_
 
-**In short, No. I would say that most diesel mechanics don't have a CDL. While a CDL will make you more of an asset to a shop it is usually not required. Now let's look into this a little further. Should you get it anyway?**
+**No. Most diesel mechanics don't have a CDL. While a CDL will make you an asset to a shop, it is usually not required. Now, let's look into this a little further. Should you get it anyway?**
 
 **_Note: All Mechanics DO need a CDL to drive commercial trucks on the roadway, this includes test driving after a repair._**
 
