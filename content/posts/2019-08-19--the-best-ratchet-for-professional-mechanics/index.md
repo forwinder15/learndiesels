@@ -15,19 +15,19 @@ This is why it is important to think about what ratchet is best and we will take
 
 You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **We are only going to look at 3/8” ratchets. All the the specs that I compare are explained in the buyers guide at the bottom**
 
-##[Skip To The Buyers Guide](#guide)
+## [Skip To The Buyers Guide](#guide)
 
 **Let’s take a look at the Best 10 ratchets for a professional mechanic**
 
-##1. GearWrench 81210P
+## 1. GearWrench 81210P
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
-Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this Youtube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bee's knees.
+Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this YouTube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bee's knees. The one down side is the mail-in warranty. So, If you need the store/truck exchange look further but, I have owned this one 2 years no issues with heavy use.
 
 I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B)
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 120 count with a 3-degree arc
 - **Pawl design** - Double-Stacked pawls
@@ -37,15 +37,17 @@ I would recommend these things all day, but the proof is in the pudding as they 
 - **Weight and Length** - 15.8 ounces, 15.9 inches
 - **Cost** - **\$\$**
 
-##2. Snap-on F80
+## 2. Snap-on F80
 
 ![snap-on](./snap.jpg)
 
-While Snap-on quality is really good this list is compiled by **value for money.** Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. And just like other popular brand names you pay a premium to have their stuff. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
+While Snap-on quality is really good this list is compiled by **value for money.** Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. Just like other popular brand names you pay a premium to have their stuff. If you just need the convenience and name brand and you are willing to drop some bread 🍞 this is a great pick. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
+
+This is an awesome ratchet and you can’t go wrong with it. The only questions I have is how much are you willing to pay?
 
 [Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 80 count and a 4.5-degree arc
 - **Pawl design** - Double sided pawls
@@ -55,42 +57,40 @@ While Snap-on quality is really good this list is compiled by **value for money.
 - **Weight and Length** - 11-13 ounces, 11.3 inches
 - **Cost** - **\$\$\$\$**
 
-##3. Snap-on f80 long handle
+## 3. Milwaukee 48-22-9014
 
-![snap2](./snap2.png)
+![mil ratchet](./mil.JPG)
 
-Another Snap-on tops the list. If you just need the convenience and name brand and you are willing to drop some bread 🍞 this is a great pick. It's low profile and longer handle will be a benefit in tight areas. I am not an "all snap-on guy" but this one is a great.
+So, if you have seen this list before this is a new one. I recently bought this awesome milwaukee set and have used it long enough to review it. It is great ratchets are very durable and fit in your hand nice. I love the whole set and I would recommend them to pro mechanics as a solid truck tool alternative. Check these out. You wont regret it.
 
-This is an awesome ratchet and you can’t go wrong with it. The only questions I have is how much are you willing to pay?
+[Check out the latest price on Amazon](https://amzn.to/2JTkn2K)
 
-You can find these on eBay for around 150 bucks normally. Stay off the truck when possible.
-
-###The Specs
-
-- **Tooth count** - 80 count and a 4.5-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Chrome. Round. Long Handle Flex Head.
-- **Profile** - .6 inches
-- **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
-- **Weight and Length** - 15-18 ounces, 11-1/2 inches
-- **Cost** - **\$\$\$\$**
-
-##4. Kobalt 85860
-
-![Kobalt](./kob.png)
-
-Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. The one knock I have is they don’t seem to last as long for me. I have to get them replaced once a year. Not too shabby considering its full time use, but others are better.
-
-[Check out the latest price on Amazon](https://amzn.to/34tI7PA)
-
-###The Specs
+### The Specs
 
 - **Tooth count** - 90 count and a 4-degree arc
+- **Pawl design** - Patented pawls
+- **Handle design** - Chrome. Round.
+- **Profile** - Slim profile .5 inches
+- **Warranty** - Mail-in. Possible store exchange depending on the particular Home Depot you are dealing with.
+- **Weight and Length** - 11-13 ounces, 11 inches
+- **Cost** - **\$\$\$**
+
+## 4. Kobalt 737671
+
+![Kobalt](./koba.JPG)
+
+Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. This one is heavy and The one knock I have is they don’t seem to last as long for me. I have to get them replaced once every 2 years. Not too shabby considering its full time use, but others are better.
+
+[Check out the latest price on Amazon](https://amzn.to/2Lf3hg8)
+
+### The Specs
+
+- **Tooth count** - 72 count and a 5-degree arc
 - **Pawl design** - Double sided pawls
-- **Handle design** - Chrome vanadium steel. Round thinner handle
+- **Handle design** - Natural matte finish. Round thinner handle
 - **Profile** - 0.6 inches
-- **Warranty** - Hassle free trade out. As long as they have one in stock. I have never had an issue
-- **Weight and Length** - 11-13 ounces, 11.3 inches
+- **Warranty** - Hassle free trade out. As long as they have one in stock. I have never had an issue.
+- **Weight and Length** - 12-14 ounces, 11.1 inches
 - **Cost** - **\$\$**
 
   ##5. Husky
@@ -99,7 +99,7 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 
 I have a special place in my heart for Husky tools. I started as a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. Solid choice for a professional.
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 80 count and a 4.5-degree arc
 - **Pawl design** - Double sided pawls
@@ -109,7 +109,7 @@ I have a special place in my heart for Husky tools. I started as a diesel tech w
 - **Weight and Length** - 11-13 ounces, 11.3 inches
 - **Cost** - **\$**
 
-##6. Cornwell JR40
+## 6. Cornwell JR40
 
 ![Cornwell](corn.png)
 
@@ -117,7 +117,7 @@ Cornwell rounds off this top ten with a decent ratchet. They make tools that are
 
 [Check out the latest price on Amazon](https://amzn.to/2oMeaLG)
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 30 and a 12-degree arc
 - **Pawl design** - double pawls
@@ -127,7 +127,7 @@ Cornwell rounds off this top ten with a decent ratchet. They make tools that are
 - **Weight and Length** - 8 ounces, 10-1/4 inches
 - **Cost** - **\$\$\$**
 
-##7. Matco BFR188LFM
+## 7. Matco BFR188LFM
 
 ![matco](./matco.jpg)
 
@@ -137,7 +137,7 @@ This is an awesome ratchet and you can’t go wrong with it. The only questions 
 
 You can find these on eBay for around 150 bucks normally.
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 88 count and a 4-degree arc
 - **Pawl design** - Patented pawls
@@ -147,7 +147,7 @@ You can find these on eBay for around 150 bucks normally.
 - **Weight and Length** - 15-18 ounces, 18-1/2 inches
 - **Cost** - **\$\$\$\$**
 
-##8. Mac Tools
+## 8. Mac Tools
 
 ![mac](./mac.jpg)
 
@@ -155,7 +155,7 @@ The Mac man! I know a lot of people who swear by their tools. I have no problem 
 
 Then there is the other variable. Is there a Mac man in your area? They are not near as common as Snap-on and in my experience not as reliable in service.
 
-###The Specs
+### The Specs
 
 - **Tooth count** - In the 80s and a 4-degree arc
 - **Pawl design** - Patented pawls
@@ -165,7 +165,7 @@ Then there is the other variable. Is there a Mac man in your area? They are not 
 - **Weight and Length** - 15-18 ounces, 18-1/2 inches
 - **Cost** - **\$\$\$\$**
 
-##9. GearWrench 81211F
+## 9. GearWrench 81211F
 
 ![gear](gear.png)
 
@@ -173,7 +173,7 @@ Another solid choice from Gearwrench. This is a nice solid ratchet with no frill
 
 [Check out the latest price on Amazon](https://amzn.to/36uEZVw)
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 84 and a 4.3-degree arc
 - **Pawl design** - double pawls
@@ -183,7 +183,7 @@ Another solid choice from Gearwrench. This is a nice solid ratchet with no frill
 - **Weight and Length** - 15-18 ounces, 10-1/4 inches
 - **Cost** - **\$\$**
 
-##10. Craftsman CMMT81748
+## 10. Craftsman CMMT81748
 
 ![Craftsman](./craft.png)
 
@@ -193,7 +193,7 @@ I plan on buying one in the next few days to give it a full review. I will updat
 
 [Check out the latest price on Amazon](https://amzn.to/34B7wHx)
 
-###The Specs
+### The Specs
 
 - **Tooth count** - 72 count and a 4.5-degree arc
 - **Pawl design** - Double sided pawls
@@ -249,7 +249,7 @@ All the tools nowadays seem to have a lifetime warranty, but it is important to 
 
 This is really up to you and your pocket book. Willing to pay a bit more? You can have one that will last and become one of your favorite things. That's what you need to do. Don't cheap out. I understand if things are tight and there are some less expensive options for you.
 
-##Summing up
+## Summing up
 
 Your ratchet is probably the most important tool in your box. You use it so often and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
 
