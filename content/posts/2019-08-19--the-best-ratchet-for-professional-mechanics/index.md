@@ -37,7 +37,25 @@ I would recommend these things all day, but the proof is in the pudding as they 
 - **Weight and Length** - 15.8 ounces, 15.9 inches
 - **Cost** - **\$\$**
 
-## 2. Snap-on F80
+## 2. Milwaukee 48-22-9014
+
+![mil ratchet](./mil.JPG)
+
+So, if you have seen this list before this is a new one. I recently bought this awesome Milwaukee set and have used it long enough to review it. It is great ratchets are very durable and fit in your hand nice. I love the whole set and I would recommend them to pro mechanics as a solid truck tool alternative. This Ratchet is very impressive and is comparable to high end ratchets. The flat design on the sockets is awesome for stubborn fasteners, and put an end to chasing dropped and rolling sockets under the truck! Check these out. You wont regret it.
+
+[Check out the latest price on Amazon](https://amzn.to/2JTkn2K)
+
+### The Specs
+
+- **Tooth count** - 90 count and a 4-degree arc
+- **Pawl design** - Patented pawls
+- **Handle design** - Chrome. Round.
+- **Profile** - Slim profile .5 inches
+- **Warranty** - Mail-in. Possible store exchange depending on the particular Home Depot you are dealing with.
+- **Weight and Length** - 11-13 ounces, 11 inches
+- **Cost** - **\$\$\$**
+
+## 3. Snap-on F80
 
 ![snap-on](./snap.jpg)
 
@@ -56,24 +74,6 @@ This is an awesome ratchet and you can’t go wrong with it. The only questions 
 - **Warranty** - Hassle free. They will rebuild it if the damage is in the gearing and replace if it’s in the handle.
 - **Weight and Length** - 11-13 ounces, 11.3 inches
 - **Cost** - **\$\$\$\$**
-
-## 3. Milwaukee 48-22-9014
-
-![mil ratchet](./mil.JPG)
-
-So, if you have seen this list before this is a new one. I recently bought this awesome milwaukee set and have used it long enough to review it. It is great ratchets are very durable and fit in your hand nice. I love the whole set and I would recommend them to pro mechanics as a solid truck tool alternative. Check these out. You wont regret it.
-
-[Check out the latest price on Amazon](https://amzn.to/2JTkn2K)
-
-### The Specs
-
-- **Tooth count** - 90 count and a 4-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Chrome. Round.
-- **Profile** - Slim profile .5 inches
-- **Warranty** - Mail-in. Possible store exchange depending on the particular Home Depot you are dealing with.
-- **Weight and Length** - 11-13 ounces, 11 inches
-- **Cost** - **\$\$\$**
 
 ## 4. Kobalt 737671
 
