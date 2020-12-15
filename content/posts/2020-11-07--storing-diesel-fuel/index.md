@@ -13,7 +13,7 @@ _How long can you store diesel?_
 
 **Open diesel fuel can last up to 1 month. If you have it stored the diesel in a sealed container indoors or it is in a vehicle tank it will last 6 months with no treatment. If you have treated the fuel with biocides and stabilizers and it is kept in good condition it will last 12 months. Longer than 12 months it will require more maintenance.**
 
-## Reasons why
+## Reasons not to use old diesel fuel
 
 ### High fuel pressure
 
