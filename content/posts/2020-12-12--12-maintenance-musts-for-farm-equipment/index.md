@@ -5,6 +5,8 @@ cover: farm.png
 author: Johnathan Coker
 ---
 
+![farm pic](farm.png)
+
 It gets busy on the farm. Whether it's feeding or fencing you can get distracted. I work on lots of farm equipment that has been neglected and ended up costing the farmer more than it would if they would have followed this list. Let me save you some time, headache, and money.
 
 **12 Farm Maintenance Musts**
