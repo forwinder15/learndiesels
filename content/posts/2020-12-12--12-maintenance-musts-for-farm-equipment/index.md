@@ -1,6 +1,6 @@
 ---
 title: 12 Farm Equipment Maintenance Musts
-category: "How-tos"
+category: "How Tos"
 cover: farm.png
 author: Johnathan Coker
 ---
@@ -62,7 +62,7 @@ Look over your unit, what will wear? What is likely to break? Order it now and s
 
 ## Don't modify your farm equipment
 
-[Tim the tool man](tim.jpg)
+![Tim the tool man](tim.jpg)
 
 I know we all like to supercharge our engines, equipment, flashlights you know. Make it go faster! That is not such a great idea when it comes to your expensive equipment.
 
