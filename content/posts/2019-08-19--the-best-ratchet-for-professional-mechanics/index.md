@@ -23,7 +23,7 @@ You have to get the one that fits you. Sometimes it takes trying some out to fin
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
-Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this YouTube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bee's knees. The one down side is the mail-in warranty. So, If you need the store/truck exchange look further but, I have owned this one 2 years no issues with heavy use.
+Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this YouTube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money I think this ratchet is the bee's knees. The one down side is the mail-in warranty. So, If you need the store/truck exchange look further but, I have owned this one 2 years no issues with heavy use. This is the best 3/8 ratchet for the money.
 
 I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B)
 
