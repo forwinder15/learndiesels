@@ -211,7 +211,6 @@ module.exports = {
               siteMetadata {
                 title
                 description
-                modified
                 siteUrl
                 site_url: siteUrl
               }

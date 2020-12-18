@@ -3,6 +3,7 @@ title: Do All Diesels Have Turbos?
 category: "Common Questions"
 cover: cat.jpg
 author: Johnathan Coker
+modified: 2019-09-15
 ---
 
 ![unsplash.com](./cat.jpg)
@@ -52,7 +53,7 @@ This air becomes compressed and it is forced into the combustion chamber. It end
 
 • **Noise reduction.** So, you thought the turbo was loud? Think again that naturally aspirated engine was super loud. The turbocharger actually is a muffler of sorts and quiets the sound of the exhaust.
 
-## Why do diesels need a turbo?
+## Why do diesels need a turbo
 
 Power baby. They need the boost. Diesels are not really that efficient when naturally aspirated. They are dogs. Put the turbo on and boom you got some power. Diesels are bent toward having more torque. The turbo allows the diesel engine to have some get up and go under acceleration.
 
