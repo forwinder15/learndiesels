@@ -33,7 +33,7 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 | <input type="radio"> </input> | Air or Battery Tools |- Impact Guns - 3/8”, 1/2<br>- 90 Degree die grinder  |
 | <input type="radio"> </input> | DVOM - Digital Multimeter |- Digital readout and Auto ranging<br>Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate.<br>[Check out this klein](https://amzn.to/2W5xZeW)  |
 | <input type="radio"> </input> | Pliers |- Needle nose, adjustable, vise grips, Snap-ring,<br> Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)  |
-| <input type="radio"> </input> | Pry-Bars |- 12”, 2’, 3’ <br>[This Craftsman set has a strike head with is nice](https://amzn.to/3bN9uJx) |
+| <input type="radio"> </input> | Pry-Bars |- 12”, 2’, 3’ <br>[This Craftsman set has a strike head for a great price](https://amzn.to/3bN9uJx) |
 | <input type="radio"> </input> | Screw Drivers |- Flat head & Philips<br> #2 stubby, #2 regular,<br> #1 regular. I also recommend torques drivers. |
 | <input type="radio"> </input> | Torque Bit Drivers |- T10, T15, T20, T25<br> **_(T25 is the most used. Get 2)_**, T27, T30, T40, T45 |
 | <input type="radio"> </input> | Electrical Tools | Hand held torch, Wire cutters, Wire stripping tool **_(I prefer these [auto wire strippers](https://amzn.to/33d7KnM)_** best tool ever), <br> Soldering gun, Crimping tool, 12v test light<br> **_(I recommend the [Power Probe III](https://amzn.to/32bL71J) but it's not required.)_** |

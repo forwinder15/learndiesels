@@ -11,7 +11,7 @@ In the diesel world there are many scenarios where the engine will just need to 
 
 So, I wanted to write a little about what the consequences of that are, how much it costs and if there are reasons why you should avoid it.
 
-## 1. How much fuel am I wasting?
+## 1. How much fuel am I wasting
 
 Do diesels use a lot of fuel when idling? **No. they only use about a gallon an hour.**
 
@@ -19,7 +19,7 @@ How much fuel does a diesel use at idle? **One hour of idle time consumes around
 
 So, that is a lot of fuel. When you think about that over time or in the larger scope of a big company this can add up to millions of dollars wasted.
 
-## 2. What does it cost for a diesel to idle?
+## 2. What does it cost for a diesel to idle
 
 **The national average as of today in 2019 is 2.67 per gallon. That means that you are spending \$2.67 an hour or about 4.5 cents per minute to have your truck or equipment running at an idle.**
 
@@ -27,9 +27,9 @@ This is why several manufactures have idled an idle time out where the engine wi
 
 ## 3. Idling harms your engine
 
-Does idling hurt a diesel engine? **Yes. When a diesel engine idles it does more damage to the engine than normal operation. Operating a diesel engine at a low speed will cause**two times** wear on the internal components in contrast to operating at normal load. This will raise maintenance costs and shorten engine life.**
+Does idling hurt a diesel engine? **Yes. When a diesel engine idles it does more damage to the engine than normal operation. Operating a diesel engine at a low speed will cause**two times**wear on the internal components in contrast to operating at normal load. This will raise maintenance costs and shorten engine life.**
 
-This fact really blows my mind. I can’t believe it really causes **2 times** the wear on your engine to idle it. That is really crazy when you think about the amount of idling that goes on in diesel applications.
+This fact really blows my mind. I can’t believe it really causes **2 times** the [wear on your engine](/10-signs-and-symptoms-of-a-worn-out-diesel-engine) to idle it. That is really crazy when you think about the amount of idling that goes on in diesel applications.
 
 This is why manufactures usually will classify applications with high idle times as **_severe duty_** and recommend a more aggressive maintenance schedule.
 
@@ -43,7 +43,7 @@ Without this temperature there will be carbon build up. With that carbon buildup
 
 Does a diesel need to be started and ran on cold mornings? **No. Modern fuels have solved most of the problems of gelling and water mixture for North Americans unless in extreme temperatures**
 
-There is really no need to crank trucks in the winter if you have done the right things beforehand. I know in some cases you want to try to save the batteries but in a harsh climate you should be equipping your equipment and vehicles with **trickle chargers**. This will maintain the battery with out damage.
+There is really no need to crank trucks in the winter if you have done the right things beforehand. I know in some cases you want to try to save the batteries but in a harsh climate you should be equipping your equipment and vehicles with **trickle chargers**. This will maintain the battery with out damage. See [The Complete Guide To Starting A Diesel In Cold Weather](/the-complete-guide-to-starting-a-diesel-in-cold-weather)
 
 In harsh winter conditions the engine should also be equipped with a block heater. This will keep the coolant moving and heat the block to around 150 F depending on the setting. This will make starting the engine unnecessary.
 
@@ -94,3 +94,9 @@ This is a high cost but replacing your engine prematurely can be much worse.
 ## Summing up
 
 Next time you are sitting longer than just a few minutes remember this list and the high price to pay for that little bit of AC time in the cab. Is it really worth it? Idle time is the enemy of diesel engines and avoiding it can add years of life to your engine.
+
+## Want to get your ASE but Hate reading? 📕
+
+You can actually listen the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) listen to the study guide for free! Curtesy of Amazon. You can literally sign up, study, pass and then cancel before the free trial ends.
+
+Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.

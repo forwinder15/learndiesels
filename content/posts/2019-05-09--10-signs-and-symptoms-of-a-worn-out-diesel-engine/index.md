@@ -37,7 +37,7 @@ Leaking extra fuel into the chamber can cause all sorts of bad things to happen.
 
 This is one people usually pick up on quickly. Something is usually said about the truck pulling a _greasy sting out of something_ 😆. Most will notice a change in the amount of power the vehicle has from take-off and how long it takes to get up to speed. Although, if you have been driving the vehicle for years this can sneak up on you.
 
-Does your vehicle have the power it had when you first purchased it? Over the years as the components wear you will lose some of that **get-up-and-go.** If you are looking at whether or not your engine is worn-out this one is important. As you lose compression and your turbo and related components wear down, you will see a significant drop in power.
+Does your vehicle have the power it had when you first purchased it? Check out my [9-point checklist for diesel engines with low power](/9-point-checklist-for-diesel-engines-with-low-power) Over the years as the components wear you will lose some of that **get-up-and-go.** If you are looking at whether or not your engine is worn-out this one is important. As you lose compression and your turbo and related components wear down, you will see a significant drop in power.
 
 ## 5. Increased Oil Consumption
 
@@ -47,7 +47,7 @@ That being said, when an engine ages and all the parts wear down oil will begin 
 
 ## 6. Engine Noise
 
-Do you remember how your diesel engine sounded when you drove it the first time? Has that beautiful roaring been replaced with the sounds of beating and banging? Over time compression and combustion-timing issues can cause your engine to knock and make all sorts of unpleasant noises. There are really several places to look for the culprit of engine noise. **It is really depending on where the noise is coming from and what it sounds like.**
+Do you remember how your diesel engine sounded when you drove it the first time? Has that [beautiful roaring](/why-diesels-are-so-noisey) been replaced with the sounds of beating and banging? Over time compression and combustion-timing issues can cause your engine to knock and make all sorts of unpleasant noises. There are really several places to look for the culprit of engine noise. **It is really depending on where the noise is coming from and what it sounds like.**
 
 ![engine sound](./sound.jpeg)
 
@@ -63,7 +63,7 @@ It is important to diagnose a unusual noise in your diesel quickly. Most of thes
 
 ## 7. Turbocharger System Failure
 
-All modern diesel engines have a turbocharger. That are a important part of the operation of the engine. You will definitely be able to tell if you’re having issues here.
+[All modern diesel engines have a turbocharger.](/do-all-diesels-have-turbos) That are a important part of the operation of the engine. You will definitely be able to tell if you’re having issues here.
 
 Over time the turbo will wear down and the turbine itself will begin to _wobble_. This is not good considering it spins between 80,000 and 200,000 RPM. Even just a little wiggle over the allotted amount will cause a catastrophic failure. When the turbine fails it allows oil to pass into the intake cause instant thick black smoke.
 
@@ -83,7 +83,7 @@ You will also see a ton of oil of the under carriage, transmission and other par
 
 ## 9. Rough Idle
 
-At the stop light and you are just bouncing all over the place? Another sign of a worn-out diesel is a rough idle. There are several different types of rough idling.
+At the stop light and you are just bouncing all over the place? Another sign of a worn-out diesel is a rough [idle](/8-idle-facts). There are several different types of rough idling.
 
 - Hunting - This is when the engine is idling up and down in intervals. It is looking for something 🔍. It cannot find the proper amount of fuel and compression at the right time. It could be running on some oil from worn components. Getting that extra oil and causing a little higher rev and then calming back down.
 - Just Rough – This can be from leaking injectors or poor timing. Fuel pump wear and several other things.
@@ -91,7 +91,7 @@ At the stop light and you are just bouncing all over the place? Another sign of 
 
 ## 10. Continues Running After You Turn It Off or “Run-away”
 
-It is never good when you get up for work and the vehicle will not start. But what about when you get to work, and it won’t stop? Oh boy. Houston, we have a problem. This is known as run-away. It can be very dangerous. We have all heard it in movies the iconic sound of a diesel turning over a couple times after it is shut off.
+It is never good when you get up for work and the vehicle will not start. But what about when you get to work, and it won’t stop? Oh boy. Houston, we have a problem. This is known as [run-away](/run-away-diesels). It can be very dangerous. We have all heard it in movies the iconic sound of a diesel turning over a couple times after it is shut off.
 
 **_Gas engines do this sometime also and it is called “dieseling”._** So, you’ve turned the key off, everything tuned off except your engine is still running. With diesel only needed compression to run, it doesn’t matter that you think you have the power with you little switch. So, just because you decided it was time to turn off to a worn-out engine this may just be an ignored request.
 
