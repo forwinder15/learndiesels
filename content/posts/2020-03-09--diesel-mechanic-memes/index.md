@@ -3,7 +3,7 @@ title: Best Diesel Mechanic Memes - Updated Monthly
 category: "Just For Fun"
 cover: mory.jpg
 author: Johnathan Coker
-modified: 2020-08-10
+updated: 2020-08-10
 ---
 
 ![unsplash.com](./mory.jpg)

@@ -3,7 +3,7 @@ title: 21 Tips Every Diesel Mechanic Wish They’d Learned Sooner
 category: "How Tos"
 cover: mech2.jpg
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 <iframe src="https://www.youtube.com/embed/SSrXZD9qYGs" width="600" height="400"></iframe>

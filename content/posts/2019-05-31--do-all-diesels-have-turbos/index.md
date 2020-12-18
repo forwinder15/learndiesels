@@ -3,7 +3,7 @@ title: Do All Diesels Have Turbos?
 category: "Common Questions"
 cover: cat.jpg
 author: Johnathan Coker
-modified: 2019-09-15
+updated: 2019-09-15
 ---
 
 ![unsplash.com](./cat.jpg)

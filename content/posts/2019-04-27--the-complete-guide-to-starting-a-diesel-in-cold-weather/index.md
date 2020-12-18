@@ -3,7 +3,7 @@ title: The Complete Guide To Starting A Diesel In Cold Weather
 category: "How Tos"
 cover: snow.jpeg
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 ![test](./snow.jpeg)

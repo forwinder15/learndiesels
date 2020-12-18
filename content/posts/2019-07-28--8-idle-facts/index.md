@@ -3,7 +3,7 @@ title: 8 Facts About Diesel Idle You May Not Know
 category: "Diagnosing Problems"
 cover: crazy1.PNG
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 ![Idle facts](./crazy1.PNG)

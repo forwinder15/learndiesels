@@ -3,7 +3,7 @@ title: Do You Need School To Be A Diesel Mechanic?
 category: "How Tos"
 cover: 2017-271_CareersTechBanners_v01_0.jpg
 author: Johnathan Coker
-modified: 2019-12-10
+updated: 2019-12-10
 ---
 
 ![test](./school.jpeg)

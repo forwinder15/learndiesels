@@ -3,7 +3,7 @@ title: The Tool Guide For Diesel Mechanics
 category: "Recommended Products"
 cover: tool.PNG
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 ![picture of tools. diesel mechanics tool guide](./tool.PNG)

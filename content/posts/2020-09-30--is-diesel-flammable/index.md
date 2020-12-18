@@ -3,7 +3,7 @@ title: Burning Question - Is Diesel Flammable?
 category: "Common Questions"
 cover: flames.PNG
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 ![diesel flames](./flames.PNG)

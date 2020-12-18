@@ -3,7 +3,7 @@ title: Do Diesel Mechanics Get Paid Flat Rate?
 category: "Common Questions"
 cover: monop.png
 author: Johnathan Coker
-modified: 2020-12-10
+updated: 2020-12-10
 ---
 
 So, you are looking at jobs. You see a company that says it pays flat rate to its mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Let's dive into that.
