@@ -21,7 +21,8 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 
 |   I've Got it! ✅   | Tool 🧰 | Sizes and Description 📏  |
 |    :---        |    :----:   |      :--- |
-| <input type="radio"> </input> | Toolbox or Cart  | Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)** <br> If you are wanting to spend the money for <br> a tool chest consider finding one online or looking around swap meets and what-not.<br>  I found a [really sweet Husky box on Amazon](https://amzn.to/32hnAQ1).<br> It has a solid wood top and is 72" long for under 1600 bucks. See if Snap-on can beat that price.|
+| <input type="radio"> </input> | Toolbox or Cart  | Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. **This is the one I own [Tool Cart - Click to see the latest price on Amazon)](https://amzn.to/2WCCyMh)** <br> If you are wanting to spend the money for <br> a tool chest consider finding one online or looking around swap meets and what-not.<br>
+check out my article about [the best boxes online for under 2k](/5-best-toolboxes-for-mechancis-under-2k/)|
 | <input type="radio"> </input> |  Ratchets |- 1/4", 3/8”, 1/2”, and a breaker bar<br> One of the most important tools <br> [See my article about ratchets](/the-best-ratchet-for-professional-mechanics)  |
 | <input type="radio"> </input> | 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow  |- 3/16” - 5/8” 6 point and 12 point <br> - 5mm - 15mm 6 point and 12 point <br> - 3" & 6" Extensions   |
 | <input type="radio"> </input> | 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact |- 5/16” - 1” 6 point and 12 point<br> - 7mm - 20mm 6 point and 12 point<br>- 3", 6", 12", 24" Extensions |
@@ -92,7 +93,7 @@ With the resources for online shopping today there is not really a good reason t
 
 **I do recommend a few tools on here but, do your own research. Tools are a personal thing. You need to find what works best for you.**
 
-Look on swap sites like Criagslist and garage sells. You might find a retired mechanic or a window looking to get rid of a whole set for cheap. You can find some great deals and get a lot of tools at once like this.
+Look on swap sites like craigslist and garage sells. You might find a retired mechanic or a window looking to get rid of a whole set for cheap. You can find some great deals and get a lot of tools at once like this.
 
 ![sale](./sale.png)
 
@@ -132,8 +133,6 @@ Most companies for the benefit of safety provide PPE to their mechanics. It is i
 
 There are a lot of cheap options when it comes to safety glasses. Most companies are going to opt for the cheaper options. That makes things rough on us. So, finding the right pair for you can make all the difference.
 
-My favorites can be found [Here](https://amzn.to/2oDTxB8)
-
 Buying a nicer pair has some great benefits. The better brands have better anti fogging which is a big deal when you’re working hard. It is tough to keep a pair of glasses on when your sweating and they get fogged up. Invest in a good pair you won't regret it.
 
 ### Gloves
@@ -148,7 +147,7 @@ You may think, "Man..I'm too cool for one of those". To that I say, yep you are.
 
 ### Silicone Wedding Band
 
-Learn from my first hand ✋experience. Learn from my mistakes. They have some great silicone wedding bands on Amazon and they will save you a scar and trip to the ER. Find some [Here](https://amzn.to/2oH7Yo6)
+Learn from my first hand ✋experience. Learn from my mistakes. They have some great silicone wedding bands on Amazon and they will save you a scar and trip to the ER. Find some [Here](https://amzn.to/2oH7Yo6) I made a [YouTube video](/youtube) on it if you wanna see.
 
 ![hand](./hand.jpeg)
 

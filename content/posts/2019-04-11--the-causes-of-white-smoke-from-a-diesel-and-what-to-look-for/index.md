@@ -64,7 +64,7 @@ This is a steady stream of a lighter white smoke. Can even be a random but, ofte
 
 ## Summing up
 
-White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.
+White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs. Looking for a complete diesel smoke guide? If you want to understand more click [Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue](/diesel-smoke-guide)
 
 ## Related Questions
 
