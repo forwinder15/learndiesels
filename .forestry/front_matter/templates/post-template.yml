@@ -14,3 +14,12 @@ fields:
 - type: text
   name: author
   label: author
+- name: last_updated
+  type: datetime
+  label: Last Updated
+  description: Last Updated
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
