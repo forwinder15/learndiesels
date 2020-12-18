@@ -6,11 +6,14 @@ import { FaCalendar } from "react-icons/fa/";
 import { FaUser } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 
-const Meta = props => {
-  const { author: authorName, category, theme } = props;
+const Meta = (props) => {
+  const { author: authorName, category, theme, updated } = props;
 
   return (
     <p className="meta">
+      <span>
+        <FaCalendar size={18} /> {updated}
+      </span>
       <span>
         <FaUser size={18} /> {authorName}
       </span>
@@ -55,7 +58,7 @@ Meta.propTypes = {
   prefix: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
   category: PropTypes.string,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
 };
 
 export default Meta;

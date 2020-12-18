@@ -11,31 +11,31 @@ import NextPrev from "./NextPrev";
 
 const Share = asyncComponent(() =>
   import("./Share")
-    .then(module => {
+    .then((module) => {
       return module.default;
     })
-    .catch(error => {})
+    .catch((error) => {})
 );
 
-const Post = props => {
+const Post = (props) => {
   const {
     post,
     post: {
       html,
       fields: { slug },
-      frontmatter: { title, author, category }
+      frontmatter: { title, author, category, updated },
     },
     authornote,
     next: nextPost,
     prev: prevPost,
-    theme
+    theme,
   } = props;
 
   return (
     <React.Fragment>
       <header>
         <Headline title={title} theme={theme} />
-        <Meta author={author} category={category} theme={theme} />
+        <Meta author={author} updated={updated} category={category} theme={theme} />
       </header>
       <Bodytext html={html} theme={theme} />
       <footer>
@@ -52,7 +52,7 @@ Post.propTypes = {
   authornote: PropTypes.string.isRequired,
   next: PropTypes.object,
   prev: PropTypes.object,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
 };
 
 export default Post;

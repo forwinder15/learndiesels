@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const Bodytext = props => {
+const Bodytext = (props) => {
   const { html, theme } = props;
 
   return (
@@ -72,38 +72,38 @@ const Bodytext = props => {
             opacity: 1;
           }
         }
-        
-          :global(table) {
-            border-collapse: collapse;
-            margin: 25px 25px;
-            font-size: 0.9em;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-            border-radius: 5px 5px 0 0;
-            overflow: hidden;
+
+        :global(table) {
+          border-collapse: collapse;
+          margin: 25px 25px;
+          font-size: 0.9em;
+          box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+          border-radius: 5px 5px 0 0;
+          overflow: hidden;
         }
         :global(thead) {
-            background-color: #009879;
-           
-            color: #ffffff;
-            text-align: left;
+          background-color: #009879;
+
+          color: #ffffff;
+          text-align: left;
         }
         :global(th, td) {
-            padding: 0 15px;
+          padding: 0 15px;
         }
-        
+
         :global(tbody tr) {
-            border-bottom: 1px solid #dddddd;
+          border-bottom: 1px solid #dddddd;
         }
-        
-        :global(tbody tr:nth-of-type)(even) {
-            background-color: #f3f3f3;
+
+        :global(tbody tr:nth-of-type, even) {
+          background-color: #f3f3f3;
         }
-        
+
         :global(tbody tr:last-of-type) {
-            border-bottom: 2px solid #009879;
+          border-bottom: 2px solid #009879;
         }
         :global(tbody tr:hover) {
-            color: #009879;
+          color: #009879;
         }
       `}</style>
     </React.Fragment>
@@ -112,7 +112,7 @@ const Bodytext = props => {
 
 Bodytext.propTypes = {
   html: PropTypes.string.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
 };
 
 export default Bodytext;
