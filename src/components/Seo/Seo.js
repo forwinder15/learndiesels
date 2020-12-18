@@ -3,9 +3,10 @@ import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import config from "../../../content/meta/config";
 
-const Seo = props => {
+const Seo = (props) => {
   const { data } = props;
   const postTitle = ((data || {}).frontmatter || {}).title;
+  const dateModified = ((data || {}).frontmatter || {}).updated;
   const postDescription = ((data || {}).frontmatter || {}).description;
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
@@ -19,7 +20,7 @@ const Seo = props => {
     <Helmet
       htmlAttributes={{
         lang: config.siteLanguage,
-        prefix: "og: http://ogp.me/ns#"
+        prefix: "og: http://ogp.me/ns#",
       }}
     >
       {/* General tags */}
@@ -29,6 +30,7 @@ const Seo = props => {
       {/* OpenGraph tags */}
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
+      <meta property="og:dateModified" content={dateModified} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
@@ -43,7 +45,7 @@ const Seo = props => {
 };
 
 Seo.propTypes = {
-  data: PropTypes.object
+  data: PropTypes.object,
 };
 
 export default Seo;
