@@ -3,7 +3,7 @@ title: Complete Diesel Black Smoke Diagnosis Guide
 category: "Diagnosing Problems"
 cover: bsdmb.jpg
 author: Johnathan Coker
-updated: 2019-12-10
+updated: "Last updated: Dec 10, 2019"
 ---
 
 ![back](back.jpg)

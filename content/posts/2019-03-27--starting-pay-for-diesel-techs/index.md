@@ -3,7 +3,7 @@ title: Starting Pay For Diesel Techs (And A Look At 5 Opportunities)
 category: "Common Questions"
 cover: money.jpg
 author: Johnathan Coker
-updated: 2020-01-10
+updated: "Last updated: Jan 10, 2020"
 ---
 
 ![test](./money.jpg)

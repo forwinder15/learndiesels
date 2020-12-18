@@ -3,7 +3,7 @@ title: Diesel/Automotive Techs - Who Makes More Money?
 category: "Common Questions"
 cover: IMG_2015.PNG
 author: Johnathan Coker
-updated: 2020-11-10
+updated: "Last updated: Nov 11, 2020"
 ---
 
 ![unsplash.com](./IMG_2015.PNG)

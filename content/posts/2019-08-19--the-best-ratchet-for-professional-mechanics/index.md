@@ -3,7 +3,7 @@ title: Best 10 Ratchets For The Professional Mechanic And Buyers Guide
 category: "Recommended Products"
 cover: bestra.PNG
 author: Johnathan Coker
-updated: 2020-12-10
+updated: "Last updated: Dec 10, 2020"
 ---
 
 ![best ratchet](./bestra.PNG)

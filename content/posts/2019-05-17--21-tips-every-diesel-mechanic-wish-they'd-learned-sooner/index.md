@@ -3,7 +3,7 @@ title: 21 Tips Every Diesel Mechanic Wish They’d Learned Sooner
 category: "How Tos"
 cover: mech2.jpg
 author: Johnathan Coker
-updated: 2020-12-10
+updated: "Last updated: Dec 10, 2020"
 ---
 
 <iframe src="https://www.youtube.com/embed/SSrXZD9qYGs" width="600" height="400"></iframe>
@@ -86,7 +86,7 @@ Today’s diagnostic tools are so much better than it used to be. They offer a l
 
 A lot of times the guy that becomes the diesel tech it the **_skip the instructions guy_**. This is not good 😆. We need to go step by step and follow the manufactures specs. Not all the time but, for sure when you are working on engine internals.
 
-## 10. Take a picture. Mark your spot.
+## 10. Take a picture. Mark your spot
 
 It is the worst when you are trying to put something back together that you took apart a month ago because that parts were on backorder. Now you are stuck trying to remember what went were and how it was supposed to look. You put one part on and then realize it can’t go on until you put on another. **_The worst_**
 

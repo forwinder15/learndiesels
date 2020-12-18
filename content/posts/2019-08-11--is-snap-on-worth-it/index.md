@@ -3,7 +3,7 @@ title: Are Snap On Tools Worth It?
 category: "Recommended Products"
 cover: money.jpg
 author: Johnathan Coker
-updated: 2020-12-10
+updated: "Last updated: Dec 10, 2020"
 ---
 
 ![unsplash.com](./money.jpg)

@@ -3,7 +3,7 @@ title: 12 Farm Equipment Maintenance Musts
 category: "How Tos"
 cover: farm.png
 author: Johnathan Coker
-updated: 2020-12-10
+updated: "Last updated: Dec 10, 2020"
 ---
 
 ![farm pic](farm.png)

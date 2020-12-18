@@ -3,7 +3,7 @@ title: 10 Best 3/8 Socket Sets For Professional Mechanics
 category: "Recommended Products"
 cover: cover.PNG
 author: Johnathan Coker
-updated: 2020-08-10
+updated: "Last updated: Aug 10, 2020"
 ---
 
 ![best socket](./cover.PNG)

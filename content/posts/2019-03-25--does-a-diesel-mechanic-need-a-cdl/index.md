@@ -3,7 +3,7 @@ title: Do Diesel Mechanics Need A CDL?
 category: "Common Questions"
 cover: photo-1540852360777-5f6fa7752aeb.jpeg
 author: Johnathan Coker
-updated: 2020-01-10
+updated: "Last updated: Jan 01, 2020"
 ---
 
 ![unsplash.com](./photo-1540852360777-5f6fa7752aeb.jpeg)

@@ -3,7 +3,7 @@ title: Are Air Brakes Better Than Hydraulics?
 category: "Common Questions"
 cover: air-disc-brake-assembly.jpg
 author: Johnathan Coker
-updated: 2019-12-10
+updated: "Last updated: Dec 10, 2019"
 ---
 
 ![test](./air-disc-brake-assembly.jpg)

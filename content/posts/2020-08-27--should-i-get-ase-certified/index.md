@@ -3,7 +3,7 @@ title: Do Mechanics Need To Be ASE Certified?
 category: "Common Questions"
 cover: ASE_large.png
 author: Johnathan Coker
-updated: 2020-12-10
+updated: "Last updated: Dec 10, 2020"
 ---
 
 ![test](./ASE_large.png)

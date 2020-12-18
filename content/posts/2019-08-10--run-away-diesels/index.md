@@ -3,7 +3,7 @@ title: Why Diesel Engines Run Away And How To Prevent It
 category: "Diagnosing Problems"
 cover: runaway.png
 author: Johnathan Coker
-updated: 2019-08-10
+updated: "Last updated: Aug 10, 2020"
 ---
 
 ![unsplash.com](./runaway.png)
