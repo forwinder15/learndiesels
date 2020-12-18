@@ -3,18 +3,18 @@ import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import config from "../../../content/meta/config";
 
-const myDate = new Date(updated);
-const dayOfMonth = myDate.getDate();
-const month = myDate.getMonth();
-const year = myDate.getFullYear();
-
-function pad(n) {
-  return n < 10 ? "0" + n : n;
-}
-
-const ddmmyyyy = year + "-" + pad(month + 1) + "-" + pad(dayOfMonth);
-
 const Seo = (props) => {
+  const myDate = new Date(updated);
+  const dayOfMonth = myDate.getDate();
+  const month = myDate.getMonth();
+  const year = myDate.getFullYear();
+
+  function pad(n) {
+    return n < 10 ? "0" + n : n;
+  }
+
+  const ddmmyyyy = year + "-" + pad(month + 1) + "-" + pad(dayOfMonth);
+
   const { data } = props;
   const postTitle = ((data || {}).frontmatter || {}).title;
   const dateModified = ((data || {}).frontmatter || {}).ddmmyyyy;
