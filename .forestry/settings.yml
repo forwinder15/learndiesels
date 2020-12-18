@@ -1,17 +1,15 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: document
   path: content/pages
   label: pages
-  match: "**/*"
 - type: document
   path: content/posts
   label: posts
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
