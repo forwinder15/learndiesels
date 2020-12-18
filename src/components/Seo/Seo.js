@@ -4,7 +4,13 @@ import Helmet from "react-helmet";
 import config from "../../../content/meta/config";
 
 const Seo = (props) => {
-  const myDate = new Date(updated);
+  const { data } = props;
+  const postTitle = ((data || {}).frontmatter || {}).title;
+  const newDateMod = ((data || {}).frontmatter || {}).updated;
+
+  // get date for modified
+
+  const myDate = new Date(newDateMod);
   const dayOfMonth = myDate.getDate();
   const month = myDate.getMonth();
   const year = myDate.getFullYear();
@@ -15,9 +21,7 @@ const Seo = (props) => {
 
   const ddmmyyyy = year + "-" + pad(month + 1) + "-" + pad(dayOfMonth);
 
-  const { data } = props;
-  const postTitle = ((data || {}).frontmatter || {}).title;
-  const dateModified = ((data || {}).frontmatter || {}).ddmmyyyy;
+  const dateModified = ddmmyyyy;
   const postDescription = ((data || {}).frontmatter || {}).description;
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
