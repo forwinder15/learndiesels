@@ -3,6 +3,7 @@ title: What Is the Easiest ASE Test?
 category: "Common Questions"
 cover: hand.jpg
 author: Johnathan Coker
+modified: 2020-01-10
 ---
 
 ![unsplash.com](./hand.jpg)

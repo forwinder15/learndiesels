@@ -3,6 +3,7 @@ title: 9-point checklist for diesel engines with low power
 category: "Diagnosing Problems"
 cover: turbo.jpg
 author: Johnathan Coker
+modified: 2020-12-10
 ---
 
 ![unsplash.com](./turbo.jpg)

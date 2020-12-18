@@ -3,13 +3,14 @@ title: What can a diesel engine run on? (Kerosene, Used Oil, Vegetable Oil, Gaso
 category: "Common Questions"
 cover: de.jpeg
 author: Johnathan Coker
+modified: 2020-01-03
 ---
 
 ![unsplash.com](./de.jpeg)
 
 With the unpredictability of the fuel market and the rising cost of diesel people have been experimenting with alternative fuels in diesel engines for many years now. Your diesel is surprisingly versatile. There are several “fuels” it can operate on. **Not all are created equal through!** So, before you drop whatever you are thinking into your tank have a look at this article.
 
-## Can a diesel engine run on gasoline?
+## Can a diesel engine run on gasoline
 
 **A diesel engine cannot run on clean gasoline**, but it can run on diesel mixed with gasoline, completely. The main thing is that the amount of this gasoline does not exceed **one-tenth** of the total volume of fuel. If this proportion increases, the engine will lose power and eventually will stop working altogether. **_Running a diesel on any amount of gasoline is not recommended_**
 
@@ -45,7 +46,7 @@ With kerosene, the situation is different. This type of fuel does not have suffi
 
 If absolutely necessary, it is probably safer to mix kerosene with a diesel engine in the ratio of 1: 4, which should not cause engine wear.
 
-## Can a diesel engine run on natural gas?
+## Can a diesel engine run on natural gas
 
 Yes, but, Unlike the situation with gasoline engines, the transfer of which to gaseous fuel (mainly LPG - liquefied petroleum gas) has long seen impossible in diesels. A standard diesel engine cannot operate on a gas fuel. For two reasons,
 
@@ -91,7 +92,7 @@ Some results will be
 
 But there are experts who consider adding oil acceptable. There is no agreement among them. Some have nothing against the oil in the fuel for old engines with pin nozzles (vortex-chamber and pre-chamber diesel), but they have doubts regarding the diesel, the nozzles of which are equipped with multi-drop diffusers (direct injection). Others allow the addition of oil only in the winter period of operation, especially when diesel fuel was diluted with kerosene or gasoline. Finally, there are those who do not see anything problems in adding oil at any time of the year, regardless of the type of diesel.
 
-## Can a diesel engine run on vegetable oil?
+## Can a diesel engine run on vegetable oil
 
 Scientists have proven that a diesel engine can run on a mixture of vegetable oil and diesel fuel. The first in this direction were distinguished German firms. At the moment, engines have already been developed that function on both diesel fuel and vegetable oil. A distinctive feature of such units is the need for initial warming up on diesel fuel with the subsequent transition to vegetable oil in automatic mode. The highest efficiency can be achieved by adding about 30% vegetable oil (by volume) to bio-diesel.
 
@@ -99,12 +100,12 @@ The original diesel was made in Germany by Rudolph Diesel and was actually made 
 
 ## Related Questions
 
-#### What does an EGR do?
+#### What does an EGR do
 
 To fulfill modern environmental standards, the diesel engines are tied with additional systems that improve the environment. This is an **EGR valve** and a **diesel particulate filter** designed to reduce the concentration of **nitrogen oxides**.
 
 The EGR valve works as follows: part of the exhaust gases, the valve sends to the intake manifold, thereby reducing the temperature in the combustion chambers. As a result, the concentration of nitrogen oxides decreases, but there is also a negative. Unburned fuel and oil residues enter the intake manifold, providing enhanced carbon formation at the inlet and at the valves.
 
-#### Do I need to use additives in a diesel?
+#### Do I need to use additives in a diesel
 
 There are many opinions here. It really depends on whether or not you want to invest in the upkeep of the engine. People who understand the essence of the process and want to save use additives. Additives in diesel can not only relieve a list of problems but also extend the life of the engine.

@@ -3,6 +3,7 @@ title: The 3 Causes of White Smoke From A Diesel And What To Do Next
 category: "Diagnosing Problems"
 cover: bus.png
 author: Johnathan Coker
+modified: 2020-12-10
 ---
 
 ![unsplash.com](./bus.png)

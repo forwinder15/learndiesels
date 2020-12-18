@@ -3,6 +3,7 @@ title: Blue Smoke From A Diesel? Causes And What To Do Next
 category: "Diagnosing Problems"
 cover: blue1.PNG
 author: Johnathan Coker
+modified: 2020-06-10
 ---
 
 ![unsplash.com](./blue1.PNG)

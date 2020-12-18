@@ -3,6 +3,7 @@ title: Are Diesels Dead? (Phasing out? Good career? Smart purchase?)
 category: "Common Questions"
 cover: tesla.jpg
 author: Johnathan Coker
+modified: 2020-01-05
 ---
 
 ![unsplash.com](./tesla.jpg)
@@ -13,7 +14,7 @@ Will diesels be phased out? **While some countries have proposed bans on various
 
 That is a bold statement! Maybe even a little controversial. Give me chance to show you why I believe that this industry is here to stay.
 
-## Are diesels being phased out?
+## Are diesels being phased out
 
 While all the advancements today in transportation this seems like a legitimate fear but, with the sheer size of the diesel market and their flexibility it is very unlikely that we even see the end of diesel engines in the next 50 years.
 
@@ -79,7 +80,7 @@ I am not running out and looking for another career, but I am prepared to learn 
 
 Another thing is the power generation side of the diesel world will obviously never be touched by this. Batteries will be one thing that may in the very distant future but, the point of a generator is to provide power when there is none. A diesel engine can run as long as you have fuel. If they ever consider going to a battery type power generation it will be only as good as the capacity of the battery that is connected to it.
 
-## Is a career in the diesel industry still a good idea?
+## Is a career in the diesel industry still a good idea
 
 Yes! It is a great idea. The diesel industry needs good people to join in the many different areas of the field. One of the largest needs nationwide is for diesel mechanics. There is a shortage a diesel mechanics that will only get worse over the next few years. This is really the best time to get into the field. Let me list a few reason now is the best time to start out as a diesel mechanic.
 
@@ -112,7 +113,7 @@ According to the BLS “The median annual wage for diesel service technicians an
 
 With the higher earners being in the 70s 💰 I think this is a great amount considering you don’t need a four-year degree for the job. In fact, most techs I know did not even attend a trade school. You will be able to pick a company you like and demand top salary as you become more valuable over time.
 
-## Should you buy a diesel in 2019?
+## Should you buy a diesel in 2019
 
 Of course! There are no worries in the immediate future about diesels having any issues (at least here in the USA.) The modern diesels are fantastic, and they have great efficiency and reliability. The biggest barrier to purchasing a modern diesel is of course the price. New diesel vehicles can be quite expensive. Let me list a few factors in diesel ownership so you can make the right call.
 
