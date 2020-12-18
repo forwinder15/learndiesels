@@ -3,6 +3,7 @@ title: Do Mechanics Need To Be ASE Certified?
 category: "Common Questions"
 cover: ASE_large.png
 author: Johnathan Coker
+modified: 2020-12-10
 ---
 
 ![test](./ASE_large.png)
@@ -39,7 +40,7 @@ Another contested point. There usually is a pay increase that goes with the cert
 
 They are worth it. Overall, we complain about them, the money they cost and the hassle but, face the music they are a good investment. Mine have paid for the time, money and hassle 10000x over.
 
-### Ok John you convinced me; how do I get them?
+### Ok John you convinced me; how do I get them
 
 **1. Great question! So, first you need 2 "verifiable" years experience.**
 
@@ -63,10 +64,12 @@ Here is a list of [All the ASE certifications](https://www.ase.com/About-ASE/Sta
 
 So, even though it is contested I hope you have seen that it can be worth your while and help you progress in the path to be a well paid and awesome diesel mechanic. If you end up taking one and failing it, no sweat. Read the book again and go back and take it again. I have seen lots of people fail these including myself. But, stick with it and you will get them and reap the benefits.
 
-##Related Questions
+## Related Questions
 
-####What does it cost to get certified as a diesel mechanic
+#### What does it cost to get certified as a diesel mechanic
+
 A $36 registration fee is paid only once during a registration window it does not matter how many tests you take. Tests are $43 each. Find more info [here](https://www.ase.com/Tests/ASE-Certification-Tests/Register-Now.aspx)
 
-####How many diesel ASE certifications are there?
+#### How many diesel ASE certifications are there?
+
 There are 40 ASE certifications. There are 8 for Heavy Truck which you need to be a master.

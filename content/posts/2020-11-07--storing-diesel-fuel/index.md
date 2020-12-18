@@ -3,6 +3,7 @@ title: Storing diesel. How long can it last?
 category: "Common Questions"
 cover: store.PNG
 author: Johnathan Coker
+modified: 2020-12-11
 ---
 
 ![toolbox and truck](./store.PNG)
