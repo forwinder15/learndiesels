@@ -3,12 +3,12 @@ title: Best Diesel Mechanic Memes - Updated Monthly
 category: "Just For Fun"
 cover: mory.jpg
 author: Johnathan Coker
+modified: 2020-08-10
 ---
 
 ![unsplash.com](./mory.jpg)
 
-Welcome to a compellation of diesel mechanic memes. I did not make any of these. I just wanted to compile some funny ones so you would have a spot on the inter webs where you could see them all together. I am attempting to only have the funnest and keep it updated so...you're welcome  
-
+Welcome to a compellation of diesel mechanic memes. I did not make any of these. I just wanted to compile some funny ones so you would have a spot on the inter webs where you could see them all together. I am attempting to only have the funnest and keep it updated so...you're welcome
 
 ![unsplash.com](./uggies.jpg)
 

@@ -3,6 +3,7 @@ title: Why Diesel Engines Run Away And How To Prevent It
 category: "Diagnosing Problems"
 cover: runaway.png
 author: Johnathan Coker
+modified: 2019-08-10
 ---
 
 ![unsplash.com](./runaway.png)
@@ -19,7 +20,7 @@ What is diesel engine run away? **Diesel engines run away when the RPMs can no l
 
 <iframe src="https://www.youtube.com/embed/R0AVSBw4Qq8" width="600" height="400"></iframe>
 
-##It packed its bags and ran away 😢
+## It packed its bags and ran away 😢
 
 You have probably heard on a movie or show where an engine continues to run after it is shut off. **_i.e. uncle buck_** So, they call that dieseling. The engine continues running even after it has been shut off.
 
@@ -29,7 +30,7 @@ Modern diesels are less likely to run away based on the diesel because when you 
 
 So why does it cause so much damage when a diesel runs away? **Because the components are so heavy and are designed for low RPM. When these heavy parts get moving too fast, they start banking and breaking things. Valves will make contact with the piston, rods will bend and break eventually components will begin to break out of the case and fly across the shop.**
 
-##Why do diesel engines run away?
+## Why do diesel engines run away?
 
 What is the most common cause of diesel run away? **Turbo or crankcase hose leaking oil into the intake.**
 
@@ -49,17 +50,17 @@ This is the most common and also the worst type of run away because not only are
 
 As the oil is burned and escapes from the crankcase the engine has less and less oil to lubricate the bearing and all the internal engine components. They eventually dry our and cause catastrophic failure and even catch fire.
 
-###Older Diesels have different issues
+### Older Diesels have different issues
 
 Older diesels with mechanical fuel pumps have different causes of run away. It still can be the turbo but when your fuel pump is mechanical it can fail and supply an unlimited amount of fuel and cause this situation.
 
 With worn out diesel engine a run-away can be caused by high crankcase pressure usually created by worn piston rings. This allows oil to pass through into the combustion chamber. When this oil enters the combustion chamber it is burnt as fuel causing the engine to consume it until its gone.
 
-###Uncommon and not likely but possible
+### Uncommon and not likely but possible
 
 Coal dust and high amounts of propane or CNG can cause a run-away situation in the right conditions. Remember when the diesel engine was invented “diesel fuel” didn’t even exist. Diesel engines can run on lots of alternatives.
 
-##Overspeed vs. Run-Away
+## Overspeed vs. Run-Away
 
 Not all run-away situations are created equal.
 
@@ -69,7 +70,7 @@ So, a run-away can cause an overspeed if the engine is fueled to where is idles 
 
 I have seen situations where the engine was only running away while operating and it was a random idle up every few minutes.
 
-##How can You stop a diesel engine run away?
+## How can You stop a diesel engine run away?
 
 Remember this is a dangerous situation. If you are nervous or not confident you can get it shut down run away yourself! Get out of there. If, however for the brave and knowledgeable you want to stay in there and save the engine I will list the best ways to get the engine shut off.
 
@@ -107,7 +108,7 @@ Some vehicles have a fuel shut off that can be used. Like a ball valve at the ta
 
 Go for the air. When in doubt the air will shut it down every time. So, if you are not 100 percent certain shutting the air off is a great option. Just get something to stuff or cover that intake up and she will start bogging down.
 
-##Preventing diesel run away
+## Preventing diesel run away
 
 A great way to stop diesel run away is to never have it. As far as prevention of run-away there are a few good options.
 
@@ -119,6 +120,6 @@ Regular maintenance is going to keep you from getting into a situation where thi
 
 Another great thing to do is pop off your intake hose every once in a while, and have a gander at the turbine and intake hose. Keeping an eye out for residue or any signs of wear is going to prevent that run-away situation.
 
-##Summing up
+## Summing up
 
 A run away can be a scary situation but if you are experienced you can avoid damage and injury by getting it shut down. Remember though if you are at all apprehensive or nervous to approach it go for help! It is not worth getting seriously injured for a piece of equipment.
