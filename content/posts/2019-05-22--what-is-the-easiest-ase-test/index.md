@@ -135,5 +135,3 @@ A technician is recovering refrigerant. The type of refrigerant is the vehicle i
 ## Summing up
 
 Technician A and technician B are **dumb**, and I hope to never meet them. I am frankly sick of dealing with their arguments. The worst part about these types of questions is you can get it incorrect even if you are it half right. I tech A is right, and you say both you get that question 100 percent wrong. So, read very carefully and look for tricks in the way they work questions. A lot of people would say ASE is just as much about your knowledge as it is about your test taking abilities. Good luck!
-
-Last Updated: 11-12-2020

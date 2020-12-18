@@ -91,5 +91,3 @@ You do not need to double treat your fuel. If a fuel is already winterized do no
 ## Summing up
 
 Listen, it gets cold out there. My best advice is preparation is better than reaction to a problem. Go ahead and take the actions needed to prevent disaster if you know it's getting cold out there. Stay Warm!
-
-Last Updated: 12-09-2020

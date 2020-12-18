@@ -3,7 +3,7 @@ title: The Tool Guide For Diesel Mechanics
 category: "Recommended Products"
 cover: tool.PNG
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020" 
+updated: "Last updated: Dec 10, 2020"
 ---
 
 ![picture of tools. diesel mechanics tool guide](./tool.PNG)
@@ -164,5 +164,3 @@ You are on concrete all day and you need a comfortable pair that will last. Non-
 ## Summing up
 
 You don't need good tools to be a good mechanic but, man they make your life a lot easier. Be smart when you are first buying tool and you will save a pile of money and be better for it. You don’t make much starting out don't spend it all on overpriced tools. Remember to budget some money to continue to grow your collection and soon you will realize you have all you need.
-
-last updated: 11/02/2020
