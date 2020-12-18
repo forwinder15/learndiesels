@@ -1,0 +1,16 @@
+---
+label: 'Post template '
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: category
+  label: category
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: author
+  label: author
