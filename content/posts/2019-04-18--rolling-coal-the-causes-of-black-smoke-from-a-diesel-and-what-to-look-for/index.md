@@ -116,7 +116,7 @@ Black smoke can be difficult to diagnose but, if you follow the signs and look a
 
 ## Related Questions
 
-#### Does Black Smoke Cause poor fuel economy?
+#### Does Black Smoke Cause poor fuel economy
 
 Yes. If you are having black smoke as mentioned in this article, it is caused by a poor air/fuel mixture. Too much fuel or too much air will cause poor fuel economy. Your engine needs the right mixture in order to achieve a clean burn and produce the intended amount of power. If your blowing black smoke, it does not mean more power, it means more wasted fuel.
 
@@ -126,4 +126,4 @@ If this is a modern engine you likely have an injector problem. On older engines
 
 #### My diesel has random puffs of black smoke
 
-I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”. While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst (Links to Amazon)](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.
+I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”. While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.

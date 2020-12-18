@@ -13,7 +13,7 @@ Why would a diesel have blue smoke? **Blue smoke only occurs for one reason, exc
 
 Your burning oil. That part is simple. Understanding all the different reasons you can have oil in the cylinders is not. Here are the things it could be and what to look for...
 
-## 1. Is it really blue?
+## 1. Is it really blue
 
 Spotting blue smoke can be difficult if you don't know what to look for. The "blue" color is often faint. You should be able to see a blue haze to an overall "grey" kind of smoke. You can often smell 👃 the difference. Oil smoke has a distinct smell, like an asphalt parking lot or roofing tar on a hot day. If it is blue, I should say that **_blue smoke should not be happening at anytime._** It is evidence of a problem and should be investigated.
 
@@ -25,7 +25,7 @@ Let's take a closer look at what blue smoke could really mean and where to start
 
 ![engine](./engine.gif)
 
-###Blue Smoke is caused by engine burning lubricating oil but, that oil can enter the combustion chamber from several sources
+### Blue Smoke is caused by engine burning lubricating oil but, that oil can enter the combustion chamber from several sources
 
 - **Worn valve guides or seals** - They can be letting oil pass through to the cylinder.
 
@@ -53,7 +53,7 @@ Let's take a closer look at what blue smoke could really mean and where to start
 
 With so many different causes of blue some it can be a daunting task to begin to diagnose the issue. I decided to give you a little nudge in the right direction. Take a look at the list to follow.
 
-##Do the easy things first
+## Do the easy things first
 
 A lot of times less experienced mechanics can jump to the **worst-case scenario** when most of the time the problem is something much less complicated. I learned an acronym that has really helped me in my career. It is KISS. **Keep It Simple Stupid.** Most of the time the answer is right in front of you. When you are approaching a seemingly difficult diagnosis remember to look at the simplest explanation first.
 
@@ -73,8 +73,8 @@ Look at the blow-by tube and breather filter element (if equipped). Sometimes th
 
 Now you are in the more advanced inspection. This will require more time and you will be able to pin point which cylinder is allowing oil to pass by. If you have got to this point things can get hairy and expensive. Remember to always have the maintenance manual to find disassembly instructions for your specific engine. these can be extremely useful if you don't have it down to a science. Nothing wrong with looking at the instructions guys.
 
-##Summing up
+## Summing up
 
-Blue smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by blue smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.
+Blue smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by blue smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs. Looking for a complete diesel smoke guide? If you want to understand more click [Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue](/diesel-smoke-guide)
 
 **_See something I missed? Help me make it better, comment below. Thanks!_**
