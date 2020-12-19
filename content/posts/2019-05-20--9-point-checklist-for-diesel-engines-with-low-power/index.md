@@ -81,7 +81,7 @@ If you have an injector that is not operating correctly, you will have a loss of
 
 If you hear a **_miss_** in the engine, it is best to have a closer look to see if that is the culprit stealing your power. Most diagnostic software is going to have an injector performance test or diagnostic test. You should run the test on all injectors to single out the issue. Don’t stop when you see one that is out of spec. Keep the test up to the end to make sure that you don’t have more than one failing injector.
 
-It is not unusual to have more than one bad injector. Depending on the vehicle or equipment’s age and maintenance history, I would recommend replacing all 6 if you are having issues. You can also have those sent out for testing and even to be rebuilt.
+It is not unusual to have more than one bad injector. Depending on the vehicle or equipment’s age and maintenance history, I would recommend replacing all 6 if you have issues. You can also have those sent out for testing and even to be rebuilt.
 
 ## 7. Low fuel pressure
 
@@ -108,7 +108,7 @@ Several diagnostic tests can be run on the turbo and actuator. If you at all sus
 
 ## 9. Internal engine problems
 
-The last place I want the problem to happen would be in the internal engine. Problems here can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover.
+The last place I want the problem to happen would be in the internal engine. Problems can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover.
 
 * Broken rocker
 * Poorly adjusted valves or injectors
