@@ -12,27 +12,27 @@ Your ratchet is your most used tool as a diesel tech. Really any mechanic. You d
 
 > I have **10** 3/8 ratchets and **I use one.** My favorite.
 
-This is why it is important to think about what ratchet is best and we will take a look together at all your options. This is also the reason I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
+This is why it is important to think about what ratchet is best, and we will take a look together at all your options. This is also why I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
 
-You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **We are only going to look at 3/8” ratchets. All the specs that I compare are explained in the buyers guide at the bottom**
+You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **We are only going to look at 3/8” ratchets. All the specs that I compare are explained in the buyer's guide at the bottom.**
 
 ## [Skip To The Buyers Guide](#guide)
 
-**Let’s take a look at the Best 10 ratchets for a professional mechanic**
+**Let’s take a look at the Best 10 ratchets for a professional mechanic.**
 
 ## 1. GearWrench 81210P
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
-Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and the design. Watch this YouTube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money, I think this ratchet is the bee's knees. The one downside is the mail-in warranty. So, If you need the store/truck exchange look further but, I have owned this one for 2 years with no issues with heavy use. This is the best 3/8 ratchet for the money.
+Who makes the best ratchet for the money? Coming in the top spot for me is the **GearWrench 81210P.** This thing is the bomb 💣. I love the feel and design. Watch this YouTube video above 👆 that shows it outlasting the snap-on. It is super strong. It has lasted a good long while now and shows no signs of wear. For my money, I think this ratchet is the bee's knees. The one downside is the mail-in warranty. So, If you need the store/truck exchange keep looking. But know I have owned this one for 2 years with no issues with heavy use. This is the best 3/8 ratchet for the money.
 
-I would recommend these things all day, but the proof is in the pudding as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B)
+I would recommend these things all day, but the proof is in the pudding, as they say. Try one out yourself. [Check out the latest price on Amazon](https://amzn.to/36sNf8B).
 
 ### The Specs
 
 * **Tooth count** - 120 count with a 3-degree arc
 * **Pawl design** - double-stacked pawls
-* **Handle design** - Chrome vanadium steel. The adjustable flex head has six positions. Rubber handle cushion.
+* **Handle design** - Chrome vanadium steel. The adjustable flex head has six positions—a rubber handle cushion.
 * **Profile** - 0.9 inches flex-head
 * **Warranty** - Mail-in
 * **Weight and Length** - 15.8 ounces, 15.9 inches
@@ -42,9 +42,9 @@ I would recommend these things all day, but the proof is in the pudding as they 
 
 ![mil ratchet](./mil.JPG)
 
-So, if you have seen this list before this is a new one. I recently bought this awesome Milwaukee set and have used it long enough to review it. It is great ratchets are very durable and fit in your hand nicely. I love the whole set and I would recommend them to pro mechanics as a solid truck tool alternative. This Ratchet is very impressive and is comparable to high end ratchets. The flat design on the sockets is awesome for stubborn fasteners and put an end to chasing dropped and rolling sockets under the truck! Check these out. You won't regret it.
+So, if you have seen this list before, this is a new one. I recently bought this awesome Milwaukee set and have used it long enough to review it. It has great ratchets are very durable, and fit in your hand nicely. I love the whole set, and I would recommend them, pro mechanics, as a solid truck tool alternative. This Ratchet is very impressive and is comparable to high end ratchets. The flat design on the sockets is awesome for stubborn fasteners and put an end to chasing dropped and rolling sockets under the truck! Check these out. You won't regret it.
 
-[Check out the latest price on Amazon](https://amzn.to/2JTkn2K)
+[Check out the latest price on Amazon](https://amzn.to/2JTkn2K).
 
 ### The Specs
 
@@ -60,19 +60,19 @@ So, if you have seen this list before this is a new one. I recently bought this 
 
 ![snap-on](./snap.jpg)
 
-While Snap-on quality is really good this list is compiled by **value for money.** Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. Just like other popular brand names you pay a premium to have their stuff. If you just need the convenience and name brand and you are willing to drop some bread 🍞 this is a great pick. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
+While Snap-on quality is outstanding, this list is compiled by **value for money.** Some mechanics enjoy that the truck comes to you and saves you the extra hassle of going out. Snap-on counts on it. Just like other popular brand names, you pay a premium to have their stuff. If you just need the convenience and name brand and are willing to drop some bread, 🍞 this is a great pick. I don’t think that there is enough quality to overcome the 300% price increase you get for the same tool. I do have Snap-on tools and even a ratchet, but I don’t exclusively use them.
 
-This is an awesome ratchet and you can’t go wrong with it. The only question I have is how much are you willing to pay?
+This is an awesome ratchet, and you can’t go wrong with it. The only question I have is how much are you willing to pay?
 
-[Check out the latest price on Amazon](https://amzn.to/2r9s4s5)
+[Check out the latest price on Amazon](https://amzn.to/2r9s4s5).
 
 ### The Specs
 
 * **Tooth count** - 80 count and a 4.5-degree arc
-* **Pawl design** - Single patented Pawl
+* **Pawl design** - Single patented Pawl.
 * **Handle design** - Chrome vanadium steel. Round thicker handle
 * **Profile** - 0.6 inches
-* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
+* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace if it is in the handle.
 * **Weight and Length** - 11-13 ounces, 11.3 inches
 * **Cost** - **$$$$**
 
@@ -80,9 +80,9 @@ This is an awesome ratchet and you can’t go wrong with it. The only question I
 
 ![Kobalt](./koba.JPG)
 
-Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. This one is heavy and The one knock I have is they don’t seem to last as long for me. I have to get them replaced once every 2 years. Not too shabby considering its full-time use, but others are better.
+Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. This one is heavy, and The one knock I have is they don’t seem to last as long for me. I have to get them replaced once every 2 years. Not too shabby considering its full-time use, but others are better.
 
-[Check out the latest price on Amazon](https://amzn.to/2Lf3hg8)
+[Check out the latest price on Amazon](https://amzn.to/2Lf3hg8).
 
 ### The Specs
 
@@ -98,7 +98,7 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 
 ![Husky](./husky.png)
 
-I have a special place in my heart for Husky tools. I started as a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools and their ratchets have gotten better over the years. A solid choice for a professional.
+I have a special place in my heart for Husky tools. I started as a diesel tech with a set of Husky professionals. They lasted me 6 years! I still use some of those today. All kinds of things broke over the years, but the rachets did well. Everyday use and I seen about 3 years before needing replacement. These are great tools, and their ratchets have gotten better over the years. A solid choice for a professional.
 
 ### The Specs
 
@@ -106,7 +106,7 @@ I have a special place in my heart for Husky tools. I started as a diesel tech w
 * **Pawl design** - Double-sided pawls
 * **Handle design** - Chrome vanadium steel. Round thicker handle
 * **Profile** - 1 inch
-* **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail into Stanley the principle owner of Husky
+* **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail into Stanley, the principal owner of Husky
 * **Weight and Length** - 11-13 ounces, 11.3 inches
 * **Cost** - **$**
 
@@ -114,9 +114,9 @@ I have a special place in my heart for Husky tools. I started as a diesel tech w
 
 ![Cornwell](corn.png)
 
-Cornwell rounds off this top ten with a decent ratchet. They make tools that are tough as nails and if you have a decent Cornwell man This may be a great pick for you. They have never been my favorite but still can't go wrong.
+Cornwell rounds off this top ten with a decent ratchet. They make tools that are tough as nails, and if you have a decent Cornwell man, this may be a great pick for you. They have never been my favorite, but you still can't go wrong.
 
-[Check out the latest price on Amazon](https://amzn.to/2oMeaLG)
+[Check out the latest price on Amazon](https://amzn.to/2oMeaLG).
 
 ### The Specs
 
@@ -132,9 +132,9 @@ Cornwell rounds off this top ten with a decent ratchet. They make tools that are
 
 ![matco](./matco.jpg)
 
-Matco used to be my favorite “truck” tool. I love their low-profile ratchets. They make an excellent ratchet and other things. I began to stray away from them as the quality of normal branded tools became better. Plus, I did not have much luck with keeping a Matco guy. Seemed like the truck was only there once a month at best.
+Matco used to be my favorite “truck” tool. I love their low-profile ratchets. They make excellent ratchet and other things. I began to stray away from them as the quality of normal branded tools became better. Plus, I did not have much luck with keeping a Matco guy. It seemed like the truck was only there once a month at best.
 
-This is an awesome ratchet and you can’t go wrong with it. The only question I have is how much are you willing to pay and get you to get it replaced if you need to?
+This is an awesome ratchet, and you can’t go wrong with it. The only question I have is how much are you willing to pay and get you to get it replaced if you need to?
 
 You can find these on eBay for around 150 bucks normally.
 
@@ -152,9 +152,9 @@ You can find these on eBay for around 150 bucks normally.
 
 ![mac](./mac.jpg)
 
-The Mac man! I know a lot of people who swear by their tools. I have no problem with Mac Tools I have a wrench set and some picks from them. They make solid stuff. Once again this list is based on value for the money. You can do some price checking and find out that Mac is nowhere near the cheapest so do you get that kind of value from their tools? That's for you to decide.
+The Mac man! I know a lot of people who swear by their tools. I have no problem with Mac Tools; I have a wrench set and some picks from them. They make solid stuff. Once again, this list is based on value for the money. You can do some price checking and find out that Mac is nowhere near the cheapest, so do you get that kind of value from their tools? That's for you to decide.
 
-Then there is the other variable. Is there a Mac man in your area? They are not near as common as Snap-on and in my experience not as reliable in service.
+Then there is the other variable. Is there a Mac man in your area? They are not near as common as Snap-on and, in my experience, not as reliable in service.
 
 ### The Specs
 
@@ -170,7 +170,7 @@ Then there is the other variable. Is there a Mac man in your area? They are not 
 
 ![gear](gear.png)
 
-Another solid choice from Gearwrench. This is a nice solid ratchet with no frills. It has a decent arc ratio and is really tough. If you are on a budget this is a good one.
+Another solid choice from Gearwrench. This is a nice solid ratchet with no frills. It has a decent arc ratio and is really tough. If you are on a budget, this is a good one.
 
 [Check out the latest price on Amazon](https://amzn.to/36uEZVw)
 
@@ -188,11 +188,11 @@ Another solid choice from Gearwrench. This is a nice solid ratchet with no frill
 
 ![Craftsman](./craft.png)
 
-I have always been hard on Craftsman. Calling it **_Crapsman_** and such 😆. I'm a funny guy. And I would still say that their lower end ratchets are garbage. They have like 36 teeth. they break constantly and are not meant for professional use. That said, They have moved over to Loews and now have a higher-end ratchet that I would love to give a shot.
+I have always been hard on Craftsman. Calling it **_Crapsman_** and such 😆. I'm a funny guy. And I would still say that their lower end ratchets are garbage. They have like 36 teeth. They break constantly and are not meant for professional use. That said, They have moved over to Loews and now have a higher-end ratchet that I would love to give a shot.
 
-I plan on buying one in the next few days to give it a full review. I will update as I have more information. From just holding one and messing around with it, I would say I will give it a shot and see how it goes.
+I plan on buying one in the next few days to give it a full review. I will update as I have more information. I would say I will give it a shot and see how it goes from just holding one and messing around with it.
 
-[Check out the latest price on Amazon](https://amzn.to/34B7wHx)
+[Check out the latest price on Amazon](https://amzn.to/34B7wHx).
 
 ### The Specs
 
@@ -208,11 +208,11 @@ I plan on buying one in the next few days to give it a full review. I will updat
 
 ## Aspects to consider when shopping for a ratchet
 
-All of the factors are important in Ratchets. Look through and learn all the different aspects. I learned a lot from writing it and I hope it's helpful.
+All of the factors are important in Ratchets. Look through and learn all the different aspects. I learned a lot from writing it, and I hope it's helpful.
 
 **Tooth or position count**
 
-The number of teeth on the gear of a ratchet will affect the arc at which you can operate. If you are working in a tighter spot, then the higher tooth count is going to be beneficial. You will be able to grab more teeth and have the power to turn that bolt loose where others would be stuck, and you would be hunting a wrench that will fit. 🔧
+The number of teeth on the gear of a ratchet will affect the arc at which you can operate. If you are working in a tighter spot, then the higher tooth count will be beneficial. You will be able to grab more teeth and have the power to turn that bolt loose where others would be stuck, and you would be hunting a wrench that will fit. 🔧
 
 We have seen the race to the highest tooth count over the last few years. In fact, one of my favorite ratchets is the 120 tooth count Gear-wrench. One issue is some of these higher count ratchets can have more chance of slippage. More teeth can equal less strength.
 
@@ -222,29 +222,29 @@ The pawl design is not your dad's shirt. The "pawl" is the mechanism that sits a
 
 ![pawls](./com.jpg)
 
-This is an important factor if you are looking for strength in the ratchet. There are many designs. you can see from the images that everyone has their own take.
+This is an important factor if you are looking for strength in the ratchet. There are many designs. You can see from the images that everyone has their own take.
 
 ![morepawls](./com4.jpg)
 
 **Handle design**
 
-This important factor will make you decide whether or not you enjoy using your ratchet. There are several types. Some ratchets have round handles others are more rectangular and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip than the rubber, but the rubber gets nasty over time and if you clean with brake cleaner it breaks it down.
+This important factor will make you decide whether or not you enjoy using your ratchet. There are several types. Some ratchets have round handles. Others are more rectangular, and then there are several padded or rubber handle versions. Everyone has a preference. There are ups and downs for all styles. The solid ones are harder to grip than the rubber, but the rubber gets nasty over time, and if you clean with brake cleaner, it breaks it down.
 
 ![handle](./handle.jpeg)
 
-In addition, there are several "head" designs now. There are "flex" heads, "round" heads, and "teardrop" heads as well as other variations. I prefer a "flex" head and it allows you to adjust to the plane of a bolt head. As you review the list you can see I have included several different types of heads.
+Besides, there are several "head" designs now. There are "flex" heads, "round" heads, and "teardrop" heads, as well as other variations. I prefer a "flex" head, and it allows you to adjust to the plane of a bolt head. As you review the list, you can see, I have included several different types of heads.
 
 **Profile**
 
-The thickness of a ratchet is very important. There is always a space to be gotten into. Most of the time you need a thinner ratchet, right? The thickness of ratchets greatly varies and is an important aspect to consider when looking for your ratchet.
+The thickness of a ratchet is critical. There is always a space to be gotten into. Most of the time, you need a thinner ratchet, right? The thickness of ratchets greatly varies and is an important aspect to consider when looking for your ratchet.
 
 **Weight and length**
 
-It is nice to have a lighter ratchet, but I would never sacrifice that for quality as for length, This will vary by your needs. I recommend a medium length but, you really need several lengths if you do this for a living.
+It is nice to have a lighter ratchet, but I would never sacrifice that for quality as for length. This will vary by your needs. I recommend a medium length but, you really need several lengths if you do this for a living.
 
 **Warranty**
 
-All the tools nowadays seem to have a lifetime warranty, but it is important to note that **_not all are hassle-free._** Depending on the company is a measure of how good the process is. Some will do an instant swap out and some will require you to mail them in. This can be a very easy or frustrating process. So, it is an important aspect to consider.
+All the tools nowadays seem to have a lifetime warranty, but it is important to note that **_not all are hassle-free._** Depending on the company is a measure of how good the process is. Some will do an instant swap out, and some will require you to mail them in. This can be a very easy or frustrating process. So, it is an important aspect to consider.
 
 **Cost**
 
@@ -252,8 +252,8 @@ This is really up to you and your pocketbook. Willing to pay a bit more? You can
 
 ## Summing up
 
-Your ratchet is probably the most important tool in your box. You use it so often and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
+Your ratchet is probably the most important tool in your box. You use it so often, and your knuckles are constantly in jeopardy. You will notice a huge difference between a cheap one and one made for pros.
 
-I have taken the time to check out 10 different ratchets that I believe are made for pros. Remember just because I recommend one doesn’t mean it would be perfect for you and your job. It really is a personal experience.
+I have taken the time to check out 10 different ratchets that I believe are made for pros. Remember, just because I recommend one doesn’t mean it would be perfect for you and your job. It really is a personal experience.
 
-You need to try and see with tools like this. They really are like boots. Lots of boots are great but I like certain ones. So, take my list as a great starter and find the awesome ratchet that works for you.
+You need to try and see with tools like this. They really are like boots. Lots of boots are great, but I like certain ones. So, take my list as a great starter and find the awesome ratchet that works for you.
