@@ -1,18 +1,20 @@
 ---
 title: The Complete Guide To Starting A Diesel In Cold Weather
-category: "How Tos"
+category: How Tos
 cover: snow.jpeg
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
----
+updated: 'Last updated: Dec 10, 2020'
 
+---
 ![test](./snow.jpeg)
 
-Modern Diesels have solved a lot of issues over the years. The newest Diesel engines are much better than the older ones but, all diesels do not like cold weather. That's why I have put together this guide for the cold mechanic shivering in his bay right now.
+Modern Diesel engines have solved a lot of issues over the years. The newest Diesel engines are much better than the older ones but, all diesels do not like cold weather. That's why I have put together this guide for the cold mechanic shivering in his bay right now.
 
-Why are Diesels harder to start in cold weather? **The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because, diesels depend on high temperatures in order to create the combustion.**
+Why are Diesel engines harder to start in cold weather? 
 
-Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on staring a diesel in cold weather.
+**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because diesel engines depend on high temperatures in order to create the combustion.**
+
+Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on starting a diesel in cold weather.
 
 ## 7 Easy Tips for starting a diesel in the cold
 
@@ -22,11 +24,11 @@ Listen, your batteries are super important. Batteries can lose 35 percent at 32Â
 
 If you are having any trouble starting in the warm weather, forget it when there is a cold snap. You will be dead in the water. Do yourself a favor and go ahead and replace both batteries. You can't expect 9 or 10-year-old batteries to do the job. Go ahead and bite the bullet and get new batteries.
 
-For our friends in the extreme cold you may need to look further. In some cases, it will be necessary to buy a **battery with a larger capacity**. The other option would to install a battery warmer. these come in two varieties, the "hot plate" warmer that sits under the batteries and cooks them. or the "blanket" warmer which wraps around them keeping them snug as a bug.
+For our friends in the extreme cold, you may need to look further. In some cases, it will be necessary to buy a **battery with a larger capacity**. The other option would install a battery warmer. these come in two varieties, the "hot plate" warmer that sits under the batteries and cooks them. or the "blanket" warmer which wraps around them keeping them snug as a bug.
 
 ## 2. Wait to start your engines
 
-One thing to remember in cold weather starts is the glow plugs. **_Not all diesels have glow plugs_** If equipped, when you first enter the vehicle, turn the key over to the start position without cranking the truck. Your vehicle should have an indicator that notes **wait to start** or has an image like the one in the image below.
+One thing to remember in cold weather starts is the glow plugs. **_Not all diesel engines have glow plugs_** If equipped, when you first enter the vehicle, turn the key over to the start position without cranking the truck. Your vehicle should have an indicator that notes **wait to start** or have an image like the one in the image below.
 
 ![glow](./glow.jpg)
 
@@ -34,7 +36,7 @@ Do not attempt to start the vehicle until the indicator lamp has turned off. The
 
 ## 3. Plug in the block heater
 
-The cord dangling from the front of your truck or hidden someone in your grill is not for decoration. You need to plug the truck in cold weather if your Diesel is equipped with a block heater. All you need is a 110v plug in and your good to go.
+The cord dangling from the front of your truck or hidden someone in your grill is not for decoration. You need to plug the truck in cold weather if your Diesel is equipped with a block heater. All you need is a 110v plugin and you're good to go.
 
 The block heater keeps the block at a good operating temperature by heating the coolant causing it to circulate through the block and warm everything up nice and toasty.
 
@@ -42,15 +44,15 @@ Some manufactures actually install the heater but do not provide the plug. Consu
 
 ![block heater](heat.webp)
 
-If your vehicle did not come standard with a block heater there are aftermarket options. I have installed many block heaters after the fact on several different type vehicles. Most of the tie the engine manufacture will install a plug where one would be around the thermostat. Have a look to see where it would go and find a good one to install.
+If your vehicle did not come standard with a block heater there are aftermarket options. I have installed many block heaters after the fact on several different types of vehicles. Most of the tie the engine manufacture will install a plug where one would be around the thermostat. Have a look to see where it would go and find a good one to install.
 
-I you do plan to buy a block heater remember to look at the recommended wattage for your region. You don't need one built for the arctic circle if you are in 20 degrees. No since in paying a super high electric bill when you just need a little heat.
+If you do plan to buy a block heater remember to look at the recommended wattage for your region. You don't need one built for the arctic circle if you are in 20 degrees. No sense in paying a super high electric bill when you just need a little heat.
 
 ## 4. What About Fuel Filter
 
-Alright, we have made it to the most overlooked on this short list. This is not just a winter time issue, but the fuel filter is crucial in getting your truck started in cold weather. Some of you are thinking about how long ago it was since you changed your fuel filter. If you have not changed your fuel filter since all the beetles were alive you are going to have some bad problems.
+Alright, we have made it to the most overlooked on this shortlist. This is not just a wintertime issue, but the fuel filter is crucial in getting your truck started in cold weather. Some of you are thinking about how long ago it was since you changed your fuel filter. If you have not changed your fuel filter since all the beetles were alive you are going to have some bad problems.
 
-When your fuel filter is old and dirty several things happen. One, the fuel is hard to pull through the filter. Two, there is water in the filter. This may be the most important. why? You guessed it. Water freezes. So, you have frozen fuel filter and your fuel is not going to be delivered to the engine and you will not be starting. So, check the filter!
+When your fuel filter is old and dirty several things happen. One, the fuel is hard to pull through the filter. Two, there is water in the filter. This may be the most important. why? You guessed it. Water freezes. So, you have a frozen fuel filter and your fuel is not going to be delivered to the engine and you will not be starting. So, check the filter!
 
 ## 5. Check the fuel
 
@@ -66,7 +68,7 @@ Here is the fuel additive I recommend [Lucas Extreme Cold Weather Diesel Fuel Tr
 
 ## 6. Make sure you have the right diesel
 
-Unknown by many there are two different grades of diesel fuel. #1 and #2. #2 Diesel is what you find commonly used across our country and the world. You use #2 diesel in regular driving conditions
+Unknown to many there are two different grades of diesel fuel. #1 and #2. #2 Diesel is what you find commonly used across our country and the world. You use #2 diesel in regular driving conditions
 
 ## #1 Diesel is made for colder climates. It is a thinner fuel and will not gel up as easy as #2
 
@@ -80,14 +82,14 @@ Once you start seeing temperatures below 30F for extended periods of time, go ah
 
 ## 7. Do not mix fuel additives into winterized diesel
 
-You do not need to double treat your fuel. If a fuel is already winterized do not add any more products. You can damage the high pressure fuel system. Be sure and ask or write down when you treat your fuel.
+You do not need to double treat your fuel. If your fuel is already winterized do not add any more products. You can damage the high-pressure fuel system. Be sure and ask or write down when you treat your fuel.
 
 ## Caution: Don't do this
 
-**Do Not Use Stater Fluid** to get the engine going on a cold day. I don't care how bad you want to get that truck down road. Never do this. Ether, otherwise known as **_starting fluid_** (or silicon) Has a lower flash point and can cause explosions, damage and harm to the person injecting it. Deaths have happened with the use of ether. Please take note and use extreme caution when even handling it. Ether won't help you run for long when a unit has bad fuel anyway.
+**Do Not Use Stater Fluid** to get the engine going on a cold day. I don't care how bad you want to get that truck down the road. Never do this. Ether, otherwise known as **_starting fluid_** (or silicon) Has a lower flash point and can cause explosions, damage, and harm to the person injecting it. Deaths have happened with the use of ether. Please take note and use extreme caution when even handling it. Ether won't help you run for long when a unit has bad fuel anyway.
 
----
+***
 
 ## Summing up
 
-Listen, it gets cold out there. My best advice is preparation is better than reaction to a problem. Go ahead and take the actions needed to prevent disaster if you know it's getting cold out there. Stay Warm!
+Listen, it gets cold out there. My best advice is preparation is better than a reaction to a problem. Go ahead and take the actions needed to prevent disaster if you know it's getting cold out there. Stay Warm!
