@@ -3,10 +3,10 @@ title: 9-point checklist for diesel engines with low power
 category: Diagnosing Problems
 cover: turbo.jpg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
-![unsplash.com](./turbo.jpg)
+
+![turbo eton](./turbo.jpg)
 
 So, your diesel engine has low power. She doesn’t climb the hills like she used to. I have seen this a lot throughout my years as a mechanic when the driver comes in hot because his truck barely made it up a big hill.
 
@@ -42,17 +42,17 @@ This air is cooled before it is introduced to the engine, known as the CAC (Char
 
 When there is a leak in the induction system, the engine will not put out as much horsepower and use more fuel. **You can lose up to 20% power and lose a ½ mile per gallon.**
 
-* **You need to start at the turbo clamps.**
+- **You need to start at the turbo clamps.**
 
 If you are working on a vehicle, you have a lot of vibration, and the clamps will loosen up over time. It is best to find the torque spec for these and check them all. Make sure they are also lined up correctly. Sometimes when they are going back on, they don’t want to fall into place. Clamps will be the culprit of leaks more often than not.
 
-* **Leak down test**
+- **Leak down test**
 
 If you are familiar with a CAC leak-down test, you know this is a great way to find leaks in the intercooler itself. This requires a special adapter to charge the intercooler with compressed air.
 
 When you charge the intercooler, the specific amount is given by the manufacture. At that given PSI, you can then allow it to sit for about 30-45 minutes to see if there is a decrease in pressure over that time.
 
-* **Hoses**
+- **Hoses**
 
 Carefully look at all the hoses. Look for any signs of rubbing or chaffing. A lot of times, they can develop pinholes over time. If there is a silicone hose, check to see it is not collapsing when the engine is running.
 
@@ -62,10 +62,10 @@ You can also have a restriction causing that lack of power. If your air filter i
 
 This is an often-overlooked issue. A plugged exhaust system can create too much back pressure and cause a serious decline in the engine's power. There is an amount of time-based on the manufacture of the muffler to which it should be replaced. If it is ancient, you should think about replacing it. Some signs your muffler or DPF (Diesel Particulate Filter) are clogged are:
 
-* Engine runs ruff
-* Bad smell from exhaust
-* Condensation from exhaust
-* Strange noise from the exhaust
+- Engine runs ruff
+- Bad smell from exhaust
+- Condensation from exhaust
+- Strange noise from the exhaust
 
 ## 5. Malfunctioning throttle pedal
 
@@ -95,8 +95,8 @@ There is also a type of injection called HEUI (hydraulic electronic unit injecto
 
 If your engine is starved for fuel, a couple of other things to check for are
 
-* **Porous fuel lines** – the braided fuel line soften over time will start to allow air into fuel and cause all sorts of issues.
-* **Weak lift pump** – This can cause low power and intermittent hesitations. Even if it sounds fine! It is hard to measure in some applications, but I have seen this on many engines.
+- **Porous fuel lines** – the braided fuel line soften over time will start to allow air into fuel and cause all sorts of issues.
+- **Weak lift pump** – This can cause low power and intermittent hesitations. Even if it sounds fine! It is hard to measure in some applications, but I have seen this on many engines.
 
 ## 8. Malfunctioning Turbo
 
@@ -110,18 +110,20 @@ Several diagnostic tests can be run on the turbo and actuator. If you at all sus
 
 The last place I want the problem to happen would be in the internal engine. Problems can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover.
 
-* Broken rocker
-* Poorly adjusted valves or injectors
-* Bent/broken pushrods
-* Bad valves
-* Worn rings/cylinder/liners
-* Compromised head or head gasket
-* Failed lifter
-* Engine brakes malfunction
-* Bad cam roller
-* Damaged camshaft
-* Engine timing misaligned
+- Broken rocker
+- Poorly adjusted valves or injectors
+- Bent/broken pushrods
+- Bad valves
+- Worn rings/cylinder/liners
+- Compromised head or head gasket
+- Failed lifter
+- Engine brakes malfunction
+- Bad cam roller
+- Damaged camshaft
+- Engine timing misaligned
 
 ## Note: You may have more than one problem
 
 If you found an issue and fixed it, and when you got back out on the road, and it still didn’t have the power it needed, you may need to get back in there and go back to diagnostics. It is very common in my experience to have more than one issue causing low power. Do not be surprised if you find a loose clamp **and** a missing injector. Often, a smaller issue won’t be noticed until a domino effect happens, and **two or even three** things happen, affecting your power from the engine. Keep this in mind when you are diagnosing the problem with your engine.
+
+![info graph power](./power.jpg)
