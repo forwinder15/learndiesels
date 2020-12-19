@@ -3,10 +3,10 @@ title: 10 Signs And Symptoms Of A Worn-Out Diesel Engine
 category: Diagnosing Problems
 cover: re.jpg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
-![unsplash.com](./re.jpg)
+
+![engine parts](./re.jpg)
 
 Your diesel engine is a workhorse. It will go for a long time given the right maintenance has been done. I have seen motors with 2 million miles! So, knowing they can last a long time, what are some of the signs and symptoms that your engine is fixing to give up the ghost?
 
@@ -52,10 +52,10 @@ Do you remember how your diesel engine sounded when you drove it the first time?
 
 ![engine sound](./sound.jpeg)
 
-* Engine knocking can be caused by damaged liner seals, main bearing wear, or a worn piston skirt.
-* A clunking sound can be caused by main or rod bearing wear in older engines.
-* You can get a different sound from leaking injectors that sounds like pinging.
-* Over time the valve clearances lose their proper clearance so then you will have a tapping noise.
+- Engine knocking can be caused by damaged liner seals, main bearing wear, or a worn piston skirt.
+- A clunking sound can be caused by main or rod bearing wear in older engines.
+- You can get a different sound from leaking injectors that sounds like pinging.
+- Over time the valve clearances lose their proper clearance so then you will have a tapping noise.
 
 It is important to diagnose an unusual noise in your diesel quickly. Most of these issues are very severe and can cause major damage to other components as well. Keep an ear 👂out for something other than normal-sounding operation.
 
@@ -83,9 +83,9 @@ You will also see a ton of oil on the undercarriage, transmission, and other par
 
 At the stoplight and you are just bouncing all over the place? Another sign of a worn-out diesel is a rough [idle](/8-idle-facts). There are several different types of rough idling.
 
-* Hunting - This is when the engine is idling up and down in intervals. It is looking for something 🔍. It cannot find the proper amount of fuel and compression at the right time. It could be running on some oil from worn components. Getting that extra oil and causing a little higher rev and then calming back down.
-* Just Rough – This can be from leaking injectors or poor timing. Fuel pump wear and several other things.
-* Missing – Every round you just hear a slight hesitation. This can be caused by a malfunctioning injector. It also can be caused by an improper valve and injector clearance.
+- Hunting - This is when the engine is idling up and down in intervals. It is looking for something 🔍. It cannot find the proper amount of fuel and compression at the right time. It could be running on some oil from worn components. Getting that extra oil and causing a little higher rev and then calming back down.
+- Just Rough – This can be from leaking injectors or poor timing. Fuel pump wear and several other things.
+- Missing – Every round you just hear a slight hesitation. This can be caused by a malfunctioning injector. It also can be caused by an improper valve and injector clearance.
 
 ## 10. Continues Running After You Turn It Off or “Run-away”
 
@@ -114,4 +114,4 @@ You can actually listen to the study guides now with [Audible](https://amzn.to/2
 
 Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
 
-Updated: 11-12-2020
+![worn diesel info](./worn.jpg)
