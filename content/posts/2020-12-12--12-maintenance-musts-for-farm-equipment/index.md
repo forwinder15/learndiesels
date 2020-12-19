@@ -1,11 +1,11 @@
 ---
 title: 12 Farm Equipment Maintenance Musts
-category: "How Tos"
+category: How Tos
 cover: farm.png
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
----
+updated: 'Last updated: Dec 10, 2020'
 
+---
 ![farm pic](farm.png)
 
 It gets busy on the farm. Whether it's feeding or fencing you can get distracted. I work on lots of farm equipment that has been neglected and ended up costing the farmer more than it would if they would have followed this list. Let me save you some time, headache, and money.
@@ -22,12 +22,11 @@ So, print this out and post it somewhere you can see it.
 
 Look these things over every day you use the equipment.
 
-- Check the oil and other fluid levels
-
-- Look for loose clamps and fittings and seals as needed
-- Inspect filters for tightness and age
-- Look for debris and chaffed hoses/lines
-- Inspect the fire extinguisher
+* Check the oil and other fluid levels
+* Look for loose clamps and fittings and seals as needed
+* Inspect filters for tightness and age
+* Look for debris and chaffed hoses/lines
+* Inspect the fire extinguisher
 
 ## **Keep your unit greased and lubed up**
 
@@ -49,11 +48,11 @@ I know this is a long shot but hear me out. You need to know the specification a
 
 Look for:
 
-- Schedule for maintenance
-- Fuel and oil recommendations
-- Filter list. Go ahead and order them.
-- Safety features
-- Warranty
+* Schedule for maintenance
+* Fuel and oil recommendations
+* Filter list. Go ahead and order them.
+* Safety features
+* Warranty
 
 After you have all that information you can do a better job taking care of your unit. Take the spare key and manual and put them in a safe spot.
 
@@ -103,7 +102,7 @@ You may think it's overkill but talk to your mechanic about sending the oil out 
 
 When it gets cold things chance. Not only for us but for our equipment. If you are storing your unit outside keep that in mind.
 
-If your storing things outside or anywhere get below 32 F You need to take great care of your battery and fuel. Check out my article on [cold where for diesel for more info](/the-complete-guide-to-starting-a-diesel-in-cold-weather/).
+If your storing things outside or anywhere get below 32 F You need to take great care of your battery and fuel. Check out my article on starting a diesel in the [cold for more info](/the-complete-guide-to-starting-a-diesel-in-cold-weather/).
 
 You will need to prepare your batteries, fuel, and filters as you get ready for cold weather.
 
@@ -117,4 +116,4 @@ But there is more than just trade-in value. Think about security. Way less chanc
 
 ## Summing up
 
-You need your equipment to last as long as humanly possible. Don't make the mistake of ignoring these simple things to get the most out of your investment. Money doesn't grown on trees but your harvest does. Get out ahead of the trouble that is bound to come along.
+You need your equipment to last as long as humanly possible. Don't make the mistake of ignoring these simple things to get the most out of your investment. Money doesn't grow on trees but your harvest does. Get out ahead of the trouble that is bound to come along.
