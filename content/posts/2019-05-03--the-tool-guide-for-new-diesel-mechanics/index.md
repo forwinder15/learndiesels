@@ -3,7 +3,7 @@ title: The Tool Guide For Diesel Mechanics
 category: Recommended Products
 cover: tool.PNG
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
+updated: "Last updated: Dec 20, 2020"
 ---
 
 ![picture of tools. diesel mechanics tool guide](./tool.PNG)
@@ -22,7 +22,9 @@ I have listed a few of the tools I recommend in the list they are links to amazo
 
 ### Toolbox or Cart Standard size
 
-You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. This is the one I own Tool Cart - Click to see the latest price on Amazon). If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. check out my article about the [best boxes online for under 2k.](/5-best-toolboxes-for-mechancis-under-2k/)
+You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. This is the [Tool Cart I own](https://amzn.to/3rbmwYJ).
+
+If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. check out my article about the [best boxes online for under 2k.](/5-best-toolboxes-for-mechancis-under-2k/)
 
 ### Ratchets
 
@@ -107,7 +109,7 @@ Hand held torch, Wire cutters, Wire stripping tool. Look at these [auto wire str
 - Creeper
 - Safety toed shoes
 
-## 5 Tips For Buying Tools
+## 5 Tips For Buying Mechanics Tools
 
 Let me offer some advice on tool buying. Here are just a few suggestions when you start to collect all these items.
 
