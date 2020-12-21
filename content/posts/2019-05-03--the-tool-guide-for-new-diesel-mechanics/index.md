@@ -3,9 +3,9 @@ title: The Tool Guide For Diesel Mechanics
 category: Recommended Products
 cover: tool.PNG
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![picture of tools. diesel mechanics tool guide](./tool.PNG)
 
 I have seen many articles out there on the best tools to have as a diesel tech. I had a guy on r/dieselmechanic on Reddit asking, "What tools do I need to get started as a diesel mechanic." I wanted to write you guys a list and give you some great resources to get you going in your new job.
@@ -16,30 +16,96 @@ What tools do I need to be a diesel mechanic? **I have compiled a list with 18 c
 
 I have listed a few of the tools I recommend in the list they are links to amazon. Scroll past the list to see more about buying tips and the best bang for the buck.
 
-#### Want to print the list? [Click Here to download the PDF](/toolguide).
+#### Want to print the list? [Click Here to download the PDF](/toolguide)
 
 ## Here is a complete list of tools for the new diesel mechanic
 
-| I've Got it! ✅ | Tool 🧰 | Sizes and Description 📏 |
-| :--- | :---: | :--- |
-| <input type="radio"> </input> | Toolbox or Cart | Standard size. You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. This is the one I own Tool Cart - Click to see the latest price on Amazon) <br> If you are wanting to spend the money for <br> a tool chest consider finding one online or looking around swap meets and what-not.<br> check out my article about the best boxes online for under 2k |
-| <input type="radio"> </input> | Ratchets | - 1/4", 3/8”, 1/2”, and a breaker bar<br> One of the most important tools <br> See my article about ratchets |
-| <input type="radio"> </input> | 1/4" Drive Socket Set Standard (SAE) & Metric - Deep and Shallow | - 3/16” - 5/8” 6 point and 12 point <br> - 5mm - 15mm 6 point and 12 point <br> - 3" & 6" Extensions |
-| <input type="radio"> </input> | 3/8" Drive Sockets Standard (SAE) & Metric - Deep, Shallow and Impact | - 5/16” - 1” 6 point and 12 point<br> - 7mm - 20mm 6 point and 12 point<br>- 3", 6", 12", 24" Extensions |
-| <input type="radio"> </input> | 1/2 Drive Sockets Standard (SAE) & Metric Deep, shallow and Impact | - 3/8” - 1 1/4” 6 point<br>- 10mm - 27mm 6 point<br>- 3", 6" & 12" Extensions<br>- Here is a full Gearwrench set. |
-| <input type="radio"> </input> | Socket Adapters | - 1/4” to 3/8” & 3/8” to 1/4”<br>- 3/8” to 1/2” & 1/2” to 3/8”<br>- 1/2” to 3/4” & 3/4” to 1/2”<br>The set I have |
-| <input type="radio"> </input> | Allen Wrenches Standard and Metric | - 3/32” - 3/8”<br>- 3mm - 17mm |
-| <input type="radio"> </input> | Feeler Gauges | - Standard 0.0015 - 0.0035 thousandths<br>- Metric 0.04 - 0.88 thousandths |
-| <input type="radio"> </input> | Hammers 🔨 | - Dead blow, Ball Peen, 5-pound sledge hammer |
-| <input type="radio"> </input> | Air or Battery Tools | - Impact Guns - 3/8”, 1/2<br>- 90 Degree die grinder |
-| <input type="radio"> </input> | DVOM - Digital Multimeter | - Digital readout and Auto ranging<br>Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate.<br>Check out this klein |
-| <input type="radio"> </input> | Pliers | - Needle nose, adjustable, vise grips, Snap-ring,<br> Slip lock-type Here is a nice set of Vise-Grip brand |
-| <input type="radio"> </input> | Pry-Bars | - 12”, 2’, 3’ <br>This Craftsman set has a strike head for a great price |
-| <input type="radio"> </input> | Screw Drivers | - Flat head & Philips<br> #2 stubby, #2 regular,<br> #1 regular. I also recommend torques drivers. |
-| <input type="radio"> </input> | Torque Bit Drivers | - T10, T15, T20, T25<br> (T25 is the most used. Get 2), T27, T30, T40, T45 |
-| <input type="radio"> </input> | Electrical Tools | Hand held torch, Wire cutters, Wire stripping tool (I prefer these auto wire strippers best tool ever), <br> Soldering gun, Crimping tool, 12v test light<br> (I recommend the Power Probe III but it's not required.) |
-| <input type="radio"> </input> | Wrenches Standard and Metric 🔧 | - 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm <br>- 8” & 12" Adjustable wrench <br>- Ratchet Wrenches (I prefer GearWrench) |
-| <input type="radio"> </input> | Mechanic Accessories | Inspection Mirror, Gasket Scraper, Pick Set, Truck tire pressure gauge (0-150 PSI),<br> Small and Large oil filter wrench, Magnet with extendable rod, 12' Tape measure, Bottle of white out,<br> Pocket calculator, A good flash light**, 6" brass or aluminum punch, Creeper,<br> Tire tread depth gauge (1/32"), Safety toed shoes |
+### Toolbox or Cart Standard size
+
+You don't need anything crazy. Most mechanics would tell you that you can get away with a cart. This is the one I own Tool Cart - Click to see the latest price on Amazon). If you are wanting to spend the money for a tool chest consider finding one online or looking around swap meets and what-not. check out my article about the [best boxes online for under 2k.](/5-best-toolboxes-for-mechancis-under-2k/)
+
+### Ratchets
+
+- 1/4", 3/8”, 1/2”, and a breaker bar One of the most important tools
+  [See my article about ratchets](/the-best-ratchet-for-professional-mechanics/)
+
+### Drive Socket Set Standard
+
+- (SAE) & Metric - Deep and Shallow
+- 3/16” - 5/8” 6 point and 12 point
+- 5mm - 15mm 6 point and 12 point
+- 3" & 6" Extensions
+
+### 3/8" Drive Sockets Standard
+
+(SAE) & Metric - Deep, Shallow and Impact
+
+- 5/16” - 1” 6 point and 12 point
+- 7mm - 20mm 6 point and 12 point
+- 3", 6", 12", 24" Extensions
+
+### 1/2 Drive Sockets Standard
+
+(SAE) & Metric Deep, shallow and Impact - 3/8” - 1 1/4” 6 point - 10mm - 27mm 6 point - 3", 6" & 12" Extensions - [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)
+
+### Socket Adapters
+
+- 1/4” to 3/8” & 3/8” to 1/4” - 3/8” to 1/2” & 1/2” to 3/8” - 1/2” to 3/4” & 3/4” to 1/2” [The set I have](https://amzn.to/2RgetJo) Allen Wrenches Standard and Metric - 3/32” - 3/8” - 3mm - 17mm
+
+### Feeler Gauges
+
+- Standard 0.0015 - 0.0035 thousandths - Metric 0.04 - 0.88 thousandths
+
+### Hammers 🔨
+
+- Dead blow, Ball Peen, 5-pound sledge hammer
+
+### Air or Battery Tools
+
+- Impact Guns - 3/8”, 1/2 - 90 Degree die grinder
+
+### DVOM - Digital Multimeter
+
+- Digital readout and Auto ranging Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate. [Check out this klein](https://amzn.to/2W5xZeW)
+
+### Pliers
+
+- Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)
+
+### Pry-Bars
+
+- 12”, 2’, 3’ [This Craftsman set has a strike head for a great price](https://amzn.to/3bN9uJx)
+
+### Screw Drivers
+
+- Flat head & Philips #2 stubby, #2 regular, #1 regular. I also recommend torques drivers.
+
+### Torque Bit Drivers
+
+- T10, T15, T20, T25 (T25 is the most used. Get 2), T27, T30, T40, T45
+
+### Electrical Tools
+
+Hand held torch, Wire cutters, Wire stripping tool. Look at these [auto wire strippers](https://amzn.to/33d7KnM) _best tool ever_, Soldering gun, Crimping tool, 12v test light [Power Probe III](https://amzn.to/32bL71J) but it's not required.
+
+### Wrenches Standard and Metric 🔧
+
+- 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm - 8” & 12" Adjustable wrench - Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX)
+
+### Mechanic Accessories
+
+- Inspection Mirror
+- Gasket Scraper
+- Pick Set
+- Truck tire pressure gauge (0-150 PSI), Tire tread depth gauge (1/32")
+- Small and Large oil filter wrench
+- Magnet with extendable rod
+- 12' Tape measure
+- Bottle of white out, Pocket calculator,
+- A _good flash light_
+- 6" brass or aluminum punch
+- Creeper
+- Safety toed shoes
 
 ## 5 Tips For Buying Tools
 
@@ -159,7 +225,7 @@ You are on concrete all day, and you need a comfortable pair that will last. Non
 
 **_Note: some companies require steel toes, and some just require safety toed. Make sure you ask, so you don't waste money on a pair you cannot wear._**
 
-***
+---
 
 ## Summing up
 
