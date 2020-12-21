@@ -3,10 +3,11 @@ title: The 3 Causes of White Smoke From A Diesel And What To Do Next
 category: Diagnosing Problems
 cover: bus.png
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![unsplash.com](./bus.png)
+![smoke info](smokeinfo.jpg)
 
 So, you have some white smoke billowing out of your exhaust. What is the cause? Maybe you are like me and have to look it up every time. No shame here. The answer is quite simple, but the solution might not be. Let's look into this issue and figure out what's going on.
 
@@ -26,9 +27,9 @@ This is very common. It will often happen at startup in cold weather with lower 
 
 If it lasts a few minutes after the engine is started and there is a **rich diesel smell, 👃** they may be some cause for concern. Some of the likely causes include,
 
-* Faulty injectors - stuck open.
-* Worn piston rings or cylinder glazing
-* If equipped with glow plugs, could be faulty plugs or module.
+- Faulty injectors - stuck open.
+- Worn piston rings or cylinder glazing
+- If equipped with glow plugs, could be faulty plugs or module.
 
 Remember, if you have an older engine with really low compression and bad timing or low injection pressure, you are more likely to have white smoke.
 
@@ -38,10 +39,10 @@ Red alert 🚨 This is the danger zone. Water or coolant can cause white smoke f
 
 This will be a steady stream of smoke after starting up. Usually, you will see the smoke will be a "thick" smoke (Like in the gif at the top of the page). It will also be noted by a sweet 🍫 smell. Some likely causes include,
 
-* Blown head gasket
-* Cracked block or head
-* Contaminated fuel
-* leaking Oil cooler (Through most of the time, the oil passes into the coolant)
+- Blown head gasket
+- Cracked block or head
+- Contaminated fuel
+- leaking Oil cooler (Through most of the time, the oil passes into the coolant)
 
 Remember, significant damage will occur if you run the engine with water in the combustion chamber.
 
@@ -51,17 +52,17 @@ To run correctly, a diesel engine needs precise timing of the injector pump and 
 
 This is a steady stream of lighter white smoke. It can even be random but often "puff." Some likely causes include,
 
-* A clogged fuel filter
-* Low pressure in the fuel pump (Air in the fuel)
-* Faulty or damaged injectors
-* Incorrect injection timing (Worn timing gear or damaged crankshaft keyway).
-* Low cylinder compression (caused by leaking or broken valves, piston ring sticking, cylinder ring wear, or cylinder glaze)
+- A clogged fuel filter
+- Low pressure in the fuel pump (Air in the fuel)
+- Faulty or damaged injectors
+- Incorrect injection timing (Worn timing gear or damaged crankshaft keyway).
+- Low cylinder compression (caused by leaking or broken valves, piston ring sticking, cylinder ring wear, or cylinder glaze)
 
 ## **_Important note for modern diesel engines_**
 
 **Modern diesel engines are designed to deliberately over-fuel the engine (or just one cylinder) for brief periods to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fueling operation is not operating properly, it can cause white smoke and damage to the engine.**
 
-***
+---
 
 ## Summing up
 

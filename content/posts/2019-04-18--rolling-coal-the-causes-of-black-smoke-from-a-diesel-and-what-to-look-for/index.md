@@ -6,7 +6,7 @@ author: Johnathan Coker
 updated: "Last updated: Dec 10, 2019"
 ---
 
-![back](back.jpg)
+![smoke info](smokeinfo.jpg)
 
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.
 

@@ -3,10 +3,12 @@ title: Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue
 category: Diagnosing Problems
 cover: IMG_1482.PNG
 author: Johnathan Coker
-updated: 'Last updated: Aug 10, 2020'
-
+updated: "Last updated: Aug 10, 2020"
 ---
+
 ![smoke](IMG_1482.PNG)
+
+![smoke info](smokeinfo.jpg)
 
 We are going to cover the **three** main types of diesel smoke and the causes in this article. If you are trying to diagnose an issue take a look at the reference to dash down to your particular problem. If you are here to learn let's get after it.
 
@@ -28,20 +30,20 @@ Whether or not is bad for your engine depends on what the cause of the black smo
 
 ## Causes of black smoke (In no particular order)
 
-* Incorrect timing
-* Dirty, worn, or malfunctioning injectors
-* Over-fueling
-* Faulty turbocharger
-* Incorrect valve clearance
-* Incorrect air/fuel ratio
-* Low cylinder compression
-* Dirty air cleaner
-* Restricted induction system
-* Carbon in intake manifolds
-* Incorrect engine tune
-* Poor quality fuel
-* Excessive carbon builds up in the combustion chamber
-* Cool operating temperatures
+- Incorrect timing
+- Dirty, worn, or malfunctioning injectors
+- Over-fueling
+- Faulty turbocharger
+- Incorrect valve clearance
+- Incorrect air/fuel ratio
+- Low cylinder compression
+- Dirty air cleaner
+- Restricted induction system
+- Carbon in intake manifolds
+- Incorrect engine tune
+- Poor quality fuel
+- Excessive carbon builds up in the combustion chamber
+- Cool operating temperatures
 
 ## Let's start as always with the most likely problems first 🕵️‍
 
@@ -129,7 +131,7 @@ If this is a modern engine you likely have an injector problem. On older engines
 
 I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”. While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst (Links to Amazon)](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.
 
-***
+---
 
 ## Blue Smoke <a name="blue"></a>
 
@@ -153,17 +155,17 @@ Let's take a closer look at what blue smoke could really mean and where to start
 
 ### Blue Smoke is caused by engine burning lubricating oil but, that oil can enter the combustion chamber from several sources
 
-* **Worn valve guides or seals** - They can be letting oil pass through to the cylinder.
-* **Cylinder wear** - A worn cylinder will allow enough space for the oil to pass by the rings whether the rings are worn or not.
-* **Piston ring wear** - Again, creating a gap allowing oil to get into the combustion chamber.
-* **Cylinder glaze** - When the cylinder is glazed the rings cannot do their job of wiping the oil on the way back down and oil will pass by.
-* **Leaking turbocharger seals** - which are allowing oil into the intake and/or exhaust system Excess engine oil in the sump, which is getting splashed up into the bores.
-* **Restricted turbocharger drain** - If the oil has nowhere to go it will pass into the intake.
-* **Incorrect oil** - Oil that is too thin will get past rings or valves guides
-* **Fuel dilution of the oil** - A good way to check for this is just to pull the dipstick. If you have an injector stuck open and it is leaking fuel into the crankcase it will dilute the oil and cause it to pass by and be burnt. This may be caused by a faulty injector pump and/or lift pump.
-* **Too much oil in the crankcase** - You overfilled it. Too much oil is not a good thing. If you have overfilled it simply remove the extra oil.
-* **Clogged oil drain lines in the head** - If the head is clogged and the oil does not have a place to go it will likely make its way out the exhaust.
-* **High crankcase pressure** - Too much pressure in the crankcase. Check the old crankcase breather. Keep an eye out for clogs or debris in the tube.
+- **Worn valve guides or seals** - They can be letting oil pass through to the cylinder.
+- **Cylinder wear** - A worn cylinder will allow enough space for the oil to pass by the rings whether the rings are worn or not.
+- **Piston ring wear** - Again, creating a gap allowing oil to get into the combustion chamber.
+- **Cylinder glaze** - When the cylinder is glazed the rings cannot do their job of wiping the oil on the way back down and oil will pass by.
+- **Leaking turbocharger seals** - which are allowing oil into the intake and/or exhaust system Excess engine oil in the sump, which is getting splashed up into the bores.
+- **Restricted turbocharger drain** - If the oil has nowhere to go it will pass into the intake.
+- **Incorrect oil** - Oil that is too thin will get past rings or valves guides
+- **Fuel dilution of the oil** - A good way to check for this is just to pull the dipstick. If you have an injector stuck open and it is leaking fuel into the crankcase it will dilute the oil and cause it to pass by and be burnt. This may be caused by a faulty injector pump and/or lift pump.
+- **Too much oil in the crankcase** - You overfilled it. Too much oil is not a good thing. If you have overfilled it simply remove the extra oil.
+- **Clogged oil drain lines in the head** - If the head is clogged and the oil does not have a place to go it will likely make its way out the exhaust.
+- **High crankcase pressure** - Too much pressure in the crankcase. Check the old crankcase breather. Keep an eye out for clogs or debris in the tube.
 
 **_If blue smoke is only happening on a cold start, it is likely that it is a piston/cylinder problem._**
 
@@ -193,7 +195,7 @@ Now you are in the more advanced inspection. This will require more time and you
 
 Blue smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by blue smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.
 
-***
+---
 
 ## White/Grey Smoke <a name="white"></a>
 
@@ -213,9 +215,9 @@ This is very common. It will happen often at startup in cold weather with lower 
 
 If it lasts a few minutes after the engine is started and there is a **rich diesel smell 👃** they may be some cause for concern. Some of the likely causes include,
 
-* Faulty injectors - stuck open
-* Worn piston rings or cylinder glazing
-* If equipped with glow plugs could be faulty plugs or module
+- Faulty injectors - stuck open
+- Worn piston rings or cylinder glazing
+- If equipped with glow plugs could be faulty plugs or module
 
 Remember, if you have an older engine with really low compression and bad timing or low injection pressure, you are more likely to have white smoke.
 
@@ -225,10 +227,10 @@ Red alert 🚨 This is the danger zone. Water or coolant can cause white smoke f
 
 This will be a steady stream a smoke after starting up. Usually, you will see the smoke will be a "thick" smoke (Like in the gif at the top of the page). It will also be noted by a sweet 🍫 smell. Some likely causes include,
 
-* Blown head gasket
-* Cracked block or head
-* Contaminated fuel
-* leaking Oil cooler (Through most of the time the oil passes into the coolant)
+- Blown head gasket
+- Cracked block or head
+- Contaminated fuel
+- leaking Oil cooler (Through most of the time the oil passes into the coolant)
 
 Remember, significant damage will occur if you run the engine with water in the combustion chamber.
 
@@ -238,17 +240,17 @@ In order to run correctly, a diesel engine needs precise timing of the injector 
 
 This is a steady stream of lighter white smoke. Can even be a random but, often "puff". Some likely causes include,
 
-* A clogged fuel filter
-* Low pressure in the fuel pump (Air in the fuel)
-* Faulty or damaged injectors
-* Incorrect injection timing (Worn timing gear or damaged crankshaft keyway).
-* Low cylinder compression (caused by leaking or broken valves, piston ring sticking, cylinder ring wear, or cylinder glaze)
+- A clogged fuel filter
+- Low pressure in the fuel pump (Air in the fuel)
+- Faulty or damaged injectors
+- Incorrect injection timing (Worn timing gear or damaged crankshaft keyway).
+- Low cylinder compression (caused by leaking or broken valves, piston ring sticking, cylinder ring wear, or cylinder glaze)
 
 ## **_Important note for modern diesel engines_**
 
 **Modern diesel engines are designed to deliberately over-fuel the engine (or just one cylinder) for brief periods in order to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fueling operation is not operating properly it can cause white smoke and damage to the engine.**
 
-***
+---
 
 ## Summing up
 
