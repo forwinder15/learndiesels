@@ -10,7 +10,7 @@ updated: 'Last updated: Jan 10, 2020'
 
 When I first figured out I wanted to be a mechanic, I was fortunate to have a transportation company job. We had our own shop, and I was able to move down as a mechanic trainee. I am so grateful for that opportunity. I had considered several times looking at other options. An important question to ask when you’re still weighing your options between car mechanics and diesel mechanics is, which job is better?
 
-_Diesel mechanic versus Auto mechanic._ **Reasons being a Diesel mechanic is better; average $3.19 more per hour more. Job diversity. Auto mechanics are limited to automotive repair. Job security. Diesel technology has a better future than gas engines. Better benefits. Car dealerships are small companies with small benefits. Diesel engines are made to work on. Diesel shops have more access to tools. Job growth. Diesel mechanics are expected to experience 9% growth until 2026.  Less Stress. Diesel techs don’t deal with book time or the public much. Upward mobility. Diesel mechanics have more opportunities to advance in their careers. Same work, better pay. Diesel engines have the same nuts and bolts as a car. They’re just bigger.**
+_Diesel mechanic versus Auto mechanic._ **Diesel mechanic is better because average $3.19 more per hour more. Job diversity. Auto mechanics are limited to automotive repair. Job security. Diesel technology has a better future than gas engines. Better benefits. Car dealerships are small companies with small benefits. Diesel engines are made to work on. Diesel shops have more access to tools. Job growth. Diesel mechanics are expected to experience 9% growth until 2026.  Less Stress. Diesel techs don’t deal with book time or the public much. Upward mobility. Diesel mechanics have more opportunities to advance in their careers. Same work, better pay. Diesel engines have the same nuts and bolts as a car. They’re just bigger.**
 
 I have been a diesel technician since I was 18. So, this article may be a little bias to the career path I would recommend. But I want to clear the air between **car guys** and **diesel guys.** Some of my best friends are auto mechanics.
 
@@ -95,7 +95,7 @@ This may have a few exceptions. There were times when I was working on fire appa
 
 In case you don’t know, **_book time_** is the expected amount of time you should complete a job. This is huge in the car world. Most shops ride their guys to have the vehicle out and abide by book time. In the case of flat-rate pay, they are paid by that book time.
 
-Diesel techs don’t deal with a lot of book time. There were a select few jobs that I saw the issue of time come up. i.e., brake jobs. Most things in diesel are not that straight forward. It may take a couple of hours to diagnose an air leak on a truck. You may run into an electrical problem that takes a day or two to figure out. No pressure! Take the time and do it right. That’s the mentality of most shops I have worked.
+Diesel techs don’t deal with a lot of book time. There were a select few jobs that I saw the issue of time come up. i.e., brake jobs. Most things in diesel are not that straight forward. It may take a couple of hours to diagnose an air leak on a truck. You may run into an electrical problem that takes a day or two to figure out. No pressure! Take the time and do it right. That’s the mentality of most shops I have worked in.
 
 **2.Not dealing with the public**
 
@@ -105,7 +105,7 @@ While there are deadlines in all types of mechanics and times when you will need
 
 ## 9. Upward mobility
 
-Something else that may be an important factor to you is your ability to advance in your career. Do you have goals to be the shop foremen? Maybe even a high position? In car mechanics, most of the time being in a dealership setting, the highest position to aspire is the shop manager. This may not be where you want to end up as this can be a stressful job in that area.
+Something else that may be an important factor to you is your ability to advance in your career. Do you have goals to be the shop foremen? Maybe even a high position? In-car mechanics, most of the time being in a dealership setting, the highest position to aspire is the shop manager. This may not be where you want to end up as this can be a stressful job in that area.
 
 There is often a supervisor and then fleet manager, in diesel mechanics and then depending on your company regional manager often called field engineer. There are also in the trucking world a VP of maintenance, or if you are in a diesel dealer like **CAT or Cummins,** the sky is the limit.
 
