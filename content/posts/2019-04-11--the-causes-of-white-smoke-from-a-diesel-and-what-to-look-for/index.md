@@ -7,7 +7,6 @@ updated: "Last updated: Dec 10, 2020"
 ---
 
 ![unsplash.com](./bus.png)
-![smoke info](smokeinfo.jpg)
 
 So, you have some white smoke billowing out of your exhaust. What is the cause? Maybe you are like me and have to look it up every time. No shame here. The answer is quite simple, but the solution might not be. Let's look into this issue and figure out what's going on.
 
@@ -83,3 +82,5 @@ Yes. This is another common cause of white smoke. Check all the lines and inject
 You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass, and then cancel before the free trial ends.
 
 Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
+
+![smoke info](smokeinfo.jpg)

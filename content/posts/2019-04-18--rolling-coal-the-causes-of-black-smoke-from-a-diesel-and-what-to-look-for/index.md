@@ -6,7 +6,7 @@ author: Johnathan Coker
 updated: "Last updated: Dec 10, 2019"
 ---
 
-![smoke info](smokeinfo.jpg)
+![back](back.jpg)
 
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.
 
@@ -128,3 +128,5 @@ If this is a modern engine you likely have an injector problem. On older engines
 #### My diesel has random puffs of black smoke
 
 I would say this is caused by turbocharger Lag. If you have a large turbocharger this can happen when there is an acceleration from a stop. Larger turbochargers that take more time to “spool up”. While this is happening, the engine will be “rolling coal” waiting for the turbocharger to get up to speed. Fuel is injected into an engine that is turning at low RPM. It is possible to prevent this by adding a [combustion catalyst](https://amzn.to/2NcMEQY) to the fuel to improve the amount of that diesel burned at low RPM.
+
+![smoke info](smokeinfo.jpg)

@@ -7,7 +7,6 @@ updated: "Last updated: Jun 10, 2020"
 ---
 
 ![unsplash.com](./blue1.PNG)
-![smoke info](smokeinfo.jpg)
 
 So, you have some blue smoke billowing out of your exhaust. Well you think it's blue. It looks like a blue haze? 😕 What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to blue smoke from a diesel.
 
@@ -80,3 +79,5 @@ Now you are in the more advanced inspection. This will require more time and you
 Blue smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by blue smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs. Looking for a complete diesel smoke guide? If you want to understand more click [Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue](/diesel-smoke-guide)
 
 **_See something I missed? Help me make it better, comment below. Thanks!_**
+
+![smoke info](smokeinfo.jpg)
