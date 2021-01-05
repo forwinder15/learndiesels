@@ -1,26 +1,35 @@
 ---
-title: About Us
+title: About Me
 ---
 
-##Howdy fellow grease monkey, I’m Johnathan. Thanks for visiting learn diesels!
+## My grandfather had the heart of a lion
+
+and a permanent ban from the Atlanta Zoo.
 
 ![me](memechanic.png)
 
+I first started working on diesels when I was 18. I got super lucky and landed a mechanic trainee job at Southeastern Freight Lines. I worked there for 6 years and ended up at the City of Clearwater working on Fire apparatus and heavy equipment since 2012.
 
+I am ASE master certified in trucks and have a brake certification in automotive. In addition, I am Emergency Vehicle Certified (EVT) Level 2 and certified EVT shop manager. I also have other certifications in Engine repair, bearings, CNG and water pumps.
 
-So, I first started working on diesels when I was 18. I got super lucky and landed a mechanic trainee job at southeastern freight lines. I worked there for 6 years and then ended up at the city of  Clearwater working on Fire apparatus and heavy equipment since 2012. I want to share the lessons I have learned being a diesel mechanic and managing. 
+As for my faults my wife tells me I have two main problems; 1. I don't listen when she talks, 2. ... Something else..😕
 
-So, with that dream in mind, I’ve set up this website to support my toy habit while writing about something I am passionate about. My aim is to pass on some tips and advice that I have picked up over the years of wrenching and offer it to you in the form of a helpful, informative and entertaining diesel website. I also like to be able to provide mechanics of all levels from around the world a place to interact.
+I have been so blessed to have the experience and exposure through my career. God has opened many doors and gave me the ability to help others in their journey. I want to share the lessons I have learned being a diesel mechanic, learning from older/better mechanics than me and managing a small shop.
 
-* I place Google Ads on this site to generate some coin which makes it possible to keep this site moving and grooving. They’re not there to take advantage of you but rather a way to support the site, so thanks for understanding.
+So, with that goal in mind, I’ve set up this website to support my tool 🔧 addiction while writing about something I am passionate about. My aim is to pass on some tips and advice that I have picked up over the years of wrenching and offer it to you in the form of a helpful, informative and entertaining diesel website. I also like to be able to provide mechanics of all levels from around the world a place to interact.
+
+- I place Google Ads on this site to generate some coin which makes it possible to keep this site moving and grooving. They’re not there to take advantage of you but rather a way to support the site, so thanks for understanding.
 
 I also offer advertising space to diesel related companies so please show your support by checking these guys out. They can be recognized as banner ads and (occasionally) links.
 
-All of the links, products, and companies I recommend on this site are trustworthy and reliable, otherwise, I wouldn’t put them up. If for some reason you do have problems with any of them please email me so I can contact the company, and if necessary remove the link.
+All of the links, products, and companies I recommend on this site are trustworthy and reliable, otherwise, I wouldn’t put them up. If for some reason you do have problems with any of them please email me so I can contact the company and if needed, remove the link.
 
-I really do hope you enjoy what I’ve put together here. If you have any questions, suggestions, complaints or compliments – fire ’em up! I would love to know how I can improve this site. And if you really have enjoyed browsing through it, please tell me – 
-
+I really do hope you enjoy what I’ve put together here. If you have any questions, suggestions, complaints or compliments – fire ’em up! I would love to know how I can improve this site. And if you really have enjoyed browsing through it, please tell me – either job me a line on the [contact page](/contact/) or email yeahthisguyrighthere@gmail.com
 
 Keep wrenching,
 
-Johnathan
+Johnathan Coker
+
+## the fam
+
+![family](https://scontent-atl3-2.xx.fbcdn.net/v/t1.0-9/80900011_1216139775247332_8418375619464658944_n.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=_EkBuZb_JckAX9eJN2a&_nc_ht=scontent-atl3-2.xx&oh=0db84ff52119b971c96652d6a4ec11ca&oe=6019196B)
