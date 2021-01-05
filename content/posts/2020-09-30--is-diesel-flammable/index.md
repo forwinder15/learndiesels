@@ -3,16 +3,16 @@ title: Burning Question - Is Diesel Flammable?
 category: Common Questions
 cover: flames.PNG
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![diesel flames](./flames.PNG)
 
 Here is a burning question for you 🔥. Some articles out there got this wrong. So let's set the record straight.
 
 _Is diesel fuel flammable?_ Yes.
 
-Diesel is flammable, according to the U.S. Department of Labor. See the following standard: [Section 1926.155(h)](https://www.osha.gov/laws-regs/standardinterpretations/2000-06-09-0#:\~:text=The%20common%20grades%20of%20diesel,is%20subject%20to%20this%20rule) defines a flammable liquid as any liquid having a flashpoint below 140°F and having a vapor pressure not exceeding 40 pounds per square inch at 100°F. Diesel fuel's common grades have flash points below 140°F; therefore, diesel fuel is considered flammable liquid and is subject to this rule.
+Diesel is flammable, according to the U.S. Department of Labor. See the following standard: [Section 1926.155(h)](https://www.osha.gov/laws-regs/standardinterpretations/2000-06-09-0#:~:text=The%20common%20grades%20of%20diesel,is%20subject%20to%20this%20rule) defines a flammable liquid as any liquid having a flashpoint below 140°F and having a vapor pressure not exceeding 40 pounds per square inch at 100°F. Diesel fuel's common grades have flash points below 140°F; therefore, diesel fuel is considered flammable liquid and is subject to this rule.
 
 ## Here are the specifics
 
@@ -30,7 +30,7 @@ Of course, we all know that diesel is nowhere near as flammable as gasoline. I h
 
 It will still cause a fire and should be stored in a proper container following OSHA guidelines and the Department of Labor.
 
-## Can You Light Diesel fuel with a Lighter
+## Can You Light Diesel fuel with a Lighter?
 
 Yes, you can. But you will need the fuel temperature to be above the flashpoint. The fuel will begin to give off flammable diesel fumes. After that, it will ignite with a spark or flame.
 
@@ -60,11 +60,11 @@ The most reactive factor in this region is hydrogen, which takes the oxygen it n
 
 When you slam in oxygen, the remainder of the carbon blows out the exhaust as soot. Therefore all modern diesels have a turbocharger. This is why they attempt to bind so much air in the engine. A lot of oxygen is required to transform all the carbon into CO2.
 
-## Diesel is safer than most fuels.
+## Diesel is safer than most fuels
 
 Think about it. Being less flammable and less toxic than gasoline, propane, ethanol. It makes diesel a pretty safe option as far as fuels go.
 
-## Use a B class extinguisher on a diesel fire.
+## Use a B class extinguisher on a diesel fire
 
 Suppose you get in a situation at your shop where you need to put out a diesel fire. Remember to call the fire department first. After that, if it's safe, grab a B class fire extinguisher. All shops are required to have multiple extinguishers in the area accessible to your work area.
 

@@ -6,8 +6,6 @@ author: Johnathan Coker
 updated: "Last updated: Dec 11, 2020"
 ---
 
-![toolbox and truck](./fuel.jpg)
-
 So you've got some fuel you want to hold onto. Or... maybe you've found an old barrel tucked away that Y2K preppers hid. **Diesel fuel DOES have a shelf life.** So, let's answer that question. After that, look for the guide on how to store it properly.
 
 _How long can you store diesel?_
@@ -59,3 +57,5 @@ If your storing fuel, the best stuff I ever used was [BioBor](https://amzn.to/2U
 ## Summing up
 
 Bad diesel fuel can stink - literally. But it doesn't have to cause damage to your engine. Keep an eye on the fuel in your tanks and the fuel you have lying around. Never use the fuel you are suspicious of. It's not worth it.
+
+![toolbox and truck](./fuel.jpg)

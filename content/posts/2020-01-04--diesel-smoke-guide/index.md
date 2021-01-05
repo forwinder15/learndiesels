@@ -8,15 +8,15 @@ updated: "Last updated: Dec 20, 2020"
 
 ![smoke](IMG_1482.PNG)
 
-![smoke info](smokeinfo.jpg)
-
-We are going to cover the **three** main types of diesel smoke and the causes in this article. If you are trying to diagnose an issue take a look at the reference to dash down to your particular problem. If you are here to learn let's get after it.
+We are going to cover the main types of diesel smoke and the causes in this article. If you are trying to diagnose an issue take a look at the reference to dash down to your particular problem. below the table of contents you will find a quick reference info-graph, if your looking for a quick answer. If you are here to learn let's get after it.
 
 # Table of Contents
 
 1. [Black Smoke](#black)
 2. [Blue Smoke](#blue)
 3. [White/Grey Smoke](#white)
+
+![smoke info](smokeinfo.jpg)
 
 ## Black Smoke <a name="black"></a>
 
