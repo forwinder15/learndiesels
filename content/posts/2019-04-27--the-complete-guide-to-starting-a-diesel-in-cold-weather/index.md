@@ -1,5 +1,5 @@
 ---
-title: The Complete Guide To Starting A Diesel In Cold Weather
+title: 7 Step Guide To Starting A Diesel In Cold Weather
 category: How Tos
 cover: snow.jpeg
 author: Johnathan Coker
@@ -10,9 +10,9 @@ updated: 'Last updated: Dec 10, 2020'
 
 Modern Diesel engines have solved a lot of issues over the years. The newest Diesel engines are much better than the older ones but, all diesels do not like cold weather. That's why I have put together this guide for the cold mechanic shivering in his bay right now.
 
-Why are Diesel engines harder to start in cold weather? 
+Why are Diesel engines harder to start in cold weather?
 
-**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because diesel engines depend on high temperatures in order to create the combustion.**
+**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because they depend on high temperatures in order to create combustion.**
 
 Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on starting a diesel in cold weather.
 
@@ -62,7 +62,7 @@ Diesel fuel can become gelled when the diesel starts to turn into a solid when t
 
 You should watch the fuel at any temperature below 32 degrees as it will begin the process of gelling. **You Need A Fuel Additive** if you are in these kinds of weather conditions. Make sure you are preventative or you are going to have a mess until it warms up.
 
-Here is the fuel additive I recommend [Lucas Extreme Cold Weather Diesel Fuel Treatment (Link to Amazon)](https://amzn.to/2Nz4P24) Lucas Extreme Cold Temperature Fuel Treatment with Anti-Gel was developed to eliminate fuel gelling problems in all types of diesel fuels, even bio-diesel. It contains all the important additives in the regular fuel treatment to increase fuel mileage and performance. Complies with the federal low sulfur content requirements for use in diesel fuel. Try it out if you are in a really cold area. Don't wait and end up with with this 🔽
+Here is the fuel additive I recommend [Lucas Extreme Cold Weather Diesel Fuel Treatment (Link to Amazon)](https://amzn.to/2Nz4P24) Lucas Extreme Cold Temperature Fuel Treatment with Anti-Gel was developed to eliminate fuel gelling problems in all types of diesel fuels, even bio-diesel. It contains all the important additives in regular fuel treatment to increase fuel mileage and performance. Complies with the federal low sulfur content requirements for use in diesel fuel. Try it out if you are in a really cold area. Don't wait and end up with with this 🔽
 
 ![gelled diesel](./gell.jpg)
 
@@ -78,7 +78,7 @@ When the temperature dips below 30F for long periods of time is a great time to 
 
 Once you start seeing temperatures below 30F for extended periods of time, go ahead and begin the blend.
 
-**Don't forget** additives drop the cloud point for every 10% of the tank by about 3 degrees. If you have treated your fuel be aware of this.
+**Don't forget** additives drop the cloud point for every 10% of the tank by about 3 degrees. If you have treated your fuel be aware of this. Check out my article on [storing diesel.]()
 
 ## 7. Do not mix fuel additives into winterized diesel
 
