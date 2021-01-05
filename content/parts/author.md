@@ -21,14 +21,14 @@ title: author
   font-size: 2.2rem;
    text-align: center;
   color: rgba(255, 255, 255, 0.9);
-  line-height: 1.15em;">Emails Suck. Ours Don't</h1>
+  line-height: 1.15em;">What's Forrest Gumbs Email password?</h1>
     <h3 style="margin: 0 0 10px 0;
     color: #000;
   font-size: 1.2rem;
   margin: 1rem;
   text-align: center;
   color: rgba(255, 255, 255, 0.9);
-  line-height: 1.15em;">You know you want Diesel emails and I promise I won't spam you.</h3>
+  line-height: 1.15em;">1foresst1 🤣 You know you want Diesel emails, sign up here</h3>
 
 <div class="mc-field-group">
  <input Style="

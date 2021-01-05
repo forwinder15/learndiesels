@@ -20,7 +20,7 @@ You have to get the one that fits you. Sometimes it takes trying some out to fin
 
 **Let’s take a look at the Best 10 ratchets for a professional mechanic.**
 
-## 1. GearWrench 81210P
+## 1. GearWrench 81210P - Learn Diesels Top Pick - Best bang for the buck
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
@@ -38,7 +38,7 @@ I would recommend these things all day, but the proof is in the pudding, as they
 - **Weight and Length** - 15.8 ounces, 15.9 inches
 - **Cost** - **$$**
 
-## 2. Milwaukee 48-22-9014
+## 2. Milwaukee 48-22-9014 - Learn Diesels Top pick - Best design
 
 ![mil ratchet](./mil.JPG)
 
@@ -56,7 +56,7 @@ So, if you have seen this list before, this is a new one. I recently bought this
 - **Weight and Length** - 11-13 ounces, 11 inches
 - **Cost** - **$$$**
 
-## 3. Snap-on F80
+## 3. Snap-on F80 - Learn Diesels Top pick - Best Quality
 
 ![snap-on](./snap.jpg)
 
