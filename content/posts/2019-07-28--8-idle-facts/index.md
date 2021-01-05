@@ -3,9 +3,9 @@ title: 8 Facts About Diesel Idle You May Not Know
 category: Diagnosing Problems
 cover: crazy1.PNG
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![Idle facts](./crazy1.PNG)
 
 There are many scenarios in the diesel world where the engine will need to idle a while. Whether you are doing a monthly inspection on a generator or a trucker waiting for your load, there are a lot of situations where you will be idle.
@@ -82,7 +82,17 @@ A cylinder should have what is called **_cross-hatching_** and not be reflective
 
 Most companies and government agencies are now on a big kick to end their vehicles and equipment idle time. This is understandable as the costs add up over time. Especially on a large scale, this can be millions of dollars out of profit or cause taxes to go up.
 
-## 8. An APU can save your engine
+## 8. How many miles does one hour of idle time equal?
+
+Mileage is not recorded by the odometer When a unit idles. One hour of idling is equal to 25 to 30 miles of driving.
+
+Thats right! 30 miles per hour. That can really add up when you think about units like vacuum trucks that have PTO time. it really makes you rethink keeping your cab nice and toasty all night at the truck-stop.
+
+It is best to avoid idling when possible but we know its not always possible and at that point we have to keep up with the idle time.
+
+Some manufactures will log the idle time for you if not you can always keep a paper log. That way you can get your service work done at the proper time. Also, you can replace mile sensitive parts in the engine.
+
+### An APU can save your engine
 
 An APU is an auxiliary power unit. This is used mostly for semi-trucks. For drivers who either sleep in their truck or idle for very long periods. With an APU, you can avoid all that engine killing idle time.
 
