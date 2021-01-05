@@ -32,4 +32,4 @@ Johnathan Coker
 
 ## the fam
 
-![family](https://scontent-atl3-2.xx.fbcdn.net/v/t1.0-9/80900011_1216139775247332_8418375619464658944_n.jpg?_nc_cat=111&ccb=2&_nc_sid=174925&_nc_ohc=_EkBuZb_JckAX9eJN2a&_nc_ht=scontent-atl3-2.xx&oh=0db84ff52119b971c96652d6a4ec11ca&oe=6019196B)
+![family](familly.jpg)
