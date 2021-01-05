@@ -24,7 +24,7 @@ Blue smoke is no good. I wrote a full article will all the possible problems [He
 
 If you have found that the problem is not in the fuel system an engine component is malfunctioning. As the engine wears, you will see more and more constant blue smoke. Over time, the clearances just can’t be maintained on the cylinder walls and oil stays on the walls of the cylinder and the piston travels back down it leaves oil in the chamber and it gets burned along with the fuel.
 
-Once again, a compression check is going to let you know where this problem is. If it is very old a complete in-frame may be needed.
+Once again, a compression check is going to let you know where this problem is. If it is very old a complete in-frame may be needed. As you can see below, that oil has been passing those rings for quite a while.
 
 ![unsplash.com](./ring.jpg)
 
@@ -67,7 +67,7 @@ Over time the turbo will wear down and the turbine itself will begin to _wobble_
 
 Other issues from wear in the turbo system can include, clamps/hoses and the intercooler. When these wear down it causes leaks and will significantly diminish the value of the compressed air. All of these issues will cause a huge loss in power so that makes this easy to spot. Run an intercooler leak down test to check this and look to tighten those loose clamps.
 
-During a usual inspection of the turbo, you can remove the intake hose connected to the turbo and spin the turbine and see how much movement it has to the sides. There is a spec for this. You can tell if it has too much pretty easily.
+During a usual inspection of the turbo, you can remove the intake hose connected to the turbo and spin the turbine and see how much movement it has to the sides. There is a spec for this. You can tell if it has too much pretty easily. Below is a picture of one that had excessive movement.
 
 ![unsplash.com](./turbo.jpg)
 

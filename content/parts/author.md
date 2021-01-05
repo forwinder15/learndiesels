@@ -21,7 +21,7 @@ title: author
   font-size: 2.2rem;
    text-align: center;
   color: rgba(255, 255, 255, 0.9);
-  line-height: 1.15em;">What's Forrest Gumbs Email password?</h1>
+  line-height: 1.15em;">What's Forrest Gump's Email password?</h1>
     <h3 style="margin: 0 0 10px 0;
     color: #000;
   font-size: 1.2rem;
