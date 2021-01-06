@@ -10,7 +10,11 @@ updated: 'Last updated: Dec 10, 2020'
 
 Your diesel engine is a workhorse. It will go for a long time given the right maintenance has been done. I have seen motors with **2 million miles!** So, knowing they can last a long time, what are some of the signs and symptoms that your engine is fixing to give up the ghost?
 
-There are several signs and symptoms that your diesel engine is not going to last much longer. I have compiled a list of 10 for you. Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
+There are several signs and symptoms that your diesel engine is not going to last much longer. I have compiled a list of 10 for you. 
+
+_What are signs of a worn diesel engine?_  **1. Starting problems 2. Blue smoke from the exhaust 3. Poor fuel economy 4. Loss of power 5. Increased oil consumption 6. Excessive engine noise 7. Turbocharger system failure 8. excessive blow-by 9. Rough idle 10. Engine Runaway** 
+
+Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
 
 ## 1. Starting problems
 
@@ -18,7 +22,7 @@ When your truck is continually cranking and not starting up, this could be lots 
 
 It could be a piston, rings, cylinder wall/liners, or valves. When this is the culprit, the problem will be worse after sitting or in colder or even hotter weather. If your diesel is not cranking up don’t jump to this conclusion! Do a proper diagnosis. After you have found that it is not any of the normal issues it is time to run a compression test. Having issues starting? Check out this article I wrote on [Diesel starting issues](/the-complete-guide-to-starting-a-diesel-in-cold-weather/)
 
-## 2. Blue Smoke
+## 2. Blue Smoke from the exhaust
 
 Blue smoke is no good. I wrote a [full article will all the possible problems Here](). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines.
 
@@ -46,7 +50,7 @@ Making another pit-stop for oil top off? **Lookout!** Your engine might be on it
 
 That being said, when the engine ages and all the parts wear down oil will begin to pass slowly being burned and escaping out of the exhaust. I have seen some so worn down that the exhaust drips oil! Don’t be that guy. Keep an eye out when you have to add between oil changes.
 
-## 6. Engine Noise
+## 6. Excessive engine Noise
 
 Do you remember how your diesel engine sounded when you drove it the first time? Has that [beautiful roaring](/why-diesels-are-so-noisey) been replaced with the sounds of beating and banging? Over time compression and combustion-timing issues can cause your engine to knock and make all sorts of unpleasant noises. There are really several places to look for the culprit of engine noise. **It is really depending on where the noise is coming from and what it sounds like.**
 
@@ -110,7 +114,7 @@ It is important that you don’t jump to conclusions about your engine. Even wit
 
 ## Want to get your ASE certifications but Hate reading? 📕
 
-You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass and then cancel before the free trial ends.
+You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass, and then cancel before the free trial ends.
 
 Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
 
