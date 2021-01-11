@@ -3,26 +3,26 @@ title: 10 Signs And Symptoms Of A Worn-Out Diesel Engine
 category: Diagnosing Problems
 cover: re.jpg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![engine parts](./re.jpg)
 
 Your diesel engine is a workhorse. It will go for a long time given the right maintenance has been done. I have seen motors with **2 million miles!** So, knowing they can last a long time, what are some of the signs and symptoms that your engine is fixing to give up the ghost?
 
-There are several signs and symptoms that your diesel engine is not going to last much longer. I have compiled a list of 10 for you. 
+There are several signs and symptoms that your diesel engine is not going to last much longer. I have compiled a list of 10 for you.
 
-_What are signs of a worn diesel engine?_  **1. Starting problems 2. Blue smoke from the exhaust 3. Poor fuel economy 4. Loss of power 5. Increased oil consumption 6. Excessive engine noise 7. Turbocharger system failure 8. excessive blow-by 9. Rough idle 10. Engine Runaway** 
+_What are signs of a worn diesel engine?_ **1. Starting problems 2. Blue smoke from the exhaust 3. Poor fuel economy 4. Loss of power 5. Increased oil consumption 6. Excessive engine noise 7. Turbocharger system failure 8. excessive blow-by 9. Rough idle 10. Engine Runaway**
 
 Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
 
-## 1. Starting problems
+## 1. Your Diesel Engine Has Starting problems
 
 When your truck is continually cranking and not starting up, this could be lots of things but, it can also be a sign of low-compression. Diesel engines rely on compression to start and run. It must have proper combustion in order to run properly. **Diesel is all about the squeeze and achieving the right pressure to cause the explosion.** As your engine ages, the component will wear and cause issues in the seal of the chamber. This means that a component in your combustion chamber is worn.
 
 It could be a piston, rings, cylinder wall/liners, or valves. When this is the culprit, the problem will be worse after sitting or in colder or even hotter weather. If your diesel is not cranking up don’t jump to this conclusion! Do a proper diagnosis. After you have found that it is not any of the normal issues it is time to run a compression test. Having issues starting? Check out this article I wrote on [Diesel starting issues](/the-complete-guide-to-starting-a-diesel-in-cold-weather/)
 
-## 2. Blue Smoke from the exhaust
+## 2. Your Diesel Engine Has Blue Smoke from the exhaust
 
 Blue smoke is no good. I wrote a [full article will all the possible problems Here](). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines.
 
@@ -32,38 +32,38 @@ Once again, a compression check is going to let you know where this problem is. 
 
 ![unsplash.com](./ring.jpg)
 
-## 3. Poor Fuel Economy
+## 3. Your Diesel Engine Has Poor Fuel Economy
 
 Diesel isn’t cheap! Spending a little extra at the pump these days? This may not just be a wallet problem. This could be a **sign of wear** in the injectors or ring wear. If the injectors are worn out or malfunctioning, they need to be repaired as soon as possible.
 
 Leaking extra fuel into the chamber can cause all sorts of bad things to happen. When more fuel is added the balance is not achieved in the combustion chamber and the burn is not complete. That is when you see that extra fuel come out of the exhaust in the form of [**black smoke**](https://learndiesels.com/diesel-smoke-guide/#black). When the rings are worn, they allow that extra fuel to slide down into the oil. You can see a misfire and/or a rough idle from this. These things can damage other components and possibly even cause a complete failure of the engine.
 
-## 4. Loss of Engine Power
+## 4. Your Diesel Engine Has Loss of Engine Power
 
 This is one people usually pick up on quickly. Something is usually said about the truck pulling a _greasy string out of something_ 😆. Most will notice a change in the amount of power the vehicle has from **take-off** and how long it takes to get up to speed. Although, if you have been driving the vehicle for years this can sneak up on you.
 
 Does your vehicle have the power it had when you first purchased it? Check out my article [9-point checklist for diesel engines with low power](/9-point-checklist-for-diesel-engines-with-low-power). Over the years as the components wear you will lose some of that **get-up-and-go.** If you are looking at whether or not your engine is worn-out this one is important. As you lose compression and your turbo and related components wear down, you will see a significant drop in power.
 
-## 5. Increased Oil Consumption
+## 5. Your Diesel Engine Has Increased Oil Consumption
 
 Making another pit-stop for oil top off? **Lookout!** Your engine might be on its way out. If you look around where you normally park and don’t see any signs of a leak and you looked around the engine and it is all dry it may be a compression issue. **_There are some ways that oil can escape through different components with no sign of leakage_** If your oil cooler goes out it will up the cooling system.
 
 That being said, when the engine ages and all the parts wear down oil will begin to pass slowly being burned and escaping out of the exhaust. I have seen some so worn down that the exhaust drips oil! Don’t be that guy. Keep an eye out when you have to add between oil changes.
 
-## 6. Excessive engine Noise
+## 6. Your Diesel Engine Has Makes Excessive or strange Noise
 
 Do you remember how your diesel engine sounded when you drove it the first time? Has that [beautiful roaring](/why-diesels-are-so-noisey) been replaced with the sounds of beating and banging? Over time compression and combustion-timing issues can cause your engine to knock and make all sorts of unpleasant noises. There are really several places to look for the culprit of engine noise. **It is really depending on where the noise is coming from and what it sounds like.**
 
 ![engine sound](./sound.jpeg)
 
-* Engine knocking can be caused by damaged liner seals, main bearing wear, or a worn piston skirt.
-* A clunking sound can be caused by main or rod bearing wear in older engines.
-* You can get a different sound from leaking injectors that sounds like pinging.
-* Over time the valve clearances lose their proper clearance so then you will have a tapping noise.
+- Engine knocking can be caused by damaged liner seals, main bearing wear, or a worn piston skirt.
+- A clunking sound can be caused by main or rod bearing wear in older engines.
+- You can get a different sound from leaking injectors that sounds like pinging.
+- Over time the valve clearances lose their proper clearance so then you will have a tapping noise.
 
 It is important to diagnose an unusual noise in your diesel quickly. Most of these issues are very severe and can cause major damage to other components as well. Keep an ear 👂out for something other than normal-sounding operation.
 
-## 7. Turbocharger System Failure
+## 7. Your Diesel Engine Has Turbocharger System Failure
 
 [All modern diesel engines have a turbocharger.](/do-all-diesels-have-turbos) Those are an important part of the operation of the engine. You will definitely be able to tell if you’re having issues here.
 
@@ -75,7 +75,7 @@ During a usual inspection of the turbo, you can remove the intake hose connected
 
 ![unsplash.com](./turbo.jpg)
 
-## 8. Excessive Blow-by
+## 8. Your Diesel Engine Has Excessive Blow-by
 
 That pipe sticking down under that truck is not meant for smoking. Well sort of. Some blow-by is normal for a diesel engine. This is because the combustion pressure when a diesel engine fires are just too great for the piston rings to hold completely.
 
@@ -83,15 +83,15 @@ That means that **some** exhaust makes it into the crankcase. When the blow-by i
 
 You will also see a ton of oil on the undercarriage, transmission, and other parts depending on the application. This is where the exhaust is carrying oil along for the ride. A **compression check** will be needed to find out where the problem is.
 
-## 9. Rough Idle
+## 9. Your Diesel Engine Has a Rough Idle
 
 At the stoplight and you are just bouncing all over the place? Another sign of a worn-out diesel is a rough [idle](/8-idle-facts). There are several different types of rough idling.
 
-* **Hunting** - This is when the engine is idling up and down in intervals. It is looking for something 🔍. It cannot find the proper amount of fuel and compression at the right time. It could be running on some oil from worn components. Getting that extra oil and causing a little higher rev and then calming back down.
-* **Just Rough** – This can be from leaking injectors or poor timing. Fuel pump wear and several other things.
-* **Missing** – Every round you just hear a slight hesitation. This can be caused by a malfunctioning injector. It also can be caused by an improper valve and injector clearance.
+- **Hunting** - This is when the engine is idling up and down in intervals. It is looking for something 🔍. It cannot find the proper amount of fuel and compression at the right time. It could be running on some oil from worn components. Getting that extra oil and causing a little higher rev and then calming back down.
+- **Just Rough** – This can be from leaking injectors or poor timing. Fuel pump wear and several other things.
+- **Missing** – Every round you just hear a slight hesitation. This can be caused by a malfunctioning injector. It also can be caused by an improper valve and injector clearance.
 
-## 10. Continues Running After You Turn It Off or “Run-away”
+## 10. Your Diesel Engine Continues Running After You Turn It Off or “Run-away”
 
 It is never good when you get up for work and the vehicle will not start. But what about when you get to work, and it won’t stop? Oh boy. Houston, we have a problem. This is known as a [run-away](/run-away-diesels). It can be very dangerous. We have all heard it in movies the iconic sound of a diesel turning over a couple of times after it is shut off.
 

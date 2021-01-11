@@ -14,7 +14,7 @@ This is a common problem with really many different causes **depending on the sy
 
 What causes a diesel engine to lose power? **1. Dirty fuel filter 2. Check engine light 3. Intake air leak or restriction 4. Plugged exhaust 5. Malfunctioning throttle pedal 6. Failing injectors 7. Low fuel pressure 8. Malfunctioning Turbo 9. Internal engine problems.**
 
-## 1. Dirty Fuel Filter
+## 1. Your Diesel Engine Has A Dirty Fuel Filter
 
 A very common reason for low power complaints is the **fuel filter.** After the filter gets dirty beyond its limit, it will not operate effectively. Once it is clogged, it is going to cause you problems.
 
@@ -22,7 +22,7 @@ It is a good idea with any power complaint to go ahead and change the fuel filte
 
 Most diesel engines will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to do both, especially when there has been a complaint about power. If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
 
-## 2. Check engine light
+## 2. Your Diesel Engine Has Check engine light
 
 You might be thinking, well, duh! 🙄 Well, read on before you judge. A check engine light indicates that there is an issue with the systems or sensors on your system. If it is on, start here and see why.
 
@@ -34,7 +34,7 @@ A **derate** is when the ECM has decided for you that you need to head into the 
 
 This is one of the more important checks because even if you are not in derate, a check engine light could indicate that you have another issue causing your power woes. Think about it; you could have a missing injector or stuck turbo actuator. The scenarios are endless. If that lamp is on, this is the best place to start.
 
-## 3. Intake air leak or restriction
+## 3. Your Diesel Engine Has Intake air leak or restriction
 
 The next great place to look if your check engine light is not on is the intake air system. In most diesels, there is a turbo, and it is sending compressed air to the engine, creating a boost and giving it that much-needed power.
 
@@ -58,7 +58,7 @@ Carefully look at all the hoses. Look for any signs of rubbing or chaffing. A lo
 
 You can also have a restriction causing that lack of power. If your air filter is clogged or dirty or you have some sort of obstruction in the air intake system, your engine will not be able to breathe and cause a dramatic amount of power to be lost. Make sure there is nothing on the filter, and it is not soiled to the point of clogging.
 
-## 4. Plugged exhaust
+## 4. Your Diesel Engine Has Plugged exhaust
 
 This is an often-overlooked issue. A plugged exhaust system can create too much back pressure and cause a serious decline in the engine's power. There is an amount of time-based on the manufacture of the muffler to which it should be replaced. If it is ancient, you should think about replacing it. Some signs your muffler or DPF (Diesel Particulate Filter) are clogged are:
 
@@ -67,7 +67,7 @@ This is an often-overlooked issue. A plugged exhaust system can create too much 
 - Condensation from exhaust
 - Strange noise from the exhaust
 
-## 5. Malfunctioning throttle pedal
+## 5. Your Diesel Engine Has Malfunctioning throttle pedal
 
 Another problem you could have if you are experiencing low power is a malfunctioning throttle pedal. You may think I should have included this in the **_check engine light_** section, but I have seen an electronic throttle pedal often has problems and does not throw a code.
 
@@ -75,7 +75,7 @@ There are many ways the TPS (Throttle Position Sensor) can fail. Do not think th
 
 It is best to hook up to the manufactures diagnostic software and look at the TPS operation. I know Cummins Insite has a test you can run, and you can look at it manually. You can move the pedal and see if the software displays the correct percentage. If you have the pedal 50% depressed, the software should indicate that within reason.
 
-## 6. Failing injectors
+## 6. Your Diesel Engine Has Failing injectors
 
 If you have an injector that is not operating correctly, you will have a loss of power. Injector issues do no always throw engine codes. I have seen several times in my career an engine how 1 or even more bad injectors and never turn on the check engine light.
 
@@ -83,7 +83,7 @@ If you hear a **_miss_** in the engine, it is best to have a closer look to see 
 
 It is not unusual to have more than one bad injector. Depending on the vehicle or equipment’s age and maintenance history, I would recommend replacing all 6 if you have issues. You can also have those sent out for testing and even to be rebuilt.
 
-## 7. Low fuel pressure
+## 7. Your Diesel Engine Has Low fuel pressure
 
 Another place to look at the fuel pressure the engine has. Low fuel pressure will definitely cause a lack of power, and with today’s high-pressure systems, you can definitely have some trouble here.
 
@@ -98,7 +98,7 @@ If your engine is starved for fuel, a couple of other things to check for are
 - **Porous fuel lines** – the braided fuel line soften over time will start to allow air into fuel and cause all sorts of issues.
 - **Weak lift pump** – This can cause low power and intermittent hesitations. Even if it sounds fine! It is hard to measure in some applications, but I have seen this on many engines.
 
-## 8. Malfunctioning Turbo
+## 8. Your Diesel Engine Has Malfunctioning Turbo
 
 The turbo can have issues and cause substantial power loss. Regular inspection of the turbine inside is needed. If any trash enters the turbo, the damage can be catastrophic. If the turbine is **chipped or scored,** it will not be as efficient, and a loss of power will occur.
 
@@ -106,7 +106,7 @@ With today’s emissions systems, we have turbo actuators and VGT (variable geom
 
 Several diagnostic tests can be run on the turbo and actuator. If you at all suspect the issue is here, run the tests and regroup.
 
-## 9. Internal engine problems
+## 9. Your Diesel Engine Has Internal engine problems
 
 The last place I want the problem to happen would be in the internal engine. Problems can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover.
 
