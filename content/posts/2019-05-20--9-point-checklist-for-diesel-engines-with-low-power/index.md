@@ -12,9 +12,17 @@ So, your diesel engine has low power. She doesn’t climb the hills like she use
 
 This is a common problem with really many different causes **depending on the symptoms**. You might also say it is not pulling under a load. However you describe it, loss of power in an over the road truck or a piece of equipment can be dangerous or even fatal depending on the circumstances.
 
-What causes a diesel engine to lose power? **These are the 9 most common causes of low power in diesel engines: Check engine light, Dirty fuel filter, Intake air leak or restriction, Plugged exhaust, Malfunctioning throttle pedal, Failing injectors, Low fuel pressure, Malfunctioning Turbo, and Internal engine problems.**
+What causes a diesel engine to lose power? **1. Dirty fuel filter 2. Check engine light 3. Intake air leak or restriction 4. Plugged exhaust 5. Malfunctioning throttle pedal 6. Failing injectors 7. Low fuel pressure 8. Malfunctioning Turbo 9. Internal engine problems.**
 
-## 1. Check engine light
+## 1. Dirty Fuel Filter
+
+A very common reason for low power complaints is the **fuel filter.** After the filter gets dirty beyond its limit, it will not operate effectively. Once it is clogged, it is going to cause you problems.
+
+It is a good idea with any power complaint to go ahead and change the fuel filters. You never know what it has got into from the fuel. The tank could have had some water in it or trash stirred up by something hitting the tank. There are all sorts of ways for trash and water to get in, and that is why you have the filters in the first place.
+
+Most diesel engines will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to do both, especially when there has been a complaint about power. If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
+
+## 2. Check engine light
 
 You might be thinking, well, duh! 🙄 Well, read on before you judge. A check engine light indicates that there is an issue with the systems or sensors on your system. If it is on, start here and see why.
 
@@ -25,14 +33,6 @@ In case you were not aware, trucks today are equipped with many safety features.
 A **derate** is when the ECM has decided for you that you need to head into the shop. Most of the time, the MIL (malfunction indicator lamp) will be on, indicating that there is an issue. If this is the case, head on in and see what code is causing the issue.
 
 This is one of the more important checks because even if you are not in derate, a check engine light could indicate that you have another issue causing your power woes. Think about it; you could have a missing injector or stuck turbo actuator. The scenarios are endless. If that lamp is on, this is the best place to start.
-
-## 2. Dirty Fuel Filter
-
-A very common reason for low power complaints is the **fuel filter.** After the filter gets dirty beyond its limit, it will not operate effectively. Once it is clogged, it is going to cause you problems.
-
-It is a good idea with any power complaint to go ahead and change the fuel filters. You never know what it has got into from the fuel. The tank could have had some water in it or trash stirred up by something hitting the tank. There are all sorts of ways for trash and water to get in, and that is why you have the filters in the first place.
-
-Most diesel engines will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to do both, especially when there has been a complaint about power. If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
 
 ## 3. Intake air leak or restriction
 
