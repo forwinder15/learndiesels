@@ -18,7 +18,7 @@ What causes a diesel engine to lose power? **1. Dirty fuel filter 2. Check engin
 
 A very common reason for low power complaints is the **fuel filter.** After the filter gets dirty beyond its limit, it will not operate effectively. Once it is clogged, it is going to cause you problems.
 
-It is a good idea with any power complaint to go ahead and change the fuel filters. You never know what it has got into from the fuel. The tank could have had some water in it or trash stirred up by something hitting the tank. There are all sorts of ways for trash and water to get in, and that is why you have the filters in the first place.
+It is a good idea **with any power complaint to go ahead and change the fuel filters.** You never know what it has got into from the fuel. The tank could have had some water in it or trash stirred up by something hitting the tank. There are all sorts of ways for trash and water to get in, and that is why you have the filters in the first place.
 
 Most diesel engines will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to do both, especially when there has been a complaint about power. If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
 

@@ -1,5 +1,5 @@
 ---
-title: 8 Facts About Diesel Idle You May Not Know
+title: 8 Facts About Diesel Engine Idle You Need To Know
 category: Diagnosing Problems
 cover: crazy1.PNG
 author: Johnathan Coker

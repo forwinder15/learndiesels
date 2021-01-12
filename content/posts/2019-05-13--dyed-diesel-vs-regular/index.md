@@ -3,14 +3,16 @@ title: Dyed Diesel vs Regular (Fines, Warranty, Stains and More)
 category: Diagnosing Problems
 cover: tank.jpg
 author: Johnathan Coker
-updated: 'Last updated: March 17, 2020'
-
+updated: "Last updated: March 17, 2020"
 ---
+
 ![unsplash.com](./tank.jpg)
 
 So, you filled your tank with dyed diesel. Now you’re wondering if it can hurt your new diesel engine. If you haven’t accidentally used dyed diesel then you are staring at that price wondering why you just can’t use it. At one place I worked the fuel company had a mix-up and they filled a 10,000-gallon tank full of beautiful red-dyed diesel. So, what gives? Is it a problem?
 
-Is dyed diesel the same as regular diesel? **Dyed diesel is identical to regular diesel except that it is dyed. The dye is placed in diesel meant for off-road applications so that an inspector can easily tell the difference. Dyed or red diesel is not taxed. Using dyed diesel in over the road vehicles is penalized by a fine of $10 a gallon or 1000 per violation (whichever is greater) in most states.**
+Is dyed diesel the same as regular diesel? **Dyed diesel is identical to regular diesel. It is dyed red to indicate it has not taxed and is meant for off-road use. Using dyed diesel in over the road vehicles is penalized by a fine of $10 a gallon or 1000 per violation (whichever is greater) in most states.**
+
+The dye is placed in diesel meant for off-road applications so that an inspector can easily tell the difference. Dyed or red diesel is not taxed. Using dyed diesel in over the road vehicles is penalized by a fine of $10 a gallon or 1000 per violation (whichever is greater) in most states.\*\*
 
 **_Note: In this article, you will notice that there are several terms for dyed diesel. Dyed, off-road, non-taxed, and red diesel. I use these interchangeably and hope that doesn’t cause any confusion._**
 
@@ -82,8 +84,8 @@ No, there is no special licensing needed for the use or buy off-road diesel. The
 
 It varies by state. Since dyed diesel is just regular diesel with a dye the price is the only real difference. The only difference in the price is the exclusion of tax. So it really depends on how much [your state tax is](https://en.wikipedia.org/wiki/Fuel_taxes_in_the_United_States)
 
-* They vary greatly from 12 cents to 67 cents.
-* The one constant will be the federal 24.4 cents per gallon.
+- They vary greatly from 12 cents to 67 cents.
+- The one constant will be the federal 24.4 cents per gallon.
 
 So, the price will be whatever the current market price is less these taxes. It can be purchased at most large fueling stations or at farm suppliers. If you have done the math you will realize that over time this could be a huge amount of money but, it is hardly worth the fines and hassle if caught. In case you are wondering California is the state with 67 cent tax 🤑.
 
