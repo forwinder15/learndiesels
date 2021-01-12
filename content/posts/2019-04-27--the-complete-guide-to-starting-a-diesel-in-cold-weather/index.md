@@ -3,16 +3,16 @@ title: 7 Step Guide To Starting A Diesel In Cold Weather
 category: How Tos
 cover: snow.jpeg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![test](./snow.jpeg)
 
 Modern Diesel engines have solved a lot of issues over the years. The newest Diesel engines are much better than the older ones but, all diesels do not like cold weather. That's why I have put together this guide for the cold mechanic shivering in his bay right now.
 
 Why are Diesel engines harder to start in cold weather?
 
-**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because they depend on high temperatures in order to create combustion.**
+**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because diesel engines depend on high temperatures in order to create combustion.**
 
 Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on starting a diesel in cold weather.
 
@@ -88,7 +88,7 @@ You do not need to double treat your fuel. If your fuel is already winterized do
 
 **Do Not Use Stater Fluid** to get the engine going on a cold day. I don't care how bad you want to get that truck down the road. Never do this. Ether, otherwise known as **_starting fluid_** (or silicon) Has a lower flash point and can cause explosions, damage, and harm to the person injecting it. Deaths have happened with the use of ether. Please take note and use extreme caution when even handling it. Ether won't help you run for long when a unit has bad fuel anyway.
 
-***
+---
 
 ## Summing up
 
