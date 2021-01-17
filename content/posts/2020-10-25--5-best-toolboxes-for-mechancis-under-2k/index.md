@@ -1,16 +1,18 @@
 ---
 title: 6 Best Pro Mechanics Tool Chests For Under $2,000
-category: "Recommended Tools"
+category: Recommended Tools
 cover: toolb.JPG
 author: Johnathan Coker
-updated: "Last updated: Dec 11, 2020"
----
+updated: 'Last updated: Dec 11, 2020'
 
+---
 ![toolbox and truck](./toolb.JPG)
 
 As a professional mechanic, your box plays an important role in your life. You touch it every day. Is it _really_ just bent metal and slides? It holds your tools, keeps them in order, and keeps them safe. So, in this article, I want to answer "what makes a good toolbox". Then I will give me my list that my friends and I have compiled as the best toolboxes for your hard-earned money.
 
-We are going to look at tool chests under \$2,000. That means they won't be "off the tool truck". But that's ok. They will all be American steel and lifetime warranty. Boxes are **bent metal and sliders.** You don't have to get _the brand_ to get a good one.
+We are going to look at tool chests under $2,000. That means they won't be "off the tool truck". But that's ok. They will all be American steel and lifetime warranty. Boxes are **bent metal and sliders.** You don't have to get _the brand_ to get a good one.
+
+I also wrote a [complete tool guide](/the-tool-guide-for-new-diesel-mechanics/) if you're interested. 
 
 ## What makes a great toolbox? 👇
 
@@ -108,7 +110,7 @@ This Husky is a solid option for any mechanic. This is a mans box. 💪 The extr
 
 This is exactly what you come to expect from Harbor Freight. The maker of disposable tools. 😆 But really this box is decent. Not my go-to choice but I have a U.S. General Cart that has lasted for about 10 years now. After all, a box is just bent metal and slides. This box will get you there just fine and at about 6k cheaper than the Snap-on equivalent. Hey, can't beat it.
 
-[Here it is at Harbor Freight](https://www.harborfreight.com/72-in-x-22-in-triple-bank-roller-cabinet-black-64003.html?cid=paid_google|||64003&utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKTIy1EEHxuQyUEDbfyY8N2hL0fVNpY2IUEZ0FYT-c26nHalgoIDfYaAmx6EALw_wcB)
+[Here it is at Harbor Freight](https://www.harborfreight.com/72-in-x-22-in-triple-bank-roller-cabinet-black-64003.html?cid=paid_google%7C%7C%7C64003&utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKTIy1EEHxuQyUEDbfyY8N2hL0fVNpY2IUEZ0FYT-c26nHalgoIDfYaAmx6EALw_wcB)
 
 ### Specs
 
@@ -146,7 +148,7 @@ Montezuma makes some gorgeous boxes. THEY ARE FROM CHINA. Their customer support
 
 ![ex box](ext.png)
 
-This Steel Sliding Top Tool Cart is a cool combo of a cart with the storage capacity of a cabinet. The stainless steel top slides open to all your tools in the top drawer as well as the pry-bar and driver holders on the sides of the cart. Quick Release self-latching drawer pulls keep drawers closed until you are ready to open them. The drawers use heavy-duty ball bearing slides load rated 200\* lbs. per drawer. The cart's corners are covered in impact-resistant non- marking bumpers. The cart also includes a bonus power tool rack accessory that hangs off the side of the tool cart and keeps your power tools within easy reach. Overall this thing is pretty sick. You could definitely get away with it as your main box with maybe a small cart. At around 1500 it's a great deal compared to the "off the truck equivalent". Keep an eye out on the warranty though. Why would they not support their product better? 🤔
+This Steel Sliding Top Tool Cart is a cool combo of a cart with the storage capacity of a cabinet. The stainless steel top slides open to all your tools in the top drawer as well as the pry-bar and driver holders on the sides of the cart. Quick Release self-latching drawer pulls keep drawers closed until you are ready to open them. The drawers use heavy-duty ball bearing slides load rated 200* lbs. per drawer. The cart's corners are covered in impact-resistant non- marking bumpers. The cart also includes a bonus power tool rack accessory that hangs off the side of the tool cart and keeps your power tools within easy reach. Overall this thing is pretty sick. You could definitely get away with it as your main box with maybe a small cart. At around 1500 it's a great deal compared to the "off the truck equivalent". Keep an eye out on the warranty though. Why would they not support their product better? 🤔
 
 [Here it is at Northern Tool](https://www.northerntool.com/shop/tools/product_200788888_200788888)
 
