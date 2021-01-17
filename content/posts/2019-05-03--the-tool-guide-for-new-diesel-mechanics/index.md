@@ -3,14 +3,14 @@ title: The Tool Guide For Diesel Mechanics
 category: Recommended Products
 cover: tool.PNG
 author: Johnathan Coker
-updated: "Last updated: Dec 20, 2020"
----
+updated: 'Last updated: Jan 16, 2021'
 
+---
 ![picture of tools. diesel mechanics tool guide](./tool.PNG)
 
-I have seen many articles out there on the best tools to have as a diesel tech. I had a guy on r/dieselmechanic on Reddit asking, "What tools do I need to get started as a diesel mechanic." I wanted to write you guys a list and give you some great resources to get you going in your new job.
+I have seen many articles with lists out there on the best tools to have as a diesel tech or heavy equipment mechanic. I had a guy on r/dieselmechanic on Reddit asking, "What tools do I need to get started as a diesel mechanic." I wanted to write you guys a list and give you some great resources to get you going in your new job.
 
-What tools do I need to be a diesel mechanic? **I have compiled a list with 18 categories and those related tools for you to use. Feel free to print this out and use it as a checklist for getting started.**
+What tools do I need to be a heavy equipment or diesel mechanic? **I have surveyed Reddit** [**(here is the post)**](https://www.reddit.com/r/Diesel/comments/kkw3re/new_diesel_the_tool_list/) **and compiled a complete list with 18 categories and those related tools for you to use. Feel free to print this out and use it as a checklist for getting started.**
 
 **_This list is not meant to be exhaustive. It is meant to give you a good idea of what you need to get started. You don't have to start with a complete set but, you need the essentials._** Borrowing tools is not a good route to take.
 
@@ -28,88 +28,131 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 ### Ratchets
 
-- 1/4", 3/8”, 1/2”, and a breaker bar One of the most important tools
-  [See my article about ratchets](/the-best-ratchet-for-professional-mechanics/)
+* 1/4", 3/8”, 1/2” **One of the most important tools** [**See my article about ratchets**](/the-best-ratchet-for-professional-mechanics/)
+* long handle flex head 3/8" ratchet
+*  1/2 breaker bar
 
-### Drive Socket Set Standard
+### 1/4" Drive Socket Set Standard
 
-- (SAE) & Metric - Deep and Shallow
-- 3/16” - 5/8” 6 point and 12 point
-- 5mm - 15mm 6 point and 12 point
-- 3" & 6" Extensions
+(SAE) & Metric - **Deep and Shallow**
+
+* 3/16” - 5/8” 6 point and 12 point
+* 5mm - 15mm 6 point and 12 point
+* 3" & 6" Extensions
 
 ### 3/8" Drive Sockets Standard
 
-(SAE) & Metric - Deep, Shallow and Impact
+(SAE) & Metric - **Deep, Shallow, and Impact**
 
-- 5/16” - 1” 6 point and 12 point
-- 7mm - 20mm 6 point and 12 point
-- 3", 6", 12", 24" Extensions
+* 5/16” - 1” 6 point and 12 point
+* 7mm - 20mm 6 point and 12 point
+* 3", 6", 12", 24" Extensions
+* Swivel/universal joint sockets
 
 ### 1/2 Drive Sockets Standard
 
-(SAE) & Metric Deep, shallow and Impact - 3/8” - 1 1/4” 6 point - 10mm - 27mm 6 point - 3", 6" & 12" Extensions - [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)
+(SAE) & Metric **Deep, shallow and Impact** 
+
+* 3/8” - 1 1/4” 6 point 
+* 10mm - 27mm 6 point 
+* 3", 6" & 12" Extensions - [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)
 
 ### Socket Adapters
 
-- 1/4” to 3/8” & 3/8” to 1/4” - 3/8” to 1/2” & 1/2” to 3/8” - 1/2” to 3/4” & 3/4” to 1/2” [The set I have](https://amzn.to/2RgetJo) Allen Wrenches Standard and Metric - 3/32” - 3/8” - 3mm - 17mm
+* 1/4” to 3/8” 
+* 3/8” to 1/4” 
+* 3/8” to 1/2” 
+* 1/2” to 3/8” 
+* 1/2” to 3/4”
+*  3/4” to 1/2” [The set I have](https://amzn.to/2RgetJo) 
 
 ### Feeler Gauges
 
-- Standard 0.0015 - 0.0035 thousandths - Metric 0.04 - 0.88 thousandths
+* Standard 0.0015 - 0.0035 thousandths - Metric 0.04 - 0.88 thousandths
 
 ### Hammers 🔨
 
-- Dead blow, Ball Peen, 5-pound sledge hammer
+* Dead blow, Ball Peen, 5-pound sledge hammer
+
+### Chisels, Punches, and Drill bits
+
+* 6" brass or aluminum punch
+* Standard drill bit set
 
 ### Air or Battery Tools
 
-- Impact Guns - 3/8”, 1/2 - 90 Degree die grinder
+* Impact Guns - 3/8”, 1/2 - **Air or electric** 
+* 90 Degree die grinder
+* Air hammer 
+* Cordless drill 
 
 ### DVOM - Digital Multimeter
 
-- Digital readout and Auto ranging Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate. [Check out this klein](https://amzn.to/2W5xZeW)
+* Digital readout and Auto ranging Don't buy a cheap one if you can avoid it. The really cheap ones are never accurate. [Check out this klein](https://amzn.to/2W5xZeW)
 
 ### Pliers
 
-- Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)
+* Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)
+* Small pipe wrench - For stubborn bolts
 
 ### Pry-Bars
 
-- 12”, 2’, 3’ [This Craftsman set has a strike head for a great price](https://amzn.to/3bN9uJx)
+* 12”, 2’, 3’ [This Craftsman set has a strike head for a great price](https://amzn.to/3bN9uJx)
+* Brake anchor spring pliers/installer
+* Lady's foot
 
 ### Screw Drivers
 
-- Flat head & Philips #2 stubby, #2 regular, #1 regular. I also recommend torques drivers.
+* Flathead & Philips #2 stubby, #2 regular, #1 regular. 
+* I also recommend torques drivers.
 
-### Torque Bit Drivers
+### Allens and Torque Bit Drivers
 
-- T10, T15, T20, T25 (T25 is the most used. Get 2), T27, T30, T40, T45
+* T10, T15, T20, T25 (T25 is the most used. Get 2), T27, T30, T40, T45
+* Allen Wrenches Standard and Metric - 3/32” - 3/8” - 3mm - 17mm
 
 ### Electrical Tools
 
-Hand held torch, Wire cutters, Wire stripping tool. Look at these [auto wire strippers](https://amzn.to/33d7KnM) _best tool ever_, Soldering gun, Crimping tool, 12v test light [Power Probe III](https://amzn.to/32bL71J) but it's not required.
+* Hand held torch 
+* Wire cutters 
+* Wire stripping tool. Look at these [auto wire strippers](https://amzn.to/33d7KnM) _best tool ever_, 
+* Soldering gun 
+* Crimping tool 
+* 12v test light 
+* [Power Probe III](https://amzn.to/32bL71J) but it's not required, but awesome to have
 
 ### Wrenches Standard and Metric 🔧
 
-- 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm - 8” & 12" Adjustable wrench - Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX)
+* 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm - 8” & 12" 
+* Adjustable wrench - Small and large
+* Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX))
+* Line wrenches - When you can afford them. 
+* Crow's feet - They are awesome.  
+
+### Safety Equipment
+
+* Safety glasses 
+* Leather gloves 
+* Face Shield
+* Safety toed shoes
+* **Check with your employer they often provide some of these things**
 
 ### Mechanic Accessories
 
-- Inspection Mirror
-- Gasket Scraper
-- Pick Set
-- Truck tire pressure gauge (0-150 PSI), Tire tread depth gauge (1/32")
-- Small and Large oil filter wrench
-- Magnet with extendable rod
-- 12' Tape measure
-- Bottle of white out, Pocket calculator,
-- A _good flash light_
-- 6" brass or aluminum punch
-- Creeper
-- Safety toed shoes
+* Inspection Mirror
+* Gasket Scraper
+* Pick Set
+* Truck tire pressure gauge (0-150 PSI), Tire tread depth gauge (1/32")
+* Small and Large oil filter wrench - Davco makes great ones cheap
+* Magnet with extendable handle
+* 12' Tape measure
+* Bottle of white out, Pocket calculator,
+* **A _good flash light_**
+* Creeper
+* Paint pen
+* Labels and colored zip ties - used for labeling lines when you remove them 
 
-## 5 Tips For Buying Mechanics Tools
+## 6 Tool Buying Tips For Mechanics     
 
 Let me offer some advice on tool buying. Here are just a few suggestions when you start to collect all these items.
 
@@ -167,7 +210,13 @@ Look on swap sites like craigslist and garage sells. You might find a retired me
 
 I once bought a box from someone for 50 bucks, and it was loaded with great stuff. It had brass punches and some high-end wrenches. You never know what you can find out there! Take a look.
 
-## Toolbox Set-up and Maintenance
+### 6. Don't Borrow A Tool More Than Twice.
+
+If you need a tool it's cool to ask your buddy to borrow it... right? Well, not always and definitely not often. It is a good rule of thumb that if you have to borrow it twice, you likely need to buy the tool in question. 
+
+A great idea submitted on Reddit by u/loopsbruder was whenever you need to borrow a tool for a job, **write it down**, then put a tally mark next to it whenever you need to use that tool again. Then, when you go shopping (or the Snap-On guy shows up), **buy the tools** with the most tally marks first.
+
+## Toolbox Set-up and Maintenance For Mechanics 
 
 Once you have invested all that money into your tools, you need a plan to take care of them and organize them. You need to keep your tools in great condition, so they work great. Ever tried to open a pair of rusted pliers? No fun. Likewise, when your favorite ratchet is missing, you are not a happy camper. 🏕️
 
@@ -227,7 +276,7 @@ You are on concrete all day, and you need a comfortable pair that will last. Non
 
 **_Note: some companies require steel toes, and some just require safety toed. Make sure you ask, so you don't waste money on a pair you cannot wear._**
 
----
+***
 
 ## Summing up
 
