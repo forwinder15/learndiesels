@@ -3,7 +3,7 @@ title: The Hardest ASE Tests
 category: Common Questions
 cover: rubecube.jpg
 author: Johnathan Coker
-updated: "Last updated: Jan 10, 2020"
+updated: "Last updated: Jan 16, 2021"
 ---
 
 ![cube](./rubecube.jpg)

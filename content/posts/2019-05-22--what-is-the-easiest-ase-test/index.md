@@ -3,9 +3,9 @@ title: What Is the Easiest ASE Test?
 category: Common Questions
 cover: aseeasy.PNG
 author: Johnathan Coker
-updated: 'Last updated: Jan 10, 2020'
-
+updated: "Last updated: Jan 16, 2021"
 ---
+
 ![compare ase](./aseeasy.PNG)
 
 This is a great question. Some people would accuse you of being lazy, but the truth is you need to start somewhere, and having a **couple of wins early on** will give you the encouragement you need to keep going and trying until you get that master certification! Even if you work for a place that only pays for a couple, they are great to have and make you more likely to land a better wrenching gig.
@@ -22,26 +22,26 @@ Knowing which tests were most difficult for me, I set out to ask other certified
 
 Here is a table of tests listed **by difficulty** per the survey.
 
-| Test # | Test Title | Number of Questions |
-| --- | --- | --- |
-| 1. T1 | Gasoline Engines (Most difficult 😅) | (50 scored questions) |
-| 2. A9 | Light Vehicle Diesel Engines | (50) |
-| 3. A2 | Automatic Transmission/Transaxle | (50) |
-| 4. T3 | Drive Train | (40) |
-| 5. A4 | Suspension & Steering | (40) |
-| 6. T5 | Suspension & Steering | (50) |
-| 7. T6 | Electrical/ Electronic Systems | (50) |
-| 8. A6 | Electrical/ Electronic Systems | (50) |
-| 9. A8 | Engine Performance | (50) |
-| 10. T2 | Diesel Engines | (55) |
-| 11. A3 | Manual Drive Train & Axles | (40) |
-| 12. A8 | Engine Performance | (50) |
-| 13. A1 | Engine Repair | (50 scored questions) |
-| 14. T8 | Preventive Maintenance Inspection | (50) |
-| 15. A7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (50) |
-| 16. T7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (40) |
-| 17. T4 | Brakes (Easiest 👍) | (50) |
-| 18. A5 | Brakes (Easiest 👍) | (45) |
+| Test # | Test Title                                     | Number of Questions   |
+| ------ | ---------------------------------------------- | --------------------- |
+| 1. T1  | Gasoline Engines (Most difficult 😅)           | (50 scored questions) |
+| 2. A9  | Light Vehicle Diesel Engines                   | (50)                  |
+| 3. A2  | Automatic Transmission/Transaxle               | (50)                  |
+| 4. T3  | Drive Train                                    | (40)                  |
+| 5. A4  | Suspension & Steering                          | (40)                  |
+| 6. T5  | Suspension & Steering                          | (50)                  |
+| 7. T6  | Electrical/ Electronic Systems                 | (50)                  |
+| 8. A6  | Electrical/ Electronic Systems                 | (50)                  |
+| 9. A8  | Engine Performance                             | (50)                  |
+| 10. T2 | Diesel Engines                                 | (55)                  |
+| 11. A3 | Manual Drive Train & Axles                     | (40)                  |
+| 12. A8 | Engine Performance                             | (50)                  |
+| 13. A1 | Engine Repair                                  | (50 scored questions) |
+| 14. T8 | Preventive Maintenance Inspection              | (50)                  |
+| 15. A7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (50)                  |
+| 16. T7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (40)                  |
+| 17. T4 | Brakes (Easiest 👍)                            | (50)                  |
+| 18. A5 | Brakes (Easiest 👍)                            | (45)                  |
 
 ## Why are T4 or A5: Brakes tests easiest?
 
@@ -69,17 +69,17 @@ Brakes are going to be an easy place to start. Chances are you know how they ope
 
 A rear-wheel-drive car is pulling to the left when the brakes are applied. Technician A says that the left front brake lines could be restricted. Technician B says you can replace a broken brake line with copper tubing. Who is correct?
 
-* A. Technician A
-* B. Technician B
-* C. Both A and B
-* D. Neither A or B
+- A. Technician A
+- B. Technician B
+- C. Both A and B
+- D. Neither A or B
 
-***
+---
 
-* **Answer A is correct.** When a brake line is restricted usually there is enough pressure to push past the blockage and apply the brake. After applying the brake, the fluid may not be able to return causing the brake to stick on.
-* Answer B is wrong. You cannot use any other brake line other than the one required by the vehicle manufacturer. You should never use copper for brake lines.
-* Answer C is wrong. Technician A is correct.
-* Answer D is wrong. Technician A is correct.
+- **Answer A is correct.** When a brake line is restricted usually there is enough pressure to push past the blockage and apply the brake. After applying the brake, the fluid may not be able to return causing the brake to stick on.
+- Answer B is wrong. You cannot use any other brake line other than the one required by the vehicle manufacturer. You should never use copper for brake lines.
+- Answer C is wrong. Technician A is correct.
+- Answer D is wrong. Technician A is correct.
 
 Here is a link to the study guide for brakes on Amazon -[T4 Brakes guide](https://amzn.to/2N98qF0)- Everyone is different though so you may have more success on another test. This is all the guides, [ASE study guide Bundle](https://amzn.to/32ayKDc) for some help getting started.
 
@@ -95,17 +95,17 @@ That being said, if your goal is just to be certified you could take a stab, and
 
 You are gathering information about a customer’s fleet. Which of these would not be an important piece of information?
 
-* A: Chassis serial numbers
-* B: List vehicles by make and model.
-* C: Number of drivers in their fleet.
-* D: Location of their maintenance Shop.
+- A: Chassis serial numbers
+- B: List vehicles by make and model.
+- C: Number of drivers in their fleet.
+- D: Location of their maintenance Shop.
 
-***
+---
 
-* Answer A is wrong. This would be important information.
-* Answer B is wrong. This would be important information.
-* **Answer C is Correct. The number of drivers that a shop has would be irreverent when taking parts orders**
-* Answer D is wrong. This would be important information.
+- Answer A is wrong. This would be important information.
+- Answer B is wrong. This would be important information.
+- **Answer C is Correct. The number of drivers that a shop has would be irreverent when taking parts orders**
+- Answer D is wrong. This would be important information.
 
 ## T7 or A7 – Heating, Ventilation & Air Conditioning (HVAC)
 
@@ -119,17 +119,17 @@ It is a good idea to go over the principles and correct readings before diving i
 
 A technician is recovering refrigerant. The type of refrigerant in the vehicle is unknown. The technician should:
 
-* A: Recover it and recycle it as R-12
-* B: Recover it and recycle it as R-134a
-* C: Discharge it into the atmosphere
-* D: Recover it and treat it as contaminated
+- A: Recover it and recycle it as R-12
+- B: Recover it and recycle it as R-134a
+- C: Discharge it into the atmosphere
+- D: Recover it and treat it as contaminated
 
-***
+---
 
-* **Answer A is wrong. If the refrigerant was not R-12 you would not want to mix it. This could be dangerous and would contaminate the known good refrigerant you have.
-* Answer B is wrong. If the refrigerant was not R-134A you would not want to mix it. This could be dangerous and would contaminate the known good refrigerant you have.
-* Answer C is wrong. This is illegal and can be enforced with a fine or jail time.
-* **Answer D is correct. Anytime you are dealing with an unknown refrigerant you should treat it as if it is not reusable or contaminated.**
+- \*\*Answer A is wrong. If the refrigerant was not R-12 you would not want to mix it. This could be dangerous and would contaminate the known good refrigerant you have.
+- Answer B is wrong. If the refrigerant was not R-134A you would not want to mix it. This could be dangerous and would contaminate the known good refrigerant you have.
+- Answer C is wrong. This is illegal and can be enforced with a fine or jail time.
+- **Answer D is correct. Anytime you are dealing with an unknown refrigerant you should treat it as if it is not reusable or contaminated.**
 
 **_Note: remember you need two years of verifiable experience before you are eligible to sit for an ASE exam. You can create a_** [**_MyASE account to get started (Link to ase.com)_**](https://www.ase.com/Tests/ASE-Certification-Tests/Register-Now.aspx)
 
