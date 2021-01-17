@@ -10,7 +10,7 @@ updated: "Last updated: Jan 16, 2021"
 
 This is a great question. Some people would accuse you of being lazy, but the truth is you need to start somewhere, and having a **couple of wins early on** will give you the encouragement you need to keep going and trying until you get that master certification! Even if you work for a place that only pays for a couple, they are great to have and make you more likely to land a better wrenching gig.
 
-What is the easiest ASE test? **T4/A4: Brakes, P1: Heavy Truck Parts Specialist, or T7/A7: Heating, Ventilation & Air Conditioning are the easiest tests to pass. They have the highest amount of common sense questions compared to the others.**
+What is the easiest ASE test? **T4/A4: Brakes and T7/A7: Heating, Ventilation & Air Conditioning are the easiest tests to pass. They have the highest amount of common sense questions compared to the others.**
 
 ASE tests are no walk in the park overall and you need a good understanding of the ones I have mentioned, but in **a survey of 20 ASE master certified Mechanics**, these tests were the easiest to pass. Let’s have a look at these tests and let me show you why I choose these particular tests.
 
@@ -22,26 +22,26 @@ Knowing which tests were most difficult for me, I set out to ask other certified
 
 Here is a table of tests listed **by difficulty** per the survey.
 
-| Test # | Test Title                                     | Number of Questions   |
-| ------ | ---------------------------------------------- | --------------------- |
-| 1. T1  | Gasoline Engines (Most difficult 😅)           | (50 scored questions) |
-| 2. A9  | Light Vehicle Diesel Engines                   | (50)                  |
-| 3. A2  | Automatic Transmission/Transaxle               | (50)                  |
-| 4. T3  | Drive Train                                    | (40)                  |
-| 5. A4  | Suspension & Steering                          | (40)                  |
-| 6. T5  | Suspension & Steering                          | (50)                  |
-| 7. T6  | Electrical/ Electronic Systems                 | (50)                  |
-| 8. A6  | Electrical/ Electronic Systems                 | (50)                  |
-| 9. A8  | Engine Performance                             | (50)                  |
-| 10. T2 | Diesel Engines                                 | (55)                  |
-| 11. A3 | Manual Drive Train & Axles                     | (40)                  |
-| 12. A8 | Engine Performance                             | (50)                  |
-| 13. A1 | Engine Repair                                  | (50 scored questions) |
-| 14. T8 | Preventive Maintenance Inspection              | (50)                  |
-| 15. A7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (50)                  |
-| 16. T7 | Heating & Air Conditioning (HVAC) (Easiest 👍) | (40)                  |
-| 17. T4 | Brakes (Easiest 👍)                            | (50)                  |
-| 18. A5 | Brakes (Easiest 👍)                            | (45)                  |
+| Test # | Test Title                                    | Number of Questions   |
+| ------ | --------------------------------------------- | --------------------- |
+| 1. T1  | Gasoline Engines (Most difficult 😅)          | (50 scored questions) |
+| 2. A9  | Light Vehicle Diesel Engines                  | (50)                  |
+| 3. A2  | Automatic Transmission/Transaxle              | (50)                  |
+| 4. T3  | Drive Train                                   | (40)                  |
+| 5. A4  | Suspension & Steering                         | (40)                  |
+| 6. T5  | Suspension & Steering                         | (50)                  |
+| 7. T6  | Electrical/ Electronic Systems                | (50)                  |
+| 8. A6  | Electrical/ Electronic Systems                | (50)                  |
+| 9. A8  | Engine Performance                            | (50)                  |
+| 10. T2 | Diesel Engines                                | (55)                  |
+| 11. A3 | Manual Drive Train & Axles                    | (40)                  |
+| 12. A8 | Engine Performance                            | (50)                  |
+| 13. A1 | Engine Repair                                 | (50 scored questions) |
+| 14. T8 | Preventive Maintenance Inspection             | (50)                  |
+| 15. A7 | Heating & Air Conditioning (HVAC) (Easier 👍) | (50)                  |
+| 16. T7 | Heating & Air Conditioning (HVAC) (Easier 👍) | (40)                  |
+| 17. T4 | Brakes (Easiest 👍)                           | (50)                  |
+| 18. A5 | Brakes (Easiest 👍)                           | (45)                  |
 
 ## Why are T4 or A5: Brakes tests easiest?
 
