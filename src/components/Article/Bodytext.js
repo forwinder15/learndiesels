@@ -75,8 +75,8 @@ const Bodytext = (props) => {
 
         :global(table) {
           border-collapse: collapse;
-          margin: 25px 25px;
-          font-size: ${theme.font.size.s};
+          margin: 1.5em 1.5em;
+          font-size: ${theme.font.size.xs};
           box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
           border-radius: 5px 5px 0 0;
           overflow: hidden;
@@ -88,7 +88,7 @@ const Bodytext = (props) => {
           text-align: left;
         }
         :global(th, td) {
-          padding: 0 20px;
+          padding: 0;
         }
 
         :global(tbody tr) {
