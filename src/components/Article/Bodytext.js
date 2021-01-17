@@ -76,7 +76,7 @@ const Bodytext = (props) => {
         :global(table) {
           border-collapse: collapse;
           margin: 25px 25px;
-          font-size: 0.9em;
+          font-size: ${theme.font.size.s};
           box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
           border-radius: 5px 5px 0 0;
           overflow: hidden;
