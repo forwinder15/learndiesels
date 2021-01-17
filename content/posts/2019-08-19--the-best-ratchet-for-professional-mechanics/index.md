@@ -1,11 +1,11 @@
 ---
-title: Best 10 Ratchets For Professional Mechanics And Buyers Guide
+title: Best 10 Ratchets For Professional Mechanics & Buyers Guide
 category: Recommended Products
 cover: bestra.PNG
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
----
+updated: 'Last updated: Dec 10, 2020'
 
+---
 ![best ratchet](./bestra.PNG)
 
 Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone else's will not do. You need your favorite. The one that has got you through thick and thin.
@@ -14,7 +14,9 @@ Your ratchet is your most used tool as a diesel tech. Really any mechanic. You d
 
 This is why it is important to think about what ratchet is best, and we will take a look together at all your options. This is also why I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
 
-You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. They vary in style and price points. **We are only going to look at 3/8” ratchets. All the specs that I compare are explained in the buyer's guide at the bottom.**
+You have to get the one that fits you. Sometimes it takes trying some out to find the right one for you. So, I have reviewed 10 different ratchets for professionals. I also wrote a [complete tool guide](/the-tool-guide-for-new-diesel-mechanics/) if you're interested. 
+
+They vary in style and price points. **We are only going to look at 3/8” ratchets. All the specs that I compare are explained in the buyer's guide at the bottom.**
 
 ## [Skip To The Buyers Guide](#guide)
 
@@ -30,13 +32,13 @@ I would recommend these things all day, but the proof is in the pudding, as they
 
 ### The Specs
 
-- **Tooth count** - 120 count with a 3-degree arc
-- **Pawl design** - double-stacked pawls
-- **Handle design** - Chrome vanadium steel. The adjustable flex head has six positions—a rubber handle cushion.
-- **Profile** - 0.9 inches flex-head
-- **Warranty** - Mail-in
-- **Weight and Length** - 15.8 ounces, 15.9 inches
-- **Cost** - **$$**
+* **Tooth count** - 120 count with a 3-degree arc
+* **Pawl design** - double-stacked pawls
+* **Handle design** - Chrome vanadium steel. The adjustable flex head has six positions—a rubber handle cushion.
+* **Profile** - 0.9 inches flex-head
+* **Warranty** - Mail-in
+* **Weight and Length** - 15.8 ounces, 15.9 inches
+* **Cost** - **$$**
 
 ## 2. Milwaukee 48-22-9014 - Learn Diesels Top pick - Best design
 
@@ -48,13 +50,13 @@ So, if you have seen this list before, this is a new one. I recently bought this
 
 ### The Specs
 
-- **Tooth count** - 90 count and a 4-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Chrome. Round.
-- **Profile** - Slim profile .5 inches
-- **Warranty** - Mail-in. Possible store exchange depending on the particular Home Depot you are dealing with.
-- **Weight and Length** - 11-13 ounces, 11 inches
-- **Cost** - **$$$**
+* **Tooth count** - 90 count and a 4-degree arc
+* **Pawl design** - Patented pawls
+* **Handle design** - Chrome. Round.
+* **Profile** - Slim profile .5 inches
+* **Warranty** - Mail-in. Possible store exchange depending on the particular Home Depot you are dealing with.
+* **Weight and Length** - 11-13 ounces, 11 inches
+* **Cost** - **$$$**
 
 ## 3. Snap-on F80 - Learn Diesels Top pick - Best Quality
 
@@ -68,13 +70,13 @@ This is an awesome ratchet, and you can’t go wrong with it. The only question 
 
 ### The Specs
 
-- **Tooth count** - 80 count and a 4.5-degree arc
-- **Pawl design** - Single patented Pawl.
-- **Handle design** - Chrome vanadium steel. Round thicker handle
-- **Profile** - 0.6 inches
-- **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace if it is in the handle.
-- **Weight and Length** - 11-13 ounces, 11.3 inches
-- **Cost** - **$$$$**
+* **Tooth count** - 80 count and a 4.5-degree arc
+* **Pawl design** - Single patented Pawl.
+* **Handle design** - Chrome vanadium steel. Round thicker handle
+* **Profile** - 0.6 inches
+* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace if it is in the handle.
+* **Weight and Length** - 11-13 ounces, 11.3 inches
+* **Cost** - **$$$$**
 
 ## 4. Kobalt 737671
 
@@ -86,13 +88,13 @@ Kobalt really makes some great tools. Probably some of my favorite ratchets. The
 
 ### The Specs
 
-- **Tooth count** - 72 count and a 5-degree arc
-- **Pawl design** - Double-sided pawls
-- **Handle design** - Natural matte finish. Round thinner handle
-- **Profile** - 0.6 inches
-- **Warranty** - Hassle free trade out. As long as they have one in stock. I have never had an issue.
-- **Weight and Length** - 12-14 ounces, 11.1 inches
-- **Cost** - **$$**
+* **Tooth count** - 72 count and a 5-degree arc
+* **Pawl design** - Double-sided pawls
+* **Handle design** - Natural matte finish. Round thinner handle
+* **Profile** - 0.6 inches
+* **Warranty** - Hassle free trade out. As long as they have one in stock. I have never had an issue.
+* **Weight and Length** - 12-14 ounces, 11.1 inches
+* **Cost** - **$$**
 
   \##5. Husky H10038RAT
 
@@ -102,13 +104,13 @@ I have a special place in my heart for Husky tools. I started as a diesel tech w
 
 ### The Specs
 
-- **Tooth count** - 80 count and a 4.5-degree arc
-- **Pawl design** - Double-sided pawls
-- **Handle design** - Chrome vanadium steel. Round thicker handle
-- **Profile** - 1 inch
-- **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail into Stanley, the principal owner of Husky
-- **Weight and Length** - 11-13 ounces, 11.3 inches
-- **Cost** - **$**
+* **Tooth count** - 80 count and a 4.5-degree arc
+* **Pawl design** - Double-sided pawls
+* **Handle design** - Chrome vanadium steel. Round thicker handle
+* **Profile** - 1 inch
+* **Warranty** - Depends on the store stock. They will not trade out if it’s part of a set. Mail into Stanley, the principal owner of Husky
+* **Weight and Length** - 11-13 ounces, 11.3 inches
+* **Cost** - **$**
 
 ## 6. Cornwell JR40
 
@@ -120,13 +122,13 @@ Cornwell rounds off this top ten with a decent ratchet. They make tools that are
 
 ### The Specs
 
-- **Tooth count** - 30 and a 12-degree arc
-- **Pawl design** - double pawls
-- **Handle design** - Round. Chrome vanadium steel.
-- **Profile** - 0.9 inches
-- **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
-- **Weight and Length** - 8 ounces, 10-1/4 inches
-- **Cost** - **$$$**
+* **Tooth count** - 30 and a 12-degree arc
+* **Pawl design** - double pawls
+* **Handle design** - Round. Chrome vanadium steel.
+* **Profile** - 0.9 inches
+* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
+* **Weight and Length** - 8 ounces, 10-1/4 inches
+* **Cost** - **$$$**
 
 ## 7. Matco BFR188LFM
 
@@ -140,13 +142,13 @@ You can find these on eBay for around 150 bucks normally.
 
 ### The Specs
 
-- **Tooth count** - 88 count and a 4-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Round. Duplex nickel layer underneath hexavalent chrome with rubber grip
-- **Profile** - 1-1.5 inches
-- **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
-- **Weight and Length** - 15-18 ounces, 18-1/2 inches
-- **Cost** - **$$$$**
+* **Tooth count** - 88 count and a 4-degree arc
+* **Pawl design** - Patented pawls
+* **Handle design** - Round. Duplex nickel layer underneath hexavalent chrome with rubber grip
+* **Profile** - 1-1.5 inches
+* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
+* **Weight and Length** - 15-18 ounces, 18-1/2 inches
+* **Cost** - **$$$$**
 
 ## 8. Mac Tools
 
@@ -158,13 +160,13 @@ Then there is the other variable. Is there a Mac man in your area? They are not 
 
 ### The Specs
 
-- **Tooth count** - In the 80s and a 4-degree arc
-- **Pawl design** - Patented pawls
-- **Handle design** - Round. Chrome vanadium steel.
-- **Profile** - 1-1.5 inches
-- **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
-- **Weight and Length** - 15-18 ounces, 18-1/2 inches
-- **Cost** - **$$$$**
+* **Tooth count** - In the 80s and a 4-degree arc
+* **Pawl design** - Patented pawls
+* **Handle design** - Round. Chrome vanadium steel.
+* **Profile** - 1-1.5 inches
+* **Warranty** - Hassle-free. They will rebuild it if the damage is in the gearing and replace it if it’s in the handle.
+* **Weight and Length** - 15-18 ounces, 18-1/2 inches
+* **Cost** - **$$$$**
 
 ## 9. GearWrench 81211F
 
@@ -176,13 +178,13 @@ Another solid choice from Gearwrench. This is a nice solid ratchet with no frill
 
 ### The Specs
 
-- **Tooth count** - 84 and a 4.3-degree arc
-- **Pawl design** - double pawls
-- **Handle design** - Round. Chrome vanadium steel. flex-head
-- **Profile** - 0.9 inches
-- **Warranty** - Mail-in
-- **Weight and Length** - 15-18 ounces, 10-1/4 inches
-- **Cost** - **$$**
+* **Tooth count** - 84 and a 4.3-degree arc
+* **Pawl design** - double pawls
+* **Handle design** - Round. Chrome vanadium steel. flex-head
+* **Profile** - 0.9 inches
+* **Warranty** - Mail-in
+* **Weight and Length** - 15-18 ounces, 10-1/4 inches
+* **Cost** - **$$**
 
 ## 10. Craftsman CMMT81748
 
@@ -196,13 +198,13 @@ I plan on buying one in the next few days to give it a full review. I will updat
 
 ### The Specs
 
-- **Tooth count** - 72 count and a 4.5-degree arc
-- **Pawl design** - Double-sided pawls
-- **Handle design** - Chrome vanadium steel. Round handle
-- **Profile** - 0.7 inches
-- **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet.
-- **Weight and Length** - 11.2 ounces, 9.4 inches
-- **Cost** - **$**
+* **Tooth count** - 72 count and a 4.5-degree arc
+* **Pawl design** - Double-sided pawls
+* **Handle design** - Chrome vanadium steel. Round handle
+* **Profile** - 0.7 inches
+* **Warranty** - Hassle free swap out. Usually for a rebuilt ratchet.
+* **Weight and Length** - 11.2 ounces, 9.4 inches
+* **Cost** - **$**
 
 <a name="guide"></a>
 
