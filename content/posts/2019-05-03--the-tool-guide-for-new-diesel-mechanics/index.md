@@ -30,7 +30,7 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 * 1/4", 3/8”, 1/2” **One of the most important tools** [**See my article about ratchets**](/the-best-ratchet-for-professional-mechanics/)
 * long handle flex head 3/8" ratchet
-*  1/2 breaker bar
+* 1/2 breaker bar
 
 ### 1/4" Drive Socket Set Standard
 
@@ -51,20 +51,20 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 ### 1/2 Drive Sockets Standard
 
-(SAE) & Metric **Deep, shallow and Impact** 
+(SAE) & Metric **Deep, shallow and Impact**
 
-* 3/8” - 1 1/4” 6 point 
-* 10mm - 27mm 6 point 
+* 3/8” - 1 1/4” 6 point
+* 10mm - 27mm 6 point
 * 3", 6" & 12" Extensions - [Here is a full Gearwrench set.](https://amzn.to/2Eooykg)
 
 ### Socket Adapters
 
-* 1/4” to 3/8” 
-* 3/8” to 1/4” 
-* 3/8” to 1/2” 
-* 1/2” to 3/8” 
+* 1/4” to 3/8”
+* 3/8” to 1/4”
+* 3/8” to 1/2”
+* 1/2” to 3/8”
 * 1/2” to 3/4”
-*  3/4” to 1/2” [The set I have](https://amzn.to/2RgetJo) 
+* 3/4” to 1/2” [The set I have](https://amzn.to/2RgetJo)
 
 ### Feeler Gauges
 
@@ -81,10 +81,10 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 ### Air or Battery Tools
 
-* Impact Guns - 3/8”, 1/2 - **Air or electric** 
+* Impact Guns - 3/8”, 1/2 - **Air or electric**
 * 90 Degree die grinder
-* Air hammer 
-* Cordless drill 
+* Air hammer
+* Cordless drill
 
 ### DVOM - Digital Multimeter
 
@@ -92,18 +92,18 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 ### Pliers
 
-* Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type [Here is a nice set of Vise-Grip brand](https://amzn.to/3hkjX0f)
+* Needle nose, adjustable, vise grips, Snap-ring, Slip lock-type Here is a nice set of Vise-Grip brand
 * Small pipe wrench - For stubborn bolts
 
 ### Pry-Bars
 
-* 12”, 2’, 3’ [This Craftsman set has a strike head for a great price](https://amzn.to/3bN9uJx)
+* 12”, 2’, 3’ Craftsman makes a set has a strike head for a great price
 * Brake anchor spring pliers/installer
 * Lady's foot
 
 ### Screw Drivers
 
-* Flathead & Philips #2 stubby, #2 regular, #1 regular. 
+* Flathead & Philips #2 stubby, #2 regular, #1 regular.
 * I also recommend torques drivers.
 
 ### Allens and Torque Bit Drivers
@@ -113,26 +113,26 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 
 ### Electrical Tools
 
-* Hand held torch 
-* Wire cutters 
-* Wire stripping tool. Look at these [auto wire strippers](https://amzn.to/33d7KnM) _best tool ever_, 
-* Soldering gun 
-* Crimping tool 
-* 12v test light 
+* Hand held torch
+* Wire cutters
+* Wire stripping tool. Look at these [auto wire strippers](https://amzn.to/33d7KnM) _best tool ever_,
+* Soldering gun
+* Crimping tool
+* 12v test light
 * [Power Probe III](https://amzn.to/32bL71J) but it's not required, but awesome to have
 
 ### Wrenches Standard and Metric 🔧
 
-* 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm - 8” & 12" 
+* 5/16” - 2” (Usually sets stop at 1 1/4" I suggest grabbing cheap larger wrenches) 8mm - 22mm - 8” & 12"
 * Adjustable wrench - Small and large
-* Ratchet Wrenches (I prefer [GearWrench](https://amzn.to/2WNLApX))
-* Line wrenches - When you can afford them. 
-* Crow's feet - They are awesome.  
+* Ratchet Wrenches (I prefer GearWrench)
+* Line wrenches - When you can afford them.
+* Crow's feet - They are awesome.
 
 ### Safety Equipment
 
-* Safety glasses 
-* Leather gloves 
+* Safety glasses
+* Leather gloves
 * Face Shield
 * Safety toed shoes
 * **Check with your employer they often provide some of these things**
@@ -150,9 +150,9 @@ If you are wanting to spend the money for a tool chest consider finding one onli
 * **A _good flash light_**
 * Creeper
 * Paint pen
-* Labels and colored zip ties - used for labeling lines when you remove them 
+* Labels and colored zip ties - used for labeling lines when you remove them
 
-## 6 Tool Buying Tips For Mechanics     
+## 6 Tool Buying Tips For Mechanics
 
 Let me offer some advice on tool buying. Here are just a few suggestions when you start to collect all these items.
 
@@ -172,9 +172,9 @@ If you can't afford to buy all the tools at once, buy as much as you can and try
 
 ### 2. Brand Isn't Everything
 
-An experienced mechanic will roll his eyes at the guy with just has to have the Brand name tools. They know what I know. I have broken just as many Snap-on sockets as S&K or Craftsman. Now I will say that I prefer certain tools over others. I would never recommend a professional mechanic use Harbor Freight or even Craftsman Ratchets.
+An experienced mechanic will roll his eyes at the guy with just has to have the Brand name tools. They know what I know. I have broken just as many Snap-on sockets as S&K or Craftsman. Now I will say that I prefer certain tools over others. I would **never recommend** a professional mechanic use Harbor Freight or even Craftsman Ratchets.
 
-A Ratchets is something that you literally use every day and have a close relationship with. You should get a nice one. That doesn't mean you need one from the tool truck. My favorite Ratchets is [GearWrench](https://amzn.to/2NcYESo). You don't have to pay 200 bucks to get a nice ratchet, contrary to the tool man says.
+A Ratchets is something that you literally use every day and have a close relationship with. You should get a nice one. That doesn't mean you need one from the tool truck. [My favorite Ratchets is GearWrench](/the-best-ratchet-for-professional-mechanics/). You don't have to pay 200 bucks to get a nice ratchet, contrary to the tool man says.
 
 ### 3. Growing with time
 
@@ -212,11 +212,11 @@ I once bought a box from someone for 50 bucks, and it was loaded with great stuf
 
 ### 6. Don't Borrow A Tool More Than Twice.
 
-If you need a tool it's cool to ask your buddy to borrow it... right? Well, not always and definitely not often. It is a good rule of thumb that if you have to borrow it twice, you likely need to buy the tool in question. 
+If you need a tool it's cool to ask your buddy to borrow it... right? Well, not always and definitely not often. It is a good rule of thumb that if you have to borrow it twice, you likely need to buy the tool in question. I have an article on the [21 tips for diesel techs](/21-tips-every-diesel-mechanic-wish-they'd-learned-sooner/) that wish they had learned sooner. 
 
 A great idea submitted on Reddit by u/loopsbruder was whenever you need to borrow a tool for a job, **write it down**, then put a tally mark next to it whenever you need to use that tool again. Then, when you go shopping (or the Snap-On guy shows up), **buy the tools** with the most tally marks first.
 
-## Toolbox Set-up and Maintenance For Mechanics 
+## Toolbox Set-up and Maintenance For Mechanics
 
 Once you have invested all that money into your tools, you need a plan to take care of them and organize them. You need to keep your tools in great condition, so they work great. Ever tried to open a pair of rusted pliers? No fun. Likewise, when your favorite ratchet is missing, you are not a happy camper. 🏕️
 
@@ -226,7 +226,7 @@ Every day you need a few minutes after you are finished with work or finished wi
 
 Most companies allow this time in a work order or give you a few minutes after each day to do this.
 
-Cleaning your tools helps them last longer and a more pleasant experience the next time you need to use them. Also, this practice ensures that you have all your tools. While you are cleaning, you may notice that you don't have a tool you used on the last job and locate it. That is why I suggest **cleaning up your tools as a part of each job.** That way, you can keep up with your tools and make sure you haven't left a tool on a vehicle or piece of equipment. [This hand tool cleaner is pretty sweet](https://amzn.to/32flPTI).
+Cleaning your tools helps them last longer and a more pleasant experience the next time you need to use them. Also, this practice ensures that you have all your tools. While you are cleaning, you may notice that you don't have a tool you used on the last job and locate it. That is why I suggest **cleaning up your tools as a part of each job.** That way, you can keep up with your tools and make sure you haven't left a tool on a vehicle or piece of equipment.
 
 Oiling your tools can also give them more life, especially in air tools. Make sure you use a good air tool oil each time you use your impacts, die grinders, etc., to have them work for a good amount of time. You want to get your use for what you spend and enjoy the full power they have from new to old.
 
