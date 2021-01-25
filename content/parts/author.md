@@ -17,18 +17,18 @@ title: author
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=aeb37d143f29bd50ed3c8977e&amp;id=47c8598fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
  <h1 style="margin: 0 0 10px 0;
-    color: #000;
+    color: #333;
   font-size: 2.2rem;
    text-align: center;
   color: rgba(255, 255, 255, 0.9);
   line-height: 1.15em;">What's Forrest Gump's Email password?</h1>
     <h3 style="margin: 0 0 10px 0;
-    color: #000;
+    color: #333;
   font-size: 1.2rem;
   margin: 1rem;
   text-align: center;
   color: rgba(255, 255, 255, 0.9);
-  line-height: 1.15em;">1foresst1 🤣 You know you want Diesel emails, sign up here</h3>
+  line-height: 1.15em;">1forrest1 🤣 You know you want Diesel emails, sign up here</h3>
 
 <div class="mc-field-group">
  <input Style="
