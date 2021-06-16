@@ -3,14 +3,16 @@ title: Blue Smoke From A Diesel? Causes And What To Do Next
 category: "Diagnosing Problems"
 cover: blue1.PNG
 author: Johnathan Coker
-updated: "Last updated: Dec 20, 2020"
+updated: "Last updated: Jun 15, 2021"
 ---
 
 ![unsplash.com](./blue1.PNG)
 
 So, you have some blue smoke billowing out of your exhaust. Well you think it's blue. It looks like a blue haze? 😕 What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to blue smoke from a diesel.
 
-Why would a diesel have blue smoke? **Blue smoke occurs when excess lubricating oil is present within the engine cylinders during combustion. When this oil is burnt it will exit the exhaust as blue smoke.**
+_What causes blue smoke?_
+
+**As a general rule, Blue smoke is excess lubricating oil present within the engine cylinders during combustion. This oil burns and exits through the exhaust as blue smoke.**
 
 Your burning oil. That part is simple. Understanding all the different reasons you can have oil in the cylinders is not. Here are the things it could be and what to look for...
 
@@ -42,13 +44,13 @@ Let's take a closer look at what blue smoke could really mean and where to start
 
 - **Incorrect oil** - Oil that is too thin will get past rings or valves guides
 
-* **Fuel dilution of the oil** - A good way to check for this is just to pull the dip stick. If you have an injector stuck open and it is leaking fuel into the crankcase it will dilute the oil and cause it to pass by and be burnt. This may be caused by faulty injector pump and/or lift pump.
+- **Fuel dilution of the oil** - A good way to check for this is just to pull the dip stick. If you have an injector stuck open and it is leaking fuel into the crankcase it will dilute the oil and cause it to pass by and be burnt. This may be caused by faulty injector pump and/or lift pump.
 
-* **Too much oil in the crankcase** - You overfilled it. Too much oil is not a good thing. If you have overfilled it simply remove the extra oil.
+- **Too much oil in the crankcase** - You overfilled it. Too much oil is not a good thing. If you have overfilled it simply remove the extra oil.
 
-* **Clogged oil drain lines in head** - If the head is clogged and the oil does not have a place to go it will likely make its way out the exhaust.
+- **Clogged oil drain lines in head** - If the head is clogged and the oil does not have a place to go it will likely make its way out the exhaust.
 
-* **High crankcase pressure** - Too much pressure in the crankcase. Check the old crankcase breather. Keep an eye out for clogs or debris in the tube.
+- **High crankcase pressure** - Too much pressure in the crankcase. Check the old crankcase breather. Keep an eye out for clogs or debris in the tube.
 
 **_If blue smoke is only happening on a cold start, it is likely that it is a piston/cylinder problem._**
 

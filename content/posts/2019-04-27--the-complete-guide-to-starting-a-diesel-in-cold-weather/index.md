@@ -12,7 +12,7 @@ Modern Diesel engines have solved a lot of issues over the years. The newest Die
 
 Why are Diesel engines harder to start in cold weather?
 
-**The internal components of a Diesel engine become very cold when the outside temperature falls over long periods. This makes cranking the engine up more difficult because diesel engines depend on high temperatures in order to create combustion.**
+**When the internal components of a diesel engine become very cold, cranking the engine is more difficult because diesel engines depend on high temperatures in order to create combustion.**
 
 Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on starting a diesel in cold weather.
 

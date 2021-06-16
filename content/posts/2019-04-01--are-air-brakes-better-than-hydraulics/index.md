@@ -10,7 +10,7 @@ updated: "Last updated: Dec 10, 2019"
 
 After a few hours looking for a slow air leak you can begin to wonder, are air brakes better? If you are new to Diesels or heavy truck or maybe you are moving over from car or equipment mechanics they can be confusing and you can begin to wonder if they are worth it. Let's answer that.
 
-Are Air Brakes Better Than Hydraulics? **Yes, especially is heavy applications. Hydraulic brakes simply cannot supply the energy needed to stop large equipment. That is not the only reason. There are other benefits to using air brakes over hydraulics.**
+Are Air Brakes Better Than Hydraulics? **Yes, especially is heavy applications. Hydraulic brakes simply cannot supply the energy needed to stop large equipment. Air brakes also default to a position of stopped where hydraulic brakes let the wheel spin**
 
 First, let's see the differences and then we will look at the benefits of air brakes
 

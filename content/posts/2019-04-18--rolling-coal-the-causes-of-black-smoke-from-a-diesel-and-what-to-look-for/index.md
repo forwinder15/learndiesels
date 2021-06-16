@@ -3,7 +3,7 @@ title: Complete Diesel Black Smoke Diagnosis Guide
 category: "Diagnosing Problems"
 cover: bsdmb.jpg
 author: Johnathan Coker
-updated: "Last updated: Dec 20, 2020"
+updated: "Last updated: Jun 15, 2021"
 ---
 
 ![back](back.jpg)
@@ -11,7 +11,8 @@ updated: "Last updated: Dec 20, 2020"
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.
 
 _What does Black smoke from a diesel engine mean?_
-**Black smoke occurs when partially burned fuel passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem**
+
+**Black smoke is partially burned fuel that passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem**
 
 Whether or not is bad for your engine depends on what the cause of the black smoke is. **A little black smoke is normal on a properly functioning diesel engine**, but if the amount of smoke changes at different RPM and loads you have an issue. Here are the things it could be and then we will go into what to look for and steps to diagnose the problem...
 
