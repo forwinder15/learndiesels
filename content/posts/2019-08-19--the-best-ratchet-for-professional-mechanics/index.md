@@ -22,7 +22,7 @@ They vary in style and price points. **We are only going to look at 3/8” ratch
 
 **The top 3 are my best picks. 1. Best bang for the buck 💰 2. best design 🔧 3. best quality 👨‍🔧**
 
-## 1. GearWrench 81210P - Learn Diesels Top Pick - Best bang for the buck
+## 1. GearWrench 81210P - Learn Diesels Top Pick - Best bang for the buck 💰
 
 <iframe src="https://www.youtube.com/embed/DPIap5yO4_0" width="600" height="400"></iframe>
 
@@ -46,7 +46,7 @@ I would recommend these things all day, but the proof is in the pudding, as they
 - **Weight and Length** - 15.8 ounces, 15.9 inches
 - **Cost** - **$$**
 
-## 2. Milwaukee 48-22-9014 - Learn Diesels Top pick - Best design
+## 2. Milwaukee 48-22-9014 - Learn Diesels Top pick - Best design 🔧
 
 ![mil ratchet](./mil2.jpg)
 
@@ -66,7 +66,7 @@ This Ratchet is very impressive and is comparable to high end ratchets. The flat
 - **Weight and Length** - 11-13 ounces, 11 inches
 - **Cost** - **$$$**
 
-## 3. Snap-on F80 - Learn Diesels Top pick - Best Quality
+## 3. Snap-on F80 - Learn Diesels Top pick - Best Quality 👨‍🔧
 
 ![snap-on](./snap.jpg)
 
