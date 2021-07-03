@@ -105,13 +105,6 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-plugin-google-adsense`,
-            options: {
-              googleAdClientId: "ca-pub-5803401366409112",
-              head: true, // Optional
-            },
-          },
-          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 2em`,
