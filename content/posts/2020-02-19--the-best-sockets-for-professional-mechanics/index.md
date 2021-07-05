@@ -3,14 +3,14 @@ title: 10 Best 3/8 Socket Sets For Professional Mechanics
 category: Recommended Products
 cover: cover.PNG
 author: Johnathan Coker
-updated: 'Last updated: Aug 10, 2020'
-
+updated: "Last updated: Aug 10, 2020"
 ---
+
 ![best socket](./cover.PNG)
 
 As a professional mechanic, your sockets are important. You should invest in some good ones. Let's break down what makes a good socket and then look at a couple of good options to add to your toolbox.
 
-We are going to use **Standard 6 point 3/8 socket sets** as our baseline in this list. You can bet if this set is good the 12 points and 1/4 and 1/2 will be the same.
+I took a poll of 30 mechanics Automotive and Heavy equipment and asked them what the best **Standard 6 point 3/8 socket set** was. I ranked them 1 to 10 based on their answers. While we only listed the 3/8, you can bet if this set is good the 12 points and 1/4 and 1/2 will be the same.
 
 ## What makes a good socket
 
@@ -46,7 +46,7 @@ This list is based on value for the money. You may see some that surprise you bu
 
 Best tools for the money? The survey says SK! SK has been around a long time and they have hung around for a reason. Their stuff lasts!
 
-Don't believe ask around your shop or buddies and just see how many guys have them. They are very popular and are made with a pro in mind. I would not recommend their ratchet but their sockets are great.
+Don't believe me? Ask around your shop or buddies and see just how many guys have them. They are very popular and are made with a pro mechanic in mind. I would not recommend their ratchet but their sockets are great.
 
 ![sk1](sk-.jpg)
 
@@ -58,12 +58,12 @@ Plus the warranty is a breeze. Had a couple of broken impact sockets took no tim
 
 ### The Specs
 
-* **Durability** -This set is manufactured to give superior service year after year and to last a lifetime with proper care. Quality tools manufactured for the American technician
-* **Finish** -High polish “SuperKrome” plating results in a showroom finish, providing long life and maximum corrosion resistance for your 6-Point Chrome Socket
-* **Design** - This set has SK's “SureGrip” hex drive design, it drives the side of the fastener, not the corner. This gives you increased strength and keeps you from rounding of rusted or damaged fasteners, which can occur when using a sharp cornered hex tool
-* **Thickness** - Typical Profile
-* **Warranty** - Mail-in. It is a decent process.
-* **Where is it made?** - USA with American Steel
+- **Durability** -This set is manufactured to give superior service year after year and to last a lifetime with proper care. Quality tools manufactured for the American technician
+- **Finish** -High polish “SuperKrome” plating results in a showroom finish, providing long life and maximum corrosion resistance for your 6-Point Chrome Socket
+- **Design** - This set has SK's “SureGrip” hex drive design, it drives the side of the fastener, not the corner. This gives you increased strength and keeps you from rounding of rusted or damaged fasteners, which can occur when using a sharp cornered hex tool
+- **Thickness** - Typical Profile
+- **Warranty** - Mail-in. It is a decent process.
+- **Where is it made?** - USA with American Steel
 
 ## 2. Gearwrench 80552 14 Pc. 3/8" Drive 6 Point Metric Standard Socket Set
 
@@ -77,14 +77,13 @@ This set of sockets is durable, accurate, and even a bit thinner profile than ot
 
 ### The Specs
 
-* **Durability** - The most used sockets will for years if you keep them out of your impact.
-* **Finish** -Bright, full polish chrome finish easily wipes clean and resists corrosion
+- **Durability** - The most used sockets will for years if you keep them out of your impact.
+- **Finish** -Bright, full polish chrome finish easily wipes clean and resists corrosion
 
-
-* **Design** -Off-corner loading design reduces fastener rounding. Chamfered opening quickly guides fasteners into socket
-* **Thickness** - Thinner profile
-* **Warranty** - Mail-in. Decent process.
-* **Where is it made?** - USA with American Steel
+- **Design** -Off-corner loading design reduces fastener rounding. Chamfered opening quickly guides fasteners into socket
+- **Thickness** - Thinner profile
+- **Warranty** - Mail-in. Decent process.
+- **Where is it made?** - USA with American Steel
 
 ## 3. Blue Point 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
@@ -100,12 +99,12 @@ You will find the price varies. Bluepoint is on Amazon every once in a while and
 
 ### The Specs
 
-* **Durability** - Last a lifetime. Very well made
-* **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
-* **Design** - Tough made for pros
-* **Thickness** - Typical profile
-* **Warranty** - Truck trade out. A super easy process if you have a good owner.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Last a lifetime. Very well made
+- **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
+- **Design** - Tough made for pros
+- **Thickness** - Typical profile
+- **Warranty** - Truck trade out. A super easy process if you have a good owner.
+- **Where is it made?** - USA with American Steel
 
 ## 4. Snap-on 211FSY 11pc 3/8" SAE Shallow Socket Set 6pt 1/4"-7/8"
 
@@ -121,12 +120,12 @@ One thing to note is if you haven’t bought anything from your Snap-on guy they
 
 ### The Specs
 
-* **Durability** - Last a lifetime. One of the best in the business
-* **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
-* **Design** -Snap-on patented design. Tough made for pros
-* **Thickness** - Typical profile
-* **Warranty** - Truck trade out. A super easy process if you have a good owner.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Last a lifetime. One of the best in the business
+- **Finish** -Full polish chrome finish easily wipes clean and resists corrosion
+- **Design** -Snap-on patented design. Tough made for pros
+- **Thickness** - Typical profile
+- **Warranty** - Truck trade out. A super easy process if you have a good owner.
+- **Where is it made?** - USA with American Steel
 
 ## 5. Matco SBM126TA 12-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -142,12 +141,12 @@ You can't always count on a Matco truck coming around to your shop. So it is som
 
 ### The Specs
 
-* **Durability** - Opti-Torque™ applies torque to fastener sides, not corners which allow more torque to the fastener and longer life
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - Counter-Torque™ distributes the torquing stress uniformly throughout the socket extending socket life
-* **Thickness** - Thinner profile
-* **Warranty** - Swap on the truck. Easy Process if you have one.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Opti-Torque™ applies torque to fastener sides, not corners which allow more torque to the fastener and longer life
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - Counter-Torque™ distributes the torquing stress uniformly throughout the socket extending socket life
+- **Thickness** - Thinner profile
+- **Warranty** - Swap on the truck. Easy Process if you have one.
+- **Where is it made?** - USA with American Steel
 
 ## 6. Mac Tools SXM146BRPT 14-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -161,12 +160,12 @@ This set is going to be a great set if it works out for you. I would try to get 
 
 ### The Specs
 
-* **Durability** - Great set. Last you a long time.
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - Patented Mac Tools design
-* **Thickness** - Typical profile
-* **Warranty** - Swap on the truck. Easy Process if you have one.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Great set. Last you a long time.
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - Patented Mac Tools design
+- **Thickness** - Typical profile
+- **Warranty** - Swap on the truck. Easy Process if you have one.
+- **Where is it made?** - USA with American Steel
 
 ## 7. Kobalt 0338615 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -180,12 +179,12 @@ They are definitely not top of the list but a great choice for the tight-fisted 
 
 ### The Specs
 
-* **Durability** - Medium at best. Sockets are made from drop forged, heat-treated chrome vanadium steel for long-lasting durability
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - No special design.
-* **Thickness** - Typical profile
-* **Warranty** - Walk into any Loews. Easy Process.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Medium at best. Sockets are made from drop forged, heat-treated chrome vanadium steel for long-lasting durability
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - No special design.
+- **Thickness** - Typical profile
+- **Warranty** - Walk into any Loews. Easy Process.
+- **Where is it made?** - USA with American Steel
 
 ## 8. Crescent 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -197,12 +196,12 @@ Crescent Looks like they are gonna be a good choice moving forward. They are mad
 
 ### The Specs
 
-* **Durability** - Medium at best
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - No special design.
-* **Thickness** - Thicker profile
-* **Warranty** - Walk into any Loews. Easy Process.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Medium at best
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - No special design.
+- **Thickness** - Thicker profile
+- **Warranty** - Walk into any Loews. Easy Process.
+- **Where is it made?** - USA with American Steel
 
 ## 9. Husky 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -214,12 +213,12 @@ I owned Husky sockets for over 10 years. Over my first years as a mechanic. They
 
 ### The Specs
 
-* **Durability** - Medium at best
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - No special design.
-* **Thickness** - Thicker profile
-* **Warranty** - Walk into any Loews. Easy Process.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Medium at best
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - No special design.
+- **Thickness** - Thicker profile
+- **Warranty** - Walk into any Loews. Easy Process.
+- **Where is it made?** - USA with American Steel
 
 ## 10. Craftsman CMMT12042 11-Piece SAE, 3/8-Inch Drive, 6-Point Socket Set
 
@@ -233,12 +232,12 @@ You can save some bucks here and the warranty is great. So if money is tight �
 
 ### The Specs
 
-* **Durability** - Medium at best
-* **Finish** - Full polish chrome finish for corrosion resistance
-* **Design** - No special design.
-* **Thickness** - Thicker profile
-* **Warranty** - Walk into any Loews. Easy Process.
-* **Where is it made?** - USA with American Steel
+- **Durability** - Medium at best
+- **Finish** - Full polish chrome finish for corrosion resistance
+- **Design** - No special design.
+- **Thickness** - Thicker profile
+- **Warranty** - Walk into any Loews. Easy Process.
+- **Where is it made?** - USA with American Steel
 
 ## Summing up
 
