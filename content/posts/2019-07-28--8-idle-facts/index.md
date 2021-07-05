@@ -24,7 +24,9 @@ So, that is a lot of fuel. When you think about that, over time or in the larger
 
 **The national average as of today in 2019 is 2.67 per gallon. That means you are spending $2.67 an hour or about 4.5 cents per minute to have your truck or equipment running at an idle.**
 
-This is why several manufactures have idled an idle time out where the engine will automatically shut down after a preset amount of time set by the owner. This can be useful and should be implemented. There really is no need for a truck to idle for long periods of time anymore. Although in some cases it will be necessary, it should be avoided. The same goes for equipment. Why waste fuel? Shut it down.
+This is why several manufactures have idled an idle time out where the engine will automatically shut down after a preset amount of time set by the owner. This can be useful and should be implemented.
+
+There really is no need for a truck to idle for long periods of time anymore. Although in some cases it will be necessary, it should be avoided. The same goes for equipment. Why waste fuel? Shut it down.
 
 ## 3. Idling harms your engine
 

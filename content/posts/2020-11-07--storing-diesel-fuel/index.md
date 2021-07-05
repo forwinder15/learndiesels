@@ -18,11 +18,17 @@ _How long can you store diesel?_
 
 ### High fuel pressure
 
-One of the reasons diesel has a shelf life is the engines and fuel are different than days past. You may not know it, but modern diesel engines are quite complicated. From the high-pressure injection to the DPF after-treatment systems, things can get pretty hairy pretty fast. This is one of the reasons you can hold onto old fuel. As the fuel separated and breakdown via the bacteria and mold is becoming impossible to pass through the low microfilters and the high-pressure fuel systems. For a good reason! These systems can be some cray high pressures upwards of 20,00 psi. You can't even have tiny microscopic trash in the fuel at those levels. You might get away with it with that old tractor, but no way with a modern diesel. Even with older units - do you really want to pull the injectors out instead of going to get some good fuel? Important questions when you're about to pour in some "free" fuel. Not so free when you think about repair costs.
+One of the reasons diesel has a shelf life is the engines and fuel are different than days past. You may not know it, but modern diesel engines are quite complicated. From the high-pressure injection to the DPF after-treatment systems, things can get pretty hairy pretty fast.
+
+This is one of the reasons you can hold onto old fuel. As the fuel separated and breakdown via the bacteria and mold is becoming impossible to pass through the low microfilters and the high-pressure fuel systems. For a good reason! These systems can be some cray high pressures upwards of 20,00 psi.
+
+You can't even have tiny microscopic trash in the fuel at those levels. You might get away with it with that old tractor, but no way with a modern diesel. Even with older units - do you really want to pull the injectors out instead of going to get some good fuel? Important questions when you're about to pour in some "free" fuel. Not so free when you think about repair costs.
 
 ### Engine breakdown
 
-Not only is it bad for the fuel pump and injection system, but it's generally bad for all your internal engine parts. When dirty fuel combusts, it just creates a mess. It's not a complete burn and most likely contains trace amounts of water, which can really do some damage. Not only is water not compressible, which makes the inside of a combustion chamber a terrible place. It also cools the burn temps and makes all kinds of havoc on rings and sleeves. Please get some new fuel. 🙏
+Not only is it bad for the fuel pump and injection system, but it's generally bad for all your internal engine parts. When dirty fuel combusts, it just creates a mess.
+
+It's not a complete burn and most likely contains trace amounts of water, which can really do some damage. Not only is water not compressible, which makes the inside of a combustion chamber a terrible place. It also cools the burn temps and makes all kinds of havoc on rings and sleeves. Please get some new fuel. 🙏
 
 ## How to know when Diesel Fuel Has Gone Bad
 
@@ -37,7 +43,11 @@ Not only is it bad for the fuel pump and injection system, but it's generally ba
 
 ## Keeping up with diesel fuel is like maintaining the worst swimming pool ever. Let me offer you some pointers to make it as painless as possible
 
-If your storing fuel, the best stuff I ever used was [BioBor](https://amzn.to/2U5AEn2). I used it in the city. I worked for our generators and fire department fuel tanks for many years. It works very well. It's not super expensive and goes a long way. The stuff kills and prevents bacteria and fungi and prevents corrosion. It will also keep the fuel filters from plugging. It reduces tank cleaning and protects injectors and pumps. Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. Great stuff!
+If your storing fuel, the best stuff I ever used was [BioBor](https://amzn.to/2U5AEn2). I used it in the city. I worked for our generators and fire department fuel tanks for many years. It works very well.
+
+It's not super expensive and goes a long way. The stuff kills and prevents bacteria and fungi and prevents corrosion. It will also keep the fuel filters from plugging. It reduces tank cleaning and protects injectors and pumps.
+
+Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. Great stuff!
 
 ### A guide to getting the most time out of your stored diesel
 

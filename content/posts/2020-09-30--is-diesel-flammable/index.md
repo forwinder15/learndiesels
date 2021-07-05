@@ -52,7 +52,9 @@ Diesel is a combination of carbon chain molecules known as carbon strings with h
 
 ![diesel atom](dieselatom.png)
 
-At the ends of the chain, there are two carbons and another ten at the center. To make a carbon atom work, all four of its binding sites must be together in the center. Each atom is attached to two other carbons, and in the case of this chain, only two additional atoms required hydrogen. The ends are only equipped with one carbon. The best thing to do here is to pound out another hydrogen.
+At the ends of the chain, there are two carbons and another ten at the center. To make a carbon atom work, all four of its binding sites must be together in the center.
+
+Each atom is attached to two other carbons, and in the case of this chain, only two additional atoms required hydrogen. The ends are only equipped with one carbon. The best thing to do here is to pound out another hydrogen.
 
 Combine diesel with ample atmospheric oxygen and add some energy to get it moving, and CO2, water, and loads of heat and light will become carbon, hydrogen, and oxygen. You can always get water, heat, and light if you combine it with insufficient oxygen to make all the atoms in the fuel happy.
 
