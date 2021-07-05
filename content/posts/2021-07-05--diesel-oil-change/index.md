@@ -10,7 +10,7 @@ updated: "Last updated: Jul 05, 2021"
 
 After working for many different companies on diesel engines I have got a good idea of the oil change intervals. This is essential in your maintenance routine. When should you change the oil in a diesel engine?
 
-As a general rule, you should replace your diesel engine oil and filter at 7500 miles, 6 months or 400 work hours.
+**As a general rule, you should replace your diesel engine oil and filter at 7500 miles, 6 months or 400 work hours.**
 
 ## What if I use my diesel differently?
 
@@ -36,17 +36,17 @@ Diesel engines make a ton of soot and little particulates. As the piston combust
 
 Your engine oil also cools and lubricates your turbo! Didn't think of that did you! That thing is spinning at a bagillion (diesel technical term, it meas a lot) miles per hour It needs good clean 15W30 to run through it's veins. I would say a lot turbo failure comes from poor regular maintenance.
 
-Save money some where else!
+**Save money some where else!**
 
 ## Good advice
 
-- _Look up the specific specifications_ for your diesel and follow them as best as you can. You can never go wrong doing what the engine maker says to do.
+- **Look up the specific specifications** for your diesel and follow them as best as you can. You can never go wrong doing what the engine maker says to do.
 
-- _Check the oil often!_ You can't go wrong taking a look. Often our equipment is very expensive. As a matter of fact, if it has a diesel engine guaranteed it costs a lot of money. You should take the time to check the oil before each use. No oil is a disaster and diesels always have leaks. Look for good color and thickness or viscosity. It should have a bit of tackiness if it drips like water, that's not good.
+- **Check the oil often!** You can't go wrong taking a look. Often our equipment is very expensive. As a matter of fact, if it has a diesel engine guaranteed it costs a lot of money. You should take the time to check the oil before each use. No oil is a disaster and diesels always have leaks. Look for good color and thickness or viscosity. It should have a bit of tackiness if it drips like water, that's not good.
 
-- _Have the oil sent out for analysis_ It doesn't cost as much as you think. 20 or 30 bucks and it could save a major repair. I once caught a leaking head early enough to keep from major damage.
+- **Have the oil sent out for analysis** It doesn't cost as much as you think. 20 or 30 bucks and it could save a major repair. I once caught a leaking head early enough to keep from major damage.
 
-- _Buy a decent oil_ You cant expect cheap oil to last or even do a good job. Listen treat oil like ketchup. You wouldn't buy off brand ketchup. Thats gross! Buy the good stuff.
+- **Buy a decent oil** You cant expect cheap oil to last or even do a good job. Listen treat oil like ketchup. You wouldn't buy off brand ketchup. Thats gross! Buy the good stuff.
 
 ## Specific Manufacture Recommendations
 
