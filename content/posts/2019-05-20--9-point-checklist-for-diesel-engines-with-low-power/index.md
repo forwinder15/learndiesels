@@ -12,7 +12,7 @@ So, your diesel engine has low power. She doesn’t climb the hills like she use
 
 This is a common problem with really many different causes **depending on the symptoms**. You might also say it is not pulling under a load. However you describe it, loss of power in an over the road truck or a piece of equipment can be dangerous or even fatal depending on the circumstances.
 
-What causes a diesel engine to lose power? **1. Dirty fuel filter 2. Check engine light 3. Intake air leak or restriction 4. Plugged exhaust 5. Malfunctioning throttle pedal 6. Failing injectors 7. Low fuel pressure 8. Malfunctioning Turbo 9. Internal engine problems.**
+What causes a diesel engine to lose power? I have found in my years as a heavy equipment mechanic that these 9 things are the most common reasons, **1. Dirty fuel filter 2. Check engine light 3. Intake air leak or restriction 4. Plugged exhaust 5. Malfunctioning throttle pedal 6. Failing injectors 7. Low fuel pressure 8. Malfunctioning Turbo 9. Internal engine problems.**
 
 ## 1. Your Diesel Engine Has A Dirty Fuel Filter
 
