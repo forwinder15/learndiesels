@@ -24,7 +24,7 @@ Your engine oil will break down a bit faster if your diving solely in town. The 
 
 Whether you are in farming or have a vacuum truck/dump truck, there are several applications that use a PTO and ramp up the RPMs to do work. This is where the 400 hours of work will come into play. This is really hard on the engine. Diesels were made for high idle but most likely you are up and down quite a bit. FOr the same reasons above you might consider stating close to the recommended oil change intervals to wash out all the contaminates.
 
-## Long Haul
+### Long Haul
 
 When you wind out your diesel engine it loves to stretch its legs! As you run your engine for longer periods of time the oil if=s moving and shaking. You can leave it in for a long amount of miles or hours. You can sneak some extra miles on the engine with this application. Of course based on your discretion. I know at one trucking company I worked for they let the long haul trucks go 15,000 miles between changes. As always investigate and make an educated decision because its your money on the line.
 
