@@ -1,18 +1,18 @@
 ---
 title: 6 Best Pro Mechanics Tool Chests For Under $2,000
-category: Recommended Tools
+category: Recommended Products
 cover: toolb.JPG
 author: Johnathan Coker
-updated: 'Last updated: Dec 11, 2020'
-
+updated: "Last updated: Dec 11, 2020"
 ---
+
 ![toolbox and truck](./toolb.JPG)
 
 As a professional mechanic, your box plays an important role in your life. You touch it every day. Is it _really_ just bent metal and slides? It holds your tools, keeps them in order, and keeps them safe. So, in this article, I want to answer "what makes a good toolbox". Then I will give me my list that my friends and I have compiled as the best toolboxes for your hard-earned money.
 
 We are going to look at tool chests under $2,000. That means they won't be "off the tool truck". But that's ok. They will all be American steel and lifetime warranty. Boxes are **bent metal and sliders.** You don't have to get _the brand_ to get a good one.
 
-I also wrote a [complete tool guide](/the-tool-guide-for-new-diesel-mechanics/) if you're interested. 
+I also wrote a [complete tool guide](/the-tool-guide-for-new-diesel-mechanics/) if you're interested.
 
 ## What makes a great toolbox? 👇
 
@@ -148,7 +148,7 @@ Montezuma makes some gorgeous boxes. THEY ARE FROM CHINA. Their customer support
 
 ![ex box](ext.png)
 
-This Steel Sliding Top Tool Cart is a cool combo of a cart with the storage capacity of a cabinet. The stainless steel top slides open to all your tools in the top drawer as well as the pry-bar and driver holders on the sides of the cart. Quick Release self-latching drawer pulls keep drawers closed until you are ready to open them. The drawers use heavy-duty ball bearing slides load rated 200* lbs. per drawer. The cart's corners are covered in impact-resistant non- marking bumpers. The cart also includes a bonus power tool rack accessory that hangs off the side of the tool cart and keeps your power tools within easy reach. Overall this thing is pretty sick. You could definitely get away with it as your main box with maybe a small cart. At around 1500 it's a great deal compared to the "off the truck equivalent". Keep an eye out on the warranty though. Why would they not support their product better? 🤔
+This Steel Sliding Top Tool Cart is a cool combo of a cart with the storage capacity of a cabinet. The stainless steel top slides open to all your tools in the top drawer as well as the pry-bar and driver holders on the sides of the cart. Quick Release self-latching drawer pulls keep drawers closed until you are ready to open them. The drawers use heavy-duty ball bearing slides load rated 200\* lbs. per drawer. The cart's corners are covered in impact-resistant non- marking bumpers. The cart also includes a bonus power tool rack accessory that hangs off the side of the tool cart and keeps your power tools within easy reach. Overall this thing is pretty sick. You could definitely get away with it as your main box with maybe a small cart. At around 1500 it's a great deal compared to the "off the truck equivalent". Keep an eye out on the warranty though. Why would they not support their product better? 🤔
 
 [Here it is at Northern Tool](https://www.northerntool.com/shop/tools/product_200788888_200788888)
 
