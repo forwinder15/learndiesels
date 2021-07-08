@@ -45,7 +45,7 @@ This is the series and model of the you specific tool chest. Snap has 4 differen
 
 Snap-on made these series to give you options in pricing. Each series has its pros and cons and is quality based on value for money. The classic and Heritage Series are the lower tier Boxes and the Masters and EPIQ are the higher tiers. They have different options and features based on the one you have.
 
-![snap on 2](IMG_0445.PNG)
+![snap on 2](IMG_0445.jpg)
 
 ### 2. Width/Number of Banks
 
@@ -55,7 +55,7 @@ This is simply the width of the box and the number of banks. The banks are the d
 
 This is the weight of the box with nothing in it at all. Easy enough.
 
-![snap on 3](IMG_0444.PNG)
+![snap on 3](IMG_0444.jpg)
 
 ### 4. Max Loaded Weight
 
