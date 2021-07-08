@@ -79,6 +79,9 @@
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
     "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0"
   },
+  "engines" : { 
+    "node" : ">=12.0.0" 
+  },
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
     "babel-eslint": "^10.1.0",
