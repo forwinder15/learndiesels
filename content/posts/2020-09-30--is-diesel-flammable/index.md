@@ -22,9 +22,9 @@ The flashpoint is an important aspect in considering how flammable fluid or mate
 
 > The **flash point** of a volatile material is the lowest temperature needed to evaporate enough fluid to form a combustible concentration of gas.
 
-For instance, the flashpoint of [gasoline -45°F.](http://large.stanford.edu/courses/2014/ph240/ukropina2/) The Department of Labor classifies any material that has a flashpoint below 125°F as flammable.
+For instance, the flashpoint of [gasoline -45°F.](https://large.stanford.edu/courses/2014/ph240/ukropina2/) The Department of Labor classifies any material that has a flashpoint below 125°F as flammable.
 
-**According to the MSDS sheet from Citgo, the flashpoint of #2 diesel fuel is**[**: ≥52°C (≥125.6°F)**](http://www.docs.citgo.com/msds_pi/AG2DF.pdf)
+**According to the MSDS sheet from Citgo, the flashpoint of #2 diesel fuel is**[**: ≥52°C (≥125.6°F)**](https://www.docs.citgo.com/msds_pi/AG2DF.pdf)
 
 Of course, we all know that diesel is nowhere near as flammable as gasoline. I have seen a guy put out a cigarette in a can of diesel (do not try that). But diesel itself is dangerous and combustible.
 

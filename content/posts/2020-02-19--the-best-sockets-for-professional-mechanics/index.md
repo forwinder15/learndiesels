@@ -116,7 +116,7 @@ This set is great and the only way I recommend buying it is off eBay. Above is a
 
 One thing to note is if you haven’t bought anything from your Snap-on guy they don’t like to warranty stuff. I have been told by some that they won’t replace tools they didn’t sell. But not all are jerks lie that.
 
-[Check out the latest price on eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575572689&toolid=10001&campid=5338659351&customid=&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSNAP-ON-211FSY-11pc-3-8-Dr-SAE-Shallow-Socket-Set-6pt-1-4-7-8-SEE-AD-INFO%2F254517791989%3Fepid%3D1411826649%26hash%3Ditem3b42714cf5%3Ag%3AD8gAAOSwbjpeTbMM)
+[Check out the latest price on eBay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5575572689&toolid=10001&campid=5338659351&customid=&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FSNAP-ON-211FSY-11pc-3-8-Dr-SAE-Shallow-Socket-Set-6pt-1-4-7-8-SEE-AD-INFO%2F254517791989%3Fepid%3D1411826649%26hash%3Ditem3b42714cf5%3Ag%3AD8gAAOSwbjpeTbMM)
 
 ### The Specs
 

@@ -57,7 +57,7 @@ Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. G
 
 - **Treat your fuel with biocides/stabilizers**. Biocides keep bacteria in check. It would be best if you had this, especially with new fuel, because it has some biodiesel that contains more water. If you don't start this right away, you may never get control of the tank.
 - **Keep your tank full**. This staves off condensation and less area for water to be present.
-- **Keep a check on the Temperature.** Diesel typically freezes around temperatures of -8.1 °C (17.5 °F). You will want the temp above that. Diesel can flash between 52 and 96 °C (130 - 204 °F) [source](http://knowhow.napaonline.com/at-what-temperature-does-diesel-fuel-gel/#:~:text=It's%20right%20at%20the%20freezing,how%20colder%20weather%20affects%20fuel). Diesel shouldn't be subjected to sunlight or low temperatures.
+- **Keep a check on the Temperature.** Diesel typically freezes around temperatures of -8.1 °C (17.5 °F). You will want the temp above that. Diesel can flash between 52 and 96 °C (130 - 204 °F) [source](https://knowhow.napaonline.com/at-what-temperature-does-diesel-fuel-gel/#:~:text=It's%20right%20at%20the%20freezing,how%20colder%20weather%20affects%20fuel). Diesel shouldn't be subjected to sunlight or low temperatures.
 - **Keep the fuel covered**. The main enemy of diesel fuel storage is the elements. You need to keep the tank indoors if you don't have one meant for outdoors.
 
 #### More than 12 months
