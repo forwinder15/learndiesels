@@ -1,14 +1,14 @@
 ---
 title: Do Diesel Mechanics Get Paid Flat Rate?
-category: Common Questions
+category: common questions
 cover: monop.png
 author: Johnathan Coker
-updated: 'Last updated: Jan 10, 2020'
-
+updated: "Last updated: Jan 10, 2020"
 ---
+
 So, you are looking at jobs. You see a company that says it pays flat rate to its mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Let's dive into that.
 
-Do diesel mechanics make flat rate? **No. Most diesel mechanics are paid hourly. There may be exceptions but, the majority are not flat rate. Flat rate is usually given at dealerships and other small shops.** 
+Do diesel mechanics make flat rate? **No. Most diesel mechanics are paid hourly. There may be exceptions but, the majority are not flat rate. Flat rate is usually given at dealerships and other small shops.**
 
 **Let's look at what flat rate is, why it sucks, and why you should never work anywhere that has that pay structure.**
 
@@ -42,14 +42,14 @@ One of my best friends worked for a dealership for many years. I would often go 
 
 With knowing that you can make hardly anything on those slow days you really have to hustle on the busy days. There are days when you can work 10 hours and bill 15. You are going to be running hard. Especially if you have kids to feed. All that stress and hustle do not play kindly to your body. Consider this, the [Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987) lists these symptoms of stress. Common effects of stress are:
 
-* On your body: Headache, Muscle tension or pain, Chest pain, Change in sex drive, Upset Stomach, Sleep problems
-* On your mood: Lack of motivation, Feeling overwhelmed, Sadness or depression, Anxiety Don't take years of your life. Find an hourly job where you work with a team.
+- On your body: Headache, Muscle tension or pain, Chest pain, Change in sex drive, Upset Stomach, Sleep problems
+- On your mood: Lack of motivation, Feeling overwhelmed, Sadness or depression, Anxiety Don't take years of your life. Find an hourly job where you work with a team.
 
 1. **Speed kills**
 
 Mechanic work is not easy work anyway and when you try to go fast mistakes are made, injuries happen, and knuckles are smashed. When you feel like your wage is totally dependent on your speed you can't help but try to hurry through things. This inevitably adds to the stress and you miss things which ultimately causes you to take longer on jobs. It is a vicious cycle.
 
-***
+---
 
 ## To sum up
 

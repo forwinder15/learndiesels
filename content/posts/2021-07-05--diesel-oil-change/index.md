@@ -1,6 +1,6 @@
 ---
 title: Diesel Engine Oil Change Intervals
-category: How Tos
+category: how tos
 cover: IMG_0441.PNG
 author: Johnathan Coker
 updated: "Last updated: Jul 05, 2021"

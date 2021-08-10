@@ -1,6 +1,6 @@
 ---
 title: Diesel Engines Are Super Loud. Here's why...
-category: Diagnosing Problems
+category: diagnosing problems
 cover: rich.jpg
 author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"

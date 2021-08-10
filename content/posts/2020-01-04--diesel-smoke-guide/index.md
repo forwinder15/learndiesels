@@ -1,6 +1,6 @@
 ---
 title: Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue
-category: Diagnosing Problems
+category: diagnosing problems
 cover: IMG_1482.PNG
 author: Johnathan Coker
 updated: "Last updated: Dec 20, 2020"

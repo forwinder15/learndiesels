@@ -1,11 +1,11 @@
 ---
 title: Why Diesel Engines Run Away And How To Prevent It
-category: Diagnosing Problems
+category: diagnosing problems
 cover: runaway.png
 author: Johnathan Coker
-updated: 'Last updated: Aug 10, 2020'
-
+updated: "Last updated: Aug 10, 2020"
 ---
+
 ![unsplash.com](./runaway.png)
 
 If you work on or own a diesel piece of equipment or vehicle you have likely heard a story about a time when a diesel engine **_Ran Away_**. It may have sounded something like this…
@@ -64,7 +64,7 @@ Coal dust and high amounts of propane or CNG can cause a run-away situation in t
 
 Not all run-away situations are created equal.
 
-* **Overspeed** is when an engine operated at an RPM rate over which was designed to handle. A common example is when a truck gets stuck in gear headed down a mountain and runs the RPMs so high that the engine is severely damaged.
+- **Overspeed** is when an engine operated at an RPM rate over which was designed to handle. A common example is when a truck gets stuck in gear headed down a mountain and runs the RPMs so high that the engine is severely damaged.
 
 So, a run-away can cause an Overspeed if the engine is fueled to where is idles up beyond what it is meant to stand. A run-away can happen without causing an over speed.
 
@@ -78,7 +78,7 @@ The right answer to this depends on the source of the “fuel”. We will go ove
 
 **Remember, you have two choices, remove the air or the fuel. Either will cause the engine to shut down**
 
-* **Engine oil**
+- **Engine oil**
 
 If the engine is being fueled by engine lubricating oil, then it would be best to go for the air. You need to choke the engine out.
 
@@ -96,7 +96,7 @@ This will provide enough torque to shut the engine down. You must take caution w
 
 Another option is to plug up the exhaust. I have not ever used or seen this method used but it is possible in theory.
 
-* **Diesel fuel**
+- **Diesel fuel**
 
 If you are in a situation where the run-away is being caused by over-fueling of the diesel fuel I would go after the fuel.
 
@@ -104,7 +104,7 @@ There are quite a few ways to do this. One is to take the fuel filter off. Note 
 
 Some vehicles have a fuel shut off that can be used. Like a ball valve at the tank or just before a fuel filter. This is a good option if fuel is the culprit.
 
-* **Unsure?**
+- **Unsure?**
 
 Go for the air. When in doubt the air will shut it down every time. So, if you are not 100 percent certain shutting the air off is a great option. Just get something to stuff or cover that intake up and she will start bogging down.
 

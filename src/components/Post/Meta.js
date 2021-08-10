@@ -5,52 +5,47 @@ import { Link } from "gatsby";
 import { FaCalendar } from "react-icons/fa/";
 import { FaUser } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
+import styled from "@emotion/styled";
 
 const Meta = (props) => {
   const { author: authorName, category, theme, updated } = props;
 
+  const MetaStyle = styled.p`
+    display: flex;
+    flex-flow: row wrap;
+    font-size: 0.8em;
+    margin: ${theme.space.m} 0;
+    background: transparent;
+    svg {
+      fill: ${theme.icon.color};
+      margin: ${theme.space.inline.xs};
+    }
+    @media (max-width: tablet) {
+      margin: ${`calc(${theme.space.m} * 1.5) 0 ${theme.space.m}`};
+    }
+  `;
+  const Span = styled.span`
+    align-items: center;
+    display: flex;
+    text-transform: uppercase;
+    margin: ${theme.space.xs} ${theme.space.s} ${theme.space.xs} 0;
+  `;
+
   return (
-    <p className="meta">
-      <span>
+    <MetaStyle>
+      <Span>
         <FaCalendar size={18} /> {updated}
-      </span>
-      <span>
+      </Span>
+      <Span>
         <FaUser size={18} /> {authorName}
-      </span>
+      </Span>
       {category && (
-        <span>
+        <Span>
           <FaTag size={18} />
           <Link to={`/category/${category.split(" ").join("-")}`}>{category}</Link>
-        </span>
+        </Span>
       )}
-
-      {/* --- STYLES --- */}
-      <style jsx>{`
-        .meta {
-          display: flex;
-          flex-flow: row wrap;
-          font-size: 0.8em;
-          margin: ${theme.space.m} 0;
-          background: transparent;
-
-          :global(svg) {
-            fill: ${theme.icon.color};
-            margin: ${theme.space.inline.xs};
-          }
-          span {
-            align-items: center;
-            display: flex;
-            text-transform: uppercase;
-            margin: ${theme.space.xs} ${theme.space.s} ${theme.space.xs} 0;
-          }
-        }
-        @from-width tablet {
-          .meta {
-            margin: ${`calc(${theme.space.m} * 1.5) 0 ${theme.space.m}`};
-          }
-        }
-      `}</style>
-    </p>
+    </MetaStyle>
   );
 };
 

@@ -6,11 +6,11 @@ import Article from "../components/Article";
 import Contact from "../components/Contact";
 import Headline from "../components/Article/Headline";
 
-const ContactPage = props => {
+const ContactPage = (props) => {
   return (
     <React.Fragment>
       <ThemeContext.Consumer>
-        {theme => (
+        {(theme) => (
           <Article theme={theme}>
             <header>
               <Headline title="Subscribe to my Newsletter or ask for advice!" theme={theme} />
@@ -24,7 +24,7 @@ const ContactPage = props => {
 };
 
 ContactPage.propTypes = {
-  data: PropTypes.object.isRequired
+  data: PropTypes.object.isRequired,
 };
 
 export default ContactPage;

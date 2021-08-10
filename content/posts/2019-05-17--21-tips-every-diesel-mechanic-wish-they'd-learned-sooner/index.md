@@ -1,11 +1,11 @@
 ---
 title: 21 Tips Every Diesel Mechanic Wish They’d Learned Sooner
-category: How Tos
+category: how tos
 cover: mech2.jpg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 <iframe src="https://www.youtube.com/embed/SSrXZD9qYGs" width="600" height="400"></iframe>
 
 I wanted to put together a list of help for that struggling mechanic out there. Sometimes even after years of turning wrenches, there are tips and tricks that the old man in your shop just never shared.
@@ -62,9 +62,9 @@ Just ask! Usually, your co-workers will help you. I never minded a question from
 
 **Take the advice.** You don’t know best if you are asking. There was a guy in my shop, the other mechanic, and I would help. He would listen and then go ask someone else and then try it his way. He did not make friends like this. Here are a couple of rules regarding advice.
 
-* **Don’t go for a second opinion.** It is insulting to the person you asked. When you have asked, go back and put that advice to work. You don’t know if it's poor advice until you try it. Instead of asking two or three people, ask **the right person the first time.**
-* **Don’t argue with them.** Listen. Your mom always said you have two ears for a reason—sound advice.
-* **Don’t do it your way.** When you do, and you break something, you look really dumb. I have seen it first-hand. Don’t be that guy.
+- **Don’t go for a second opinion.** It is insulting to the person you asked. When you have asked, go back and put that advice to work. You don’t know if it's poor advice until you try it. Instead of asking two or three people, ask **the right person the first time.**
+- **Don’t argue with them.** Listen. Your mom always said you have two ears for a reason—sound advice.
+- **Don’t do it your way.** When you do, and you break something, you look really dumb. I have seen it first-hand. Don’t be that guy.
 
 ## 7. Wear safety glasses
 

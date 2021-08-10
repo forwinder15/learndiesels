@@ -1,11 +1,11 @@
 ---
 title: 12 Farm Equipment Maintenance Musts
-category: How Tos
+category: how tos
 cover: farm.png
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![farm pic](farm.png)
 
 It gets busy on the farm. Whether it's feeding or fencing you can get distracted. I work on lots of farm equipment that has been neglected and ended up costing the farmer more than it would if they would have followed this list. Let me save you some time, headache, and money.
@@ -22,11 +22,11 @@ So, print this out and post it somewhere you can see it.
 
 Look these things over every day you use the equipment.
 
-* Check the oil and other fluid levels
-* Look for loose clamps and fittings and seals as needed
-* Inspect filters for tightness and age
-* Look for debris and chaffed hoses/lines
-* Inspect the fire extinguisher
+- Check the oil and other fluid levels
+- Look for loose clamps and fittings and seals as needed
+- Inspect filters for tightness and age
+- Look for debris and chaffed hoses/lines
+- Inspect the fire extinguisher
 
 ## **Keep your unit greased and lubed up**
 
@@ -48,11 +48,11 @@ I know this is a long shot but hear me out. You need to know the specification a
 
 Look for:
 
-* Schedule for maintenance
-* Fuel and oil recommendations
-* Filter list. Go ahead and order them.
-* Safety features
-* Warranty
+- Schedule for maintenance
+- Fuel and oil recommendations
+- Filter list. Go ahead and order them.
+- Safety features
+- Warranty
 
 After you have all that information you can do a better job taking care of your unit. Take the spare key and manual and put them in a safe spot.
 

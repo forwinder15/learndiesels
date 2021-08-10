@@ -23,7 +23,7 @@ class Layout extends React.Component {
       font600loaded: false,
       screenWidth: 0,
       headerMinimized: false,
-      theme: themeObjectFromYaml
+      theme: themeObjectFromYaml,
     };
 
     if (typeof window !== `undefined`) {
@@ -36,7 +36,7 @@ class Layout extends React.Component {
 
   componentDidMount() {
     this.setState({
-      screenWidth: getScreenWidth()
+      screenWidth: getScreenWidth(),
     });
     if (typeof window !== "undefined") {
       window.addEventListener("resize", this.resizeThrottler, false);
@@ -61,7 +61,7 @@ class Layout extends React.Component {
 
   loadFont = (name, family, weight) => {
     const font = new FontFaceObserver(family, {
-      weight: weight
+      weight: weight,
     });
 
     font.load(null, 10000).then(
@@ -103,11 +103,11 @@ class Layout extends React.Component {
             }
           }
         `}
-        render={data => {
+        render={(data) => {
           const { children } = this.props;
           const {
             footnote: { html: footnoteHTML },
-            pages: { edges: pages }
+            pages: { edges: pages },
           } = data;
 
           return (
@@ -122,55 +122,6 @@ class Layout extends React.Component {
                     />
                     <main>{children}</main>
                     <Footer html={footnoteHTML} theme={this.state.theme} />
-
-                    {/* --- STYLES --- */}
-                    <style jsx>{`
-                      main {
-                        min-height: 80vh;
-                      }
-                    `}</style>
-                    <style jsx global>{`
-                      html {
-                        box-sizing: border-box;
-                      }
-                      *,
-                      *:after,
-                      *:before {
-                        box-sizing: inherit;
-                        margin: 0;
-                        padding: 0;
-                      }
-                      body {
-                        font-family: ${this.state.font400loaded
-                          ? "'Open Sans', sans-serif;"
-                          : "Arial, sans-serif;"};
-                      }
-                      h1,
-                      h2,
-                      h3 {
-                        font-weight: ${this.state.font600loaded ? 600 : 400};
-                        line-height: 1.1;
-                        letter-spacing: -0.03em;
-                        margin: 0;
-                      }
-                      h1 {
-                        letter-spacing: -0.04em;
-                      }
-                      p {
-                        margin: 0;
-                      }
-                      strong {
-                        font-weight: ${this.state.font600loaded ? 600 : 400};
-                      }
-                      a {
-                        text-decoration: none;
-                        color: #555;
-                      }
-                      main {
-                        width: auto;
-                        display: block;
-                      }
-                    `}</style>
                   </React.Fragment>
                 </ScreenWidthContext.Provider>
               </FontLoadedContext.Provider>
@@ -185,7 +136,7 @@ class Layout extends React.Component {
 Layout.propTypes = {
   children: PropTypes.object.isRequired,
   data: PropTypes.object.isRequired,
-  location: PropTypes.object.isRequired
+  location: PropTypes.object.isRequired,
 };
 
 export default Layout;

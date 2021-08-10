@@ -5,36 +5,54 @@ import {
   TwitterShareButton,
   FacebookShareCount,
   FacebookIcon,
-  TwitterIcon
+  TwitterIcon,
 } from "react-share";
 
 import config from "../../../content/meta/config";
+import styled from "@emotion/styled";
 
-const PostShare = props => {
+const PostShare = (props) => {
   const {
     post: {
       fields: { slug },
       frontmatter: { title },
-      excerpt
+      excerpt,
     },
-    theme
+    theme,
   } = props;
 
   const url = config.siteUrl + config.pathPrefix + slug;
 
   const iconSize = 36;
-  const filter = count => (count > 0 ? count : "");
+  const filter = (count) => (count > 0 ? count : "");
+
+  const Share = styled.div`
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  `;
+
+  const Label = styled.span`
+    font-size: 1.2em;
+    margin: 0 0em 1em;
+  `;
+
+  const Links = styled.div`
+    display: flex;
+    flex-direction: row;
+  `;
 
   return (
     <React.Fragment>
-      <div className="share">
-        <span className="label">SHARE</span>
-        <div className="links">
+      <Share>
+        <Label>SHARE</Label>
+        <Links>
           <TwitterShareButton
             url={url}
             title={title}
             additionalProps={{
-              "aria-label": "Twitter share"
+              "aria-label": "Twitter share",
             }}
           >
             <TwitterIcon round size={iconSize} />
@@ -43,58 +61,23 @@ const PostShare = props => {
             url={url}
             quote={`${title} - ${excerpt}`}
             additionalProps={{
-              "aria-label": "Facebook share"
+              "aria-label": "Facebook share",
             }}
           >
             <FacebookIcon round size={iconSize} />
             <FacebookShareCount url={url}>
-              {count => <div className="share-count">{filter(count)}</div>}
+              {(count) => <div className="share-count">{filter(count)}</div>}
             </FacebookShareCount>
           </FacebookShareButton>
-        </div>
-      </div>
-
-      {/* --- STYLES --- */}
-      <style jsx>{`
-        .share {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-        }
-
-        .links {
-          display: flex;
-          flex-direction: row;
-
-          :global(.SocialMediaShareButton) {
-            margin: 0 0.8em;
-            cursor: pointer;
-          }
-        }
-
-        .label {
-          font-size: 1.2em;
-          margin: 0 1em 1em;
-        }
-
-        @from-width tablet {
-          .share {
-            flex-direction: row;
-            margin: ${theme.space.inset.l};
-          }
-          .label {
-            margin: ${theme.space.inline.m};
-          }
-        }
-      `}</style>
+        </Links>
+      </Share>
     </React.Fragment>
   );
 };
 
 PostShare.propTypes = {
   post: PropTypes.object.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
 };
 
 export default PostShare;

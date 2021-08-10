@@ -1,6 +1,6 @@
 ---
 title: 7 Step Guide To Starting A Diesel In Cold Weather
-category: How Tos
+category: how tos
 cover: snow.jpeg
 author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"

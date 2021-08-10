@@ -1,11 +1,11 @@
 ---
 title: Are Snap On Tools Worth It?
-category: Recommended Products
+category: recommended products
 cover: money.jpg
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![unsplash.com](./money.jpg)
 
 We all know that guy in the shop. You know, the guy with $30,000’ worth of tools and a tool chest with pneumatic wheels. A monster set. Not the guy to borrow a tool from. So do you really need all that to be a respected diesel tech?
@@ -18,9 +18,9 @@ Let’s dive in a little deeper here and talk about it. I want to discuss Price,
 
 3 excellent articles on this website if you are in the market for snap-on alternatives.
 
-* [The Tool Guide For Diesel Mechanics](/the-tool-guide-for-new-diesel-mechanics)
-* [Best 10 Ratchets For The Professional Mechanic And Buyers Guide](/the-best-ratchet-for-professional-mechanics)
-* [6 Best Pro Mechanics Tool Chests For Under $2,000](/5-best-toolboxes-for-mechancis-under-2k)
+- [The Tool Guide For Diesel Mechanics](/the-tool-guide-for-new-diesel-mechanics)
+- [Best 10 Ratchets For The Professional Mechanic And Buyers Guide](/the-best-ratchet-for-professional-mechanics)
+- [6 Best Pro Mechanics Tool Chests For Under $2,000](/5-best-toolboxes-for-mechancis-under-2k)
 
 ## Snap-On Price
 

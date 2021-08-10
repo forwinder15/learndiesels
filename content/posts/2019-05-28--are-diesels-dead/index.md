@@ -1,6 +1,6 @@
 ---
 title: Are Diesels Dead? (Phasing out? Good career? Smart purchase?)
-category: Common Questions
+category: common questions
 cover: tesla.jpg
 author: Johnathan Coker
 updated: "Last updated: Jan 05, 2020"

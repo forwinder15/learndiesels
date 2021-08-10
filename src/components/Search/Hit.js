@@ -19,7 +19,6 @@ const Hit = props => {
           width: 100%;
           color: #666;
         }
-
         .ais-Hits-item:before {
           content: "•";
           position: absolute;

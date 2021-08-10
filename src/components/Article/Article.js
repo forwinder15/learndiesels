@@ -1,39 +1,32 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { css } from "@emotion/react";
 
-const Article = props => {
-  const { children, theme } = props;
+const Article = (props) => {
+  const { children } = props;
 
   return (
     <React.Fragment>
-      <article className="article">{children}</article>
-
-      {/* --- STYLES --- */}
-      <style jsx>{`
-        .article {
-          padding: ${theme.space.inset.default};
+      <article
+        css={css`
+          padding: 20px 240px;
           margin: 0 auto;
-        }
-        @from-width tablet {
-          .article {
-            padding: ${`calc(${theme.space.default}) calc(${theme.space.default} * 2)`};
-            max-width: ${theme.text.maxWidth.tablet};
+
+          @media (max-width: 992px) {
+            padding: 20px 80px;
+            max-width: 650px;
           }
-        }
-        @from-width desktop {
-          .article {
-            padding: ${`calc(${theme.space.default} * 2 + 90px) 0 calc(${theme.space.default} * 2)`};
-            max-width: ${theme.text.maxWidth.desktop};
+          @media (max-width: 750px) {
+            padding: 15px 10px;
+            max-width: 750px;
           }
-        }
-      `}</style>
+        `}
+      >
+        {" "}
+        {children}
+      </article>
     </React.Fragment>
   );
-};
-
-Article.propTypes = {
-  children: PropTypes.node.isRequired,
-  theme: PropTypes.object.isRequired
 };
 
 export default Article;

@@ -8,6 +8,7 @@ import Bodytext from "../Article/Bodytext";
 import Meta from "./Meta";
 import Author from "./Author";
 import NextPrev from "./NextPrev";
+import { Subscribe } from "../subscribe/Subscribe";
 
 const Share = asyncComponent(() =>
   import("./Share")
@@ -39,6 +40,7 @@ const Post = (props) => {
       </header>
       <Bodytext html={html} theme={theme} />
       <footer>
+        <Subscribe />
         <Share post={post} theme={theme} />
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />

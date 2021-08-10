@@ -1,11 +1,11 @@
 ---
 title: Do Diesel Mechanics Need A CDL?
-category: Common Questions
+category: common questions
 cover: photo-1540852360777-5f6fa7752aeb.jpeg
 author: Johnathan Coker
-updated: 'Last updated: Jan 01, 2020'
-
+updated: "Last updated: Jan 01, 2020"
 ---
+
 ![unsplash.com](./photo-1540852360777-5f6fa7752aeb.jpeg)
 
 I was thinking the other day about when I started as a diesel tech and all the questions I had. Do you need a CDL (Commercial driver's license) as a diesel mechanic? I had a struggle with this when I first started working as a mechanic trainee. I was not even old enough to get a CDL. I wasn't sure and really never got a great answer.
@@ -22,14 +22,14 @@ _Do Diesel Mechanics Need A CDL?_
 
 ### Positives
 
-* While it is not required a CDL can open doors for you.
-* It can help your resume for sure. It is always nice for a manager to have another person who can test drive the trucks after they are finished.
-* It also shows that you are committed to the field.
+- While it is not required a CDL can open doors for you.
+- It can help your resume for sure. It is always nice for a manager to have another person who can test drive the trucks after they are finished.
+- It also shows that you are committed to the field.
 
 ### Negatives
 
-* The cost if you have to pay for it. Here in Florida, the learners are $10, the license fee is $75, and $7 for each endorsement plus the cost of a road test can be as much as $200 if not more.
-* Unless you work for a local government you will be required to have a **_DOT physical_** every year.
+- The cost if you have to pay for it. Here in Florida, the learners are $10, the license fee is $75, and $7 for each endorsement plus the cost of a road test can be as much as $200 if not more.
+- Unless you work for a local government you will be required to have a **_DOT physical_** every year.
 
 ### Not all diesel mechanics work on over the road trucks
 
@@ -37,9 +37,9 @@ but chances are you will have the opportunity or even have to drive a large serv
 
 ### Different situations as a mechanic
 
-* Your company pays for you to get it.
-* Your Company does not offer to pay but, would like you to have it.
-* You are not yet hired and just getting started
+- Your company pays for you to get it.
+- Your Company does not offer to pay but, would like you to have it.
+- You are not yet hired and just getting started
 
 ### My company pays for it
 
@@ -73,7 +73,7 @@ The requirements to get a CDL are moderately different from each state, but thes
 
 **4. Take the CDL skills test** The CDL driving test must be passed in which the driver completes a 3-part exam that includes a pre-trip inspection test, basic control skills test, and driving test at either a state CDL test site or approved 3rd party test site. Once the skills test has been passed you did it! Now go print that puppy out and you are good to go.
 
-***
+---
 
 ## Summing up
 

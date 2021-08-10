@@ -1,6 +1,6 @@
 ---
 title: Diesel Mechanic vs Automotive - 10 Reasons Diesel Is Better
-category: Common Questions
+category: common questions
 cover: dieselvs.PNG
 author: Johnathan Coker
 updated: "Last updated: Jan 10, 2021"

@@ -1,6 +1,6 @@
 ---
 title: The Hardest ASE Tests
-category: Common Questions
+category: common questions
 cover: rubecube.jpg
 author: Johnathan Coker
 updated: "Last updated: Jan 16, 2021"

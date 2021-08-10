@@ -8,20 +8,20 @@ import Headline from "../components/Article/Headline";
 import List from "../components/List";
 import Seo from "../components/Seo";
 
-const CategoryPage = props => {
+const CategoryPage = (props) => {
   const {
     data: {
-      posts: { edges: posts }
-    }
+      posts: { edges: posts },
+    },
   } = props;
 
   // Create category list
   const categories = {};
-  posts.forEach(edge => {
+  posts.forEach((edge) => {
     const {
       node: {
-        frontmatter: { category }
-      }
+        frontmatter: { category },
+      },
     } = edge;
 
     if (category && category != null) {
@@ -41,12 +41,12 @@ const CategoryPage = props => {
   return (
     <React.Fragment>
       <ThemeContext.Consumer>
-        {theme => (
+        {(theme) => (
           <Article theme={theme}>
             <header>
               <Headline title="Posts by categories" theme={theme} />
             </header>
-            {categoryList.map(item => (
+            {categoryList.map((item) => (
               <section key={item[0]}>
                 <h2>
                   <FaTag /> {item[0]}
@@ -54,16 +54,6 @@ const CategoryPage = props => {
                 <List edges={item[1]} theme={theme} />
               </section>
             ))}
-            {/* --- STYLES --- */}
-            <style jsx>{`
-              h2 {
-                margin: 0 0 0.5em;
-              }
-              h2 :global(svg) {
-                height: 0.8em;
-                fill: ${theme.color.brand.primary};
-              }
-            `}</style>
           </Article>
         )}
       </ThemeContext.Consumer>
@@ -72,7 +62,7 @@ const CategoryPage = props => {
 };
 
 CategoryPage.propTypes = {
-  data: PropTypes.object.isRequired
+  data: PropTypes.object.isRequired,
 };
 
 export default CategoryPage;
@@ -98,9 +88,7 @@ export const query = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  fluid(maxWidth: 800, maxHeight: 360) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
+                  gatsbyImageData(layout: FULL_WIDTH)
                 }
               }
             }

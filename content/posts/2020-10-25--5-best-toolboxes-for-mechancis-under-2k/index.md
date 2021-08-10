@@ -1,6 +1,6 @@
 ---
 title: 6 Best Pro Mechanics Tool Chests For Under $2,000
-category: Recommended Products
+category: recommended products
 cover: toolb.JPG
 author: Johnathan Coker
 updated: "Last updated: Dec 11, 2020"

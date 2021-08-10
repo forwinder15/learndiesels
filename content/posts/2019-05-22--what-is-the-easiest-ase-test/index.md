@@ -1,6 +1,6 @@
 ---
 title: What Is the Easiest ASE Test?
-category: Common Questions
+category: common questions
 cover: aseeasy.PNG
 author: Johnathan Coker
 updated: "Last updated: Jun 15, 2021"

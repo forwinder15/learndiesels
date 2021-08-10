@@ -1,6 +1,6 @@
 ---
 title: 4 Reasons Diesels Are Easier To Work On
-category: Common Questions
+category: common questions
 cover: fuelpump.jpeg
 author: Johnathan Coker
 updated: "Last updated: Jan 10, 2021"

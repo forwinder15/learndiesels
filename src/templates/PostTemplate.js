@@ -56,9 +56,7 @@ export const postQuery = graphql`
         category
         cover {
           childImageSharp {
-            resize(width: 1200) {
-              src
-            }
+            gatsbyImageData
           }
         }
       }

@@ -1,6 +1,6 @@
 ---
 title: 8 Facts About Diesel Engine Idle You Need To Know
-category: Diagnosing Problems
+category: diagnosing problems
 cover: crazy1.PNG
 author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"

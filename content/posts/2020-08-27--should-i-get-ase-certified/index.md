@@ -1,11 +1,11 @@
 ---
 title: Do Mechanics Need To Be ASE Certified?
-category: Common Questions
+category: common questions
 cover: ASE_large.png
 author: Johnathan Coker
-updated: 'Last updated: Dec 10, 2020'
-
+updated: "Last updated: Dec 10, 2020"
 ---
+
 ![test](./ASE_large.png)
 
 This is a hotly contested subject among mechanics. I have had this conversation many times with my peers. I know there are other opinions so, take mine as someone who has been on both sides of the argument. Should you get ASE certified to be a diesel mechanic? Or any other mechanic for that matter.

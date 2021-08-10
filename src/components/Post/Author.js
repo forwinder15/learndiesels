@@ -1,64 +1,57 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { StaticImage } from "gatsby-plugin-image";
+import styled from "@emotion/styled";
 
-import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/avatar.jpg";
-
-const Author = props => {
+const Author = (props) => {
   const { note, theme } = props;
+
+  const AuthorStyle = styled.div`
+    margin: ${theme.space.l} 0;
+    padding: ${theme.space.l} 0;
+    border-top: 1px solid ${theme.line.color};
+    border-bottom: 1px solid ${theme.line.color};
+    @media (max-width: tablet) {
+      display: flex;
+    }
+  `;
+  const Note = styled.div`
+    font-size: 0.9em;
+    line-height: 1.6;
+  `;
+  const Avatar = styled.div`
+    float: left;
+    border: 1px solid ${theme.line.color};
+    display: inline-block;
+    height: 100px;
+    margin: 5px 20px 0 0;
+    overflow: hidden;
+    width: 200px;
+    @media (max-width: tablet) {
+      flex: 0 0 auto;
+    }
+  `;
 
   return (
     <React.Fragment>
-      <div className="author">
-        <div className="avatar"> 
-          <img
-            src={config.gravatarImgMd5 == "" ? avatar : config.gravatarImgMd5}
-            alt={config.siteTitle}
+      <AuthorStyle>
+        <Avatar>
+          <StaticImage
+            src="../../images/jpg/avatar.jpg"
+            alt="John Coker"
+            placeholder="blurred"
+            width={400}
           />
-        </div>
-        <div className="note" dangerouslySetInnerHTML={{ __html: note }} />        
-      </div> 
-
-      {/* --- STYLES --- */}
-      <style jsx>{`
-        .author {
-          margin: ${theme.space.l} 0;
-          padding: ${theme.space.l} 0;
-          border-top: 1px solid ${theme.line.color};
-          border-bottom: 1px solid ${theme.line.color};
-        }
-        .avatar {
-          float: left;
-          border: 1px solid ${theme.line.color};
-          display: inline-block;
-          height: 100px;
-          margin: 5px 20px 0 0;
-          overflow: hidden;
-          width: 200px;
-        }
-        .avatar img {
-          width: 100%;
-        }
-        .note {
-          font-size: 0.9em;
-          line-height: 1.6;
-        }
-        @from-width tablet {
-          .author {
-            display: flex;
-          }
-          .avatar {
-            flex: 0 0 auto;
-          }
-        }
-      `}</style>
+        </Avatar>
+        <Note dangerouslySetInnerHTML={{ __html: note }} />
+      </AuthorStyle>
     </React.Fragment>
   );
 };
 
 Author.propTypes = {
   note: PropTypes.string.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
 };
 
 export default Author;
