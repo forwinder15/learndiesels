@@ -70,8 +70,6 @@ One of the biggest benefit of air brakes is they cannot fail. Unlike hydraulic b
 
 If someone cuts your brake lines on your car the brake fluid drains out and you **have no brakes**.
 
-![gif](giphy.gif)
-
 Unlike hydraulic brakes, air brakes when there is a leak the brakes apply. When there is no air the brakes are fully applied. That way there is no chance of a run away heavy vehicle. That is not to say it **can't** happen. It is just unlikely because if a line were to brake and leak all the air our the brakes apply. Not always what you want but, safer than losing all brakes. That is the logic behind this. 🛑 _Stop_ is better than _can't stop_ 🛑
 
 Air brakes are also effective even with a considerable leak, so an air brake system can be designed with sufficient **fail-safe** capacity to stop the vehicle safely even when leaking.
