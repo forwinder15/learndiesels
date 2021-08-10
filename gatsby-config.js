@@ -138,7 +138,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
     `gatsby-plugin-emotion`,
-    `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
     {
@@ -191,10 +190,9 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-gtag`,
       options: {
         trackingId: process.env.GOOGLE_ANALYTICS_ID,
-        enableWebVitalsTracking: true,
       },
     },
     {
