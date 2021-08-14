@@ -18,7 +18,7 @@ In this article, I want to dive into what is happening to cause a diesel engine 
 
 What is diesel engine run away? **Diesel engines run away when the RPMs can no longer be controlled. The engine is receiving “fuel” from somewhere and there is no ability to shut off the supply.**
 
-<iframe src="https://www.youtube.com/embed/R0AVSBw4Qq8" width="600" height="400"></iframe>
+`youtube: https://www.youtube.com/embed/R0AVSBw4Qq8`
 
 ## It packed its bags and ran away 😢
 

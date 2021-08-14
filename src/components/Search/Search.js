@@ -2,12 +2,10 @@ import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 import Hit from './Hit'
 
-const appId = process.env.GATSBY_ALGOLIA_APP_ID;
-const searchKey = process.env.GATSBY_ALGOLIA_SEARCH_ONLY_API_KEY;
-const searchClient = algoliasearch(appId, searchKey);
+const searchClient = algoliasearch('ZPBUD4MZU8', '3b1f3afb40ea9208dadd0891343620b3');
 
 const Search = () => (
-  <InstantSearch searchClient={searchClient} indexName={process.env.GATSBY_ALGOLIA_INDEX_NAME}>
+  <InstantSearch searchClient={searchClient} indexName="CONTENT">
     <SearchBox />
     <Hits hitComponent={Hit}/>
   </InstantSearch>

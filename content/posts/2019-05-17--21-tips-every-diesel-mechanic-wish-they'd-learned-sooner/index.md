@@ -6,13 +6,15 @@ author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"
 ---
 
-<iframe src="https://www.youtube.com/embed/SSrXZD9qYGs" width="600" height="400"></iframe>
+## I wanted to put together a list of help for that struggling mechanic out there
 
-I wanted to put together a list of help for that struggling mechanic out there. Sometimes even after years of turning wrenches, there are tips and tricks that the old man in your shop just never shared.
+Sometimes even after years of turning wrenches, there are tips and tricks that the old man in your shop just never shared.
 
 In my shop, we had a wise old mechanic. We will call him Frank. Frank would wait until you were almost done with a job and walk-up survey your work, clear his throat and say, “that’s not the way I would have done it.” 😆
 
 He was hilarious. But the funny part is he never offered how **he would have done it.** So, with that story in mind, I wanted to compile all the great advice from all the great mechanics I know and share it with you. Maybe you’re asking, how do I become a better diesel mechanic? I think this list will help you get started and keep you away from those rookie mistakes.
+
+`youtube: https://www.youtube.com/embed/SSrXZD9qYGs`
 
 ## 1. Work smarter, not harder
 

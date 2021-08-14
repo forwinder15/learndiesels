@@ -45,7 +45,12 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-plugin-layout`,
       options: {
@@ -94,18 +99,38 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+                {
+                  resolve: `gatsby-remark-embed-video`,
+                  options: {
+                    width: 800,
+                    ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+                    height: 400, // Optional: Overrides optional.ratio
+                    related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+                    noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+                    loadingStrategy: 'lazy', //Optional: Enable support for lazy-load offscreen iframes. Default is disabled.
+                    urlOverrides: [
+                      {
+                        id: `youtube`,
+                        embedURL: videoId =>
+                          `https://www.youtube-nocookie.com/embed/${videoId}`,
+                      },
+                    ], 
+                    iframeId: false, //Optional: if true, iframe's id will be set to what is provided after 'video:' (YouTube IFrame player API requires iframe id)
+                  },
+                },
+
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 2em`,
+            },
+          },
           `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
               backgroundColor: "transparent",
-            },
-          },
-          {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 2em`,
             },
           },
           `gatsby-remark-prismjs`,
@@ -134,12 +159,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
-    `gatsby-plugin-emotion`,
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -193,6 +212,8 @@ module.exports = {
       resolve: `gatsby-plugin-gtag`,
       options: {
         trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        // Puts tracking script in the head instead of the body
+        head: false, 
       },
     },
     {

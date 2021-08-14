@@ -34,7 +34,7 @@ It will still cause a fire and should be stored in a proper container following 
 
 Yes, you can. But you will need the fuel temperature to be above the flashpoint. The fuel will begin to give off flammable diesel fumes. After that, it will ignite with a spark or flame.
 
-<iframe width="560"  height="315"  src="https://www.youtube.com/embed/7soVqyGq4i4"  frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+`youtube: https://www.youtube.com/embed/7soVqyGq4i4`
 
 You can toss a match right into a puddle of diesel fuel, and it'll go out.
 

@@ -154,7 +154,7 @@ class Menu extends React.Component {
             <li className="nav-item">
               <a
               className="youtube"
-                href="https://youtube.com"
+                href="/youtube"
                 activeClassName="active"
               >
                 YouTube
