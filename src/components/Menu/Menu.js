@@ -1,14 +1,8 @@
 import React from "react";
-import PropTypes from "prop-types";
 import "core-js/modules/es.array.from";
-import styled from "@emotion/styled";
 import { Link } from 'gatsby';
 import './style.css';
 
-import { FaHome } from "react-icons/fa/";
-import { FaSearch } from "react-icons/fa/";
-import { FaEnvelope } from "react-icons/fa/";
-import { FaTag } from "react-icons/fa/";
 import { FaBars } from "react-icons/fa/";
 import { FaTimes } from "react-icons/fa/";
 
@@ -73,8 +67,8 @@ class Menu extends React.Component {
 
     if (this.props.screenWidth < 1024) {
       this.renderedItems.map(item => {
-        const oldClass = this.state.open ? "showItem" : "hideItem";
-        const newClass = this.state.open ? "hideItem" : "showItem";
+        const oldClass = this.state.open ? "nav-menu active" : "nav-menu";
+        const newClass = this.state.open ? "nav-menu" : "nav-menu active";
 
         if (item.classList.contains(oldClass)) {
           item.classList.add(newClass);
@@ -93,9 +87,8 @@ class Menu extends React.Component {
       this.setState({ open: false });
       if (this.props.screenWidth < 1024) {
         this.renderedItems.map((item) => {
-          if (item.classList.contains("showItem")) {
-            item.classList.add("hideItem");
-            item.classList.remove("item");
+          if (item.classList.contains("main-container")) {
+            item.classList.remove("main-container");
           }
         });
       }
@@ -113,7 +106,7 @@ class Menu extends React.Component {
       <React.Fragment>
       <div>
      <div className={open ? "main-container" : ""} onClick={this.closeMenu} />
-      <nav className="navbar" onClick={this.closeMenu}>
+      <nav className="navbar" onClick={this.toggleMenu}>
         <div className="nav-container">
           <Link to='/'
           className="nav-logo">
@@ -181,7 +174,7 @@ class Menu extends React.Component {
               </Link>
             </li>
           </ul>
-          <div className="nav-icon" onClick={this.toggleMenu}>
+          <div className="nav-icon" onClick={this.closeMenu}>
            <i>{open ? <FaTimes /> : <FaBars /> }</i> 
           </div>
         </div>

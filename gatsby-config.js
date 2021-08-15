@@ -45,9 +45,9 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
     `gatsby-plugin-preact`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
@@ -103,8 +103,7 @@ module.exports = {
                 {
                   resolve: `gatsby-remark-embed-video`,
                   options: {
-                    width: 800,
-                    ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+                    width: 800, // Optional: Defaults to 16/9 = 1.77
                     height: 400, // Optional: Overrides optional.ratio
                     related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
                     noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
@@ -126,7 +125,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 2em`,
             },
           },
-          `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
             options: {
