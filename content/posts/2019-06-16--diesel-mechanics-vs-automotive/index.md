@@ -44,7 +44,7 @@ Your diesel experience opens you up to many opportunities and will give you a lo
 
 ## 3. Diesel Mechanic have more Job security
 
-Jobs security is important. We all want to have faith that our job is not constantly in jeopardy, and it is expected to be there years from now. If you are banking a career in diesel mechanics, I think you are making a good decision. Even in 2019. There are a couple of reasons I believe this,
+Jobs security is important. We all want to have faith that our job is not constantly in jeopardy, and it is expected to be there years from now. If you are banking a career in diesel mechanics, I think you are making a good decision. Even in 2021. There are a couple of reasons I believe this,
 
 - This may be controversial, but I see the diesel market having longer viability than gas engines in the future. There are lots of reasons for this. Diesels are used in the industrial and heavy-duty markets, something that will stay that way for years to come. While gas engines are having somewhat of a threat from electric vehicles diesels are adapting using natural gas and other alternative fuels.
 - There is also more security with a diesel mechanic position because of the size or type of company you work for. Most diesel jobs are going to be with large companies or municipalities. This work will be done on fleets of things like heavy equipment, fire apparatus, semi-trucks, generators, and others. For this reason, these companies become more stable. These industries are more stable and more reliable. This is not a guarantee, but more likely that your job is safe.

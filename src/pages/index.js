@@ -70,7 +70,7 @@ export const query = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  gatsbyImageData(width: 800, height: 360)
+                  gatsbyImageData(width: 800, height: 360, formats: [AUTO, WEBP, AVIF])
                 }
               }
             }

@@ -22,7 +22,7 @@ So, that is a lot of fuel. When you think about that, over time or in the larger
 
 ## 2. What does it cost for diesel to idle?
 
-**The national average as of today in 2019 is 2.67 per gallon. That means you are spending $2.67 an hour or about 4.5 cents per minute to have your truck or equipment running at an idle.**
+**The national average as of today in 2021 is 3.67 per gallon. That means you are spending $3.67 an hour or about 4.5 cents per minute to have your truck or equipment running at an idle.**
 
 This is why several manufactures have idled an idle time out where the engine will automatically shut down after a preset amount of time set by the owner. This can be useful and should be implemented.
 
