@@ -48,6 +48,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
+    `gatsby-plugin-preact`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
@@ -107,7 +108,7 @@ module.exports = {
                     height: 400, // Optional: Overrides optional.ratio
                     related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
                     noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
-                    loadingStrategy: 'lazy', //Optional: Enable support for lazy-load offscreen iframes. Default is disabled.
+                    loadingStrategy: `lazy`, //Optional: Enable support for lazy-load offscreen iframes. Default is disabled.
                     urlOverrides: [
                       {
                         id: `youtube`,
@@ -130,14 +131,14 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
-              backgroundColor: "transparent",
+              backgroundColor: `transparent`,
             },
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           {
-            resolve: "gatsby-remark-emojis",
+            resolve: `gatsby-remark-emojis`,
             options: {
               // Deactivate the plugin globally (default: true)
               active: true,

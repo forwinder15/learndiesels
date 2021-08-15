@@ -88,7 +88,7 @@ export const query = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  gatsbyImageData(layout: FULL_WIDTH, formats: [AUTO, WEBP, AVIF])
+                  gatsbyImageData(layout: FULL_WIDTH)
                 }
               }
             }
