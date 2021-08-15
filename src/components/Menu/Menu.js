@@ -13,17 +13,11 @@ class Menu extends React.Component {
     super(props);
     this.itemList = React.createRef();
 
-    const pages = props.pages.map((page) => ({
-      to: page.node.fields.slug,
-      label: page.node.frontmatter.menuTitle
-        ? page.node.frontmatter.menuTitle
-        : page.node.frontmatter.title,
-    }));
 
     this.renderedItems = []; // will contain references to rendered DOM elements of menu
   }
 
-  state = {
+  state = {  
     open: false,
     hiddenItems: [],
   };
@@ -84,16 +78,10 @@ class Menu extends React.Component {
     //e.preventDefault();
 
     if (this.state.open) {
-      this.setState({ open: false });
-      if (this.props.screenWidth < 1024) {
-        this.renderedItems.map((item) => {
-          if (item.classList.contains("main-container")) {
             item.classList.remove("main-container");
-          }
-        });
+          
+        };
       }
-    }
-  };
 
 
 
@@ -114,7 +102,7 @@ class Menu extends React.Component {
             <i className="fa fa-code"></i>
           </Link>
 
-          <ul className={open ? "nav-menu active" : "nav-menu"}>
+          <ul className={open ? "nav-menu active" : "nav-menu"} >
             <li className="nav-item">
               <Link
                 to="/"

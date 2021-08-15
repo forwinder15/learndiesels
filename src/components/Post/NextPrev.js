@@ -30,7 +30,7 @@ const NextPrev = (props) => {
       display: inline-block;
       flex-basis: 50%;
     }
-    a:nth-child(2) {
+    a:nth-of-type(2) {
       margin: ${theme.space.default} 0 0;
     }
     svg {
