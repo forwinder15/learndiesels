@@ -90,7 +90,7 @@ This is an awesome ratchet, and you can’t go wrong with it. The only question 
 
 ## 4. Kobalt 737671
 
-![Kobalt](./koba.JPG)
+![Kobalt](./koba.jpg)
 
 Kobalt really makes some great tools. Probably some of my favorite ratchets. They have a great design and easy to hold. Great balance and profile. This one is heavy, and The one knock I have is they don’t seem to last as long for me. I have to get them replaced once every 2 years. Not too shabby considering its full-time use, but others are better.
 
