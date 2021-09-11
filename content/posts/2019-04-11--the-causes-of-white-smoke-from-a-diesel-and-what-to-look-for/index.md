@@ -3,20 +3,20 @@ title: The 3 Causes of White Smoke From A Diesel And What To Do Next
 category: diagnosing problems
 cover: bus.png
 author: Johnathan Coker
-updated: "Last updated: Jun 15, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![unsplash.com](./bus.png)
 
 So, you have some white smoke billowing out of your exhaust. What is the cause? Maybe you are like me and have to look it up every time. No shame here. The answer is quite simple, but the solution might not be. Let's look into this issue and figure out what's going on.
 
 _What causes white smoke from a diesel?_
 
-**There are three main reasons for white smoke from a diesel engine. 1. Raw diesel fuel that passes through the exhaust completely unburned 2. Water/coolant entering the combustion chamber 3. The temperature in the combustion chamber is too low.**
+**There are three causes of white smoke from a diesel engine. The problem is either raw diesel fuel passing through the exhaust completely unburned or water/coolant entering the combustion chamber or the temperature in the combustion chamber is too low.**
 
-`youtube: https://youtube.com/embed/BC9rDgSMUe0`
+![unsplash.com](./bus.png)
 
 Now, let's look at three scenarios. What is wrong really depends on the "type" of white smoke you have. Let's break down the different ways white smoke presents itself and where to go from there. Here is how to read the smoke...
+
+`youtube: https://youtube.com/embed/BC9rDgSMUe0`
 
 ## 1. White smoke on a cold start, and then it disappears as the engine warms up
 
@@ -67,20 +67,20 @@ This is a steady stream of lighter white smoke. It can even be random but often 
 
 White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first, you can get to your answer fairly quickly. As with any repair, be careful to think about what's going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic, but you can likely avoid even more costly repairs if you can catch it early. Looking for a complete diesel smoke guide? If you want to understand more, click [Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue](/diesel-smoke-guide).
 
-## Related Questions
-
-#### Can bad fuel cause white smoke?
-
-Yes. If the fuel is contaminated with water or some other foreign material, it may produce white smoke. The best way to test the fuel is to pull the filter and empty the fuel from it into a clear glass or container. Wait a few minutes and see if there is any separation. The water will rise to the top and bubble up in the diesel.
-
-#### Can air in fuel cause white smoke?
-
-Yes. This is another common cause of white smoke. Check all the lines and injector supply lines to see if there is anything loose. Air can pass through any lost connections. Especially in today's high-pressure systems, you need to make sure that it's all tight and sealed.
-
 ## Want to get your ASE but Hate reading? 📕
 
 You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass, and then cancel before the free trial ends.
 
 Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
+
+## Related Questions
+
+### Can bad fuel cause white smoke?
+
+Yes. If the [fuel is contaminated](/storing-diesel-fuel) with water or some other foreign material, it may produce white smoke. The best way to test the fuel is to pull the filter and empty the fuel from it into a clear glass or container. Wait a few minutes and see if there is any separation. The water will rise to the top and bubble up in the diesel.
+
+### Can air in fuel cause white smoke?
+
+Yes. This is another common cause of white smoke. Check all the lines and injector supply lines to see if there is anything loose. Air can pass through any lost connections. Especially in today's high-pressure systems, you need to make sure that it's all tight and sealed.
 
 ![smoke info](smokeinfo.jpg)

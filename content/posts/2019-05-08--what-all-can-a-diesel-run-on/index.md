@@ -3,12 +3,12 @@ title: What can a diesel engine run on? (Kerosene, Used Oil, Vegetable Oil, Gaso
 category: "common questions"
 cover: de.jpeg
 author: Johnathan Coker
-updated: "Last updated: Jan 03, 2020"
+updated: "Last updated: Jan 03, 2021"
 ---
 
-![unsplash.com](./de.jpeg)
-
 With the unpredictability of the fuel market and the rising cost of diesel people have been experimenting with alternative fuels in diesel engines for many years now. Your diesel is surprisingly versatile. There are several “fuels” it can operate on. **Not all are created equal through!** So, before you drop whatever you are thinking into your tank have a look at this article.
+
+![unsplash.com](./de.jpeg)
 
 ## Can a diesel engine run on gasoline?
 

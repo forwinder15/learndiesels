@@ -3,20 +3,18 @@ title: Complete Diesel Black Smoke Diagnosis Guide
 category: "diagnosing problems"
 cover: bsdmb.jpg
 author: Johnathan Coker
-updated: "Last updated: Jun 15, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![back](back.jpg)
 
 So, you have some black smoke billowing out of your exhaust. Otherwise known as "rolling coal". Nothing more fun to a diesel guy than seeing a Prius with the windows down and blowing a bunch of black smoke that way. Diesels are known for blowing black smoke during acceleration but, is that bad? Is it a sign of trouble? What causes black smoke? Let's answer those questions and more.
 
 _What does Black smoke from a diesel engine mean?_
 
-**Black smoke is partially burned fuel that passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem**
+**Black smoke is partially burned fuel that passes through the combustion chamber. Normally, an engine burns fuel completely and emits water and CO2. Black smoke indicates that something is causing the fuel to only burn partially. It is an air/fuel mixture problem. Common casues include, dirty air cleaner, cool operating temperatures, or over-fueling**
+
+![back](back.jpg)
 
 Whether or not is bad for your engine depends on what the cause of the black smoke is. **A little black smoke is normal on a properly functioning diesel engine**, but if the amount of smoke changes at different RPM and loads you have an issue. Here are the things it could be and then we will go into what to look for and steps to diagnose the problem...
-
-![unsplash.com](./dontmean.jpg)
 
 ## Causes of black smoke (In no particular order)
 
@@ -76,6 +74,8 @@ Check your fuel quality. Bad fuel can cause all sorts of issues. Be careful wher
 **3. Bad tune**
 
 Has your fancy tune betrayed you? You may just need to reset your tune if you are not intending to black out everyone at every stop light. Maybe you lost power and it reverted to an incorrect tune. Worth looking into if you are having issues.
+
+![unsplash.com](./dontmean.jpg)
 
 ## Mechanical Issues (So much for the easy stuff)
 

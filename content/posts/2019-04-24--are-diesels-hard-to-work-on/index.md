@@ -3,14 +3,14 @@ title: 4 Reasons Diesels Are Easier To Work On
 category: common questions
 cover: fuelpump.jpeg
 author: Johnathan Coker
-updated: "Last updated: Jan 10, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![test](./fuelpump.jpeg)
 
 When you look at a diesel engine in a big truck or train, it is easy to think that they would be tough to work on. Just the sheer size of the parts can scare some from even trying to get into the field.
 
-Are diesel engines easier to work on? **Yes, particularly in industrial applications. Components are designed with maintenance in mind. In general, diesel engines are less complicated and require less tooling. Components are usually easier to reach and therefore make replacing parts and regular maintenance simpler.**
+**Diesel engines are easier to work on because components are designed with maintenance in mind. In general, diesel engines are less complicated and require less tooling. Components are usually easier to reach and therefore make replacing parts and regular maintenance simpler.**
+
+![test](./fuelpump.jpeg)
 
 Don't believe me yet? Let's look at the top 4 reasons Diesels are easier to work on.
 
@@ -20,7 +20,7 @@ Ever started working on a car and thought, "why did they put that there?" Have y
 
 ![hood](openhood.jpg)
 
-This is not the case for VWs or European diesel trucks and cars. A lot of the time, they can be even more crammed than a gas car. Sometimes you can really see tight spots around turbos or batteries, but they will be placed in large workable areas for most diesel engines.
+This is not the case for VWs or European diesel trucks and cars. A lot of the time, they can be even more crammed than a gas car. Sometimes you can really see tight spots around [turbos](/do-all-diesels-have-turbos/) or batteries, but they will be placed in large workable areas for most diesel engines.
 
 ## 2. Diesel Engines Are Larger and easier to see
 

@@ -3,16 +3,18 @@ title: Starting Pay For Diesel Techs (And A Look At 5 Opportunities)
 category: "common questions"
 cover: money.jpg
 author: Johnathan Coker
-updated: "Last updated: Jan 10, 2020"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![test](./money.jpg)
 
 So, before you set your course and start working towards being an awesome diesel tech, you might be asking, "What does an entry level diesel mechanic make?" Fair question. Nothing wrong with having a good idea of whether or not you will need to eat roman for the first few years of wrenching.
 
 _What is the starting pay for a diesel mechanic?_
 
-**From 12.00 - 20.00 per hour for an average of 17.54 per hour depending on the company you work for. Benefits are also important to consider. Let's look at 5 well known companies, some other opportunities and how the compare**
+**The average starting pay for a diesel mechanic is 18.54 per hour. These wages vary from 15.00 to 24.13 per hour. Factors suh as company and location will play a role in where you will land.**
+
+Benefits are also important to consider. Let's look at 5 well known companies, some other opportunities and how the compare
+
+![test](./money.jpg)
 
 ## Different Jobs and different expectations
 

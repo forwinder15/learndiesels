@@ -1,16 +1,18 @@
 ---
 title: Diesel Mechanic vs Automotive - 10 Reasons Diesel Is Better
 category: common questions
-cover: dieselvs.PNG
+cover: dieselvs.png
 author: Johnathan Coker
 updated: "Last updated: Jan 10, 2021"
 ---
 
-![unsplash.com](./dieselvs.PNG)
-
 When I first figured out I wanted to be a mechanic, I was fortunate to have a transportation company job. We had our own shop, and I was able to move down as a mechanic trainee. I am so grateful for that opportunity. I had considered several times looking at other options. An important question to ask when you’re still weighing your options between car mechanics and diesel mechanics is, which job is better?
 
-_Diesel mechanic versus Auto mechanic._ **Diesel mechanic is better. With an average of $3.19 more per hour, the job diversity and security, Diesel technology has a better future than gas engines.**
+_Diesel mechanic versus Auto mechanic._
+
+**With an average of $3.19 more per hour, job diversity and security diesel mechanic is better a better career than automotive. With these benefits we can also see from the market that diesel technology has a better future than gas engines.**
+
+![unsplash.com](./dieselvs.png)
 
 I have been a diesel technician since I was 18. So, this article may be a little bias to the career path I would recommend. But I want to clear the air between **car guys** and **diesel guys.** Some of my best friends are auto mechanics.
 

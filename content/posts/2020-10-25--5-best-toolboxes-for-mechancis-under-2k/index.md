@@ -1,12 +1,12 @@
 ---
 title: 6 Best Pro Mechanics Tool Chests For Under $2,000
 category: recommended products
-cover: toolb.JPG
+cover: toolb.jpg
 author: Johnathan Coker
 updated: "Last updated: Dec 11, 2020"
 ---
 
-![toolbox and truck](./toolb.JPG)
+![toolbox and truck](./toolb.jpg)
 
 As a professional mechanic, your box plays an important role in your life. You touch it every day. Is it _really_ just bent metal and slides? It holds your tools, keeps them in order, and keeps them safe. So, in this article, I want to answer "what makes a good toolbox". Then I will give me my list that my friends and I have compiled as the best toolboxes for your hard-earned money.
 

@@ -7,4 +7,4 @@ menuTitle: YouTube
 
 `youtube: https://www.youtube.com/embed/jhj34XwcBSA`
 
-[![tools](tools.PNG)](/the-tool-guide-for-new-diesel-mechanics/)
+[![tools](tools.png)](/the-tool-guide-for-new-diesel-mechanics/)

@@ -1,22 +1,22 @@
 ---
 title: The Tool Guide For Diesel Mechanics
 category: recommended products
-cover: tool.PNG
+cover: tool.png
 author: Johnathan Coker
-updated: "Last updated: Jan 16, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![picture of tools. diesel mechanics tool guide](./tool.PNG)
 
 I have seen many articles with lists out there on the best tools to have as a diesel tech or heavy equipment mechanic. I had a guy on r/dieselmechanic on Reddit asking, "What tools do I need to get started as a diesel mechanic." I wanted to write you guys a list and give you some great resources to get you going in your new job.
 
 What tools do I need to be a heavy equipment or diesel mechanic? **I have surveyed Reddit** [**(here is the post)**](https://www.reddit.com/r/Diesel/comments/kkw3re/new_diesel_the_tool_list/) **and compiled a complete list with 18 categories and those related tools for you to use. Feel free to print this out and use it as a checklist for getting started.**
 
+![picture of tools. diesel mechanics tool guide](./tool.png)
+
 **_This list is not meant to be exhaustive. It is meant to give you a good idea of what you need to get started. You don't have to start with a complete set but, you need the essentials._** Borrowing tools is not a good route to take.
 
 I have listed a few of the tools I recommend in the list they are links to amazon. Scroll past the list to see more about buying tips and the best bang for the buck.
 
-#### Want to print the list? [Click Here to download the PDF](/toolguide)
+### Want to print the list? [Click Here to download the PDF](/toolguide)
 
 ## Here is a complete list of tools for the new diesel mechanic
 

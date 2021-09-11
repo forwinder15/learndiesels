@@ -1,16 +1,16 @@
 ---
 title: Burning Question - Is Diesel Flammable?
 category: common questions
-cover: flames.PNG
+cover: flames.png
 author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"
 ---
 
-![diesel flames](./flames.PNG)
-
 Here is a burning question for you 🔥. Some articles out there got this wrong. So let's set the record straight.
 
 Diesel is flammable, according to the U.S. Department of Labor. See the following standard: [Section 1926.155(h)](https://www.osha.gov/laws-regs/standardinterpretations/2000-06-09-0#:~:text=The%20common%20grades%20of%20diesel,is%20subject%20to%20this%20rule) It defines a flammable liquid as any liquid having a flashpoint below 140°F and having a vapor pressure not exceeding 40 pounds per square inch at 100°F. Diesel fuel's common grades have flash points below 140°F; therefore, diesel fuel is considered flammable liquid and is subject to this rule.
+
+![diesel flames](./flames.png)
 
 **While technically diesel fuel is a flammable liquid, it is not as flammable as some other fuels such as gasoline, propane or ethanol.**
 

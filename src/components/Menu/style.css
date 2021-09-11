@@ -3,16 +3,14 @@
   text-align: center;
   font-size: calc(1.5rem + 2vw);
   margin-top: 10%;
-  
- 
 }
 .youtube {
-    color: #fafafa;
-    text-decoration: none;
+  color: #fafafa;
+  text-decoration: none;
 }
 
 .navbar {
-  background-color: #15171A;
+  background-color: #15171a;
   height: 60px;
   display: flex;
   justify-content: center;
@@ -32,13 +30,13 @@
   max-width: 1500px;
 }
 
-.main-container{
-  position:absolute;
-  top:0;
-  bottom:0;
-  left:0;
-  right:0;
-  background-color:rgba(0,0,0,0.3);
+.main-container {
+  position: absolute;
+  top: 40;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .nav-logo {
@@ -85,12 +83,12 @@
 
 .nav-item:hover:after {
   width: 100%;
-  background: #275DAD;
+  background: #275dad;
 }
 
 .nav-item .active {
-  color: #275DAD;
-  border: 1px solid #275DAD;
+  color: #275dad;
+  border: 1px solid #275dad;
 }
 
 .nav-icon {
@@ -98,7 +96,6 @@
 }
 
 @media screen and (max-width: 960px) {
-  
   .nav-menu {
     display: flex;
     flex-direction: column;
@@ -112,14 +109,14 @@
   }
 
   .nav-menu.active {
-    background: #15171A;
+    background: #15171a;
     left: 0px;
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 1;
   }
   .nav-item .active {
-    color: #275DAD;
+    color: #275dad;
     border: none;
   }
   .nav-links {

@@ -1,16 +1,16 @@
 ---
 title: Diesel Engine Oil Change Intervals
 category: how tos
-cover: IMG_0441.PNG
+cover: IMG_0441.png
 author: Johnathan Coker
 updated: "Last updated: Jul 05, 2021"
 ---
 
-![Oil change](IMG_0441.PNG)
-
 After working for many different companies on diesel engines I have got a good idea of the oil change intervals. This is essential in your maintenance routine. When should you change the oil in a diesel engine?
 
 **As a general rule, you should replace diesel engine oil and filter at 7500 miles, 6 months, or 400 work hours. Depending on the application of use and quality of the oil, you may increase the time between replacements.**
+
+![Oil change](IMG_0441.png)
 
 ## What if I use my diesel differently?
 

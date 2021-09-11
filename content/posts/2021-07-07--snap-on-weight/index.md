@@ -1,16 +1,16 @@
 ---
 title: Snap-on Toolbox Weights With Chart
 category: common questions
-cover: IMG_0447.PNG
+cover: IMG_0447.png
 author: Johnathan Coker
 updated: "Last updated: Jul 07, 2021"
 ---
 
-![snap on](IMG_0447.PNG)
-
 Snap-on makes some great tool boxes and because they are made well they can be very heavy. I personally owned the Classic 96 72" and full of tools that sucker was a beast.
 
 **The average weight of an empty Snap-on toolbox is 876 Pounds. The specific weight depends on the model and series of the toolbox you have. The lightest full size box is 349 pounds and the heaviest is 1,970 pounds.**
+
+![snap on](IMG_0447.png)
 
 Below 👇 is a helpful table for Full Size Roll Cabs. I scoured [Snap-on's website](https://shop.snapon.com/categories/629047)
 to find you all the weights and put them in the chart below. I hope it helps you and provides the info you need.

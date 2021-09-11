@@ -162,7 +162,7 @@ class Menu extends React.Component {
               </Link>
             </li>
           </ul>
-          <div className="nav-icon" onClick={this.closeMenu}>
+          <div className="nav-icon" onClick={this.toggleMenu}>
            <i>{open ? <FaTimes /> : <FaBars /> }</i> 
           </div>
         </div>

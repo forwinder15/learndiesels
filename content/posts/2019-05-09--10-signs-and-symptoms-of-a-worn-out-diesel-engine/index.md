@@ -3,16 +3,14 @@ title: 10 Signs And Symptoms Of A Worn-Out Diesel Engine
 category: diagnosing problems
 cover: re.jpg
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![engine parts](./re.jpg)
 
 Your diesel engine is a workhorse. It will go for a long time given the right maintenance has been done. I have seen motors with **2 million miles!** So, knowing they can last a long time, what are some of the signs and symptoms that your engine is fixing to give up the ghost?
 
 There are several signs and symptoms that your diesel engine is not going to last much longer. I have compiled a list of 10 for you.
 
-_What are signs of a worn diesel engine?_ **1. Starting problems 2. Blue smoke from the exhaust 3. Poor fuel economy 4. Loss of power 5. Increased oil consumption 6. Excessive engine noise 7. Turbocharger system failure 8. excessive blow-by 9. Rough idle 10. Engine Runaway**
+![engine parts](./re.jpg)
 
 Keep in mind that each symptom is evidence of a deeper problem and may not necessarily mean your diesel is done for. **_A complete diagnosis of the problem is needed to make an informed decision about your vehicle._**
 

@@ -6,11 +6,11 @@ author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"
 ---
 
-![unsplash.com](./rich.jpg)
-
 I owe a lot of my hearing loss to loud music, but I will also attribute some to the insanely loud engines I have worked around for years. Today we're going to be talking about a subject that is just deafening 👂 in the diesel community. (Sorry, I am a dad, so it comes naturally.) There are a lot of people who ask, why are diesels so noisy in comparison to gasoline engines. If you are a mechanic, you wonder the same thing when after you shut down the engine your ears ring for the next 5 minutes.
 
 Why are diesel engines so noisy? **Seven reasons diesel engines are loud are: 1. High Compression 2. The Overhead 3. Air Compressor 4. Gear Timing 5. Turbocharger System 6. Diesel Engine Fan 7. Engine brakes.**
+
+![unsplash.com](./rich.jpg)
 
 Let’s look at this list of 7 reasons diesel engines are so dang loud.
 

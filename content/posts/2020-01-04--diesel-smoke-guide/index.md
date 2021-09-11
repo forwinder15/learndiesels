@@ -1,12 +1,12 @@
 ---
 title: Diesel Smoke Diagnosis Guide - White, Grey, Black, Blue
 category: diagnosing problems
-cover: IMG_1482.PNG
+cover: IMG_1482.png
 author: Johnathan Coker
 updated: "Last updated: Dec 20, 2020"
 ---
 
-![smoke](IMG_1482.PNG)
+![smoke](IMG_1482.png)
 
 We are going to cover the main types of diesel smoke and the causes in this article. If you are trying to diagnose an issue take a look at the reference to dash down to your particular problem. below the table of contents you will find a quick reference info-graph, if your looking for a quick answer. If you are here to learn let's get after it.
 
@@ -135,7 +135,7 @@ I would say this is caused by turbocharger Lag. If you have a large turbocharger
 
 ## Blue Smoke <a name="blue"></a>
 
-![unsplash.com](./blue1.PNG)
+![unsplash.com](./blue1.png)
 
 So, you have some blue smoke billowing out of your exhaust. Well, you think it's blue. Does it look like a blue haze? 😕 What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to blue smoke from a diesel.
 
@@ -199,7 +199,7 @@ Blue smoke can be difficult to diagnose but, if you follow the signs and look at
 
 ## White/Grey Smoke <a name="white"></a>
 
-![unsplash.com](./bus2.PNG)
+![unsplash.com](./bus2.png)
 
 So, you have some white smoke billowing out of your exhaust. What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.
 

@@ -1,12 +1,12 @@
 ---
 title: Storing diesel. How long can it last?
 category: common questions
-cover: store.PNG
+cover: store.png
 author: Johnathan Coker
 updated: "Last updated: Jun 11, 2021"
 ---
 
-![diesel storage](./store.PNG)
+![diesel storage](./store.png)
 
 So you've got some fuel you want to hold onto. Or... maybe you've found an old barrel tucked away that Y2K preppers hid. **Diesel fuel DOES have a shelf life.** So, let's answer that question. After that, look for the guide on how to store it properly.
 

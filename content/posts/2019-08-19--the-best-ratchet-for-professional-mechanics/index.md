@@ -1,16 +1,16 @@
 ---
 title: Best 10 Ratchets For Professional Mechanics & Buyers Guide
 category: recommended products
-cover: bestra.PNG
+cover: bestra.png
 author: Johnathan Coker
-updated: "Last updated: Jun 15, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![best ratchet](./bestra.PNG)
 
 Your ratchet is your most used tool as a diesel tech. Really any mechanic. You develop over the years a certain relationship with your ratchet of choice. You will find that using someone else's will not do. You need your favorite. The one that has got you through thick and thin.
 
 > I have **11** 3/8 ratchets and **I use one.** My favorite.
+
+![best ratchet](./bestra.png)
 
 This is why it is important to think about what ratchet is best, and we will take a look together at all your options. This is also why I am not writing the “best ratchet” because ratchets are a personal choice and different for each mechanic.
 

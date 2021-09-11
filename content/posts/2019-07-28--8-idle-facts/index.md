@@ -1,16 +1,16 @@
 ---
 title: 8 Facts About Diesel Engine Idle You Need To Know
 category: diagnosing problems
-cover: crazy1.PNG
+cover: crazy1.png
 author: Johnathan Coker
 updated: "Last updated: Dec 10, 2020"
 ---
 
-![Idle facts](./crazy1.PNG)
-
 There are many scenarios in the diesel world where the engine will need to idle a while. Whether you are doing a monthly inspection on a generator or a trucker waiting for your load, there are a lot of situations where you will be idle.
 
 So, I wanted to write a little about what the consequences of that are, how much it costs, and if there are reasons why you should avoid it.
+
+![Idle facts](./crazy1.png)
 
 ## 1. How much fuel am I wasting
 

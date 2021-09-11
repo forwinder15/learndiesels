@@ -3,16 +3,16 @@ title: 7 Step Guide To Starting A Diesel In Cold Weather
 category: how tos
 cover: snow.jpeg
 author: Johnathan Coker
-updated: "Last updated: Dec 10, 2020"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![test](./snow.jpeg)
 
 Modern Diesel engines have solved a lot of issues over the years. The newest Diesel engines are much better than the older ones but, all diesels do not like cold weather. That's why I have put together this guide for the cold mechanic shivering in his bay right now.
 
 Why are Diesel engines harder to start in cold weather?
 
-**When the internal components of a diesel engine become very cold, cranking the engine is more difficult because diesel engines depend on high temperatures in order to create combustion.**
+**When the internal components of a diesel engine become very cold, cranking the engine is more difficult because diesel engines depend on high temperatures in order to create combustion. This will cause a diesel to run rough until the crankcase reaches a suitable temperature.**
+
+![test](./snow.jpeg)
 
 Now let's look into how to start a diesel in the cold. The following is the best advice I could compile on starting a diesel in cold weather.
 

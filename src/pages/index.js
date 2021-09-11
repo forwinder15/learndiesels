@@ -4,7 +4,6 @@ import { graphql } from "gatsby";
 import { ThemeContext } from "../layouts";
 import Blog from "../components/Blog";
 import Hero from "../components/Hero";
-import Seo from "../components/Seo";
 
 class IndexPage extends React.Component {
   separator = React.createRef();
@@ -70,7 +69,7 @@ export const query = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  gatsbyImageData(width: 800, height: 360)
+                  gatsbyImageData(layout: CONSTRAINED, aspectRatio: 2)
                 }
               }
             }

@@ -55,7 +55,7 @@ const NextPrev = (props) => {
     display: inline-block;
     font-weight: 600;
     margin: 0;
-    font-size: 1.1em;
+    font-size: 1.4em;
     color: ${theme.color.neutral.gray.j};
   `;
   const Time = styled.time`

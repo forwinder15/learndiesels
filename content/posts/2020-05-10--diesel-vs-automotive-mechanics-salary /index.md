@@ -1,12 +1,12 @@
 ---
 title: Diesel/Automotive Techs - Who Makes More Money?
 category: "common questions"
-cover: IMG_2015.PNG
+cover: IMG_2015.png
 author: Johnathan Coker
 updated: "Last updated: Nov 11, 2020"
 ---
 
-![unsplash.com](./IMG_2015.PNG)
+![unsplash.com](./IMG_2015.png)
 
 So you want to know which field makes more money, huh? Well, in my experience, diesel mechanics always make more than automotive guys but don't take my word for it. I can show you the numbers. So before you get all "torqued" up and buy \$10k worth of Snap-On tools to start your new job at the Ford dealership, let me show you what you may not have considered. Grab your pro wrench and come with me.
 

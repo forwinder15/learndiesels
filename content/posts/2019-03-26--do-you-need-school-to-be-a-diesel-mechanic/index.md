@@ -6,13 +6,13 @@ author: Johnathan Coker
 updated: "Last updated: Dec 10, 2019"
 ---
 
-![test](./school.jpeg)
-
 Diesel mechanics are in huge demand. With this demand the wages have been steadily rising. Now is a great time to get into the industry. This article will show you a few paths to becoming a diesel mechanic.
 
 _Do you need school to be a diesel mechanic?_
 
-**You do not need school to be a diesel mechanic. Technical School is helpful and can give you a head start in your career, but most diesel mechanics did not attend a formal tech school. While they are becoming popular, they are not the only way to become a diesel mechanic.**
+**As a general rule, a person doesn't need school to be a diesel mechanic. Technical School is helpful and can give you a head start in your career, but most diesel mechanics did not attend a formal tech school. While they are becoming popular, they are not the only way to become a diesel mechanic.**
+
+![test](./school.jpeg)
 
 ### Let's take a look at the most common ways to become a diesel mechanic
 

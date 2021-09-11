@@ -2,7 +2,6 @@ import { FaTag } from "react-icons/fa/";
 import PropTypes from "prop-types";
 import React from "react";
 import { graphql } from "gatsby";
-import Seo from "../components/Seo";
 import { ThemeContext } from "../layouts";
 import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
@@ -65,6 +64,11 @@ export const categoryQuery = graphql`
           frontmatter {
             title
             category
+            cover {
+            childImageSharp {
+             gatsbyImageData
+            }
+           }
           }
         }
       }

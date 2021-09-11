@@ -1,16 +1,16 @@
 ---
 title: 10 Best 3/8 Socket Sets For Professional Mechanics
 category: recommended products
-cover: cover.PNG
+cover: cover1.png
 author: Johnathan Coker
 updated: "Last updated: Aug 10, 2020"
 ---
 
-![best socket](./cover.PNG)
-
 As a professional mechanic, your sockets are important. You should invest in some good ones. Let's break down what makes a good socket and then look at a couple of good options to add to your toolbox.
 
 I took a poll of 30 mechanics Automotive and Heavy equipment and asked them what the best **Standard 6 point 3/8 socket set** was. I ranked them 1 to 10 based on their answers. While we only listed the 3/8, you can bet if this set is good the 12 points and 1/4 and 1/2 will be the same.
+
+![best socket](./cover1.png)
 
 ## What makes a good socket
 

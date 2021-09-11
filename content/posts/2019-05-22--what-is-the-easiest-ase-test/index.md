@@ -1,16 +1,16 @@
 ---
 title: What Is the Easiest ASE Test?
 category: common questions
-cover: aseeasy.PNG
+cover: aseeasy.png
 author: Johnathan Coker
 updated: "Last updated: Jun 15, 2021"
 ---
 
-![compare ase](./aseeasy.PNG)
-
 This is a great question. Some people would accuse you of being lazy, but the truth is you need to start somewhere, and having a **couple of wins early on** will give you the encouragement you need to keep going and trying until you get that master certification! Even if you work for a place that only pays for a couple, they are great to have and make you more likely to land a better wrenching gig.
 
 What is the easiest ASE test? **According to a survey of over 100 ASE certified mechanics T4/A4: Brakes are the easiest tests to pass. Followed closely by and T7/A7: Heating, Ventilation & Air Conditioning. They have the highest amount of common sense questions compared to the others.**
+
+![compare ase](./aseeasy.png)
 
 ASE tests are no walk in the park overall and you need a good understanding of the ones I have mentioned. So where should you start? I wanted to be sure so I conducted **a survey of 100 ASE master certified Mechanics**, and these tests were the easiest to pass. Let’s have a look at these tests and let me show you why they choose these particular tests.
 

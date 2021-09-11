@@ -1,18 +1,18 @@
 ---
 title: Blue Smoke From A Diesel? Causes And What To Do Next
 category: "diagnosing problems"
-cover: blue1.PNG
+cover: blue1.png
 author: Johnathan Coker
-updated: "Last updated: Jun 15, 2021"
+updated: "Last updated: Sep 10, 2021"
 ---
-
-![unsplash.com](./blue1.PNG)
 
 So, you have some blue smoke billowing out of your exhaust. Well you think it's blue. It looks like a blue haze? 😕 What is the cause? Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to blue smoke from a diesel.
 
 _What causes blue smoke?_
 
-**As a general rule, Blue smoke is excess lubricating oil present within the engine cylinders during combustion. This oil burns and exits through the exhaust as blue smoke.**
+**Blue smoke is excess lubricating oil present within the engine cylinders during combustion. This oil burns and exits through the exhaust as blue smoke. Common causes include too much oil in the crankcase, worn piston rings or a blown turbo.**
+
+![Blue Smoke](./blue1.png)
 
 Your burning oil. That part is simple. Understanding all the different reasons you can have oil in the cylinders is not. Here are the things it could be and what to look for...
 

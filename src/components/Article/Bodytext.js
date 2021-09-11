@@ -33,6 +33,7 @@ const Bodytext = (props) => {
     }
     li {
       margin: 0.7em 0;
+      font-size: 1.2em;
       line-height: 1.5;
     }
     a {
