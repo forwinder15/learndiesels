@@ -69,7 +69,7 @@ Plus the warranty is a breeze. Had a couple of broken impact sockets took no tim
 
 ![gear](./gwsoc.png)
 
-Gear wrench has to be one of the more underrated tool manufacturers. How often are you replacing those ratchet wrenches? Never. I use their ratchets exclusively. check out my [best ratchet for pros blog](/the-best-ratchet-for-professional-mechanics). You will see that video that shows just how strong they are!
+Gear wrench has to be one of the more underrated tool manufacturers. How often are you replacing those [ratchet wrenches](/best-rachet-wrench)? Never. I use their ratchets exclusively. check out my [best ratchet for pros blog](/the-best-ratchet-for-professional-mechanics). You will see that video that shows just how strong they are!
 
 This set of sockets is durable, accurate, and even a bit thinner profile than others. It's a great choice on a budget and not a bad choice overall. As long as you don't abuse them they will last you a very long time.
 
