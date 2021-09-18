@@ -46,6 +46,18 @@ One of the other great benefits of the diesel engine is the diagnostic tools we 
 
 Diagnostic software is a huge part of what a diesel mechanic does these days. It would help if you had a firm grasp on computers and technology, really, no matter what field you enter, especially mechanics. The ease of use with this software can make such a difference in your daily work that it just makes life easier. Cummins Insite is just a pleasure to work with. I have some experience with Ford IDS and others, and it just not the same.
 
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)
+
 ---
 
 ## Summing up

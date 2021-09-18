@@ -60,3 +60,15 @@ This is the weight of the box with nothing in it at all. Easy enough.
 ### 4. Max Loaded Weight
 
 This is the weight of the box plus the highest amount Snap-on recommends it can hold. If Snap-on recommends 3000 lbs and the weight of the box is 500 lbs then the Max Loaded Weight of that box would be 3500 pounds.
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

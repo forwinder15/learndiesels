@@ -271,3 +271,13 @@ Your ratchet is probably the most important tool in your box. You use it so ofte
 I have taken the time to check out 10 different ratchets that I believe are made for pros. Remember, just because I recommend one doesn’t mean it would be perfect for you and your job. It really is a personal experience.
 
 You need to try and see with tools like this. They really are like boots. Lots of boots are great, but I like certain ones. So, take my list as a great starter and find the awesome ratchet that works for you.
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

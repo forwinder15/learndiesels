@@ -201,3 +201,13 @@ This is really up to you and your pocketbook. Willing to pay a bit more? You can
 ## Summing up
 
 I hope this article was helpful and you got one of the sets from this list. I mean really, these are the best. I didn't set out to write the most okay ratchet wrench sets. Look at these and make a decision already. You need them for work. 😆
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

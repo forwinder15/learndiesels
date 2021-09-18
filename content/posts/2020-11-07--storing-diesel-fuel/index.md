@@ -6,13 +6,13 @@ author: Johnathan Coker
 updated: "Last updated: Jun 11, 2021"
 ---
 
-![diesel storage](./store.png)
-
-So you've got some fuel you want to hold onto. Or... maybe you've found an old barrel tucked away that Y2K preppers hid. **Diesel fuel DOES have a shelf life.** So, let's answer that question. After that, look for the guide on how to store it properly.
+So you've got some fuel you want to hold onto. Or... maybe you've found an old barrel tucked away that Y2K preppers stored in 1999. **Diesel fuel DOES have a shelf life.** So, let's answer that question. After that, look for the guide on how to store it properly.
 
 _How long can you store diesel?_
 
 **As a general rule, open diesel fuel can last up to 1 month. If you have stored the diesel in a sealed container indoors or it is in a vehicle tank, it will last 6 months with no treatment. If you have treated the fuel with biocides and stabilizers, it will last 12 months. Longer than 12 months, it will require more maintenance.**
+
+![diesel storage](./store.png)
 
 ## Reasons not to use old diesel fuel
 
@@ -71,3 +71,15 @@ Its also recommended by major diesel engine OEMs - Military Spec MIL-S-53021A. G
 Bad diesel fuel can stink - literally. But it doesn't have to cause damage to your engine. Keep an eye on the fuel in your tanks and the fuel you have lying around. Never use the fuel you are suspicious of. It's not worth it.
 
 ![toolbox and truck](./fuel.jpg)
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

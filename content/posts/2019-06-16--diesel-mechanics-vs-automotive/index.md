@@ -44,6 +44,18 @@ Once you become familiar with the diesel engine, you have many options for where
 
 Your diesel experience opens you up to many opportunities and will give you a long and interesting career.
 
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)
+
 ## 3. Diesel Mechanic have more Job security
 
 Jobs security is important. We all want to have faith that our job is not constantly in jeopardy, and it is expected to be there years from now. If you are banking a career in diesel mechanics, I think you are making a good decision. Even in 2021. There are a couple of reasons I believe this,

@@ -171,3 +171,13 @@ Your tool chest is important. You will notice a huge difference between a cheap 
 Remember just because I recommend a box doesn’t mean it would be perfect for you and your job. It really is a personal experience.
 
 You need to try and see what kind of box you like. They really are like boots. Lots of boots are great but I like certain ones. So, take my list as a great starter and find your awesome box that work for you.
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

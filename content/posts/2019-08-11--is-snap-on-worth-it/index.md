@@ -16,11 +16,17 @@ Are Snap-On tools worth the price? **Not really. But it does depend on the speci
 
 Let’s dive in a little deeper here and talk about it. I want to discuss Price, Quality, Prestige 🙄, Logic, Benefits, and drawbacks. So, hang in there with me, and we will look at it all and make a wise decision.
 
-3 excellent articles on this website if you are in the market for snap-on alternatives.
+A few excellent articles on this website if you are in the market for snap-on alternatives.👇🔧
 
-- [The Tool Guide For Diesel Mechanics](/the-tool-guide-for-new-diesel-mechanics)
-- [Best 10 Ratchets For The Professional Mechanic And Buyers Guide](/the-best-ratchet-for-professional-mechanics)
-- [6 Best Pro Mechanics Tool Chests For Under $2,000](/5-best-toolboxes-for-mechancis-under-2k)
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)
 
 ## Snap-On Price
 

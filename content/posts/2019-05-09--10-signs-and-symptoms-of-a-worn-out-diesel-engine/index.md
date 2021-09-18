@@ -22,7 +22,7 @@ It could be a piston, rings, cylinder wall/liners, or valves. When this is the c
 
 ## 2. Your Diesel Engine Has Blue Smoke from the exhaust
 
-Blue smoke is no good. I wrote a [full article will all the possible problems Here](). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines.
+Blue smoke is no good. I wrote a [full article will all the possible problems Here](/diesel-smoke-guide/). Blue smoke means that your engine is burning oil in some fashion. This is not necessarily from worn components, but this is a major one for older engines.
 
 If you have found that the problem is not in the fuel system an engine component is malfunctioning. As the engine wears, you will see more and more constant blue smoke. Over time, the clearances just can’t be maintained on the cylinder walls and oil stays on the walls of the cylinder and the piston travels back down it leaves oil in the chamber and it gets **burned along with the fuel.**
 

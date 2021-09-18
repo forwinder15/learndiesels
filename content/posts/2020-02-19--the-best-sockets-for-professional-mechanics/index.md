@@ -246,3 +246,13 @@ Your sockets are important tools in your box. You use them so often and your knu
 Remember just because I recommend a set doesn’t mean it would be perfect for you and your job. It really is a personal experience.
 
 You need to try and see with tools like this. They really are like boots. Lots of boots are great but I like certain ones. So, take my list as a great starter and find you're awesome sockets that work for you.
+
+## Want to see articles on the best tools for diesel pros? 👇🔧
+
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
+
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)

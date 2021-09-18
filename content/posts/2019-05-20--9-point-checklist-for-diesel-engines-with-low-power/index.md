@@ -22,6 +22,8 @@ It is a good idea **with any power complaint to go ahead and change the fuel fil
 
 Most diesel engines will have a primary and a secondary filter. I recommend always changing both together. You may be tempted to change just the secondary since it is easier to get to, but it is better to do both, especially when there has been a complaint about power. If that fixes the problem, you should empty the filters and see what was causing the issues. You may need to drain the tank if there is a substantial amount of water or trash in it.
 
+Remember this could be poor fuel quality as well. Important questions to ask are how oul is my diesel? Where did i fuel up? See my article on [how long can diesel last](/storing-diesel-fuel/)
+
 ## 2. Your Diesel Engine Has Check engine light
 
 You might be thinking, well, duh! 🙄 Well, read on before you judge. A check engine light indicates that there is an issue with the systems or sensors on your system. If it is on, start here and see why.
@@ -100,7 +102,7 @@ If your engine is starved for fuel, a couple of other things to check for are
 
 ## 8. Your Diesel Engine Has Malfunctioning Turbo
 
-The turbo can have issues and cause substantial power loss. Regular inspection of the turbine inside is needed. If any trash enters the turbo, the damage can be catastrophic. If the turbine is **chipped or scored,** it will not be as efficient, and a loss of power will occur.
+We know that [all modern diesels have a turbocharger](/do-all-diesels-have-turbos/) and it can have issues and cause substantial power loss. Regular inspection of the turbine inside is needed. If any trash enters the turbo, the damage can be catastrophic. If the turbine is **chipped or scored,** it will not be as efficient, and a loss of power will occur.
 
 With today’s emissions systems, we have turbo actuators and VGT (variable geometry turbocharger). Any issues with these systems can cause low power and perhaps derate. I hope to see a stored engine code with these, but a visual inspection is always recommended.
 
@@ -108,7 +110,7 @@ Several diagnostic tests can be run on the turbo and actuator. If you at all sus
 
 ## 9. Your Diesel Engine Has Internal engine problems
 
-The last place I want the problem to happen would be in the internal engine. Problems can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover.
+The last place I want the problem to happen would be in the internal engine. Problems can be difficult and expensive to fix, but several things can happen to cause low power inside the valve cover. See my article about the [10 signs and symptoms of a worn out diesel engine](/10-signs-and-symptoms-of-a-worn-out-diesel-engine/)
 
 - Broken rocker
 - Poorly adjusted valves or injectors

@@ -14,7 +14,7 @@ So, I wanted to write a little about what the consequences of that are, how much
 
 ## 1. How much fuel am I wasting
 
-Do diesel engines use a lot of fuel when idling? **No. they only use about a gallon an hour.**
+Do diesel engines use a lot of fuel when idling? **On average, Diesel engines use about one gallon an hour. This amount can vary depending on application.**
 
 How much fuel does a diesel use at idle? **One hour of idle time consumes around one gallon of diesel fuel. This can be calculated into 2.4 oz a minute.**
 
@@ -30,9 +30,9 @@ There really is no need for a truck to idle for long periods of time anymore. Al
 
 ## 3. Idling harms your engine
 
-Does idling hurt a diesel engine? **Yes. When a diesel engine idles, it does more damage to the engine than normal operation. Operating a diesel engine at a low speed will cause two times the** **wear on the internal components compared to operating at normal load. This will raise maintenance costs and shorten engine life.**
+Does idling hurt a diesel engine? **When a diesel engine idles it does more damage to the engine than normal operation. Operating a diesel engine at a low speed will cause two times the** **wear on the internal components compared to operating at normal load. This will raise maintenance costs and shorten engine life.**
 
-This fact really blows my mind. I can’t believe it really causes **2 times** the [wear on your engine](/10-signs-and-symptoms-of-a-worn-out-diesel-engine) to idle it. That is really crazy when you think about the amount of idling that goes on in diesel applications.
+This fact really blows my mind. I can’t believe it really causes **2 times** the wear on your engine to idle it. That is really crazy when you think about the amount of idling that goes on in diesel applications. Do you think your diesel is wore out? See my Article on the [10 signs and symptoms of a worn out diesel](/10-signs-and-symptoms-of-a-worn-out-diesel-engine)
 
 This is why manufacturers usually classify applications with high idle times as **_severe duty_** and recommend a more aggressive maintenance schedule.
 
@@ -95,6 +95,12 @@ Some manufactures will log the idle time for you if not you can always keep a pa
 
 ###
 
+## Want to get your ASE but Hate reading? 📕
+
+You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass, and then cancel before the free trial ends.
+
+Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
+
 **An APU can save your engine**
 
 An APU is an auxiliary power unit. This is used mostly for semi-trucks. For drivers who either sleep in their truck or idle for very long periods. With an APU, you can avoid all that engine killing idle time.
@@ -109,8 +115,14 @@ This is a high cost, but replacing your engine prematurely can be much worse.
 
 Next time you are sitting longer than just a few minutes, remember this list and the high price to pay for that little bit of AC time in the cab. Is it really worth it? Idle time is the enemy of diesel engines, and avoiding it can add years of life to your engine.
 
-## Want to get your ASE but Hate reading? 📕
+## Want to see articles on the best tools for diesel pros? 👇🔧
 
-You can actually listen to the study guides now with [Audible](https://amzn.to/2K3v96s) Click [Here](https://amzn.to/2K3v96s) to listen to the study guide for free! Courtesy of Amazon. You can literally sign up, study, pass, and then cancel before the free trial ends.
+[See the best ratchets for professional mechanics](/the-best-ratchet-for-professional-mechanics/)
 
-Here is a link to the [ASE Audio Study Guide Audible Audible Audiobook](https://amzn.to/32EcKDy) if you already have an Audible account.
+[How about the best ratchet wrenches for a pro](/best-rachet-wrench/)
+
+[The best sockets for a pro](/the-best-sockets-for-professional-mechanics/)
+
+[Best Tool chests online for a pro](/5-best-toolboxes-for-mechancis-under-2k/)
+
+Just getting into being a diesel tech? [See my complete tool guide](/the-tool-guide-for-new-diesel-mechanics/)
