@@ -6,7 +6,7 @@ author: Johnathan Coker
 updated: "Last updated: Aug 10, 2021"
 ---
 
-So, you are looking at jobs. You see a company that says it pays flat rate to its mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Let's dive into that.
+So, you are looking at jobs. You see a company that says it pays flat rate to its mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Let's dive into that. I took a survey of 50 diesel mechanics. The information in this article is based from those findings.
 
 Do diesel mechanics make flat rate?
 

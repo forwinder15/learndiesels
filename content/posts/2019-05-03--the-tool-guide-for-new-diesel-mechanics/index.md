@@ -1,5 +1,5 @@
 ---
-title: The Tool Guide For Diesel Mechanics
+title: Best Tool Guide For Diesel Mechanics
 category: recommended products
 cover: tool.png
 author: Johnathan Coker
