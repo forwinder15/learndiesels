@@ -39,7 +39,7 @@ const Author = (props) => {
           <StaticImage
             src="../../images/jpg/avatar.jpg"
             alt="John Coker"
-            placeholder="blurred"
+            placeholder="tracedSVG"
             width={400}
           />
         </Avatar>

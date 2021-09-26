@@ -88,7 +88,7 @@ export const query = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  gatsbyImageData(layout: FULL_WIDTH, aspectRatio: 2)
+                  gatsbyImageData(layout: FULL_WIDTH, aspectRatio: 2, placeholder: TRACED_SVG )
                 }
               }
             }

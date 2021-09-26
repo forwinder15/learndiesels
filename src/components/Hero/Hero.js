@@ -108,7 +108,7 @@ const Hero = (props) => {
           }}
           layout="fullWidth"
           alt="hero image"
-          placeholder="blurred"
+          placeholder="tracedSVG"
           src="../../images/png/hero-background.png"
           formats={["auto", "webp", "avif"]}
         />
