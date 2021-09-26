@@ -38,6 +38,11 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
+  createRedirect({
+    fromPath: `/diesel-vs-automotive-mechanics-salary%20/`,
+    toPath: `/diesel-vs-automotive-mechanics-salary/`,
+  });
+
   return new Promise((resolve, reject) => {
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
