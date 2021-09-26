@@ -128,8 +128,9 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
-              tracedSVG: true,
               backgroundColor: `transparent`,
+              withWebp: `true`,
+              withAvif: `true`,
             },
           },
           `gatsby-remark-prismjs`,

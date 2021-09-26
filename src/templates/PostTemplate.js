@@ -56,7 +56,7 @@ export const postQuery = graphql`
         category
         cover {
           childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED)
+            gatsbyImageData(layout: CONSTRAINED, placeholder: TRACED_SVG)
           }
         }
       }
