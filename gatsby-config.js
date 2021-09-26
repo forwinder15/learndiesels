@@ -130,6 +130,7 @@ module.exports = {
               maxWidth: 800,
               backgroundColor: `transparent`,
               withWebp: `true`,
+              loading: `lazy`,
             },
           },
           `gatsby-remark-prismjs`,
