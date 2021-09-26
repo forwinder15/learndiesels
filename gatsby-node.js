@@ -38,11 +38,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  createRedirect({
-    fromPath: `/diesel-vs-automotive-mechanics-salary%20/`,
-    toPath: `/diesel-vs-automotive-mechanics-salary/`,
-  });
-
   return new Promise((resolve, reject) => {
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
@@ -155,6 +150,22 @@ exports.createPages = ({ graphql, actions }) => {
     );
   });
 };
+
+exports.createPages = async ({ graphql, actions }) => {
+	const { createRedirect } = actions;
+	
+  createRedirect({
+    fromPath: `/diesel-vs-automotive-mechanics-salary%20/`,
+    toPath: `/diesel-vs-automotive-mechanics-salary/`,
+  });
+
+	// All your other redirects
+	
+}
+
+
+
+
 
 exports.onCreateWebpackConfig = ({ stage, actions }, options) => {
   switch (stage) {
